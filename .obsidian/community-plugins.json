@@ -3,5 +3,6 @@
   "obsidian-tasks-plugin",
   "pdf-plus",
   "obsidian-git",
-  "image-converter"
+  "oz-image-plugin",
+  "tasks-packrat-plugin"
 ]

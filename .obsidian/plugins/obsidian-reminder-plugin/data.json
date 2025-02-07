@@ -1,19 +1,34 @@
 {
   "scanned": true,
-  "reminders": {},
+  "reminders": {
+    "Exam/Math/Trignometry.md": [
+      {
+        "title": "",
+        "time": "2025-02-09",
+        "rowNumber": 7
+      }
+    ],
+    "Test/Tirant.md": [
+      {
+        "title": "",
+        "time": "2025-02-08",
+        "rowNumber": 8
+      }
+    ]
+  },
   "debug": false,
   "settings": {
-    "reminderTime": "09:00",
+    "reminderTime": "7:00",
     "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
-    "useSystemNotification": false,
+    "useSystemNotification": true,
     "autoCompleteTrigger": "(@",
-    "primaryReminderFormat": "ReminderPluginReminderFormat",
-    "enableReminderPluginReminderFormat": true,
+    "primaryReminderFormat": "TasksPluginReminderFormat",
+    "enableReminderPluginReminderFormat": false,
     "dateFormat": "YYYY-MM-DD",
     "dateTimeFormat": "YYYY-MM-DD HH:mm",
     "strictDateFormat": false,
     "linkDatesToDailyNotes": false,
-    "enableTasksPluginReminderFormat": false,
+    "enableTasksPluginReminderFormat": true,
     "useCustomEmojiForTasksPlugin": false,
     "removeTagsForTasksPlugin": false,
     "enableKanbanPluginReminderFormat": false,
