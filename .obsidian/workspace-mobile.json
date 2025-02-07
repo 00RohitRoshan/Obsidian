@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam/English/Day 1.md",
+                "file": "Test/Tirant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day 1"
+              "title": "Tirant"
             }
           }
         ],
@@ -214,7 +214,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,16 +227,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5edc6a83ab7cf970",
+  "active": "e2919816beb265c0",
   "lastOpenFiles": [
+    "Exam/Reasoning/Day 1.md",
+    "README.md",
     "Exam/Math/Trignometry.md",
     "Exam/English/Day 1.md",
+    "Exam/GS/Day 1.md",
     "Exam/GS",
     "Exam",
     "Exam/Reasoning",
     "Exam/English",
     "Pdf",
-    "README.md",
     "Test/Tirant.md",
     "Images/20250204_183239.jpg",
     "Images",
