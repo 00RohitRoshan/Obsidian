@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"5deeed8b88c8c3e4","x":62,"y":57,"width":250,"height":60,"type":"text","text":"Jskaownnw"},
+		{"id":"1f1e41e9f75ac2ee","x":340,"y":57,"width":400,"height":400,"type":"file","file":"Tasks.md"}
+	],
+	"edges":[
+		{"id":"adc6d0727e70f667","fromNode":"5deeed8b88c8c3e4","fromSide":"right","toNode":"1f1e41e9f75ac2ee","toSide":"top"}
+	]
+}

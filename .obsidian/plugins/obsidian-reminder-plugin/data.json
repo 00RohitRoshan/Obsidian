@@ -1,17 +1,29 @@
 {
   "scanned": true,
   "reminders": {
-    "Exam/Math/Trignometry.md": [
+    "Test/Tirant.md": [
       {
-        "title": "",
+        "title": "%%done_del%%",
+        "time": "2025-02-09",
+        "rowNumber": 8
+      },
+      {
+        "title": "%%done_del%%",
+        "time": "2025-03-15",
+        "rowNumber": 12
+      }
+    ],
+    "Exam/Reasoning/Day 1.md": [
+      {
+        "title": "%%done_del%%",
         "time": "2025-02-09",
         "rowNumber": 7
       }
     ],
-    "Test/Tirant.md": [
+    "Exam/Math/Trignometry.md": [
       {
-        "title": "",
-        "time": "2025-02-08",
+        "title": "%%done_del%%",
+        "time": "2025-02-09",
         "rowNumber": 8
       }
     ]

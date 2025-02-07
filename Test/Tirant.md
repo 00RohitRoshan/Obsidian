@@ -6,4 +6,8 @@ repeats: Every 1 Day
 Na Na
 
 ---
-- [ ]  📅 2025-02-08 🔁 every day %%done_del%%
+- [ ] %%done_del%% 🔁 every day 📅 2025-02-09
+- [x] %%done_del%% 🔁 every day 📅 2025-02-08 ✅ 2025-02-07
+- [x] %%done_del%% 🔁 every day 📅 2025-02-07 ✅ 2025-02-07
+- [x] %%done_del%% 🔁 every day 📅 2025-02-06 ✅ 2025-02-07
+- [ ] %%done_del%% 🔁 every day 📅 2025-03-15
