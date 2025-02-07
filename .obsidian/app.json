@@ -23,5 +23,5 @@
     "obsidian-reminder-plugin:show-date-chooser",
     "obsidian-reminder-plugin:toggle-checklist-status"
   ],
-  "livePreview": false
+  "livePreview": true
 }

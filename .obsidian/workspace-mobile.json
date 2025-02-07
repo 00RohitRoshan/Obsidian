@@ -15,7 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "README"
@@ -29,7 +29,7 @@
               "state": {
                 "file": "Tirant.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Tirant"
@@ -113,7 +113,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Gkk/Trignometry.md",
+            "file": "Tirant.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Trignometry.md",
+            "file": "Tirant.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -146,7 +146,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Trignometry.md",
+            "file": "Tirant.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -161,8 +161,8 @@
         "state": {
           "type": "reminder-list",
           "state": {},
-          "icon": "lucide-file",
-          "title": "Plugin no longer active"
+          "icon": "clock",
+          "title": "Reminders"
         }
       },
       {
@@ -186,7 +186,7 @@
         }
       }
     ],
-    "currentTab": 5
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -201,6 +201,7 @@
   },
   "active": "2353068022df7306",
   "lastOpenFiles": [
+    "20250204_183239.jpg",
     "README.md",
     "Tirant.md",
     "/README.md",
