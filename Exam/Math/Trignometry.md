@@ -15,6 +15,8 @@ Hurray 🍾
 }
 ```
 
+###### If $A+B = 90^\circ$
+Sin(A+B)
 
 ---
 - [ ] %%done_del%% 🔁 every week 📅 2025-02-09

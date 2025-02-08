@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
-                "mode": "preview",
+                "file": "Exam/Math/Trignometry.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Trignometry"
             }
           }
         ]
@@ -191,17 +191,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "e2919816beb265c0",
   "lastOpenFiles": [
+    "Tasks.md",
     "README.md",
     "Exam/Math/Trignometry.md",
     "Pdf/Rural sociology.pdf",
     "AIASA FORMAT.docx",
     "Ink/Drawing/2025.2.8 - 8.39am.drawing",
-    "Tasks.md",
     "archive.md",
     "Exam/GS/Day 1.md",
     "Test/Tirant.md",
