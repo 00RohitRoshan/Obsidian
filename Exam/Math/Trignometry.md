@@ -16,7 +16,7 @@ Hurray 🍾
 ```
 
 ###### If $A+B = 90^\circ$
-Sin(A+B)
+Sin(A) = Cos(B)
 
 ---
 - [ ] %%done_del%% 🔁 every week 📅 2025-02-09
