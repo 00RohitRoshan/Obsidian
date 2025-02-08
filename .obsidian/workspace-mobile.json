@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Tasks.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Tasks"
             }
           }
         ]
@@ -196,8 +196,8 @@
   },
   "active": "e2919816beb265c0",
   "lastOpenFiles": [
-    "Exam/Math/Trignometry.md",
     "README.md",
+    "Exam/Math/Trignometry.md",
     "Pdf/Rural sociology.pdf",
     "AIASA FORMAT.docx",
     "Ink/Drawing/2025.2.8 - 8.39am.drawing",
