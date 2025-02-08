@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Exam/Math/Trignometry.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -181,7 +181,7 @@
         }
       }
     ],
-    "currentTab": 4
+    "currentTab": 5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,9 +197,12 @@
   },
   "active": "e2919816beb265c0",
   "lastOpenFiles": [
+    "Images/20250208_183444.jpg",
+    "Exam/Math/Trignometry.md",
+    "Images/20250208_183457.jpg",
+    "Images/20250208_183430.jpg",
     "Tasks.md",
     "README.md",
-    "Exam/Math/Trignometry.md",
     "Pdf/Rural sociology.pdf",
     "AIASA FORMAT.docx",
     "Ink/Drawing/2025.2.8 - 8.39am.drawing",
