@@ -14,5 +14,6 @@
     "editor:configure-toolbar",
     "command-palette:open"
   ],
-  "livePreview": true
+  "livePreview": true,
+  "defaultViewMode": "preview"
 }
