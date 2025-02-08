@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "README.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "README"
             }
           }
         ]
@@ -181,7 +181,7 @@
         }
       }
     ],
-    "currentTab": 5
+    "currentTab": 4
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,14 +196,14 @@
   },
   "active": "e2919816beb265c0",
   "lastOpenFiles": [
+    "Tasks.md",
+    "README.md",
+    "archive.md",
     "Exam/GS/Day 1.md",
     "Test/Tirant.md",
-    "Tasks.md",
     "Exam/Math/Trignometry.md",
     "Exam/Reasoning/Day 1.md",
     "Images/20250204_183239.jpg",
-    "README.md",
-    "archive.md",
     "Untitled.canvas",
     "2025-02-07.md",
     "Exam/English/Day 1.md",
