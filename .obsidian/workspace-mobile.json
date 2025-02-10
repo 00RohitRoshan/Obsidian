@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam/Math/Trignometry.md",
+                "file": "Exam/GS/Day 1.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trignometry"
+              "title": "Day 1"
             }
           }
         ]
@@ -197,8 +197,8 @@
   },
   "active": "e2919816beb265c0",
   "lastOpenFiles": [
-    "Images/20250208_183444.jpg",
     "Exam/Math/Trignometry.md",
+    "Images/20250208_183444.jpg",
     "Images/20250208_183457.jpg",
     "Images/20250208_183430.jpg",
     "Tasks.md",
