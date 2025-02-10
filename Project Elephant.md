@@ -1,14 +1,13 @@
 ---
-remind at: 2025-02-17T16:50:00
+remind at: 2025-02-17T09:04:00
 repeats: Every 1 Week
 ---
 ---
-
+1992-92
+In 16 states
 
 ---
 Next Search
-[[Project Elephant]]
-
 
 ---
 ---

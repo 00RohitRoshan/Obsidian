@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam/GS/Project Tiger.md",
+                "file": "Project Elephant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Tiger"
+              "title": "Project Elephant"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "e2919816beb265c0",
   "lastOpenFiles": [
-    "Exam/Reasoning/Day 1.md",
     "Exam/GS/Project Tiger.md",
+    "Project Elephant.md",
+    "Exam/Reasoning/Day 1.md",
     "Exam/Math/Trignometry.md",
     "Images/20250208_183444.jpg",
     "Images/20250208_183457.jpg",
