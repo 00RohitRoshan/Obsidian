@@ -11,6 +11,7 @@ First Indian artist to ever perform live at London's Royal Albert Hall. It was h
 1999 Padma Vibhusan (2nd highest)
 2022 Feb Passed 
 National Lata Mangeshkar Award (by M.P.)
+Lata Deenanath Mangeshkar Award
 
 ---
 Next Search
