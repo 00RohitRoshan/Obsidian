@@ -9,6 +9,8 @@ repeats: Every 1 Week
 - 2014 RBI ==recognised== MFIN as India's 1st SRO for the Non Banking Fianancial Company-Micro Finance Institutions (NBFC-MFIs)
 - Lack of Physical collateral, Peer Monitoring, Focus on women borrowers
 - Karnataka leads in the distribution of Loans by MFIs
+- Credit, Savings, Insurance, Fund transfer facilities
+- RBI is the Regulatory Authority of Microfinance in India
 
 ---
 Next Search
