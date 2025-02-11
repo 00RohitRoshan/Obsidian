@@ -13,6 +13,7 @@ repeats: Every 1 Week
 - RBI is the Regulatory Authority of Microfinance in India
 - Asirbad Microfinace LImited extensive branches through 22 states
 - 1.25 Lakh Upper limit for rural microfinance borrower
+- there are a lot mixed with Microfinance
 
 ---
 Next Search
