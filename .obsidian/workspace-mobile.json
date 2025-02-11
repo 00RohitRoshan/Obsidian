@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sudarshana lake.md",
-                "mode": "source",
+                "file": "Tasks.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sudarshana lake"
+              "title": "Tasks"
             }
           }
         ],
@@ -212,9 +212,9 @@
   },
   "active": "09c3b3a6389e623d",
   "lastOpenFiles": [
-    "Exam/GS/Lata Mangeshkar.md",
-    "Sudarshana lake.md",
+    "Exam/GS/Sudarshana lake.md",
     "Exam/GS/Project Tiger.md",
+    "Exam/GS/Lata Mangeshkar.md",
     "Tasks.md",
     "Exam/GS/Lathmar Holi.md",
     "Hi.md",
