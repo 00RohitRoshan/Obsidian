@@ -33,6 +33,9 @@ Asha Bhosale
 Mohammad Rafi
 Kishore Kumar
 Gan samragni lata Mangeshkar award
+Sarojini naidu
+Florence nightingale 
+
 
 ---
 ---
