@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam/GS/Writ  Jurisdiction.md",
-                "mode": "source",
+                "file": "Tasks.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Writ  Jurisdiction"
+              "title": "Tasks"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exam/GS/Writ  Jurisdiction.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Writ  Jurisdiction"
+              "title": "Backlinks for Tasks"
             }
           },
           {
@@ -182,8 +182,8 @@
   },
   "active": "d9edd6d7ad94a799",
   "lastOpenFiles": [
-    "Exam/GS/Article 32.md",
     "Exam/GS/Writ  Jurisdiction.md",
+    "Exam/GS/Article 32.md",
     "Exam/GS/Microfinance Institutions Network.md",
     "Exam/GS/Sudarshana lake.md",
     "Exam/GS/Project Tiger.md",
