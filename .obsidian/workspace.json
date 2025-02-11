@@ -11,26 +11,14 @@
             "id": "edbda7e632005c55",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Exam/GS/Sudarshana lake.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "ba9b64b185fe558a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f1ac484413418516",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Sudarshana lake"
             }
           }
         ]
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Exam/GS/Sudarshana lake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Sudarshana lake"
             }
           },
           {
@@ -192,8 +180,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "233992a2198bb18e",
+  "active": "edbda7e632005c55",
   "lastOpenFiles": [
+    "(All Shift).pdf",
+    "SSC CGL Tier 1 Question Paper 2024 PDF in English (All Shift).pdf.crdownload",
+    "Exam/GS/Project Elephant.md",
+    "Exam/GS/Lata Mangeshkar.md",
+    "Exam/GS/Sudarshana lake.md",
+    "Welcome.md",
     "Tasks.md",
     "README.md",
     "archive.md",
@@ -212,14 +206,9 @@
     "Images/20250204_183239.jpg",
     "Images",
     "Exam/Reasoning/Day 1.md",
-    "Exam/Reasoning",
     "Exam/Math/Trignometry.md",
-    "Exam/GS/Sudarshana lake.md",
-    "Exam/GS/Project Elephant.md",
     "Exam/GS/Project Tiger.md",
     "Exam/GS/Lathmar Holi.md",
-    "Exam/GS/Lata Mangeshkar.md",
-    "Exam/English/Day 1.md",
-    "Welcome.md"
+    "Exam/English/Day 1.md"
   ]
 }
