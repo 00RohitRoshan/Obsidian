@@ -11,6 +11,7 @@ First Indian artist to ever perform live at London's Royal Albert Hall. It was h
 1999 Padma Vibhusan (2nd highest)
 2022 Feb Passed 
 National Lata Mangeshkar Award (by M.P.)
+2007 Officer of the Legion of Honor (Highest civilian,  France)
 
 ---
 Next Search
@@ -18,13 +19,16 @@ Zarin s sharma
 Shubha Mudgal
 Anuradha Paudwal
 Bhimsen Joshi
-MS subbulakshmi
+Madurai Sanmukhavadivu subbulakshmi
 Indira Gandhi 
 Kishore Kumar Award 
 Kalidas Samman
 Rani Laxmibai Award 
 [Padma Awards 2025](https://testbook.com/static-gk/padma-awards)
 Lata Deenanath Mangeshkar Award
+Ravi Shankar
+Zakir Husain 
+A.R. Rahman
 
 
 ---
