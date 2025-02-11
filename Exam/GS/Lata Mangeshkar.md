@@ -1,5 +1,6 @@
 ---
 remind at: 2025-02-18T07:27:00
+repeats: Every 1 Week
 ---
 ---
 Indore, Sep 28

@@ -1,5 +1,6 @@
 ---
 remind at: 2025-02-18T07:38:00
+repeats: Every 1 Week
 ---
 ---
 
