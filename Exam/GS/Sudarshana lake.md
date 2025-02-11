@@ -13,6 +13,8 @@ Oldest man-made lake in India.
 Next Search
 Suyya
 Satavahanas
+Firoz Shah tghlaq
+Western Yamuna Canal
 
 ---
 ---
