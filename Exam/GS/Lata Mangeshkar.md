@@ -38,7 +38,8 @@ Sarojini naidu
 Florence nightingale
 Ustad bade ghulam ali lhan
 Narasinh Mehta 
-
+Vijaya Lakshmi Pandit 
+Pradeep
 
 ---
 ---
