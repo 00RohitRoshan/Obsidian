@@ -29,7 +29,9 @@ Lata Deenanath Mangeshkar Award
 Ravi Shankar
 Zakir Husain 
 A.R. Rahman
-
+Asha Bhosale
+Mohammad Rafi
+Kishore Kumar
 
 ---
 ---
