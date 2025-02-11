@@ -35,7 +35,9 @@ Mohammad Rafi
 Kishore Kumar
 Gan samragni lata Mangeshkar award
 Sarojini naidu
-Florence nightingale 
+Florence nightingale
+Ustad bade ghulam ali lhan
+Narasinh Mehta 
 
 
 ---
