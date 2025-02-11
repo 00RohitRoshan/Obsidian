@@ -7,6 +7,7 @@ First Indian artist to ever perform live at London's Royal Albert Hall. It was h
 `Melody Queen`. 
 1st song at the age of 13 for marathi film ===Kiti hasaal===
 `Nightingale of Bollywood` 
+1999 Padma Vibhusan 
 2001 Bharata Ratna (Arts)
 1999 Padma Vibhusan (2nd highest)
 2022 Feb Passed 
