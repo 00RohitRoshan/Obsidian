@@ -4,7 +4,7 @@ repeats: Every 1 Week
 ---
 ---
 Pushyagupta governer of Chandragupta Maurya , kathiawar , Middle of girinar hill, Gujrat.
-Suvisakha governer of Rudradaman I revuilt in 2nd century, Junagarh inscriptions , without forced labor.
+Suvisakha governer of Rudradaman I (shaka ruler) rebuilt in 2nd century, Junagarh inscriptions , without forced labor.
 Tushaspa governer of Ashoka Rebuilt.
 Oldest man-made lake in India.
 
@@ -15,6 +15,9 @@ Suyya
 Satavahanas
 Firoz Shah tghlaq
 Western Yamuna Canal
+Gandhar Art
+Milinapanho
+Taxila Inscriptions 
 
 ---
 ---
