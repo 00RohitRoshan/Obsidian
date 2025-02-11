@@ -4,6 +4,8 @@ repeats: Every 1 Week
 ---
 ---
 Established : 2009
+Industry association and self-regulatory organisation (SRO).
+Robust development of the microfinance sector.
 
 ---
 Next Search
