@@ -6,7 +6,8 @@ repeats: Every 1 Week
 - Established : 2009
 - Industry association and self-regulatory organisation (SRO).
 - Robust development of the microfinance sector.
-- 2014 RBI recognised MFIN as India's 1st SRO for the Non Banking Fianancial Company-Micro Finance Institutions (NBFC-MFIs)
+- 2014 RBI ==recognised== MFIN as India's 1st SRO for the Non Banking Fianancial Company-Micro Finance Institutions (NBFC-MFIs)
+- Lack of Physical collateral, Peer Monitoring, Focus on women borrowers
 
 ---
 Next Search
