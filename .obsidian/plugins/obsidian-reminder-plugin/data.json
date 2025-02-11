@@ -4,13 +4,13 @@
     "Test/Tirant.md": [
       {
         "title": "%%done_del%%",
-        "time": "2025-02-11",
+        "time": "2025-02-12",
         "rowNumber": 10
       },
       {
         "title": "%%done_del%%",
         "time": "2025-03-15",
-        "rowNumber": 15
+        "rowNumber": 16
       }
     ],
     "Exam/Reasoning/Day 1.md": [
@@ -41,11 +41,18 @@
         "rowNumber": 19
       }
     ],
-    "Lathmar Holi.md": [
+    "Exam/GS/Lathmar Holi.md": [
       {
         "title": "%%done_del%%",
         "time": "2025-02-17",
         "rowNumber": 13
+      }
+    ],
+    "Lata Mangeshkar.md": [
+      {
+        "title": "%%done_del%%",
+        "time": "2025-02-18",
+        "rowNumber": 11
       }
     ]
   },
