@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam/GS/Microfinance Institutions Network.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Microfinance Institutions Network"
+              "title": "Tasks"
             }
           }
         ]
@@ -197,6 +197,7 @@
   },
   "active": "0398074efc6f7895",
   "lastOpenFiles": [
+    "Exam/GS/Microfinance Institutions Network.md",
     "Exam/GS/Writ  Jurisdiction.md",
     "Exam/GS/Article 32.md",
     "Exam/GS/Sudarshana lake.md",
