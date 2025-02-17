@@ -8,7 +8,8 @@ reminde at: 2025-03-15T01:13:00
 Na Na
 
 ---
-- [ ] %%done_del%% 🔁 every day 📅 2025-02-17
+- [ ] %%done_del%% 🔁 every day 📅 2025-02-18
+- [x] %%done_del%% 🔁 every day 📅 2025-02-17 ✅ 2025-02-17
 - [x] %%done_del%% 🔁 every day 📅 2025-02-12 ✅ 2025-02-16
 - [x] %%done_del%% 🔁 every day 📅 2025-02-11 ✅ 2025-02-11
 - [x] %%done_del%% 🔁 every day 📅 2025-02-09 ✅ 2025-02-10
