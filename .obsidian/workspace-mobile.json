@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Tasks"
             }
           }
         ],
@@ -212,8 +212,11 @@
   },
   "active": "01361c86a538e588",
   "lastOpenFiles": [
+    "README.md",
     "Tasks.md",
-    "Welcome.md",
+    "YT script/Welcome.md",
+    "Untitled.md",
+    "archive.md",
     "YT script",
     "Exam/GS/Microfinance Institutions Network.md",
     "Exam/GS/Writ  Jurisdiction.md",
@@ -226,13 +229,11 @@
     "Hi.md",
     "Delete.md",
     "Test/Tirant.md",
-    "archive.md",
     "Exam/Reasoning/Day 1.md",
     "Exam/Math/Trignometry.md",
     "Images/20250208_183444.jpg",
     "Images/20250208_183457.jpg",
     "Images/20250208_183430.jpg",
-    "README.md",
     "Pdf/Rural sociology.pdf",
     "AIASA FORMAT.docx",
     "Ink/Drawing/2025.2.8 - 8.39am.drawing",
