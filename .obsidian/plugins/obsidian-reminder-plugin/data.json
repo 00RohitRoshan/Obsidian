@@ -20,27 +20,6 @@
         "rowNumber": 7
       }
     ],
-    "Exam/GS/Sudarshana lake.md": [
-      {
-        "title": "%%done_del%%",
-        "time": "2025-02-18",
-        "rowNumber": 23
-      }
-    ],
-    "Exam/GS/Microfinance Institutions Network.md": [
-      {
-        "title": "%%done_del%%",
-        "time": "2025-02-18",
-        "rowNumber": 25
-      }
-    ],
-    "Exam/GS/Article 32.md": [
-      {
-        "title": "%%done_del%%",
-        "time": "2025-02-18",
-        "rowNumber": 12
-      }
-    ],
     "Exam/Math/Trignometry.md": [
       {
         "title": "%%done_del%%",
@@ -67,6 +46,34 @@
         "title": "%%done_del%%",
         "time": "2025-02-24",
         "rowNumber": 13
+      }
+    ],
+    "Exam/GS/Lata Mangeshkar.md": [
+      {
+        "title": "%%done_del%%",
+        "time": "2025-02-25",
+        "rowNumber": 46
+      }
+    ],
+    "Exam/GS/Sudarshana lake.md": [
+      {
+        "title": "%%done_del%%",
+        "time": "2025-02-25",
+        "rowNumber": 23
+      }
+    ],
+    "Exam/GS/Microfinance Institutions Network.md": [
+      {
+        "title": "%%done_del%%",
+        "time": "2025-02-25",
+        "rowNumber": 25
+      }
+    ],
+    "Exam/GS/Article 32.md": [
+      {
+        "title": "%%done_del%%",
+        "time": "2025-02-25",
+        "rowNumber": 12
       }
     ]
   },
