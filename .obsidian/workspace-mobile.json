@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YT script/Ai/Answer to script.md",
+                "file": "Exam/Math/Trignometry.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Answer to script"
+              "title": "Trignometry"
             }
           }
         ],
@@ -254,8 +254,8 @@
   },
   "active": "ddb324f4454b3635",
   "lastOpenFiles": [
-    "Delete.md",
     "YT script/Ai/Answer to script.md",
+    "Delete.md",
     "GS 2025.md",
     "YT script/Ai/Question to Title.md",
     "YT script/Ai",

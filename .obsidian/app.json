@@ -16,5 +16,9 @@
   ],
   "livePreview": true,
   "defaultViewMode": "preview",
-  "promptDelete": true
+  "promptDelete": true,
+  "trashOption": "local",
+  "newFileLocation": "current",
+  "newLinkFormat": "relative",
+  "useMarkdownLinks": true
 }
