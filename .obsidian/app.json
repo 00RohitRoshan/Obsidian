@@ -15,5 +15,6 @@
     "command-palette:open"
   ],
   "livePreview": true,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "promptDelete": true
 }
