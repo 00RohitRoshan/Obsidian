@@ -14,7 +14,7 @@
     "editor:configure-toolbar",
     "command-palette:open"
   ],
-  "livePreview": true,
+  "livePreview": false,
   "defaultViewMode": "preview",
   "promptDelete": true,
   "trashOption": "local",

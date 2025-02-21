@@ -15,7 +15,7 @@
               "state": {
                 "file": "Tasks.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Tasks"
@@ -29,7 +29,7 @@
               "state": {
                 "file": "YT script/Welcome.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Welcome"
@@ -43,7 +43,7 @@
               "state": {
                 "file": "YT script/Ai/245 youtube video ideas on global warming.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "245 youtube video ideas on global warming"
@@ -57,7 +57,7 @@
               "state": {
                 "file": "YT script/Ai/Question to Title.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Question to Title"
@@ -71,7 +71,7 @@
               "state": {
                 "file": "Exam/Math/Trignometry.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Trignometry"
@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam/Math/Gs2024.md",
-                "mode": "source",
-                "source": false
+                "file": "GS allShift.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Gs2024"
+              "title": "GS allShift"
             }
           }
         ],
@@ -268,8 +268,10 @@
   },
   "active": "bba7279017696706",
   "lastOpenFiles": [
-    "Exam/Math/Trignometry.md",
+    "Exam/GS/Sudarshana lake.md",
+    "GS allShift.md",
     "Exam/Math/Gs2024.md",
+    "Exam/Math/Trignometry.md",
     "GS 2025.md",
     "YT script/Ai/Answer to script.md",
     "Delete.md",
@@ -284,7 +286,6 @@
     "Exam/GS/Microfinance Institutions Network.md",
     "Exam/GS/Writ  Jurisdiction.md",
     "Exam/GS/Article 32.md",
-    "Exam/GS/Sudarshana lake.md",
     "Exam/GS/Lata Mangeshkar.md",
     "Exam/GS/Project Tiger.md",
     "Exam/GS/Project Elephant.md",
@@ -308,7 +309,6 @@
     "Exam/English",
     "Pdf",
     "/README.md",
-    "Maths/Trignometry.md",
     "Gkk/IMG-20250206-WA0005.jpg"
   ]
 }
