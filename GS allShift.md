@@ -35,12 +35,14 @@ Ans  1. Article 228
  3. Article 226
  4. Article 225
 
-Q.7 Which of the following is NOT a condition for the President's office in India? Ans  1. He shall not hold any office of profit.
+Q.7 Which of the following is NOT a condition for the President's office in India? 
+Ans  1. He shall not hold any office of profit.
  2. The allowances shall not be diminished during his term of office.
  3. He shall not be entitled, without payment of rent, to use his official residence.
  4. He shall not be a member of either House of the Parliament.
 
-Q.8 Which of the following statements best defines the monoecious? Ans  1. A flower with gynoecium only
+Q.8 Which of the following statements best defines the monoecious? 
+Ans  1. A flower with gynoecium only
  2. A flower with androecium only
  3. A flower with both androecium and gynoecium
  4. A flower with dithecous
@@ -51,13 +53,13 @@ Ans	 1. Grammy
  3. Oscar
  4. Sangeet Natak Akademi
 
-Q.10 Who is Union Minister of State (Independent Charge) for Science and Technology as of July 2023?
+❌Q.10 Who is Union Minister of State (Independent Charge) for Science and Technology as of July 2023?
 Ans  1. Dharmendra Pradhan
  2. Jitendra Singh
  3. Ashwini Vaishnaw
  4. Ramesh Pokhriyal
 
-Q.11 Which of the following decomposition reactions is NOT a redox reaction? Ans  1. Decomposition of sodium hydride
+❌Q.11 Which of the following decomposition reactions is NOT a redox reaction? Ans  1. Decomposition of sodium hydride
  2. Decomposition of calcium carbonate
  3. Decomposition of potassium chlorate
  4. Decomposition of dihydrogen monoxide
