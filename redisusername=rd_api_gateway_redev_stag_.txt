@@ -1,0 +1,5 @@
+redisusername=rd_api_gateway_redev_stag_rw
+redisHost=35.200.161.89
+redisPort=6379
+redispassword=r35eARch_@NdDeV
+SecretName=projects/720089661819/secrets/redis-stag-rd_api_gateway_redev_stag_rw-user/versions/1
