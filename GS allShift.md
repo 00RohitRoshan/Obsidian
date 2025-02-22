@@ -69,7 +69,7 @@ Q.12 Who among the following has authored the play 'Nil Darpan'? Ans  1. Chittar
  3. Dinabandhu Mitra
  4. Sarojini Naidu
 
-Q.13 Who among the following formed the Bihar Provincial Kisan Sabha in 1929? Ans  1. Jayprakash Narayan
+❌Q.13 Who among the following formed the Bihar Provincial Kisan Sabha in 1929? Ans  1. Jayprakash Narayan
  2. JM Sengupta
  3. Kunwar Singh
  4. Swami Sahajanand Saraswati
