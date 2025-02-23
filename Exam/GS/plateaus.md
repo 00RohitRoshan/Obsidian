@@ -7,6 +7,7 @@ repeats: Every 1 Week
 [Short](https://youtube.com/shorts/tWCJRU6FPQM?si=VRcExiICCJB02QUF)  
 
 Asked International Plateaus
+
 |Plateau|Continent|Formation|
 |--|--|--|
 |Columbian|North America|Volcanic|
@@ -21,4 +22,5 @@ Next Search
 
 ---
 ---
-- [ ] %%done_del%% 🔁 every week 📅 2025-02-22
+- [ ] %%done_del%% 🔁 every week 📅 2025-03-02
+- [x] %%done_del%% 🔁 every week 📅 2025-02-22 ✅ 2025-02-23

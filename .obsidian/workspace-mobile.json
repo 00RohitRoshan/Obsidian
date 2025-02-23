@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS allShift.md",
+                "file": "Exam/GS/plateaus.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GS allShift"
+              "title": "plateaus"
             }
           }
         ],
@@ -268,8 +268,8 @@
   },
   "active": "bba7279017696706",
   "lastOpenFiles": [
-    "Exam/GS/Sudarshana lake.md",
     "GS allShift.md",
+    "Exam/GS/Sudarshana lake.md",
     "Exam/Math/Gs2024.md",
     "Exam/Math/Trignometry.md",
     "GS 2025.md",
