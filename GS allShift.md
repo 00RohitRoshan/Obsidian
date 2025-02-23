@@ -338,13 +338,13 @@ Ans  1. c
  3. b
  4. d
 
-Q.10 In which year was the 'Naye Bharat Ke Sapne' campaign launched by Meta and the Ministry of Women?
+❌Q.10 In which year was the 'Naye Bharat Ke Sapne' campaign launched by Meta and the Ministry of Women?
 Ans  1. 2022
  2. 2021
  3. 2023
  4. 2020
 
-Q.11 Which of the following statements is INCORRECT? Ans	 1. Fats and oils get reduced over time and smell bad.
+❌Q.11 Which of the following statements is INCORRECT? Ans	 1. Fats and oils get reduced over time and smell bad.
  2. Antioxidants are added to foods containing fats and oil to prevent oxidation.
  3. Chips manufacturers usually flush bags of chips with Nitrogen to prevent the chips from getting ranicid.
  4. Fats and oils are oxidised, they become rancid.
