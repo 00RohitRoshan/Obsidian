@@ -6,8 +6,10 @@ repeats: Every 1 Week
 [All plateaus Of INDIA](https://www.youtube.com/watch?v=xWcZXfO13MU)  
 [Short](https://youtube.com/shorts/tWCJRU6FPQM?si=VRcExiICCJB02QUF)  
 
-![plateau]()
-[IndianPlateaus](../../Images/IndianPlateaus.png)
+![IndianPlateaus](../../Images/IndianPlateaus.png)
+
+![PlatlandPlateaus](Images/PlatlandPlateaus.png)
+
 Asked International Plateaus
 
 |Plateau|Continent|Formation|
