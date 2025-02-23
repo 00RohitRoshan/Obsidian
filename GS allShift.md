@@ -80,12 +80,12 @@ Ans	 1. Deccan lava plateau
  3. Ethiopian plateau
  4. Katanga plateau
 
-Q.15 Which of the following is a correct order of basicity? Ans  1. LiOH>NaOH>KOH>CsOH
+❌Q.15 Which of the following is a correct order of basicity? Ans  1. LiOH>NaOH>KOH>CsOH
  2. KOH>CsOH>NaOH>LiOH
  3. LiOH>KOH>CsOH>NaOH
  4. CsOH>KOH>NaOH>LiOH
 
-Q.16 Which of the following pairs is INCORRECT regarding the grade of organisation and its example?
+❌Q.16 Which of the following pairs is INCORRECT regarding the grade of organisation and its example?
 Ans  1. Cell-tissue grade organisation - Jellyfish
  2. Cellular grade organisation - Sycon
  3. Protoplasmic grade organisation - Paramecium
