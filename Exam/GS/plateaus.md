@@ -28,4 +28,3 @@ Next Search
 ---
 ---
 - [ ] %%done_del%% 🔁 every week 📅 2025-03-02
-- [x] %%done_del%% 🔁 every week 📅 2025-02-22 ✅ 2025-02-23
