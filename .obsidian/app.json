@@ -19,7 +19,7 @@
   "promptDelete": true,
   "trashOption": "local",
   "newFileLocation": "current",
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "useMarkdownLinks": true,
   "tabSize": 6
 }

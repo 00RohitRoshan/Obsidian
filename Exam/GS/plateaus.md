@@ -7,8 +7,9 @@ repeats: Every 1 Week
 [Short](https://youtube.com/shorts/tWCJRU6FPQM?si=VRcExiICCJB02QUF)  
 
 ![IndianPlateaus](../../Images/IndianPlateaus.png)
+![PlatlandPlateaus](../../Images/PlatlandPlateaus.png)
 
-![PlatlandPlateaus](Images/PlatlandPlateaus.png)
+
 
 Asked International Plateaus
 
