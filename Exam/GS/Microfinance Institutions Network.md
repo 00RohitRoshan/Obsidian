@@ -23,5 +23,6 @@ Industrial Finance Corporation of India (IFCI)
 
 ---
 ---
-- [ ] %%done_del%% 🔁 every week 📅 2025-02-25
+- [ ] %%done_del%% 🔁 every week 📅 2025-03-05
+- [x] %%done_del%% 🔁 every week 📅 2025-02-25 ✅ 2025-02-26
 - [x] %%done_del%% 🔁 every week 📅 2025-02-18 ✅ 2025-02-18

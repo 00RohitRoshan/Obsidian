@@ -17,5 +17,6 @@ Project Lion
 
 
 ---
-- [ ] %%done_del%% 🔁 every week 📅 2025-02-24
+- [ ] %%done_del%% 🔁 every week 📅 2025-03-05
+- [x] %%done_del%% 🔁 every week 📅 2025-02-24 ✅ 2025-02-26
 - [x] %%done_del%% 🔁 every week 📅 2025-02-17 ✅ 2025-02-17
