@@ -75,6 +75,13 @@
         "time": "2025-03-05",
         "rowNumber": 25
       }
+    ],
+    "Exam/GS/foreign investment.md": [
+      {
+        "title": "%%done_del%%",
+        "time": "2025-03-01",
+        "rowNumber": 12
+      }
     ]
   },
   "debug": false,
