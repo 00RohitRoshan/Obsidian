@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "e1b337530c1fb7a8",
+        "id": "95d286be3481e01f",
         "type": "tabs",
         "children": [
           {
-            "id": "0398074efc6f7895",
+            "id": "09ff1112963e82fd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "Exam/GS/foreign investment.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
-            "id": "01361c86a538e588",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YT script/Welcome.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Welcome"
-            }
-          },
-          {
-            "id": "8ed64fd0ad4e3716",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YT script/Ai/245 youtube video ideas on global warming.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "245 youtube video ideas on global warming"
-            }
-          },
-          {
-            "id": "ef9b1bd7b7428a3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YT script/Ai/Question to Title.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Question to Title"
-            }
-          },
-          {
-            "id": "ddb324f4454b3635",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exam/Math/Trignometry.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Trignometry"
-            }
-          },
-          {
-            "id": "bba7279017696706",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Exam/GS/plateaus.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "plateaus"
+              "title": "foreign investment"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,11 +195,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bba7279017696706",
+  "active": "09ff1112963e82fd",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Exam/GS/Marine_Aids_to_Navigation_Bill.md",
+    "Exam/GS/plateaus.md",
     "archive.md",
     "Exam/GS/Pandit Vishwa Mohan Bhatt.md",
-    "Exam/GS/plateaus.md",
     "GS allShift.md",
     "Exam/GS/Sudarshana lake.md",
     "Exam/Math/Gs2024.md",
@@ -282,7 +213,6 @@
     "YT script/Ai",
     "YT script/Ai/245 youtube video ideas on global warming.md",
     "YT script/Welcome.md",
-    "Tasks.md",
     "README.md",
     "YT script",
     "Exam/GS/Microfinance Institutions Network.md",
@@ -303,7 +233,6 @@
     "Ink/Drawing/2025.2.8 - 8.39am.drawing",
     "Images/20250204_183239.jpg",
     "Untitled.canvas",
-    "2025-02-07.md",
     "Exam/GS",
     "Exam",
     "Exam/Reasoning",
