@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Tasks"
             }
+          },
+          {
+            "id": "06d3e6b3ca419e38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Life/Life Goals.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Life Goals"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,11 +210,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "5edc6a83ab7cf970",
+  "active": "06d3e6b3ca419e38",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Life/Life Goals.md",
     "Life",
     "Exam/GS/Ajita_Srivastava.md",
-    "Tasks.md",
     "Exam/GS/Ustad_Bismillah_Khan.md",
     "Exam/GS/foreign investment.md",
     "Exam/GS/Marine_Aids_to_Navigation_Bill.md",
@@ -237,7 +253,6 @@
     "Exam",
     "Exam/Reasoning",
     "Exam/English",
-    "Pdf",
     "Gkk/IMG-20250206-WA0005.jpg"
   ]
 }
