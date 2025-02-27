@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Exam/GS/foreign investment.md",
+                "file": "Tasks.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "foreign investment"
+              "title": "Tasks"
             }
           }
         ]
@@ -181,7 +181,7 @@
         }
       }
     ],
-    "currentTab": 5
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,9 +195,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "09ff1112963e82fd",
+  "active": "5edc6a83ab7cf970",
   "lastOpenFiles": [
+    "Life",
+    "Exam/GS/Ajita_Srivastava.md",
     "Tasks.md",
+    "Exam/GS/Ustad_Bismillah_Khan.md",
+    "Exam/GS/foreign investment.md",
     "Exam/GS/Marine_Aids_to_Navigation_Bill.md",
     "Exam/GS/plateaus.md",
     "archive.md",
@@ -221,10 +225,6 @@
     "Exam/GS/Lata Mangeshkar.md",
     "Exam/GS/Project Tiger.md",
     "Exam/GS/Project Elephant.md",
-    "Exam/GS/Lathmar Holi.md",
-    "Hi.md",
-    "Test/Tirant.md",
-    "Exam/Reasoning/Day 1.md",
     "Images/20250208_183444.jpg",
     "Images/20250208_183457.jpg",
     "Images/20250208_183430.jpg",

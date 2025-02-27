@@ -13,4 +13,4 @@ repeats: Every 1 Week
 
 
 #### Revision Schedule
-- [ ] %%done_del%% 🔁 every week 📅 2025-02-27
+- [ ] %%done_del%% 🔁 every week 📅 2025-03-06

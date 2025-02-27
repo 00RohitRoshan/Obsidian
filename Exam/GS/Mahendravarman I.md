@@ -27,4 +27,5 @@ Next Search
 
 ---
 ---
-- [ ] %%done_del%% 🔁 every week 📅 2025-02-23
+- [ ] %%done_del%% 🔁 every week 📅 2025-03-02
+- [x] %%done_del%% 🔁 every week 📅 2025-02-23 ✅ 2025-02-27

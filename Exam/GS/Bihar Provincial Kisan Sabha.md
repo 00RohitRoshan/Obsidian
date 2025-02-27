@@ -41,4 +41,5 @@ Utkal kisan Sangha
 
 ---
 ---
-- [ ] %%done_del%% 🔁 every week 📅 2025-02-22
+- [ ] %%done_del%% 🔁 every week 📅 2025-03-01
+- [x] %%done_del%% 🔁 every week 📅 2025-02-22 ✅ 2025-02-27
