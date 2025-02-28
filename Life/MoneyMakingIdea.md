@@ -1,5 +1,5 @@
 | Date       | Idea                    | Remark                                                                                                                                                                                             |
-| ---------- | ----------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| -- | -- | --|
 | 2024/02/27 | Test Series Application | In Real Exam like Condition, Ads, $Premium$ -> `Subjectwise->Chapterwise->Topicwise`Analysis (where they are failing) / Solution to question & Theory                                              |
 | 2024/03/02 | Dedicated PG Building   | All inclusive and flexible                                                                                                                                                                         |
 | 2024/04/27 | Everything on EMI       | No cost EMI for cheap products,Brand partnership for no costEMI to increase sales volume and commission, subscription and FD based NOcostEMI or LOWcostEMI, data & graph driven sell               |
@@ -12,6 +12,8 @@
 2024/12/31|Third eye / `YT`|UPSC question to engaging yt video, get solution from upsc preparartion site, heavily modify the question and ans for engagement, never mention of upsc
 2024/12/31|``/`YT`| cocomelllon like ryhme and childish content
 2025/01/01|monkeytype|but for govt exam , following govt exam rules
+2025/02/16|SSCpedia|govt exam solved questions with reference links to used topics and concepts , also can do for JEE,NEET etc
+2025/02/28|Adult Search Engine| A adult web crawler, links to the pages where they are uploaded, reward system for uploading link with AIGF, prostitute center, traffic selling
 
 
 
