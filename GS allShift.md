@@ -551,6 +551,7 @@ Ans  1. three
  3. zero
  4. one
 
+✅
 Q.23 Which organisms are classified as Aves? Ans  1. Frogs
  2. Snakes
  3. Birds
