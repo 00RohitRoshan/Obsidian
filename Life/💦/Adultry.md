@@ -1,0 +1,7 @@
+- Shift Room
+- 2nd Number
+- Edit Adhar card
+- Visit Hotels
+- Shoot
+- Edit
+- Upload
