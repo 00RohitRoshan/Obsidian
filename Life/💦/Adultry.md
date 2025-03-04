@@ -1,7 +1,9 @@
 - Shift Room
 - 2nd Number
 - Edit Adhar card
+- Reverse psychology story
 - Visit Hotels
+- Hidden camera app
 - Shoot
 - Edit
 - Upload
