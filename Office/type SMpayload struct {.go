@@ -4,7 +4,9 @@ type SMpayload struct {
 	Port     string `json:"port"`
 	Username string `json:"username"`
 	Password string `json:"password"`
-	CA		 string `json:"ca"`
+	CA       string `json:"ca"`
+	Tls      string `json:"tls"`
+	Key      string `json:"key"`
 }
 func getCredentials() SMpayload {
 	// const redisusername= "rd_api_gateway_redev_stag_rw"

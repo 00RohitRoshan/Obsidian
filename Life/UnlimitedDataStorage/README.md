@@ -1,0 +1,3 @@
+- [MVP](./MVP.md) Represents the Idea of the minimal working product to keep the progress on track, It can be extended and modified on accompition
+- [TechPlan](./TechPlan.md) Stores the rough implementation ideas with stack
+- [UiUx](./UiUx.md) Stores the all ideas That I have , and an entrypoint

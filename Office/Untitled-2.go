@@ -1,37 +1,48 @@
-	// err := godotenv.Load("config.env") // Load .env file
-	// if err != nil {
-	// 	log.Fatal("Error loading .env file :", err)
-	// }
-	// var red_err error
-	// var c redis.Conn
-	redisS := getCredentials()
+redisS := getCredentials()
+	redisCa, err := os.Create("ca.crt")
+	if err != nil {
+		fmt.Println("Error while creating ca cert file is", err.Error())
+	}
+	ssl_cert_file, err := os.Create("client.crt")
+	if err != nil {
+		fmt.Println("Error while creating ssl client certificate file is", err.Error())
+	}
+
+	ssl_key_file, err := os.Create("client.key")
+	if err != nil {
+		fmt.Println("Error while creating ssl client key file is", err.Error())
+	}
+	_, err = redisCa.WriteString(redisS.CA)
+	if err != nil {
+		fmt.Println("Error writing to ssl root ssl ca certificate file is", err.Error())
+	}
+	_, err = ssl_cert_file.WriteString(redisS.Tls)
+	if err != nil {
+		fmt.Println("Error writing to ssl client certificate file is", err.Error())
+	}
+
+	_, err = ssl_key_file.WriteString(redisS.Key)
+	if err != nil {
+		fmt.Println("Error writing to ssl key file is", err.Error())
+	}
+	caCert, err := os.ReadFile("ca.crt")
+	if err != nil {
+		log.Fatalf("Failed to read CA certificate: %v", err)
+	}
 
 	// Create a certificate pool and add the CA cert to it
 	certPool := x509.NewCertPool()
-	if !certPool.AppendCertsFromPEM([]byte(redisS.CA)) {
+	if !certPool.AppendCertsFromPEM(caCert) {
 		// return nil, fmt.Errorf("failed to append CA cert")
+		fmt.Println("failed to append CA cert")
 	}
-
-	// Create a custom TLS configuration with the CA cert
+	clientCert, err := tls.LoadX509KeyPair("client.crt", "client.key")
+	if err != nil {
+		log.Fatalf("Failed to load client certificate and key: %v", err)
+	}
+	// Configure TLS settings
 	tlsConfig := &tls.Config{
 		RootCAs:            certPool,
-		InsecureSkipVerify: true, // Make sure server certificates are verified
+		Certificates:       []tls.Certificate{clientCert},
+		InsecureSkipVerify: true, // Ensures host verification
 	}
-	redispool = &redis.Pool{
-		MaxIdle:     3000,
-		MaxActive:   4500,
-		IdleTimeout: 10 * time.Second,
-		Dial: func() (redis.Conn, error) {
-			c, err := redis.Dial("tcp", redisS.IP+":"+redisS.Port,
-				redis.DialUsername(redisS.Username),
-				redis.DialPassword(redisS.Password),
-				redis.DialUseTLS(true),
-				redis.DialTLSSkipVerify(true),
-				redis.DialTLSConfig(tlsConfig))
-			if err != nil {
-				return nil, err
-			}
-			return c, nil
-		},
-	}
-	fmt.Println("redis pool connection completed")
