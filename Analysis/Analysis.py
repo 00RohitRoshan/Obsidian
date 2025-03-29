@@ -48,46 +48,41 @@ def parse_mcq_files(uploaded_files):
     return questions
 
 def parse_mcq_files_dynamic(uploaded_files):
-    """Extract questions dynamically from multiple uploaded files, including PDF with OCR."""
+    """Extract questions dynamically from multiple uploaded files, keeping answer choices formatted safely."""
     questions = []
     
     for file in uploaded_files:
-        file_extension = os.path.splitext(file.name)[1].lower()
-
-        # Extract content based on file type
-        if file_extension in [".txt", ".md"]:
-            content = file.getvalue().decode("utf-8")
-        else:
-            st.warning(f"Unsupported file type: {file.name}")
-            continue
+        content = file.getvalue().decode("utf-8")
 
         # Normalize content by replacing various bullet markers
         content = re.sub(r"[\*\-]", " ", content)
 
-        # Define a regex pattern to match MCQs dynamically with new format (Q.5, Ans 1., Ans 2., etc.)
+        # Define a regex pattern to match MCQs dynamically
         pattern = re.compile(r"""
             (?s)                                # Enable multiline matching
-            Q\.(\d+)\s*                         # Match question number Q.5 or Q.10
-            (.*?)\s*                            # Match the question text
-            Ans\s*                              # Match the 'Ans' keyword
-            ((?:\d+\.\s*.*?)(?:\n|$)+)          # Match the answer options (1., 2., 3., etc.)
+            (\d+\.\s*)?                         # Optional numbering (1., 2., etc.)
+            ([A-Z][^?\n:]*[\?:]?)\s*            # Question (capitalized, ending with ? or :)
+            (?:\[\d+\])?\s*                     # Optional year tag [1995]
+            ((?:\(\w\)|\w\.)\s+.*?(?:\n|$)+)    # Answer choices (A., B., C. or (a), (b), etc.)
         """, re.VERBOSE)
 
         matches = pattern.findall(content)
 
         for _, question, options in matches:
-            # Remove extra spaces and newlines from the question
+            # Remove extra spaces and newlines
             question_cleaned = re.sub(r"\s+", " ", question).strip()
-
-            # Clean answer options and escape any problematic markdown characters
             options_cleaned = re.sub(r"\s+", " ", options).strip()
-            options_formatted = re.sub(r"(\d+\.)", r"|", options_cleaned)  # Escape answer numberings (1., 2., etc.)
+
+            # Prevent markdown misinterpretation by escaping dots or wrapping in backticks
+            options_formatted = re.sub(r"([A-Da-d])\.", r"\1\\.", options_cleaned)  # Escape dots in A., B., etc.
+            options_formatted = options_formatted.replace("(", "\\(").replace(")", "\\)")  # Escape (a), (b)
 
             # Combine question and formatted options
-            full_question = f"Q. {question_cleaned} {options_formatted} -- {os.path.splitext(file.name)[0]}"
+            full_question = f"{question_cleaned} {options_formatted} -- {os.path.splitext(file.name)[0]}"
             questions.append(full_question)
 
     return questions
+
 
 # Function to extract and sort keywords by frequency
 def extract_keywords(questions):
