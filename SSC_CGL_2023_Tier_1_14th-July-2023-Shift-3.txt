@@ -1,0 +1,24 @@
+Combined Graduate level Examination 2023 Tier I 
+Roll Number 
+ Candidate Name !
+IRK Digital Computer Centre 1 
+14/07/2023 
+:30 PM -3:30 PM 
+Combined Graduate Level Examination Tier I 2023 
+Section : General Intelligence and Reasoning 
+
+--- New Section ---
+
+Q.1 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets. 
+(NOTE : Operations should be performed on the whole numbers , without breaking 
+down the numbers into its constituent digits. E.g. 13-Operations on 13 such as 
+adding /Subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 
+and 3 and then performing mathematical operations on 1 and 3 is not allowed) 
+(3, 9, 30) 
+(10, 3, 33) 
+Ans X 1. (6, 9, 40) 
+X 2. (8, 8, 74) 
+� 3. (12, 3, 39) 
+X 4. (9, 7, 98) 
+Question ID: 26433089582 

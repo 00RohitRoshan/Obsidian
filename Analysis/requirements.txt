@@ -1,0 +1,10 @@
+nltk
+scikit-learn
+pandas
+numpy
+flask 
+streamlit
+matplotlib
+pdfplumber
+pillow
+easyocr

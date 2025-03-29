@@ -1,0 +1,2865 @@
+Q.1 ∆ABC is inscribed in a circle with Centre O. If AB = 21 cm, BC = 20 cm and
+AC = 29 cm, then what is the length of the circumradius of the triangle?
+Ans
+ 1. 13.5 cm
+2. 21.5 cm
+3. 32.5 cm
+4. 14.5 cm
+Q.2 On a 2200 m long circular track, Sarita and Kavita drove their cycles from
+the same point but in opposite direction with the speeds 20 km/hr and 16
+km/hr, respectively. After how much time will they meet again for the first
+time?
+Ans 1. 3 minutes 40 seconds
+2. 3 minutes 20 seconds
+3. 2 minutes 50 seconds
+4. 2 minutes 20 seconds
+Combined Graduate Level Examination 2024 Tier II
+Roll Number
+Candidate Name
+Venue Name iON Digital Zone iDZ Asansol
+Exam Date 18/01/2025
+Exam Time 9:00 AM - 12:00 PM
+Subject CGLE 2024 Tier II Paper I
+Section : Module I Mathematical Abilities
+ 
+Q.3 In a triangle HJK, HJ = HK. G is a point on HJ such that HG = GK = JK. What
+is the degree measure of two-third of ( ∠HGK + ∠GKJ)?
+Ans
+ 1. 84°
+2. 136°
+3. 90°
+4. 96°
+Q.4 Find the simple interest (in ₹) on ₹2000 at 6.5% per annum rate of interest
+for the period from 14 February 2023 to 28 April 2023
+Ans
+ 1. 27
+2. 25
+3. 26
+4. 24
+Q.5 The population of a place increased to 50,000 from 2016 to 2018 at the rate
+of 6% per annum, and continued the same trend for the next 3 years. If A is
+the population in 2016 and B is the population in 2020, both are
+approximated to the next possible integers, then the value of B − A is:
+Ans 1. 11680
+2. 13220
+3. 16270
+4. 12850
+Q.6
+Ans
+ 1. 15 : 13
+2. 11 : 15
+3. 9 : 11
+4. 11 : 13
+Q.7 Find the value of Y, if X− 2Y + 2Z = 16, X − Y + Z = 9 and 2X − 3Y − Z = 9.
+Ans
+ 1. 4
+2. 2
+3. −4
+4. −3
+Q.8 Rani and Adya, working separately, can finish a task in 12 days and 16
+hours, respectively. They work in stretches of one day alternately. If Rani
+starts working first, then the task will be completed in
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.9Let A and B be two players who are playing the game to hit the
+target. The probabilities of hitting the target by A and B is and
+, respectively. What is the probability that exactly one of them
+hit the target?
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.10 On the occasion of Republic Day, a retail store offers a scheme where
+customers can avail a discount of 26% on their total purchase. If Manish
+buys items worth ₹2,050, how much money (in ₹) will he save through the
+scheme discount?
+Ans
+1. 522
+2. 511
+3. 533
+4. 544
+Q.11 Vessel A contains milk and water in the ratio 4 : 5. Vessel B contains milk
+and water in the ratio 2 : 1. If x litres mixture of A is mixed with y litres
+mixture of B, then the ratio of milk to water in the mixture becomes 8 : 5.
+Find the ratio x : y.
+Ans
+1. 5 : 6
+2. 3 : 10
+3. 2 : 5
+4. 3 : 4
+Q.12 The average of first 91 even numbers is
+Ans
+ 1. 91
+2. 90
+3. 92
+4. 93
+Q.13Find the volume (in cm3, rounded off to 2 decimal places) of a right circular
+cone of diameter 12 cm and height 5 cm. [Use π = ]
+Ans
+ 1. 197.25
+2. 156.39
+3. 188.57
+4. 147.23
+Q.14
+Ans 1. 7
+2. -3
+3. 16
+4. 17
+Q.15
+Ans 1. 138
+2. 143
+3. 140
+4. 124
+Q.16 A sum of money is to be distributed among 3 friends P, Q and R in the
+proportion of 5 : 3 : 4 . If P gets ₹1,500 more than R, what is Q's share?
+Ans 1. ₹4,500
+2. ₹4,950
+3. ₹5,100
+4. ₹4,680
+Q.17
+Ans
+ 1. 
+2. 
+3. 
+4. 
+Q.18 Using empirical formula, calculate the mode for the following data.
+17, 20, 21, 18, 25, 28, 24, 22, 16, 24, 25, 24
+Ans
+ 1. 25.8
+2. 30.6
+3. 25
+4. 32
+Q.19
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.20
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.21
+Ans
+ 1. 37
+2. 34
+3. 40
+4. 38
+Q.22
+Ans 1. 24 years
+2. 20 years
+3. 22 years
+4. 26 years
+Q.23 A toy is in the form of a cone mounted on a hemisphere. The radius of the
+hemisphere and that of the cone is 36 cm and height of the cone is 105 cm.
+The total surface area (in cm2) of the toy is:
+Ans
+ 1. 6025 π
+2. 6588 π
+3. 5799 π
+4. 5240 π
+Q.24 Anil and Beena are friends, and the difference between their ages is 5
+years. Anil’s father Dinesh is three times as old as Anil, and Beena is twice
+as old as her sister Charu. The ages of Dinesh and Charu differ by 45
+years. If Beena is older than Anil, then find the sum of the present ages of
+both Dinesh and Charu.
+Ans
+ 1. 100 years
+2. 91 years
+3. 69 years
+4. 78 years
+Q.25 The height of a right circular cone is 63 cm and the area of its curved
+surface is five times the area of its base. What is the volume (in cm3) of the
+cone? (Use π = 22/7)
+Ans
+ 1. 12589.10
+2. 11234.65
+3. 10914.75
+4. 13540.25
+Q.26 A man buys 10 identical articles for a total of ₹15. If he sells each of them
+for ₹1.7, then his profit percentage will be ______%'(rounded off to two
+decimal place).
+Ans
+1. 14.33
+2. 13.33
+3. 12.76
+4. 11.76
+Q.27 Find the median of the following data. (Rounded off to 2 decimal places.)
+Class interval 0-5 5-10 10-15 15-20 20-25 25-30 30-35
+Frequency 3 5 4 2 7 6 5
+Ans
+ 1. 18.64
+2. 20.53
+3. 21.43
+4. 23.40
+Q.28
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.29
+Ans1. 
+2. 
+3. 
+4. 
+Q.30
+Ans
+ 1. 218
+2. 224
+3. 219
+4. 229
+Q.1 In this question, two statements are followed by four conclusions given as
+options. Decide which conclusion is definitely true, based on the given
+statements.
+Statements:
+A < B ≥ C > D
+C > E ≥ F = G
+Ans
+1. A < E
+2. D < F
+3. G > C
+4. B > G
+Q.2 A question is given, followed by two statements labelled I and II. Identify
+which of the statements is/are sufficient/necessary to answer the question.
+Question:
+In a certain code language, ‘fire in mountain’ is coded as ‘si ph bo’. What is
+code for ‘fire’?
+Statements:
+(I) ‘mountain’ is coded as ‘bo’.
+(II) ‘ice and fire’ is coded as ‘si yu ca’.
+Ans
+1. Data in Statements I and II together is sufficient to answer the question
+2. Data in Statements I and II together is not sufficient to answer the question
+3. Data in Statement I alone is sufficient to answer the question while data in Statement
+II is not
+4. Data in Statement II alone is sufficient to answer the question while data in
+Statement I is not
+Q.3 Select the option figure in which the given figure is embedded as its part
+(rotation is NOT allowed).
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.4 Given below is a statement (Cause) followed by possible effects numbered
+I, II and III. Read the ‘Cause’ carefully and decide which of the three can be
+possible effect/s.
+Cause – Many people in City X have reported receiving two electricity bills
+this month, instead of one.
+Effect I – The Electricity Board has published the details of areas where
+power shutdowns are expected tomorrow in City X.
+Effect II – The municipal commissioner of City X has clarified that the
+technical glitch which led to multiple electricity bills being generated would
+be resolved within 48 hours.
+Effect III – Long queues were seen outside the electricity board offices in
+many localities.
+Ans
+1. Only II is a possible effect.
+2. Both I and II are possible effects .
+3. Only I is a possible effect.
+4. Both II and III are possible effects.
+Q.5 In a certain code language, ‘POSE’ is coded as ‘3517’ and ‘SILK’ is coded
+as ‘4638’. What is the code for ‘S’ in the given code language?
+Ans
+ 1. 4
+2. 1
+3. 8
+4. 3
+Q.6 Select the correct mirror image of the given combination when the mirror is
+placed at line MN as shown.
+Ans1. 
+2. 
+3. 
+4. 
+Q.7 Figure A is related to B in a certain pattern. Following the same pattern,
+figure C is related to D. Study the pattern and select the figure which
+should be in place of D.
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.8 Select the option figure that will replace the question mark (?) in the figure
+given below to complete the pattern.
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.9 Select the set in which the numbers are related in the same way as are the
+numbers of the following sets.
+(NOTE : Operations should be performed on the whole numbers, without
+breaking down the numbers into its constituent digits. E.g. 13 – Operations
+on 13 such as adding / subtracting / multiplying etc. to 13 can be
+performed. Breaking down 13 into 1 and 3 and then performing
+mathematical operations on 1 and 3 is not allowed.)
+(215, 185, 135)
+(276, 246, 196)
+Ans
+1. (255, 235, 205)
+2. (294, 264, 224)
+3. (269, 229, 199)
+4. (238, 208, 158)
+Q.10 How many meaningful English words can be formed using first, third, sixth
+and seventh letters of the word RECOGNIZE (when counted from left to
+right) using all the letters but each letter only once in each word?
+Ans
+ 1. One
+2. Two
+3. Three
+4. None
+Q.11 The following contains two pairs of words which are related to each other
+in a certain way. Three of the following four word-pairs are alike as these
+have the same relationship and thus form a group. Which word-pair does
+NOT belong to that group?
+(The words must be considered as meaningful English words and must not
+be grouped based on the number of letters/number of consonants/vowels
+in the word)
+Ans 1. Park - Swim
+2. Restaurant - Dinner
+3. Temple - Pray
+4. Theatre - Movies
+Q.12 Read the following information and answer the question which follows.
+“Similar to expert puzzle solvers, Solver S employs systematic problem-
+solving approaches, ensuring efficient and accurate resolutions to
+complex challenges."
+Which of the following can be inferred from the given statement? (An
+inference is something which is not directly stated but can be derived from
+the given facts/information in the statement)
+1. The efficiency and accuracy of Solver S in resolving complex challenges
+may be attributed to their systematic problem-solving methods.
+2. Solver S utilizes systematic problem-solving approaches, similar to
+expert puzzle solvers.
+Ans 1. Both (I) and (II) can be inferred.
+2. Only (I) can be inferred.
+3. Neither (I) nor (II) can be inferred.
+4. Only (II) can be inferred.
+Q.13U is the father of N. N is the sister of T. T is the wife of I. I is son of L.
+How is U related to L?
+Ans 1. Son's wife's father
+2. Son's wife
+3. Son's wife's sister
+4. Son's wife's mother
+Q.14 Select the correct option that indicates the arrangement of the following
+words in a logical and meaningful order.
+1. Design 2. Test 3. Conceptualize 4. Develop 5. Implement
+Ans
+ 1. 3, 5, 2, 4, 1
+2. 1, 4, 5, 3, 2
+3. 3, 1, 4, 2, 5
+4. 3, 1, 5, 4, 2
+Q.15 Select the correct option that indicates the arrangement of the following
+words in a logical and meaningful order.
+1. Delivery
+2. Finished Paper
+3. Dry
+4. Pulp
+5. Press
+Ans 1. 4, 5, 3, 2, 1
+2. 4, 1, 2, 5, 3
+3. 2, 5, 4, 3, 1
+4. 5, 4, 2, 3, 1
+Q.16 Select the number from among the given options that can replace the
+question mark (?) in the following series.
+9, 5, 6, 10.5, 23, ?
+Ans
+ 1. 90
+2. 80
+3. 60
+4. 50
+Q.17 Each of P, Q, R, S, T, U and V has an exam on a different day of a week,
+starting from Monday and ending on Sunday of the same week.
+Q has the exam on Saturday. Only two people have exams between S and
+Q. R has the exam before S, but after P. U has the exam immediately after T.
+On which of the following days does V have the exam?
+Ans
+1. Saturday
+2. Thursday
+3. Sunday
+4. Friday
+Q.18 In a certain code language,
+A + B means ‘A is the mother of B’,
+A – B means ‘A is the brother of B’,
+A x B means ‘A is the wife of B’ and
+A ÷ B means ‘A is the father of B’.
+Based on the above, how is U related to Z if ‘U + V ÷ W – Y x Z’?
+Ans
+1. Wife's Mother's Sister
+2. Wife's Father's Mother
+3. Wife's Mother's Mother
+4. Wife's Father's Sister
+Q.19 Four of the following five figures are alike in a certain way and thus form a
+group. Which is the one that does NOT belong to that group?
+Ans 1. C
+2. D
+3. B
+4. A
+Q.20 Identify the figure given in the options which when put in place of the
+question mark (?) will logically complete the series.
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.21 In the following number-pairs, the second number is obtained by applying
+certain mathematical operations to the first number. In three of the four
+pairs, the same pattern is applied and hence they form a group. Select the
+number-pair that does NOT belong to this group.
+(NOTE : Operations should be performed on the whole numbers, without
+breaking down the numbers into its constituent digits. E.g. 13 – Operations
+on 13 such as adding /subtracting /multiplying etc. to 13 can be performed.
+Breaking down 13 into 1 and 3 and then performing mathematical
+operations on 1 and 3 is not allowed.)
+Ans 1. 13 - 144
+2. 31 - 341
+3. 18 - 198
+4. 22 - 242
+Q.22 A question is given, followed by two statements labelled I and II. Identify
+which of the statements is/are sufficient/necessary to answer the question.
+Question:
+Arvind has blue, green and white marbles. What is the percentage of white
+marbles out of all the marbles he has?
+Statements:
+(I) The sum of blue and green marbles he has is 7.
+(II) He has 3 white marbles out of 10 marbles.
+Ans 1. Data in Statement II alone is sufficient to answer the question while data in
+Statement I is not
+2. Data in Statement I alone is sufficient to answer the question while data in Statement
+II is not
+3. Data in Statements I and II together is sufficient to answer the question
+4. Data in Statements I and II together is not sufficient to answer the question
+Q.23 Six letters P, Q, S, T, U and V are written on different faces of a dice. Two
+positions of this dice are shown in thefigure. Find the letter on the face
+opposite to T.
+Ans
+ 1. S
+2. U
+3. V
+4. P
+Q.24 If ‘A’ stands for ‘÷’, ‘B’ stands for ‘×’, ‘C’ stands for ‘+’ and ‘D’ stands for ‘−’,
+what will be come in place of the question mark (?) in the following
+equation?
+55 B 5 D 13 B 2 C 14 A 7 D 15 B 5 C 102 A 2 C 15 = ?
+Ans
+ 1. 203
+2. 242
+3. 291
+4. 177
+Q.25Each  of the digits in  the number 5238641 is arranged in
+ascending order from left to right. The position(s) of how many
+digits will remain unchanged as compared to that/those in the
+original number ?
+Ans
+ 1. None
+2. Two
+3. Three
+4. One
+Q.26 A statement is followed by two arguments I and II. Read the statement and
+the arguments carefully and select the appropriate answer from the given
+options.
+Statement:
+Hydroelectricity is a cleaner and greener energy than other forms of power
+generation.
+Arguments:
+(I) Hydroelectric plants almost have nil CO 2 emissions.
+(II) Hydroelectric power projects submerge huge amounts under water
+thereby affecting local flora and fauna.
+Ans
+ 1. Both I and II weaken the statement.
+2. II weakens while I strengthens the statement.
+3. Both I and II strengthen the statement.
+4. I weakens while II strengthens the statement.
+Q.27 Which of the following letter-clusters should replace # and % so that the
+pattern and relationship followed between the letter-cluster pair on the left
+side of :: is the same as that on the right side of ::?
+# : XAF :: SVA : %
+Ans
+ 1. # = BEJ % = QRW
+2. # = BEJ % = ORW
+3. # = BEJ % = ORP
+4. # = BBJ % = ORW
+Q.28 O, P, Q, R, S and T are sitting around a circular table facing the centre(but
+not necessarily in the same order). P sits second to the left of T. S sits third
+to the right of Q. Q is not an immediate neighbour of P. O sits second to the
+right of S. Which of the following represents the position of O with respect
+of R?
+Ans
+ 1. Third to the left
+2. Second to the left
+3. Immediate right
+4. Third to the right
+Q.29 Read the given statements and conclusions carefully. Assuming that the
+information given in the statement(s) is true, even if it appears to be at
+variance with commonly known facts, decide which of the given
+conclusions logically follow(s) from the statement(s).
+Statements:
+All sheeps are cows.
+Some cows are horses.
+All horses are jackals.
+Conclusion:
+(I) Some jackals are cows.
+(II) Some horses are sheeps.
+Ans
+1. Only Conclusion (II) follows.
+2. Both Conclusions (I) and (II) follow.
+3. Neither Conclusion (I) nor (II) follows.
+4. Only Conclusion (I) follows.
+Q.30 In a certain code language, ‘she gardens daily’ is coded as ‘ak jb mp’ and
+‘where is she’ is coded as ‘mp pt kt’. How is ‘she’ coded in the given
+language?
+Ans 1. mp
+2. pt
+3. ak
+4. kt
+Q.1 Select the correct spelling of the incorrectly spelt word in the given
+sentence.
+The trainer tried to guage the learners' understanding of the subject by
+asking several new questions.
+Ans
+ 1. Gaage
+2. Gaaug
+3. Gaugg
+4. Gauge
+Q.2 Select the most appropriate meaning of the underlined word.
+He walked leisurely towards the entrance.
+Ans 1. without haste  
+2. reassuringly
+3. with a kickstart 
+4. hastily 
+Q.3 Sentences of a paragraph are given below in jumbled order. Arrange the
+sentences in the correct order to form a meaningful and coherent
+paragraph.
+A. It consists of a terracotta army of approximately 8000 life-sized men and
+horses.
+B. Each of the horses and men is individually sculpted by a 3-inch-thick
+terracotta clay and looks unique.
+C. Shi Huangdi was the founder of Qin Dynasty and was the first ruler of
+unified China in 221 BC.
+D. His mausoleum was recently discovered in 1974 by Chinese peasants
+who were drilling a well.
+Ans
+1. CADB
+2. CABD
+3. CBAD
+4. CDAB
+Q.4 Parts of a sentence are given below in jumbled order. Select the option that
+gives their correct logical sequence to form a meaningful sentence.
+a. it requires constant sustenance
+b. in order for life to be liveable,
+c. that enable it to grow and develop
+d. and favourable circumstances
+Ans
+1. a, b, c, d 
+2. b, a, d, c
+3. b, d, a, c
+4. d, c, b, a 
+Q.5 Select the most appropriate option to fill in the blank.
+No other book in the series captivated readers as _________________ as
+the final installment.
+Ans
+ 1. many
+2. more
+3. most
+4. much
+Q.6 A sentence has been split up into segments and given below in jumbled
+order. While the first and the last segments of the sentence (1 and 6) are in
+the correct order, the segments in between are jumbled up. Arrange the
+segments in the correct order to form a meaningful and coherent sentence.
+1) India has been a land
+P) and the learned man has been held in higher esteem
+Q) of learning through the ages
+R) but in the sense that learning has always been very highly valued
+S) not indeed in the sense that education has been universal
+6) than the warrior or the administrator.
+Ans
+1. P, S, Q, R
+2. Q, S, R, P
+3. R, Q, S, P
+4. S, R, Q, P
+Q.7 Select the option that expresses the given sentence in reported speech.
+'I am determined to publish my findings,' the scientist asserted confidently.
+Ans
+ 1. The scientist confidently asserted that she is determined to publish her findings.
+2. The scientist confidently asserted that she had determined to publish her findings.
+3. The scientist confidently asserted that she would be determined to publish her
+findings.
+4. The scientist confidently asserted that she was determined to publish her findings.
+Q.8 Select the option that can be used as a one-word substitute for the given
+group of words.
+One who cannot make a mistake
+Ans
+ 1. Impregnable 
+2. Inevitable 
+3. Inimitable
+4. Infallible  
+Q.9 Select the most appropriate homophone from the options to fill in the
+blank.
+We should _________ away all prejudices to live in harmony.
+Ans
+ 1. caste
+2. coast
+3. cast
+4. cost
+Q.10 Sentences of a paragraph are given below in jumbled order. Arrange the
+sentences in the correct order to form a meaningful and coherent
+paragraph.
+A. As cost of raw materials cannot be reduced, exporters try to cut labour
+costs.
+B. Large MNCs in the garment industry in Europe and America order their
+products from Indian exporters.
+C. These large MNCs with worldwide network look for the cheapest goods
+in order to maximise their profits.
+D. To get these large orders, Indian garment exporters try hard to cut their
+own costs.
+E. Where earlier a factory used to employ workers on a permanent basis,
+now they employ workers only on a temporary basis so that they do not
+have to pay workers for the whole year.
+Ans 1. BCDAE
+2. CDAEB
+3. DCABE
+4. ADECB
+Q.11 Select the correct spelling of the incorrectly spelt word in the given
+sentence.
+All criminal attitudes must be niped at the bud.
+Ans
+ 1. Niiped
+2. Nipped
+3. Nipeed
+4. Nipedd
+Q.12 Select the option that expresses the given sentence in direct speech.
+The teacher informed that the exam had been postponed.
+Ans
+ 1. The teacher informs, “The exam had been postponed.”
+2. The teacher informed, “The exam was being postponed.”
+3. The teacher informs, “The exam has been postponed.”
+4. The teacher informed, “The exam has been postponed.”
+Q.13 Sentences of a paragraph are given below in jumbled order. Arrange the
+sentences in the correct order to form a meaningful and coherent
+paragraph.
+A. Psychotherapy is a voluntary relationship between the one seeking
+treatment or the client and the one who treats or the therapist.
+B. The relationship is conducive for building the trust of the client so that
+problems may be freely discussed.
+C. The purpose of the relationship is to help the client to solve the
+psychological problems being faced by her or him.
+D. Psychotherapies aim at changing the maladaptive behaviours,
+decreasing the sense of personal distress and helping the client to adapt
+better to her/his environment.
+E. Inadequate marital, occupational and social adjustment also requires
+that major changes be made in an individual’s personal environment.
+Ans
+1. DCABE
+2. EDACB
+3. ACBDE
+4. CDEBA
+Q.14Select the most appropriate option to fill in the blank.
+Rashid was not able to _____ the pain after the accident.
+Ans
+1. beer
+2. buyer
+3. bear
+4. bare
+Q.15 Select the option that expresses the given sentence in passive voice.
+Did you hear that noise?
+Ans 1. Was that noise heard by you?
+2. Is that noise heard by you?
+3. Wasn't that noise heard by you?
+4. Has that noise been heard by you?
+Q.16 Select the option that expresses the given sentence in direct speech.
+The District Magistrate ordered the police to work all night and put an end
+to those riots.
+Ans
+1. The District Magistrate told the police, "Work all night and put to end these riots."
+2. The District Magistrate told the police, "Work all night and put an end to these riots."
+3. The District Magistrate told the police, "Work all night and put an end to their riots."
+4. The District Magistrate told the police, "Work all night to put an end these riots."
+Q.17 Select the most appropriate meaning of the underlined idiom.
+The team decided to pull out all the stops for their upcoming presentation.
+Ans
+ 1. Keep things simple and straightforward
+2. Wait patiently for a more favourable time
+3. Give up easily and without thinking much
+4. To do everything to make something successful
+Q.18 Select the option that expresses the given sentence in passive voice.
+Everyone was surprised at his speech.
+Ans 1. His speech surprised everyone.
+2. His speech surprise everyone.
+3. His speech was surprising to everyone.
+4. His speech is surprising everyone.
+Q.19 Complete the dialogue for Person B using the correct idiom.
+Person A: I am so nervous. I don’t think I should make the speech
+tomorrow.
+Person B: No. You are just getting _____. You have prepared for this.
+Ans
+ 1. cold foot
+2. cold feet
+3. cold hand
+4. hot feet
+Q.20 Select the most appropriate option to fill in the blank.
+Luck does not always favour us, so we must always depend _______ our
+own efforts for success.
+Ans
+ 1. in
+2. upon
+3. for
+4. at
+Q.21Parts of a sentence are given below in jumbled order. Arrange the parts in
+the correct order to form a meaningful sentence.
+a. beginning in the 19th century,
+b. was long a mystery, and
+c. the origin of the Moon
+d. three competing theories emerged to solve it
+Ans
+ 1. dcab
+2. bdca
+3. abdc
+4. cbad
+Q.22 Select the most appropriate option to fill in the blank.
+The mango is the_________ fruit.
+Ans
+ 1. sweet
+2. sweeter
+3. sweetly
+4. sweetest
+Q.23 Select the option that expresses the given sentence in passive voice.
+The explosion caused serious damage in Ukraine.
+Ans
+ 1. In Ukraine, serious damage had been caused by the explosion.
+2. Serious damage has been caused by the explosion in Ukraine.
+3. Serious damage in Ukraine has been caused by the explosion.
+4. Serious damage was caused by the explosion in Ukraine.
+Q.24 Select the most appropriate ANTONYM of the word given below.
+Enhance
+Ans
+ 1. Enrich
+2. Miracle
+3. Impair
+4. Relevance
+Q.25 Select the option that can be used as a one-word substitute for the given
+group of words.
+A sudden and violent change or upheaval
+Ans
+ 1. Tranquility
+2. Serenity
+3. Equanimity
+4. Turbulence
+Q.26 Select the most appropriate ANTONYM of the given word.
+Generous
+Ans 1. Selfish
+2. Benevolent
+3. Altruistic
+4. Magnanimous
+Q.27 Parts of the following sentence have been given as options. Select the
+option that contains an error.
+It takes me an hour to get to work at the moment, but when the new road is
+finished it be much quicker.
+Ans
+1. but when the new road is finished
+2. it be much quicker
+3. at the moment
+4. It takes me an hour to get to work
+Q.28 Select the most appropriate pronoun to fill in the blank.
+Mr. Amit Kumar, Proprietor of Xyling Pens is known for _________ honesty
+and decent behaviour in the business arena.
+Ans 1. his
+2. they
+3. it
+4. her
+Q.29 Select the most appropriate ANTONYM of the given word.
+Accumulated
+Ans 1. Scattered
+2. Spared
+3. Bunched
+4. Garnered
+Comprehension:
+In the following passage, some words have been deleted. Read the passage carefully and
+select the most appropriate option to fill in each blank.
+Climate change (1)_____ an imminent threat to our planet, demanding urgent global action.
+The rise in greenhouse gas emissions, deforestation and unsustainable practices contribute
+to extreme weather events, rising sea levels and disruptions in ecosystems. To (2)________
+these effects, a collaborative international effort is essential. Nations (3)________ commit to
+reducing carbon emissions, transitioning to renewable energy sources and implementing
+sustainable practices. Cooperation on technological advancements and sharing resources will
+foster a collective resilience against the impacts of climate change. The urgency of this issue
+calls for a united front, where governments, businesses and individuals work together to
+create a sustainable and resilient future for the (4)________ to come.
+SubQuestion No : 30
+Q.30 Select the most appropriate option to fill in blank number 1.
+Ans
+1. will pose
+2. poses
+3. will be posing
+4. posed
+Comprehension:
+In the following passage, some words have been deleted. Read the passage carefully and
+select the most appropriate option to fill in each blank.
+Climate change (1)_____ an imminent threat to our planet, demanding urgent global action.
+The rise in greenhouse gas emissions, deforestation and unsustainable practices contribute
+to extreme weather events, rising sea levels and disruptions in ecosystems. To (2)________
+these effects, a collaborative international effort is essential. Nations (3)________ commit to
+reducing carbon emissions, transitioning to renewable energy sources and implementing
+sustainable practices. Cooperation on technological advancements and sharing resources will
+foster a collective resilience against the impacts of climate change. The urgency of this issue
+calls for a united front, where governments, businesses and individuals work together to
+create a sustainable and resilient future for the (4)________ to come.
+SubQuestion No : 31
+Q.31 Select the most appropriate option to fill in blank number 2.
+Ans
+1. widen
+2. maximise
+3. mitigate
+4. inflate
+Comprehension:
+In the following passage, some words have been deleted. Read the passage carefully and
+select the most appropriate option to fill in each blank.
+Climate change (1)_____ an imminent threat to our planet, demanding urgent global action.
+The rise in greenhouse gas emissions, deforestation and unsustainable practices contribute
+to extreme weather events, rising sea levels and disruptions in ecosystems. To (2)________
+these effects, a collaborative international effort is essential. Nations (3)________ commit to
+reducing carbon emissions, transitioning to renewable energy sources and implementing
+sustainable practices. Cooperation on technological advancements and sharing resources will
+foster a collective resilience against the impacts of climate change. The urgency of this issue
+calls for a united front, where governments, businesses and individuals work together to
+create a sustainable and resilient future for the (4)________ to come.
+SubQuestion No : 32
+Q.32 Select the most appropriate option to fill in blank number 3.
+Ans 1. must
+2. could
+3. would
+4. might
+Comprehension:
+In the following passage, some words have been deleted. Read the passage carefully and
+select the most appropriate option to fill in each blank.
+Climate change (1)_____ an imminent threat to our planet, demanding urgent global action.
+The rise in greenhouse gas emissions, deforestation and unsustainable practices contribute
+to extreme weather events, rising sea levels and disruptions in ecosystems. To (2)________
+these effects, a collaborative international effort is essential. Nations (3)________ commit to
+reducing carbon emissions, transitioning to renewable energy sources and implementing
+sustainable practices. Cooperation on technological advancements and sharing resources will
+foster a collective resilience against the impacts of climate change. The urgency of this issue
+calls for a united front, where governments, businesses and individuals work together to
+create a sustainable and resilient future for the (4)________ to come.
+SubQuestion No : 33
+Q.33 Select the most appropriate option to fill in blank number 4.
+Ans
+1. backward nations
+2. generations
+3. businessmen
+4. poor people
+Comprehension:
+Read the given passage and answer the questions that follow.
+Subhas Chandra Bose, a prominent Indian nationalist leader, was convinced that India could
+not achieve independence without the use of force, and he believed that a military campaign
+was necessary to achieve this goal. In 1942, Bose formed the Indian National Army (INA) with
+the help of the Japanese.
+Bose travelled to Japan in 1941 to seek their support in the struggle against British rule in
+India. The Japanese were interested in having Bose’s help in their own efforts to expand their
+influence in Southeast Asia. Bose’s vision was to create a military force to fight against the
+British in India with the help of Japanese weapons and training. The INA was formed in
+Singapore in September 1942 with the slogan ‘Jai Hind’ (Victory to India). The INA consisted
+of soldiers who were primarily from the Indian community in Southeast Asia. They were
+trained by Japanese officers and were equipped with Japanese weapons. The INA fought
+alongside Japanese forces in Burma and other parts of Southeast Asia during World War II.
+Bose’s leadership of the INA and his military campaigns against the British in India made him
+a popular figure among many Indians. The consequences of the formation of the INA were
+significant. The INA’s campaigns against the British in India and the Indian soldiers’ role in the
+Burma campaign had a psychological impact on the British forces. The British were shocked
+that Indian soldiers had turned against them, undermining their confidence in maintaining
+control over India. The INA also had a significant impact on the Indian independence
+movement. Bose’s vision of a socialist India with equal rights for all citizens inspired many
+Indians. The INA became a symbol of the struggle against British colonialism, and Bose’s
+slogan of ‘Jai Hind’ became a rallying cry for the independence movement.
+However, the INA’s military campaigns were not successful in achieving their goal of freeing
+India from British rule. The INA suffered significant losses in battles, and their efforts were
+undermined by the Japanese surrender in 1945.
+SubQuestion No : 34
+Q.34 What was the primary reason for the Japanese to support Subhas Chandra
+Bose and the formation of the INA?
+Ans
+1. They believed in India’s right to self-determination.
+2. They were looking for allies in their fight against the British Empire.
+3. They believed in Bose’s vision of a communist India.
+4. They wanted to expand their influence in Southeast Asia.
+Comprehension:
+Read the given passage and answer the questions that follow.
+Subhas Chandra Bose, a prominent Indian nationalist leader, was convinced that India could
+not achieve independence without the use of force, and he believed that a military campaign
+was necessary to achieve this goal. In 1942, Bose formed the Indian National Army (INA) with
+the help of the Japanese.
+Bose travelled to Japan in 1941 to seek their support in the struggle against British rule in
+India. The Japanese were interested in having Bose’s help in their own efforts to expand their
+influence in Southeast Asia. Bose’s vision was to create a military force to fight against the
+British in India with the help of Japanese weapons and training. The INA was formed in
+Singapore in September 1942 with the slogan ‘Jai Hind’ (Victory to India). The INA consisted
+of soldiers who were primarily from the Indian community in Southeast Asia. They were
+trained by Japanese officers and were equipped with Japanese weapons. The INA fought
+alongside Japanese forces in Burma and other parts of Southeast Asia during World War II.
+Bose’s leadership of the INA and his military campaigns against the British in India made him
+a popular figure among many Indians. The consequences of the formation of the INA were
+significant. The INA’s campaigns against the British in India and the Indian soldiers’ role in the
+Burma campaign had a psychological impact on the British forces. The British were shocked
+that Indian soldiers had turned against them, undermining their confidence in maintaining
+control over India. The INA also had a significant impact on the Indian independence
+movement. Bose’s vision of a socialist India with equal rights for all citizens inspired many
+Indians. The INA became a symbol of the struggle against British colonialism, and Bose’s
+slogan of ‘Jai Hind’ became a rallying cry for the independence movement.
+However, the INA’s military campaigns were not successful in achieving their goal of freeing
+India from British rule. The INA suffered significant losses in battles, and their efforts were
+undermined by the Japanese surrender in 1945.
+SubQuestion No : 35
+Q.35 What ultimately undermined the INA’s efforts to free India from British rule?
+Ans
+1. Gandhi’s death
+2. The Japanese surrender in 1945
+3. The inferior military tactics of the British forces
+4. The lack of support from the Indian and British people
+Comprehension:
+Read the given passage and answer the questions that follow.
+Subhas Chandra Bose, a prominent Indian nationalist leader, was convinced that India could
+not achieve independence without the use of force, and he believed that a military campaign
+was necessary to achieve this goal. In 1942, Bose formed the Indian National Army (INA) with
+the help of the Japanese.
+Bose travelled to Japan in 1941 to seek their support in the struggle against British rule in
+India. The Japanese were interested in having Bose’s help in their own efforts to expand their
+influence in Southeast Asia. Bose’s vision was to create a military force to fight against the
+British in India with the help of Japanese weapons and training. The INA was formed in
+Singapore in September 1942 with the slogan ‘Jai Hind’ (Victory to India). The INA consisted
+of soldiers who were primarily from the Indian community in Southeast Asia. They were
+trained by Japanese officers and were equipped with Japanese weapons. The INA fought
+alongside Japanese forces in Burma and other parts of Southeast Asia during World War II.
+Bose’s leadership of the INA and his military campaigns against the British in India made him
+a popular figure among many Indians. The consequences of the formation of the INA were
+significant. The INA’s campaigns against the British in India and the Indian soldiers’ role in the
+Burma campaign had a psychological impact on the British forces. The British were shocked
+that Indian soldiers had turned against them, undermining their confidence in maintaining
+control over India. The INA also had a significant impact on the Indian independence
+movement. Bose’s vision of a socialist India with equal rights for all citizens inspired many
+Indians. The INA became a symbol of the struggle against British colonialism, and Bose’s
+slogan of ‘Jai Hind’ became a rallying cry for the independence movement.
+However, the INA’s military campaigns were not successful in achieving their goal of freeing
+India from British rule. The INA suffered significant losses in battles, and their efforts were
+undermined by the Japanese surrender in 1945.
+SubQuestion No : 36
+Q.36 What was the significance of Bose’s slogan ‘Jai Hind’?
+Ans 1. It symbolised the struggle against British colonialism.
+2. It was a call to arms for the Indian and British Army.
+3. It manifests the vision of selected communities.
+4. It represented Bose’s vision of a capitalist India.
+Comprehension:
+Read the given passage and answer the questions that follow.
+Subhas Chandra Bose, a prominent Indian nationalist leader, was convinced that India could
+not achieve independence without the use of force, and he believed that a military campaign
+was necessary to achieve this goal. In 1942, Bose formed the Indian National Army (INA) with
+the help of the Japanese.
+Bose travelled to Japan in 1941 to seek their support in the struggle against British rule in
+India. The Japanese were interested in having Bose’s help in their own efforts to expand their
+influence in Southeast Asia. Bose’s vision was to create a military force to fight against the
+British in India with the help of Japanese weapons and training. The INA was formed in
+Singapore in September 1942 with the slogan ‘Jai Hind’ (Victory to India). The INA consisted
+of soldiers who were primarily from the Indian community in Southeast Asia. They were
+trained by Japanese officers and were equipped with Japanese weapons. The INA fought
+alongside Japanese forces in Burma and other parts of Southeast Asia during World War II.
+Bose’s leadership of the INA and his military campaigns against the British in India made him
+a popular figure among many Indians. The consequences of the formation of the INA were
+significant. The INA’s campaigns against the British in India and the Indian soldiers’ role in the
+Burma campaign had a psychological impact on the British forces. The British were shocked
+that Indian soldiers had turned against them, undermining their confidence in maintaining
+control over India. The INA also had a significant impact on the Indian independence
+movement. Bose’s vision of a socialist India with equal rights for all citizens inspired many
+Indians. The INA became a symbol of the struggle against British colonialism, and Bose’s
+slogan of ‘Jai Hind’ became a rallying cry for the independence movement.
+However, the INA’s military campaigns were not successful in achieving their goal of freeing
+India from British rule. The INA suffered significant losses in battles, and their efforts were
+undermined by the Japanese surrender in 1945.
+SubQuestion No : 37
+Q.37 How did Subhas Chandra Bose view India’s fight for independence?
+Ans
+1. Through political negotiations
+2. Through economic sanctions
+3. Through non-violent means
+4. Through military campaigns
+Comprehension:
+Read the given passage and answer the questions that follow.
+Algae are photosynthetic creatures that have pigments that aid in photosynthesis, such as
+chlorophyll. They do not, however, have the actual stems, roots or leaves found in vascular
+plants. While some of them have many cells, others are unicellular. They might establish
+colonies as well. The majority of algae are aquatic. Some are terrestrial, and they can be
+found on rocks, trees and moist soil. Certain algae species coexist well with other living
+things. For instance, lichens are a symbiotic relationship between green (and often blue-
+green) algae and fungi. Algae are members of a multiphyletic group. This indicates that there
+is no common ancestor and that the species in this category are not necessarily closely
+related. They do not have other morphoanatomical characteristics typical of vascular plants,
+but they do have one thing in common: they are eukaryotes with the principal pigment being
+chlorophyll, which allows them to perform photosynthesis. Phycology is the scientific name for
+the study of algae. The blue-green algae is one example of a reference. But some sources do
+not classify them as algae because they are prokaryotes.
+SubQuestion No : 38
+Q.38 What does the term 'multiphyletic group' mean in the context of algae?
+Ans
+1. Having a common ancestor
+2. Being closely related species
+3. No common ancestor, not closely related
+4. Having diverse morphoanatomical characteristics
+Comprehension:
+Read the given passage and answer the questions that follow.
+Algae are photosynthetic creatures that have pigments that aid in photosynthesis, such as
+chlorophyll. They do not, however, have the actual stems, roots or leaves found in vascular
+plants. While some of them have many cells, others are unicellular. They might establish
+colonies as well. The majority of algae are aquatic. Some are terrestrial, and they can be
+found on rocks, trees and moist soil. Certain algae species coexist well with other living
+things. For instance, lichens are a symbiotic relationship between green (and often blue-
+green) algae and fungi. Algae are members of a multiphyletic group. This indicates that there
+is no common ancestor and that the species in this category are not necessarily closely
+related. They do not have other morphoanatomical characteristics typical of vascular plants,
+but they do have one thing in common: they are eukaryotes with the principal pigment being
+chlorophyll, which allows them to perform photosynthesis. Phycology is the scientific name for
+the study of algae. The blue-green algae is one example of a reference. But some sources do
+not classify them as algae because they are prokaryotes.
+SubQuestion No : 39
+Q.39 Which statement accurately describes vascular plants based on the
+information in the passage?
+Ans
+1. Vascular plants lack stems, roots and leaves.
+2. Vascular plants are unicellular in structure.
+3. Vascular plants have true stems, roots and leaves, unlike algae.
+4. Algae and vascular plants share the same morphoanatomical characteristics.
+Comprehension:
+Read the given passage and answer the questions that follow.
+Algae are photosynthetic creatures that have pigments that aid in photosynthesis, such as
+chlorophyll. They do not, however, have the actual stems, roots or leaves found in vascular
+plants. While some of them have many cells, others are unicellular. They might establish
+colonies as well. The majority of algae are aquatic. Some are terrestrial, and they can be
+found on rocks, trees and moist soil. Certain algae species coexist well with other living
+things. For instance, lichens are a symbiotic relationship between green (and often blue-
+green) algae and fungi. Algae are members of a multiphyletic group. This indicates that there
+is no common ancestor and that the species in this category are not necessarily closely
+related. They do not have other morphoanatomical characteristics typical of vascular plants,
+but they do have one thing in common: they are eukaryotes with the principal pigment being
+chlorophyll, which allows them to perform photosynthesis. Phycology is the scientific name for
+the study of algae. The blue-green algae is one example of a reference. But some sources do
+not classify them as algae because they are prokaryotes.
+SubQuestion No : 40
+Q.40 According to the passage, which is the main pigment in algae for
+photosynthesis?
+Ans 1. Chlorophyll
+2. Melanin
+3. Xanthophyll
+4. Carotenoid
+Comprehension:
+Read the given passage and answer the questions that follow.
+Algae are photosynthetic creatures that have pigments that aid in photosynthesis, such as
+chlorophyll. They do not, however, have the actual stems, roots or leaves found in vascular
+plants. While some of them have many cells, others are unicellular. They might establish
+colonies as well. The majority of algae are aquatic. Some are terrestrial, and they can be
+found on rocks, trees and moist soil. Certain algae species coexist well with other living
+things. For instance, lichens are a symbiotic relationship between green (and often blue-
+green) algae and fungi. Algae are members of a multiphyletic group. This indicates that there
+is no common ancestor and that the species in this category are not necessarily closely
+related. They do not have other morphoanatomical characteristics typical of vascular plants,
+but they do have one thing in common: they are eukaryotes with the principal pigment being
+chlorophyll, which allows them to perform photosynthesis. Phycology is the scientific name for
+the study of algae. The blue-green algae is one example of a reference. But some sources do
+not classify them as algae because they are prokaryotes.
+SubQuestion No : 41
+Q.41 What is the central theme of the passage?
+Ans
+1. The prokaryotic nature of blue-green algae
+2. The anatomy of vascular plants
+3. The symbiotic relationship between algae and fungi
+4. The diversity and characteristics of algae
+Comprehension:
+Read the given passage and answer the questions that follow.
+The French Revolution is a revolutionary movement that occurred in France between 1787
+and 1799 and reached to its (1)______ in 1789. This revolution had many causes but the
+most important of all was (2)______ of bourgeoisie, who were merchants, manufacturers and
+professionals. The peasants, many of them landowners, wanted to get rid of the practices of
+absolute monarchy and feudalism. Another factor was an increase in population due to
+decreased mortality rates. It was followed by economic predicament and minor revolts were
+common. This led to a clarion call for social reforms. Intellectuals like Rene Descartes wrote
+about new things about political, social and economic matters. A fundamental political and
+societal change was to occur. The French Revolution played a critical role in shaping modern
+nations by showing the world the power inherent in the will of the people.
+SubQuestion No : 42
+Q.42 Select the most appropriate synonym of the word ‘Inherent’.
+Ans
+1. Artificial
+2. Borrowed
+3. Incited
+4. Natural
+Comprehension:
+Read the given passage and answer the questions that follow.
+The French Revolution is a revolutionary movement that occurred in France between 1787
+and 1799 and reached to its (1)______ in 1789. This revolution had many causes but the
+most important of all was (2)______ of bourgeoisie, who were merchants, manufacturers and
+professionals. The peasants, many of them landowners, wanted to get rid of the practices of
+absolute monarchy and feudalism. Another factor was an increase in population due to
+decreased mortality rates. It was followed by economic predicament and minor revolts were
+common. This led to a clarion call for social reforms. Intellectuals like Rene Descartes wrote
+about new things about political, social and economic matters. A fundamental political and
+societal change was to occur. The French Revolution played a critical role in shaping modern
+nations by showing the world the power inherent in the will of the people.
+SubQuestion No : 43
+Q.43 What is the meaning of the phrase ‘a clarion call’ in the passage?
+Ans
+1. Declaration of war
+2. Beginning of a new phase
+3. A call for forces
+4. A strongly expressed demand
+Comprehension:
+Read the given passage and answer the questions that follow.
+The French Revolution is a revolutionary movement that occurred in France between 1787
+and 1799 and reached to its (1)______ in 1789. This revolution had many causes but the
+most important of all was (2)______ of bourgeoisie, who were merchants, manufacturers and
+professionals. The peasants, many of them landowners, wanted to get rid of the practices of
+absolute monarchy and feudalism. Another factor was an increase in population due to
+decreased mortality rates. It was followed by economic predicament and minor revolts were
+common. This led to a clarion call for social reforms. Intellectuals like Rene Descartes wrote
+about new things about political, social and economic matters. A fundamental political and
+societal change was to occur. The French Revolution played a critical role in shaping modern
+nations by showing the world the power inherent in the will of the people.
+SubQuestion No : 44
+Q.44 Select the most appropriate option to fill in blank no. 1.
+Ans
+1. fall
+2. pinnacle
+3. foundation
+4. middle
+Comprehension:
+Read the given passage and answer the questions that follow.
+The French Revolution is a revolutionary movement that occurred in France between 1787
+and 1799 and reached to its (1)______ in 1789. This revolution had many causes but the
+most important of all was (2)______ of bourgeoisie, who were merchants, manufacturers and
+professionals. The peasants, many of them landowners, wanted to get rid of the practices of
+absolute monarchy and feudalism. Another factor was an increase in population due to
+decreased mortality rates. It was followed by economic predicament and minor revolts were
+common. This led to a clarion call for social reforms. Intellectuals like Rene Descartes wrote
+about new things about political, social and economic matters. A fundamental political and
+societal change was to occur. The French Revolution played a critical role in shaping modern
+nations by showing the world the power inherent in the will of the people.
+SubQuestion No : 45
+Q.45 Select the most appropriate option to fill in blank no. 2.
+Ans
+1. killing
+2. hankering
+3. sorrow
+4. joy
+Section : Module II General Awareness
+Q.1 Which of the following sentences is/are true?
+i. All isoclines are expansion paths but all expansion paths are not
+isoclines.
+ii. Short-run production functions involve adjusting all inputs, including
+fixed inputs like land or capital, to affect output.
+iii. Stock resources are the resources which are not used in one period of
+production but can be stored for a later period.
+Ans
+1. Only ii
+2. Only i
+3. Only iii
+4. Only ii and iii
+Q.2 Which of the following is a monoatomic gas?
+Ans
+ 1. Chlorin
+2. Hydrogen
+3. Xenon
+4. Oxygen
+Q.3 Select the most appropriate answer from the options given below
+regarding Census 2011.
+Statement 1. The population of India has increased by more than 181
+million during the decade 2001-2011.
+Statement 2. The percentage decadal growth during 2001-2011 has
+registered the sharpest decline since Independence.
+Ans
+1. Only statement 1 is correct.
+2. Only statement 2 is correct.
+3. Both statements 1 and 2 are not correct.
+4. Both statements 1 and 2 are correct.
+Q.4 What is the name of the ion with a charge of −1?
+Ans
+ 1. Cation
+2. Monovalent ion
+3. Polyvalent ion
+4. Anion
+Q.5 In December 1991, which act was amended to bring public enterprises
+under the purview of the Board for Industrial and Financial Reconstruction
+(BIFR) as part of the country's economic reforms program?
+Ans
+ 1. Industries Act
+2. Companies Act
+3. Financial Rehabilitation Act
+4. Sick Industrial Companies Act
+Q.6 Which theory, independently introduced in 1923, led to the concept of acid-
+base conjugate pairs?
+Ans 1. Brønsted-Lowry theory
+2. Arrhenius theory
+3. Davy's theory
+4. Lewi's theory
+Q.7 Who mentioned ecosystem as 'the basic unit in ecology' in 1956?
+Ans
+ 1. Aldo Leopold
+2. Rachel Carson
+3. John Harper
+4. Francis Evans
+Q.8 Identify the naturally occurring aluminum oxide mineral that usually forms
+hexagonal barrel-shaped prisms.
+Ans 1. Corundum
+2. Dolomite
+3. Olivine
+4. Chalcopyrite
+Q.9 The Bharatmala project of the Government of India comes under which of
+the following Ministries of India?
+Ans
+ 1. Ministry of Ports Shipping and Waterways
+2. Ministry of Environment and Forest and Climate Change
+3. Ministry of Home Affairs
+4. Ministry of Road Transport and Highways
+Q.10 Mathura was the second capital of ________ dynasty.
+Ans
+ 1. Gupta
+2. Maurya
+3. Kushana
+4. Maukhri
+Q.11 Which of the following statements is/are correct?
+Statements:
+1) Ampere's Law describes the relationship between electric current and
+the magnetic field it produces.
+2) Maxwell's equations are a set of four fundamental equations governing
+electric and magnetic fields in the absence of charges and currents.
+Ans
+ 1. Only Statement 2
+2. Neither Statement 1 nor 2
+3. Both Statements 1 and 2
+4. Only Statement 1
+Q.12 Charcot-Marie-Tooth disease is caused by duplication of the peripheral
+myelin protein-22 (PMP22) gene on which chromosome?
+Ans
+ 1. chromosome 21
+2. chromosome 15
+3. chromosome 8
+4. chromosome 17
+Q.13 Which portal allowed stakeholders seamless access to information related
+to funding, documentation, project monitoring, and approval through four
+efficient ways of logging in for monitoring the implementation of Centrally
+Sponsored Schemes in 2023?
+Ans
+1. Digital India Portal
+2. Viksit Bharat Portal
+3. Nyaya Vikas Portal
+4. Pradhan Mantri Jan bhagidari Yojana Portal
+Q.14 Who among the following was the first Home Minister of Independent
+India?
+Ans 1. Sardar Vallabh Bhai Patel
+2. Humayun Kabir
+3. Maulana Abdul Kalam Azad
+4. Baldev Singh
+Q.15 What was the status of the agricultural sector in India before the Green
+Revolution?
+Ans 1. Use of old technology and the absence of required infrastructure
+2. Use of advanced technology and high productivity
+3. Use of advanced technology and dependency on rainfall
+4. Use of traditional technology and the abundance of required infrastructure
+Q.16 In which year did Walter Fleming stain the chromosomes to see them
+clearly and describe the entire process of mitosis?
+Ans
+ 1. 1780
+2. 1901
+3. 1882
+4. 1956
+Q.17 Which of the following Constitutional Amendment Acts made the president
+bound by the advice of the council of ministers headed by the prime
+minister?
+Ans
+ 1. 40th
+2. 46th
+3. 48th
+4. 42nd
+Q.18 Match the books in List 1 with their authors in List 2.
+List 1 List 2
+A. The Philosophy of the Bomb 1. Sachindranath Sanyal
+B. Bandi Jiwan 2. Bankim Chandra Chattopadhyay
+C. Pather Dabi 3. Bhagwati Charan Vohra
+D. Anandmath 4. Sarat Chandra Chattopadhyay
+Ans 1. A-3, B-1, C-4, D-2
+2. A-4, B-3, C-2, D-1
+3. A-3, B-1, C-2, D-4
+4. A-1, B-3, C-4, D-2
+Q.19 The rotating columns of air that occur over water bodies and are generally
+less severe than land tornadoes are known as:
+Ans
+ 1. hurricanes
+2. waterspouts
+3. squalls
+4. typhoons
+Q.20 In which of the following cases did the Supreme Court direct that, 'the
+Parliament cannot take away or abridge any of the fundamental rights for
+the Implementation of Directive Principles'?
+Ans
+ 1. Minerva Mills Case, 1980
+2. Keshvanand Bharti Case, 1973
+3. Indira Sawhney Case, 1992
+4. Golak Nath Case, 1967
+Q.21 Who urged political parties to engage in discussions that inspire unity
+rather than division and promote ideas instead of personal attacks in the
+address on the eve of National Voters Day in January 2024?
+Ans
+ 1. Prime Minister Narendra Modi
+2. Union Home Minister Amit Shah
+3. Chief Election Commissioner Rajiv Kumar
+4. President Droupadi Murmu
+Q.22 Who won the title at the World Chess Armageddon Asia & Oceania event in
+April 2023?
+Ans 1. D Gukesh
+2. P Harikrishna
+3. Koneru Humpy
+4. Viswanathan Anand
+Q.23 Select the option that is true regarding the following two statements
+labelled Assertion (A) and Reason (R).
+A. The first battle of Panipat was one of the decisive battles of India.
+R. It brought into power a new band of invaders called Mughals.
+Ans
+ 1. Statements A and R are true, but R is not the correct explanation of A.
+2. Statements A and R are true, and R is the correct explanation of A.
+3. R is true, but A is false.
+4. A is true, but R is false.
+Q.24 In the year 2020, National Digital Health Mission was launched on which of
+the following occasions?
+Ans 1. Independence Day
+2. Republic Day
+3. Gandhi Jayanti
+4. Diwali
+Q.25 Which Indian city experiences the LEAST difference in average
+temperature between its hottest and coldest months?
+Ans 1. Mumbai
+2. Srinagar
+3. Bhopal
+4. Delhi
+Section : Module I Computer Knowledge Module
+Q.1 Which of the following technologies allows real-time communication over
+the Internet, such as voice and video calls, without requiring additional
+software or hardware beyond a web browser?
+Ans
+ 1. FTP
+2. VoIP
+3. WebRTC
+4. Email
+Q.2 What is the primary advantage of being able to insert and delete slides in
+an MS PowerPoint presentation?
+Ans
+ 1. To enable the addition of multimedia content
+2. To allow for dynamic content adjustment and organisation
+3. To enhance slide transitions
+4. To apply different templates to individual slides
+Q.3 Which method is used to protect sensitive information during data
+transmission?
+Ans
+ 1. Decryption
+2. Secure Socket Layer (SSL)
+3. Compression
+4. Hashing
+Q.4 Which is the correct keyboard shortcut for adjusting the column width in
+MS Excel?
+Ans
+ 1. Shift + H + O + W
+2. Alt + H + O + W
+3. Ctrl + O + W + H
+4. Ctrl + H + O + W
+Q.5 Which action should be taken in Microsoft Outlook to send a received
+email to another person, while keeping the original message for your
+records?
+Ans
+ 1. Use the 'Archive' option and create a new email.
+2. Open the email, click on 'Forward', and enter the recipient's email address.
+3. Click on 'Reply' and add the new recipient's email address.
+4. Click on 'Reply All' and select 'Forward' from the options.
+Q.6 What security mechanism ensures that system updates are installed
+without user intervention?
+Ans 1. Patch management software
+2. Firewall
+3. Secure Boot
+4. Intrusion Detection System
+Q.7 Which keyboard shortcut is used for adding bullets in MS Word 2010?
+Ans
+ 1. Ctrl + Alt + L
+2. Ctrl + L
+3. Shift + L
+4. Ctrl + Shift + L
+Q.8 Which device is commonly used to connect computers within a LAN?
+Ans
+ 1. Modem
+2. Router
+3. Switch
+4. Repeater
+Q.9 What is the primary reason DRAM needs to be refreshed periodically?
+Ans
+ 1. To prevent data corruption caused by magnetic fields
+2. To recharge the capacitors storing data bits
+3. To clear unused data
+4. To allow the CPU to access new data
+Q.10 Which type of virus infects the boot sector of floppy disks or the Master
+Boot Record (MBR) of hard disks?
+Ans
+ 1. Direct Action Virus
+2. Resident Virus
+3. Macro Virus
+4. Boot Sector Virus
+Q.11 Which feature in MS Word allows the user to apply a consistent look across
+text elements such as headings, titles and subtitles?
+Ans
+ 1. Template
+2. Styles
+3. Table
+4. Macros
+Q.12 What is the main purpose of using a template when creating a presentation
+in MS PowerPoint?
+Ans 1. To ensure consistency and professionalism
+2. To automatically insert multimedia content
+3. To add complex animations easily
+4. To create interactive quizzes within slides
+Q.13 Which of the following best describes Electronic Mail (E-mail)?
+Ans 1. A method of sending messages electronically over a computer network.
+2. A system for storing digital files on the cloud.
+3. A type of secure online transaction system.
+4. A service used to make phone calls over the internet.
+Q.14Match the Task Manager tabs in column A with their
+respective functionalities in column B.
+Column A Column B
+1. Processes a) Monitors overall CPU, memory, disk, and
+network usage
+2. Performance b) Displays active applications and
+background processes
+3. Startup c) Manages programs that run during system
+startup
+4. App History d) Shows resource usage for Windows Store
+apps
+Ans
+ 1. 1-d, 2-b, 3-a, 4-c
+2. 1-c, 2-b, 3-d, 4-a
+3. 1-a, 2-c, 3-b, 4-d
+4. 1-b, 2-a, 3-c, 4-d
+Q.15 Which operation can one directly perform using File Explorer in Windows?
+Ans
+ 1. Run diagnostic tests
+2. Modify system settings
+3. Move, copy, or delete files
+4. Manage user accounts
+Q.16 Which of the following statements about computer memory is/are correct?
+RAM is volatile memory, meaning it loses data when power is turned off.
+ROM is used to store essential instructions required for the computer to
+boot.
+Ans
+ 1. Neither 1 nor 2
+2. Only 1
+3. Both 1 and 2
+4. Only 2
+Q.17 Select which of the given statement(s) is/are True or False for the Central
+Processing Unit (CPU) of the Computer Systems.
+(i) The CPU's clock speed controls the timing and execution speed of
+instructions.
+(ii) The CPU's cache memory provides high-speed access to frequently
+used instructions and data.
+Ans 1. (i) True, (ii) True
+2. (i) False, (ii) True
+3. (i) False, (ii) False
+4. (i) True, (ii) False
+Q.18 Which of the following is an example of a type of ROM that can be
+electronically erased and reprogrammed multiple times?
+Ans 1. EEPROM
+2. PROM
+3. EPROM
+4. Mask ROM
+Q.19 Match the file locating features in column A with their corresponding
+functionalities in column B.
+Column A Column B
+1. Search Bar a) Displays files and folders recently accessed
+2. Quick Access b) Allows grouping and sorting of files by attributes
+3. Wildcards c) Refines searches for files with partial names
+4. File Sorting d) Locates files and folders by typing keywords
+Ans
+1. 1-b, 2-d, 3-a, 4-c
+2. 1-a, 2-c, 3-b, 4-d
+3. 1-c, 2-b, 3-a, 4-d
+4. 1-d, 2-a, 3-c, 4-b
+Q.20 What is the maximum length of characters that can be accommodated in a
+column in MS Excel 2003?
+Ans
+ 1. 512 characters
+2. 65536 characters
+3. 1064 characters
+4. 255 characters
+
+Q.1
+Ans
+ 1. 1320
+2. 1310
+3. 1330
+4. 1300
+Q.2 A tank when full can be emptied by an outlet pipe A in 5.6 hours, while an
+inlet pipe B can fill the same empty tank in 7 hours. If pipes A and B are
+turned on alternatively for 1 hour each starting with pipe A when the tank is
+full, how long will it take to empty the tank?
+Ans
+1. 56 hours
+2. 55 hours
+3. 48 hours
+4. 47 hours
+Combined Graduate Level Examination 2024 Tier II
+Roll Number
+Candidate Name
+Venue Name iON Digital Zone iDZ 2 Mathura Road
+Exam Date 20/01/2025
+Exam Time 9:00 AM - 12:00 PM
+Subject CGLE 2024 Tier II Paper I
+Section : Module I Mathematical Abilities
+ 
+Q.3
+Ans
+ 1. 15 : 21
+2. 20 : 21
+3. 21 : 10
+4. 10 : 21
+Q.4
+Ans
+ 1. 16 cm
+2. 20 cm
+3. 18 cm
+4. 14 cm
+Q.5
+Ans
+ 1. 51
+2. 42
+3. 44
+4. 43
+Q.6
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.7 The average of first 92 even numbers is
+Ans
+ 1. 94
+2. 92
+3. 93
+4. 91
+Q.8
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.9 Let PQR be a right angled triangle, right-angled at R. Let PQ = 29 cm, QR =
+21 cm and ∠Q = θ. Find the value of cos 2 θ – sin 2 θ.
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.10
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.11 Which number among 38211, 38121, 32118, and 31128 is divisible by 24?
+Ans
+ 1. 32118
+2. 38121
+3. 38211
+4. 31128
+Q.12 P and Q take part in 400 m race. P runs at 12 km/hr. P gives Q a start of 20
+m and still beats him by 13 seconds. The speed of Q is:
+(Round up to two decimal places.)
+Ans
+ 1. 10.87 km/hr
+2. 10.29 km/hr
+3. 11.38 km/hr
+4. 11.61 km/hr
+Q.13 The ratio of the ages of two friends is 4 : 3 which will become 6 : 5 after 4
+years. What will be the sum of their ages (in years) after 22 years from
+now?
+Ans
+ 1. 50
+2. 52
+3. 56
+4. 58
+Q.14
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.15 A man sells a mobile phone for ₹680 and loses something. If he had sold it
+for ₹1070, his gain would have been double the former loss. The cost price
+(in ₹) of the mobile phone is:
+Ans
+ 1. 820
+2. 830
+3. 810
+4. 800
+Q.16 If the diameter of the base of a cone is 56 cm and its curved surface area is
+3080 cm2, then what will be its volume (in cm3)? (Use π = 22/7)
+Ans
+ 1. 12250
+2. 14670
+3. 17248
+4. 15391
+Q.17
+Ans 1. Independent
+2. Not Mutually Exclusive
+3. Dependent
+4. Mutually Exclusive
+Q.18Find the median of the following data.
+Class interval  0 – 20 20 – 40 40 – 60 60 – 80 80 - 100
+Frequency  9 16 24 15 4
+Ans
+ 1. 55
+2. 50
+3. 58
+4. 47.5
+Q.19 Two years ago, the population of a town was 9487500. Due to migration to
+big cities, it decreases every year at the rate of 8%. The present population
+of the town is:
+Ans
+ 1. 8070120
+2. 8030220
+3. 9060110
+4. 7060320
+Q.20
+Adi and Dia together have ₹1,440. If  of Adi's amount is equal to  of
+Dia's amount, how much amount does Dia have?
+Ans
+ 1. ₹464
+2. ₹540
+3. ₹512
+4. ₹480
+Q.21
+Ans1. 
+2. 
+3. 
+4. 
+Q.22 8 kg of maize costing ₹51 per kg, is mixed with 9 kg of maize costing ₹68
+per kg. The average per kg price of mixed maize is:
+Ans 1. ₹60
+2. ₹61
+3. ₹59
+4. ₹58
+Q.23 Find the simple interest (in ₹) on ₹2000 at 6.5% per annum rate of interest
+for the period from 13 February 2023 to 27 April 2023
+Ans
+ 1. 24
+2. 25
+3. 26
+4. 27
+Q.24 The age of some students is given in years as 12, 13, 16, 18,14, 19, 13, 17,
+15 and 11. The median age (in years) of the students is:
+Ans
+ 1. 14
+2. 14.5
+3. 13.5
+4. 15
+Q.25 Murlidhar, the owner of a grocery store, offers a discount scheme 'buy 5
+water bottles get 1 for free' to his customers. What is the effective
+percentage discount offered by Murlidhar? (correct up to two decimal
+places)
+Ans
+1. 13.33%
+2. 16.67%
+3. 13.67%
+4. 20.00%
+Q.26
+Ans
+ 1. 8 years
+2. 12 years
+3. 20 years
+4. 16 years
+Q.27 Amit gets 6% increase in his sale amount in the first year and 20% in the
+second year, with that his present sale is ₹254400, what was his sale (in ₹)
+two years ago?
+Ans
+ 1. 240000
+2. 180000
+3. 200000
+4. 212000
+Q.28
+Ans
+ 1. 20.65
+2. 17.70
+3. 18.25
+4. 24.12
+Q.29 In a circle with centre O, an arc ABC subtends an angle of 134° at the
+centre of the circle. The chord AB is produced to a point P. ∠CBP is equal
+to:
+Ans
+ 1. 45°
+2. 67°
+3. 89°
+4. 113°
+Q.30 The ratio between the length and the breadth of a rectangular park is 3 : 2,
+and the perimeter of the park is 120 m. Find the area (in m2) of the park.
+Ans
+ 1. 968
+2. 454
+3. 144
+4. 864
+Q.1 Identify the figure given in the options which when put in place of the
+question mark (?) will logically complete the series.
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.2 A question is followed by two statements numbered (I) and (II). You have to
+decide whether the data provided in the statements are sufficient to answer
+the question. Read both the statements and select the appropriate option.
+Question:
+Shourya delivered parcels to five locations A, B, C, D and E while
+prioritising delivery of heavier parcels first. Which location was delivered in
+the end?
+Statements:
+(I) The parcel for location C was heavier than all other parcels.
+(II) The parcel for location D was lighter than the parcels assigned to
+locations B and A.
+Ans
+1. Data in statements (I) and (II) together are sufficient to answer the question.
+2. Data in statement (II) alone is sufficient to answer the question, whereas data in
+statement (I) alone is not.
+3. Data in statement (I) alone is sufficient to answer the question, whereas data in
+statement (II) alone is not.
+4. Data in statements (I) and (II) together are not sufficient to answer the question.
+Q.3 Read the following information and answer the question which follows.
+“Like seasoned gardeners, Gardener G practices crop rotation to maintain
+soil fertility, leading to thriving and diverse plant growth."
+Which of the following can be inferred from the given statement? (An
+inference is something which is not directly stated but can be derived from
+the given facts/information in the statement)
+1. The thriving and diverse plant growth in Gardener G's garden is likely
+influenced by the practice of crop rotation.
+2. Gardener G is consulted by other gardeners in the area for best
+gardening practices.
+Ans 1. Only (I) can be inferred.
+2. Both (I) and (II) can be inferred.
+3. Only (II) can be inferred.
+4. Neither (I) nor (II) can be inferred.
+Q.4 Four number-pairs have been given, out of which three are alike in some
+manner and one is different. Select the one that is different.
+(NOTE: Operations should be performed on the whole numbers, without
+breaking down the numbers into their constituent digits. E.g. 13 –
+Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be
+performed. Breaking down 13 into 1 and 3 and then performing
+mathematical operations on 1 and 3 is not allowed.)
+Ans
+ 1. 286 - 11
+2. 104 - 4
+3. 494 - 19
+4. 521 - 20
+Marked For Review
+Q.5 In a certain code language, ‘CURB’ is coded as ‘3517’ and ‘BOAT’ is coded
+as ‘4638’. What is the code for ‘B’ in the given code language?
+Ans
+ 1. 4
+2. 8
+3. 3
+4. 7
+Q.6 Select the option figure that will replace the question mark (?) in the figure
+given below to complete the pattern.
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.7 Select the option figure in which the given figure is embedded as its part
+(rotation is NOT allowed).
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.8 What will come in the place of the question mark (?) in the following
+equation, if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?
+98 ÷ 7 + 288 × 2 − 144 × 3 − 152 ÷ 2 + 120 = ?
+Ans 1. 774
+2. 671
+3. 632
+4. 743
+Q.9 Select the number from among the given options that can replace the
+question mark (?) in the following series.
+98, 50, 26, 14, ?, 5
+Ans
+ 1. 10 
+2. 7 
+3. 6
+4. 8 
+Q.10
+Ans 1. One
+2. Four
+3. Three
+4. Two
+Marked For Review
+Q.11 Select the correct option that indicates the arrangement of the following
+words in a logical and meaningful order.
+1. Set goals 2. Budget 3. Review 4. Invest 5. Assess
+Ans 1. 1, 5, 2, 4, 3
+2. 5, 2, 4, 3, 1
+3. 3, 5, 1, 2, 4
+4. 5, 1, 2, 3, 4
+Q.12 A question is given, followed by two statements labelled I and II. Identify
+which of the statements is/are sufficient to answer the question.
+Question:
+Five houses of five different colours (blue, green, yellow, red and violet),
+with equal space between every two adjacent houses, are constructed in a
+row facing north. Which coloured house is exactly in the middle of the
+row?
+Statements:
+(I) Green and yellow coloured houses are constructed at the extreme ends
+of the row.
+(II) Violet and blue coloured houses are immediate neighbouring houses of
+green and yellow coloured houses, respectively.
+Ans
+1. Data in Statements I and II together is not sufficient to answer the question
+2. Data in Statement I alone is sufficient to answer the question while data in Statement
+II is not
+3. Data in Statement II alone is sufficient to answer the question while data in Statement
+I is not
+4. Data in Statements I and II together is sufficient to answer the question
+Q.13 In a certain code language,
+P + Q means ‘P is the mother of Q’,
+P – Q means ‘P is the brother of Q’,
+P x Q means ‘P is the wife of Q’ and
+P ÷ Q means ‘P is the father of Q’.
+Based on the above, how is U related to Z if ‘U – V + W ÷ Y x Z’?
+Ans 1. Wife's Father's Mother's Brother
+2. Wife's Mother's Mother's Brother
+3. Wife's Mother's Mother's Father
+4. Wife's Father's Mother's Father
+Q.14 Given below is a statement (Cause) followed by possible effects numbered
+I, II and III. Read the ‘Cause’ carefully and decide which of the three can be
+possible effect/s.
+Cause – Heavy rains yesterday in City X have caused flooding in many
+areas including the railway station and airport.
+Effect I – Railways has announced a delay in the departure of three trains
+scheduled to start from City X this morning.
+Effect II – A number of flights were unable to land in the airport of City X
+last evening.
+Effect III – Finance ministry has extended the date for filing tax returns by a
+month.
+Ans
+1. Only II is a possible effect.
+2. Both II and III are possible effects.
+3. Both I and II are possible effects.
+4. Only I is a possible effect.
+Q.15Paras ranked 5th from the top and 24th from the bottom in his class. How
+many students are there in his class?
+Ans
+ 1. 27
+2. 26
+3. 29
+4. 28
+Q.16 Which of the following letter-clusters should replace # and % so that the
+pattern and relationship followed between the letter-cluster pair on the left
+side of :: is the same as that on the right side of ::?
+# : ORW :: RUZ : %
+Ans
+ 1. # = UYD % = KNS
+2. # = VYD % = LNS
+3. # = VYD % = KNS
+4. # = VYD % = KNK
+Q.17 In a certain code language,
+A + B means ‘A is the mother of B’,
+A – B means ‘A is the brother of B’,
+A x B means ‘A is the wife of B’ and
+A ÷ B means ‘A is the father of B’.
+Based on the above, how is U related to Z if ‘U – V x W ÷ Y + Z’?
+Ans
+ 1. Mother's father's father
+2. Mother's father's brother
+3. Mother's mother's brother
+4. Mother's mother's father
+Q.18
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.19 Seven people A, B, C, D, E, F and G, scored different marks (out of 100) in
+an exam. G scored the lowest marks. B scored second highest marks,
+which were 80. A scored 72. E scored more than F but less than C. Marks
+scored by C were a multiple of 11 and less than 70. The sum of marks
+scored by C and F was 120. What is the score of F?
+Ans
+1. 56
+2. 50
+3. 54
+4. 55
+Q.20Each  of the digits in  the number 3571869 is arranged in
+ascending order from left to right. The position(s) of how many
+digits will remain unchanged as compared to that/those in the
+original number?
+Ans
+ 1. Two
+2. One
+3. None
+4. Three
+Q.21 Three of the following four pairs are alike in a certain way and thus form a
+group. Which is the pair that does not belong to that group?
+Ans
+ 1. ₹¥$£ - Currency
+2. ABCD - Letters
+3. ×+−÷ - Text
+4. 1234 - Numbers
+Q.22 Figure A is related to B in a certain pattern. Following the same pattern,
+figure C is related to D. Study the pattern and select the figure which
+should be placed in place of D.
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.23 Read the given statements and conclusions carefully. Assuming that the
+information given in the statements is true, even if it appears to be at
+variance with commonly known facts, decide which of the given
+conclusion(s) logically follow(s) from the statements.
+Statements:
+All dolls are robots.
+Some robots are toys.
+Some toys are cycles.
+Conclusions:
+(I) Some toys are dolls.
+(II) No cycle is a robot.
+Ans
+1. Only conclusion (II) is true.
+2. Only conclusion (I) is true.
+3. Both conclusions (I) and (II) are true.
+4. Neither conclusion (I) nor (II) is true.
+Q.24 In this question, a statement is followed by two courses of action,
+numbered I and II. You must assume everything in the statement to be true
+and on the basis of the information given in the statement, decide which of
+the course of action/s logically follows for pursuing.
+Statement: Many people have complained to the Finance Ministry
+regarding a delay in receiving refunds of their Income Tax returns.
+Courses of action:
+The Finance Ministry must institute an enquiry into the complaints received
+regarding delay in income tax refunds.
+The Finance Ministry must compensate the income tax payees by paying
+interest on their refunds for the duration of the delay.
+Ans
+1. Neither I nor II follows.
+2. Only I follows.
+3. Both I and II follow.
+4. Only II follows.
+Q.25
+Ans
+1. 
+2. 
+3. 
+4. 
+Q.26 17 is related to 159 following a certain logic. Following the same logic, 11 is
+related to 105. To which of the following is 13 related, following the same
+logic?
+(NOTE : Operations should be performed on the whole numbers, without
+breaking down the numbers into its constituent digits. E.g. 13 – Operations
+on 13 such as adding /subtracting / multiplying etc. to 13 can be performed.
+Breaking down 13 into 1 and 3 and then performing mathematical
+operations on 1 and 3 is not allowed.)
+Ans
+1. 116
+2. 103
+3. 123
+4. 109
+Q.27 Four of the following five figures are alike in a certain way and thus form a
+group. Which is the one that does NOT belong to that group?
+Ans
+ 1. D
+2. B
+3. A
+4. E
+Q.28 In a certain code language, ‘he enjoys music’ is coded as ‘lo po jo’ and
+‘music and dance’ is coded as ‘kb jo fk’. How is ‘music’ coded in the given
+language?
+Ans 1. jo
+2. po
+3. lo
+4. fk
+Q.29 Select the correct option that indicates the arrangement of the following
+words in a logical and meaningful order.
+1. Plant
+2. Pollination
+3. Seed
+4. Seedling
+5. Fruit
+Ans 1. 3, 4, 1, 2, 5
+2. 3, 4, 1, 5, 2
+3. 4, 1, 2, 5, 3
+4. 4, 3, 1, 2, 5
+Q.30 M, N, O, X, Y and Z are sitting around a circular table facing the centre (but
+not necessarily in the same order). O is an immediate neighbour of Y. Z sits
+second to the right of O. X is the immediate neighbour of both M and N. M
+is not an immediate neighbour of O. Who sits to the immediate left of Y?
+Ans
+1. X
+2. O
+3. N
+4. M
+Section : Module I English Language and Comprehension
+Q.1 Select the option that expresses the given sentence in indirect speech.
+He said, "I shall need a copy of the documents."
+Ans
+ 1. He said that he will need a copy of the documents.
+2. He said that he shall need a copy of the document.
+3. He said that he is going to need a copy of the document.
+4. He said that he would need a copy of the documents.
+Q.2 Sentences of a paragraph are given below. While the first and the last
+sentences (1 and 6) are in the correct order, the sentences in between are
+jumbled up. Arrange the sentences in the correct order to form a
+meaningful and coherent paragraph.
+1. There are some backward areas in Andhra Pradesh.
+A. Rayalaseema is one of them.
+B. Massive degradation of natural resources and extensive changes in land
+use have resulted in poor crop productivity in Rayalaseema.
+C. The National Soil Survey and Land use planning organisation is doing
+its job by giving suggestions to the farmers of Rayalaseema.
+D. Soil Organic Carbon (SOC), which is crucial for maintaining soil quality,
+has decreased by 84% in the region. Poor soil fertility and soil degradation,
+like in Rayalaseema region, are the major causes of food shortage.
+6. The advice is about which crops are to be cultivated and which not.
+Ans
+1. CBAD
+2. DCBA 
+3. CDBA 
+4. ABDC 
+Q.3 Select the most appropriate option that can substitute the underlined
+words in the given sentence.
+The nation has chosen the government by the people over
+monarchy.
+Ans 1. democracy
+2. oligarchy
+3. theocracy
+4. autocracy
+Q.4 Select the most appropriate ANTONYM of the given word.
+Thrifty
+Ans 1. Extravagant
+2. Thankful
+3. Intolerant
+4. Indifferent
+Q.5 Select the most appropriate idiom to fill in the blank.
+A lot of people are still ______ over the GDP issue.
+Ans
+ 1. over the fence
+2. sitting on the fence
+3. by the fence
+4. breaking a leg
+Q.6 Select the most appropriate option to fill in the blank.
+Prescription safety glasses provide the _________________ tailored
+protection for individuals with vision correction needs.
+Ans
+1. finer
+2. more finely
+3. finest
+4. fine
+Q.7 Select the correct spelling of the incorrectly spelt word in the given
+sentence.
+Good characteristics are indispensible to succeed in life.
+Ans
+ 1. Indespensable
+2. Indespensible
+3. Indispenscible
+4. Indispensable
+Q.8 Select the option that can be used as a one-word substitute for the given
+group of words.
+Someone who loves and admires himself the most
+Ans
+ 1.  Recluse
+2. Narcissist 
+3. Altruist
+4. Omniscient 
+Q.9 A sentence has been split up into segments and given below in jumbled
+order. While the first and the last segments of the sentence (1 and 6) are in
+the correct order, the segments in between are jumbled up. Arrange the
+segments in the correct order to form a meaningful and coherent sentence.
+1) An outstanding feature of the 21st century has been
+P) greater security and education which
+Q) the improvement of the income and
+R) living conditions of the
+S) working man leading to
+6) has meant greater political power.
+Ans 1. Q, R, S, P
+2. S, P, Q, R
+3. S, R, Q, P
+4. P, R, Q, S
+Q.10 Parts of a sentence are given below in jumbled order. Arrange the parts in
+the correct order to form a meaningful sentence.
+Through the dense forest, / the hikers / trekked / for hours / before reaching
+/ the mountain peak.
+Ans
+ 1. Through the dense forest for hours trekked the hikers before reaching the mountain
+peak.
+2. The hikers trekked for hours through the dense forest before reaching the mountain
+peak.
+3. Before reaching the mountain peak, the hikers through the dense forest trekked for
+hours.
+4. The hikers for hours through the dense forest trekked before reaching the mountain
+peak.
+Q.11 Select the option that can be used as a one-word substitute for the given
+group of words.
+Someone who walks on foot
+Ans 1. Pedestrian 
+2. Auditor
+3. Decanter
+4. Stalker 
+Q.12 Select the INCORRECTLY spelt word.
+Ans
+ 1. Apparent
+2. Practitionaire
+3. Recommend
+4. Memento
+Q.13 Select the most appropriate option to fill in the blank.
+The blueberries in the basket are blue.
+The denotation of the word ‘blue’ is ___________.
+Ans
+ 1. gloominess
+2. sadness
+3. a colour
+4. negativity
+Q.14 Select the option that expresses the given sentence in reported speech.
+The soldier said to his fellow soldiers, "I have buried our brave comrade
+here.
+Ans 1. The soldier told his fellow soldiers that he had buried their brave comrade there.
+2. The soldier told us that I had buried their brave comrade here.
+3. The soldier told his fellow soldiers that I had buried our brave comrade there.
+4. The soldier told us that he had buried our brave comrade there.
+Q.15 Select the most appropriate ANTONYM of the word given below.
+Ameliorate
+Ans
+ 1. Recondite
+2. Motto
+3. Exacerbate
+4. Succour
+Q.16 Select the option that can be used as a one-word substitute for the given
+group of words.
+Speaking disrespectfully about sacred or religious things
+Ans
+ 1. Biped  
+2. Belligerent
+3. Bigamy
+4. Blasphemy 
+Q.17 Select the option that expresses the following sentence in passive voice.
+After we come to power at the Centre, we will conduct a countrywide caste
+census.
+Ans
+1. A countrywide caste census should be conducted by us when we come to power at
+the Centre.
+2. A countrywide caste census will be conducted by us as and when we come to power
+at the Centre.
+3. A countrywide caste census will be conducted by us after we come to power at the
+Centre.
+4. A countrywide caste census will have been conducted by us after we come to power
+at the Centre.
+Q.18 The following sentence has been split into four segments. Identify the
+segment that contains a grammatical error.
+I, you and she/ have been working happily/ in the same company and in the
+same branch/ for the last nine years.
+Ans
+1. have been working happily
+2. I, you and she
+3. in the same company and in the same branch  
+4. for the last nine years
+Q.19 Select the most appropriate synonym of the given word.
+Charisma
+Ans
+ 1. Reputation
+2. Charm
+3. Atmosphere
+4. Influence
+Q.20Select the option that expresses the given sentence in passive
+voice.
+Scientists have recently discovered a new species of marine life
+in the unexplored depths of the ocean.
+Ans
+ 1. A new species of marine life was recently being discovered in the unexplored depths
+of the ocean by scientists.
+2. A new species of marine life has recently been discovered in the unexplored depths
+of the ocean by scientists.
+3. A new species of marine life had recently been discovered in the unexplored depths
+of the ocean by scientists.
+4. A new species of marine life was recently discovered in the unexplored depths of the
+ocean by scientists.
+Q.21 Select the most appropriate option that can substitute the underlined
+words in the given sentence.
+In the makeshift place of activity, debate or conflict, there were hundreds of
+people with the queen's team of advisors and servants sitting within the
+ring against the wall.
+Ans
+1. dormitory
+2. casino
+3. arena
+4. aviary
+Q.22 Select the most appropriate option to fill in the blank.
+The comedian's jokes were so funny that the entire audience erupted in
+__________.
+Ans
+ 1. latter
+2. later
+3. loiter
+4. laughter
+Q.23 Select the option that expresses the given sentence in indirect speech.
+Kanhaiya said to me, “Do you want to sing?”
+Ans
+ 1. Kanhaiya said that I would sing or not.
+2. Kanhaiya said that whether I would sing.
+3. Kanhaiya asked me if I wanted to sing.
+4. Kanhaiya enquires if I want to sing.
+Q.24 Complete the dialogue for Person B using the correct idiom.
+Person A: We are all going to the club this weekend. Do you want to come?
+Person B: Thank you for asking. But I don’t like clubs. It’s ______.
+Ans
+ 1. my cup of coffee
+2. not my cup of coffee
+3. not my cup of tea
+4. not my cup, not my tea
+Q.25 Select the option that expresses the given sentence in passive voice.
+Don't park your car here.
+Ans
+ 1. Let your car be parked here.
+2. Let not your car be parked here.
+3. Let your car not be parked here.
+4. Have not your car be parked here.
+Q.26 Select the most appropriate option to fill in the blank.
+This is the ___________ book that I have read till now.
+Ans 1. most interesting
+2. more interesting
+3. interesting
+4. better interest
+Q.27 Select the most appropriate article to fill in the blank.
+Rabindranath Tagore, ________ poet, was famous for his poetical work,
+Gitanjali.
+Ans
+ 1. a
+2. the
+3. an
+4. no article required
+Q.28 The given sentence is divided into four segments. Identify the segment that
+contains a grammatical error.
+When I returned to the office, / no work was left / as my friend Rahul / has
+done everything.
+Ans
+ 1. When I returned to the office,
+2. as my friend Rahul
+3. has done everything
+4. no work was left
+Q.29 Select the most appropriate ANTONYM of the given word.
+Melancholy
+Ans
+ 1. Miserable
+2. Pleasant
+3. Profitable
+4. Mechanical
+Comprehension:
+In the following passage, some words have been deleted. Read the passage carefully and
+select the most appropriate option to fill in each blank.
+The greatest disease in the West today is not TB or leprosy; it is being unwanted, unloved,
+and uncared for. We can cure (1)________ diseases with medicine, but the only cure for
+loneliness, despair, and hopelessness is love. There are many in the world who are
+(2)________ for a piece of bread but there are many more dying for a little love. The poverty
+in the West is a different kind of poverty – it is not only a poverty of (3)________ but also of
+(4)________. There's a hunger for affection as there is a hunger for God.
+SubQuestion No : 30
+Q.30 Select the most appropriate option to fill in blank 1.
+Ans
+ 1. masculine
+2. stubborn
+3. radical
+4. physical
+Comprehension:
+In the following passage, some words have been deleted. Read the passage carefully and
+select the most appropriate option to fill in each blank.
+The greatest disease in the West today is not TB or leprosy; it is being unwanted, unloved,
+and uncared for. We can cure (1)________ diseases with medicine, but the only cure for
+loneliness, despair, and hopelessness is love. There are many in the world who are
+(2)________ for a piece of bread but there are many more dying for a little love. The poverty
+in the West is a different kind of poverty – it is not only a poverty of (3)________ but also of
+(4)________. There's a hunger for affection as there is a hunger for God.
+SubQuestion No : 31
+Q.31 Select the most appropriate option to fill in blank 2.
+Ans
+1. neglecting
+2. disregarding
+3. dying
+4. ignoring
+Comprehension:
+In the following passage, some words have been deleted. Read the passage carefully and
+select the most appropriate option to fill in each blank.
+The greatest disease in the West today is not TB or leprosy; it is being unwanted, unloved,
+and uncared for. We can cure (1)________ diseases with medicine, but the only cure for
+loneliness, despair, and hopelessness is love. There are many in the world who are
+(2)________ for a piece of bread but there are many more dying for a little love. The poverty
+in the West is a different kind of poverty – it is not only a poverty of (3)________ but also of
+(4)________. There's a hunger for affection as there is a hunger for God.
+SubQuestion No : 32
+Q.32 Select the most appropriate option to fill in blank 3.
+Ans
+1. lavishness
+2. loneliness
+3. profusion
+4. abundance
+Comprehension:
+In the following passage, some words have been deleted. Read the passage carefully and
+select the most appropriate option to fill in each blank.
+The greatest disease in the West today is not TB or leprosy; it is being unwanted, unloved,
+and uncared for. We can cure (1)________ diseases with medicine, but the only cure for
+loneliness, despair, and hopelessness is love. There are many in the world who are
+(2)________ for a piece of bread but there are many more dying for a little love. The poverty
+in the West is a different kind of poverty – it is not only a poverty of (3)________ but also of
+(4)________. There's a hunger for affection as there is a hunger for God.
+SubQuestion No : 33
+Q.33 Select the most appropriate option to fill in blank 4.
+Ans
+1. covetous
+2. spirituality
+3. educate
+4. materialistic
+Comprehension:
+Read the given passage and answer the questions that follow.
+Reading is an important communication skill that has many benefits and it has great impact
+on a person's life. We should develop a reading habit as it allows us to learn new information
+and gives us access to a wide range of opportunities and ideas. So, reading regularly not only
+broadens our aspect and knowledge but also improves our intelligence, perspective,
+judgement and understanding of the world. It helps to stimulate creativity and imagination, to
+relieve the stress and pressure, and to provide a source of entertainment. The major benefit
+of reading is to develop the analytical and critical skills of a reader. The former involves
+gathering information and breaking it down into parts for better understanding, while the latter
+involves evaluating the same information and making judgments based on evidence. Reading
+a book or any content improves our language and vocabulary, so we can easily comprehend
+the words and their use in the context. It also helps in cognitive development in young
+children so at the primary level, children are more involved in reading rather than writing.
+SubQuestion No : 34
+Q.34 Cognitive development in a child is related to:
+Ans
+1. social development
+2. mental development
+3. environmental development
+4. technical development
+Comprehension:
+Read the given passage and answer the questions that follow.
+Reading is an important communication skill that has many benefits and it has great impact
+on a person's life. We should develop a reading habit as it allows us to learn new information
+and gives us access to a wide range of opportunities and ideas. So, reading regularly not only
+broadens our aspect and knowledge but also improves our intelligence, perspective,
+judgement and understanding of the world. It helps to stimulate creativity and imagination, to
+relieve the stress and pressure, and to provide a source of entertainment. The major benefit
+of reading is to develop the analytical and critical skills of a reader. The former involves
+gathering information and breaking it down into parts for better understanding, while the latter
+involves evaluating the same information and making judgments based on evidence. Reading
+a book or any content improves our language and vocabulary, so we can easily comprehend
+the words and their use in the context. It also helps in cognitive development in young
+children so at the primary level, children are more involved in reading rather than writing.
+SubQuestion No : 35
+Q.35 Which skill is used by a reader when he gathers information and breaks it
+down in a logical pattern to solve a problem?
+Ans
+1. Speaking skill
+2. Analytical skill
+3. Reasoning skill
+4. Critical skill
+Comprehension:
+Read the given passage and answer the questions that follow.
+Reading is an important communication skill that has many benefits and it has great impact
+on a person's life. We should develop a reading habit as it allows us to learn new information
+and gives us access to a wide range of opportunities and ideas. So, reading regularly not only
+broadens our aspect and knowledge but also improves our intelligence, perspective,
+judgement and understanding of the world. It helps to stimulate creativity and imagination, to
+relieve the stress and pressure, and to provide a source of entertainment. The major benefit
+of reading is to develop the analytical and critical skills of a reader. The former involves
+gathering information and breaking it down into parts for better understanding, while the latter
+involves evaluating the same information and making judgments based on evidence. Reading
+a book or any content improves our language and vocabulary, so we can easily comprehend
+the words and their use in the context. It also helps in cognitive development in young
+children so at the primary level, children are more involved in reading rather than writing.
+SubQuestion No : 36
+Q.36 According to the passage, what is the role of reading?
+Ans
+1. To give strength to the body
+2. To learn new information to avail opportunity
+3. To not to share information
+4. To make environment healthy
+Comprehension:
+Read the given passage and answer the questions that follow.
+Reading is an important communication skill that has many benefits and it has great impact
+on a person's life. We should develop a reading habit as it allows us to learn new information
+and gives us access to a wide range of opportunities and ideas. So, reading regularly not only
+broadens our aspect and knowledge but also improves our intelligence, perspective,
+judgement and understanding of the world. It helps to stimulate creativity and imagination, to
+relieve the stress and pressure, and to provide a source of entertainment. The major benefit
+of reading is to develop the analytical and critical skills of a reader. The former involves
+gathering information and breaking it down into parts for better understanding, while the latter
+involves evaluating the same information and making judgments based on evidence. Reading
+a book or any content improves our language and vocabulary, so we can easily comprehend
+the words and their use in the context. It also helps in cognitive development in young
+children so at the primary level, children are more involved in reading rather than writing.
+SubQuestion No : 37
+Q.37 Which skill is used by a reader when he evaluates the same information
+and makes judgments based on evidence?
+Ans
+1. Analytical skill
+2. Drawing skill
+3. Technical skill
+4. Critical skill
+Comprehension:
+Read the given passage and answer the questions that follow.
+The extraction of indigo dye involves harvesting the small, green leaves of the Indigofera
+plant before its flowers bloom. These leaves undergo a process of soaking in water and
+churning until a navy blue froth is released. The upper portion of the resulting mixture is
+drained for irrigation, while the leaves are repurposed as fertilizer. After allowing the water
+and fine sediment to settle for a day, the liquid is separated from the sediment. The obtained
+deep blue paste is then subjected to filtration to remove dirt and impurities, followed by
+compression into cakes and drying for several days. Once dried, the indigo is ready for use as
+a dye. Lime (Ca(OH) ₂) can be added to the initial water and leaves mixture, and various
+natural sugars can be dissolved into the paste to enhance the extraction process.
+SubQuestion No : 38
+Q.38 Select the most appropriate synonym of the word 'impurities' from the
+options given below.
+Ans
+1. cleanliness
+2. purity
+3. scum
+4. pureness
+Comprehension:
+Read the given passage and answer the questions that follow.
+The extraction of indigo dye involves harvesting the small, green leaves of the Indigofera
+plant before its flowers bloom. These leaves undergo a process of soaking in water and
+churning until a navy blue froth is released. The upper portion of the resulting mixture is
+drained for irrigation, while the leaves are repurposed as fertilizer. After allowing the water
+and fine sediment to settle for a day, the liquid is separated from the sediment. The obtained
+deep blue paste is then subjected to filtration to remove dirt and impurities, followed by
+compression into cakes and drying for several days. Once dried, the indigo is ready for use as
+a dye. Lime (Ca(OH) ₂) can be added to the initial water and leaves mixture, and various
+natural sugars can be dissolved into the paste to enhance the extraction process.
+SubQuestion No : 39
+Q.39 In the extraction process described, what is the purpose of allowing the
+water and fine sediment at the bottom of the tank to settle for a day?
+Ans
+1. To enhance the aroma of the indigo dye
+2. To create a unique texture in the final indigo paste
+3. To facilitate the separation of liquid from sediment
+4. To promote the growth of additional indigo leaves
+Comprehension:
+Read the given passage and answer the questions that follow.
+The extraction of indigo dye involves harvesting the small, green leaves of the Indigofera
+plant before its flowers bloom. These leaves undergo a process of soaking in water and
+churning until a navy blue froth is released. The upper portion of the resulting mixture is
+drained for irrigation, while the leaves are repurposed as fertilizer. After allowing the water
+and fine sediment to settle for a day, the liquid is separated from the sediment. The obtained
+deep blue paste is then subjected to filtration to remove dirt and impurities, followed by
+compression into cakes and drying for several days. Once dried, the indigo is ready for use as
+a dye. Lime (Ca(OH) ₂) can be added to the initial water and leaves mixture, and various
+natural sugars can be dissolved into the paste to enhance the extraction process.
+SubQuestion No : 40
+Q.40 What is the overall tone of the passage?
+Ans 1. Informative and instructional
+2. Emotional and sentimental
+3. Critical and analytical
+4. Humorous and light-hearted
+Comprehension:
+Read the given passage and answer the questions that follow.
+The extraction of indigo dye involves harvesting the small, green leaves of the Indigofera
+plant before its flowers bloom. These leaves undergo a process of soaking in water and
+churning until a navy blue froth is released. The upper portion of the resulting mixture is
+drained for irrigation, while the leaves are repurposed as fertilizer. After allowing the water
+and fine sediment to settle for a day, the liquid is separated from the sediment. The obtained
+deep blue paste is then subjected to filtration to remove dirt and impurities, followed by
+compression into cakes and drying for several days. Once dried, the indigo is ready for use as
+a dye. Lime (Ca(OH) ₂) can be added to the initial water and leaves mixture, and various
+natural sugars can be dissolved into the paste to enhance the extraction process.
+SubQuestion No : 41
+Q.41 What is the central theme of the passage describing the extraction process
+of indigo dye from the Indigofera plant?
+Ans
+1. The cultivation and growth cycle of the Indigofera plant
+2. The various uses of indigo dye in different industries
+3. The impact of lime and natural sugars on the indigo extraction process
+4. The intricate process of harvesting and processing indigo leaves
+Comprehension:
+Read the given passage and answer the questions that follow.
+Engaging in regular physical activity is not only beneficial for physical well-being but also has
+a profound impact on mental health. Studies have shown that exercise releases endorphins,
+chemicals in the brain that act as natural painkillers and mood elevators. Additionally,
+consistent exercise has been linked to reduced symptoms of anxiety and depression.
+Contrary to common misconceptions, it doesn't require intense workouts; even moderate
+activities like walking or yoga can contribute to improved mental well-being. Making exercise
+a regular part of one's routine not only supports physical fitness but also nurtures a positive
+and resilient mindset.
+SubQuestion No : 42
+Q.42Which of the following is a fact mentioned in the 
+passage?
+Ans 1. Exercise releases endorphins, contributing to improved mental well-being.
+2. Exercise requires intense workouts for mental health benefits.
+3. Regular exercise has no impact on mental health.
+4. Only intense physical activities are linked to reduced anxiety and depression.
+Comprehension:
+Read the given passage and answer the questions that follow.
+Engaging in regular physical activity is not only beneficial for physical well-being but also has
+a profound impact on mental health. Studies have shown that exercise releases endorphins,
+chemicals in the brain that act as natural painkillers and mood elevators. Additionally,
+consistent exercise has been linked to reduced symptoms of anxiety and depression.
+Contrary to common misconceptions, it doesn't require intense workouts; even moderate
+activities like walking or yoga can contribute to improved mental well-being. Making exercise
+a regular part of one's routine not only supports physical fitness but also nurtures a positive
+and resilient mindset.
+SubQuestion No : 43
+Q.43Determine the tone of the passage by choosing the 
+option that reflects the overall emotional quality of the 
+writing.
+Ans
+ 1. Critical
+2. Humorous
+3. Informative
+4. Dramatic
+Comprehension:
+Read the given passage and answer the questions that follow.
+Engaging in regular physical activity is not only beneficial for physical well-being but also has
+a profound impact on mental health. Studies have shown that exercise releases endorphins,
+chemicals in the brain that act as natural painkillers and mood elevators. Additionally,
+consistent exercise has been linked to reduced symptoms of anxiety and depression.
+Contrary to common misconceptions, it doesn't require intense workouts; even moderate
+activities like walking or yoga can contribute to improved mental well-being. Making exercise
+a regular part of one's routine not only supports physical fitness but also nurtures a positive
+and resilient mindset.
+SubQuestion No : 44
+Q.44Select the option that provides an accurate summary of 
+the main points discussed in the passage.Ans 1. Engaging in regular physical activity positively impacts mental health by releasing
+endorphins and reducing symptoms of anxiety and depression.
+2. The passage discusses the negative effects of technology on health.
+3. Exercise requires intense workouts for mental health benefits.
+4. Exercise only impacts physical well-being, not mental health.
+Comprehension:
+Read the given passage and answer the questions that follow.
+Engaging in regular physical activity is not only beneficial for physical well-being but also has
+a profound impact on mental health. Studies have shown that exercise releases endorphins,
+chemicals in the brain that act as natural painkillers and mood elevators. Additionally,
+consistent exercise has been linked to reduced symptoms of anxiety and depression.
+Contrary to common misconceptions, it doesn't require intense workouts; even moderate
+activities like walking or yoga can contribute to improved mental well-being. Making exercise
+a regular part of one's routine not only supports physical fitness but also nurtures a positive
+and resilient mindset.
+SubQuestion No : 45
+Q.45Select the most appropriate title for the given passage.
+Ans
+ 1. The Impact of Technology on Health
+2. The Benefits of Mindfulness Meditation
+3. The Importance of a Balanced Diet
+4. Importance of Regular Physical Activities
+Q.1 Which theme encapsulates Wings India 2024, the Aviation Expo, that was
+inaugurated by Union Minister for Civil Aviation in January 2024?
+Ans
+ 1. Aviation Expo-Wings India in Amrit Kaal: Shaping the Future of Indian Civil Aviation.
+2. Aviation and Sustainable Development in the Indian Aerospace: Future possibilities in
+Amrit Kaal.
+3. Advancements in Aerospace: A Glimpse into India's Aviation Future in Amrit Kaal.
+4. Connecting India to the World in Amrit Kaal: Setting the Stage for India Civil Aviation
+@2047.
+Q.2
+Ans 1. Coulomb’s law
+2. Biot-Savart law
+3. Charle's law
+4. Ohm’s law
+Q.3 Which of the following is NOT the qualification for the appointment of
+judges of supreme court?
+Ans
+ 1. An advocate of high court for at least ten years
+2. A distinguished judge in the opinion of the President
+3. A judge of high court for at least five years
+4. An advocate of supreme court for at least ten years
+Q.4 Which letter code indicates mid-latitude desert climate in Köppen climate
+classification?
+Ans
+ 1. Dw
+2. Cfa
+3. BWk
+4. EF
+Q.5 The Kushan emperor Kanishka, who ruled from the late first to the early/
+mid-second century AD was the ____________ Kushan ruler.
+Ans
+ 1. second
+2. third
+3. fourth
+4. fifth
+Q.6 Which endemic species of owl of Central India is listed as Endangered in
+the IUCN Red List since 2018?
+Ans
+ 1. Long-eared Owlet
+2. Barn Owlet
+3. Forest Owlet
+4. Snowy Owlet
+Q.7 In which year was the fluid mosaic model proposed by Singer and
+Nicolson? The model commonly represented cell membrane structure and
+dynamics.
+Ans
+ 1. 1960
+2. 1981
+3. 1993
+4. 1972
+Q.8 What is the primary goal of the International Comparison Programme (ICP),
+led by the United Nations Statistics Division (UNSD)?
+Ans
+ 1. To implement statistical offices globally
+2. To calculate Purchasing Power Parities (PPPs) and price level indices
+3. To produce unemployment estimates globally
+4. To collect data on international trade
+Q.9 Which amino acid is a precursor to serotonin, a neurotransmitter that
+regulates your appetite, sleep and mood?
+Ans 1. Tryptophan
+2. Isoleucine
+3. Valine
+4. Methionine
+Q.10 Which of the following is the headquarters of the South Central Zone of
+Indian Railways?
+Ans
+ 1. Jabalpur
+2. Secunderabad
+3. Hajipur
+4. Bilaspur
+Q.11 According to Census of India 2011, what was the recorded population
+growth rate of Hindu religion?
+Ans 1. 16.8%
+2. 14,3%
+3. 18.5%
+4. 11.7%
+Q.12 What is the name of the software launched by the National Minorities
+Development and Finance Corporation (NMDFC) for digitising loan
+accounting processes and integrating the MIS portal, including the release
+of mobile apps for Android and IOS?
+Ans
+ 1. LOAN-X (Loan Accounting Network for NMDFC)
+2. MILAN (Minority Loan Accounting for NMDFC)
+3. DIGIT (Digital Integration for Government Transactions)
+4. MILAP (Minority Loan Accounting Software for Projects)
+Q.13 Which of the following is NOT an antecedent river in India?
+Ans
+ 1. Ganga
+2. Yamuna
+3. Kosi
+4. Indus
+Q.14 Which substance is commonly used as an acid-base indicator, which turns
+red in acidic solutions and blue in basic solutions?
+Ans 1. Litmus paper
+2. Methyl orange
+3. Phenol
+4. Bromothymol blue
+Q.15 In which of the following years did Mahatma Gandhi lead the Satyagraha
+and hunger strike for the first time in India?
+Ans
+ 1. 1917
+2. 1919
+3. 1918
+4. 1920
+Q.16 In which of the following cases did the Supreme court of India give a ruling
+that, 'in case of any conflict between the fundamental rights and the
+directive principles, the former would prevail'?
+Ans 1. Champakam Doraijan Case, 1951
+2. Keshvananda Bharti Case, 1973
+3. Golaknath Case. 1967
+4. Minerva Mills Case, 1980
+Q.17 Who was the first sultan (in the recorded history of the Dargah Sharif) to
+visit the shrine of khwaja Muinuddin Chisti?
+Ans
+ 1. Jalaluddin Khilji
+2. Balban
+3. Alauddin Khilji
+4. Muhammad bin Tughluq
+Q.18 Which international treaty was adopted in 1992 to combat global warming
+and prepare for its effects?
+Ans
+ 1. Vienna Convention for the Protection of the Ozone Layer
+2. Minamata Convention on Mercury
+3. Stockholm Convention on Persistent Organic Pollutants
+4. United Nations Framework Convention on Climate Change
+Q.19 Who set a new Guinness World Record for the fastest badminton shot,
+measuring a speed of 565 km/hr in July 2023?
+Ans
+ 1. Kidambi Srikanth
+2. Saina Nehwal
+3. PV Sindhu
+4. Satwiksairaj Rankireddy
+Q.20 When did James Chadwick prove the existence of the neutron – an
+elementary particle devoid of any electric charge?
+Ans
+ 1. 1920
+2. 1932
+3. 1941
+4. 1955
+Q.21 Who among the following was the President of India when India launched
+its first Nuclear test in Pokhran?
+Ans
+ 1. Dr APJ Abdul Kalam
+2. Giani Zail Singh
+3. VV Giri
+4. Fakhruddin ali Ahmed
+Q.22 Who discovered the laws of levers and pulleys, which allow us to move
+heavy objects using small forces?
+Ans 1. Archimedes
+2. Pythagoras
+3. Eudoxus
+4. Democritus
+Q.23 The productivity of which of the following crops had initially increased due
+to the Green Revolution?
+Ans
+ 1. Rice and cotton
+2. Wheat and sugarcane
+3. Rice and pulses
+4. Wheat and rice
+Q.24 Which of the following best defines liberalisation?
+Ans
+ 1. The process of maintaining existing government regulations and restrictions on
+economic activities.
+2. The process of reducing or removing government regulations and restrictions on
+economic activities.
+3. The process of increasing government regulations and restrictions on economic
+activities.
+4. The process of enforcing strict government control over economic activities.
+Q.25 In which sport did India defeat Pakistan 2-1 to lift the Men's Junior Asia
+Cup in 2023, overtaking them in winning the maximum titles at the
+prestigious event?
+Ans
+ 1. Basketball
+2. Hockey
+3. Football
+4. Badminton
+Q.1 Which file extension is most commonly used for executable installation
+files on a Windows system?
+Ans 1. .exe
+2. .mp3
+3. .txt
+4. .jpg
+Q.2 ROM is primarily used for which of the following purposes?
+Ans
+ 1. Random data access
+2. Temporary data storage
+3. Storing files for permanent access
+4. Storing the BIOS or firmware
+Q.3 What is the purpose of enabling passwords on a PC?
+Ans
+ 1. For improving the data signal strength
+2. For providing an additional layer of security
+3. For reducing the installed applications
+4. For printing of the data in the PC
+Q.4 Which of the following actions can typically be performed in the Outbox?
+Ans
+ 1. Viewing archived emails
+2. Deleting received emails
+3. Editing emails that are yet to be sent
+4. Managing contact lists
+Q.5 Which of the following scenarios correctly illustrates the interdependence
+of system software and application software?
+Ans 1. An antivirus program relying on system utilities to perform disk scans and remove
+malware.
+2. A word processor functioning independently without the need for an operating
+system.
+3. An operating system requiring a media player to manage hardware resources.
+4. A device driver operating as application software to provide printing functionality.
+Q.6 Which keyboard shortcut is used to increase the indent in a paragraph in
+MS Word 2010?
+Ans
+ 1. Ctrl + U
+2. Ctrl + D
+3. Ctrl + M
+4. Ctrl + K
+Q.7 How can you exit a slide show and return to editing mode in MS
+PowerPoint?
+Ans
+ 1. Press Ctrl + S
+2. Press Esc
+3. Press Spacebar
+4. Press Alt + Tab
+Q.8 The _________ method is commonly used to verify the integrity of data.
+Ans 1. Hashing
+2. Caching
+3. Duplication
+4. Compression
+Q.9 What are the correct steps for creating a blank presentation in MS
+PowerPoint?
+Ans 1. File -> New -> Blank Presentation
+2. File -> Blank Presentation -> New
+3. New -> Blank Presentation -> File
+4. Blank Presentation -> New -> File
+Q.10 Which option in MS Word allows a user to align text within a document to
+the left, center, right, or justify it across the page?
+Ans
+ 1. Font Style: Changes the appearance of text but does not affect its alignment
+2. Paragraph Alignment: Adjusts the alignment of text to the left, center, right, or
+justifies it
+3. Line Spacing: Adjusts the space between lines of text but does not affect text
+alignment
+4. Text Direction: Changes the orientation of the text, such as vertical or horizontal, but
+not its alignment
+Q.11 What type of media is commonly used for WAN communication?
+Ans
+ 1. HDMI Cable
+2. Twisted Pair Cable
+3. Fiber Optic Cable
+4. Coaxial Cable
+Q.12 What happens when a user inserts a new row into an MS Excel worksheet?
+Ans
+ 1. The existing rows are shifted to the right.
+2. The existing data in the row is overwritten.
+3. The existing rows are shifted down.
+4. The new row is added at the bottom of the worksheet.
+Q.13 Why do desktop and laptop operating systems require more advanced
+memory management techniques than embedded systems?
+Ans 1. They utilise more hardware resources and need dynamic memory allocation.
+2. Memory management is not necessary for desktop and laptop operating systems.
+3. They run only one application at a time, simplifying memory management.
+4. They rely on static memory allocation due to limited hardware resources.
+Q.14 What does the function COUNT() do in MS Excel 2010?
+Ans
+ 1. Prints the number of cells
+2. Counts the number of cells
+3. Duplicates the number of cells
+4. Stores the number of cells
+Q.15 In a Local Area Network (LAN), which of the following is most commonly
+used to ensure that data packets are efficiently forwarded to the correct
+device, based on its MAC address?
+Ans
+ 1. Router
+2. Bridge
+3. Hub
+4. Layer 3 Switch
+Q.16 Which of the following statements about the Central Processing Unit (CPU)
+is/are correct?
+The CPU is often referred to as the 'brain' of the computer.
+The CPU consists of three main units: the control unit (CU), arithmetic
+logic unit (ALU), and cache memory.
+Ans
+ 1. Neither 1 nor 2
+2. Only 2
+3. Only 1
+4. Both 1 and 2
+Q.17 What is the size of each ASCII character in bits?
+Ans
+ 1. 4 bits
+2. 16 bits
+3. 8 bits
+4. 5 bits
+Q.18 What is a common sign that a computer might be infected with a virus?
+Ans
+ 1. Improved system security
+2. Unusual system slowdowns and unexpected errors
+3. Faster system boot times
+4. Increased hard drive space
+Q.19 In a multipart email message, what does the boundary parameter in the
+Content-Type header signify?
+Ans
+ 1. It defines the length of the email message.
+2. It separates the email's body from the attachments.
+3. It marks the start and end of each part in a multipart message.
+4. It limits the file size of each attachment.
+Q.20 What is the role of User Account Control (UAC) in Windows when
+modifying system settings?
+Ans
+ 1. To monitor memory usage and performance
+2. To adjust display settings
+3. To automate software updates
+4. To prompt for permission before making system-wide changes
