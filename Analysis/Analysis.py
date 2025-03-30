@@ -6,10 +6,15 @@ from collections import defaultdict
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.decomposition import TruncatedSVD
+from sklearn.feature_extraction import text
 from sklearn.cluster import KMeans
 # from sentence_transformers import SentenceTransformer
 import urllib.parse
 import os
+import pandas as pd
+import numpy as np
+import time
 
 # Download NLTK stopwords
 nltk.download("stopwords")
@@ -27,7 +32,6 @@ def preprocess_question(question):
     words = [lemmatizer.lemmatize(word) for word in words if word not in stop_words]
     
     return " ".join(words)
-
 
 # Function to parse multiple MCQ files
 def parse_mcq_files(uploaded_files):
@@ -96,7 +100,6 @@ def parse_mcq_files_dynamic(uploaded_files):
 
     return questions
 
-
 # Function to extract and sort keywords by frequency
 def extract_keywords(questions):
     """Extracts keywords and maps them to questions"""
@@ -113,26 +116,46 @@ def extract_keywords(questions):
     
     return dict(sorted_keywords)
 
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.cluster import KMeans
-import pandas as pd
-import numpy as np
-
 def cluster_questions(questions, n_clusters=5):
     """Clusters similar questions using KMeans and returns cluster names based on feature terms"""
-    stime = datetime.time()
+    start_time = time.time()
     original_questions = questions.copy()
     
     # Preprocess the questions to remove unnecessary characters (e.g., -- file names)
     for i in range(len(questions)):
         questions[i] = preprocess_question(questions[i].split(" -- ")[0])
 
+    # Get built-in English stopwords
+    built_in_stopwords = set(text.ENGLISH_STOP_WORDS)  # Convert to a set
+
+    # Define additional stop words
+    additional_stopwords = {
+        "ii", "india", "year", "project", "which", "was", "ans", "b", "c",
+        "given", "correct", "answer", "r", "true", "using", "statements", "select"
+    }
+
+    # Add numbers as stop words
+    numbers = {str(i) for i in range(100)}  # "0", "1", ..., "99"
+
+    # Merge all stopwords and convert to a list
+    custom_stopwords = list(built_in_stopwords.union(additional_stopwords, numbers))
+
     # Vectorize the questions using TF-IDF
-    vectorizer = TfidfVectorizer(stop_words="english")
+    vectorizer = TfidfVectorizer(stop_words=custom_stopwords,max_features=500, min_df=5, max_df=0.95)
     X = vectorizer.fit_transform(questions)
 
+    # # Apply TruncatedSVD for dimensionality reduction before clustering
+    # svd = TruncatedSVD(n_components=n_clusters, random_state=42)
+    # X_reduced = svd.fit_transform(X)
+
+    n_samples = X.shape[0]
+    st.sidebar.text(f"n_samples : {n_samples}")
+    # Ensure that n_clusters is not greater than the number of samples
+    if n_clusters > n_samples: 
+        n_clusters = n_samples
     # Fit the KMeans model
-    kmeans = KMeans(n_clusters=n_clusters, random_state=42, n_init=30)
+    kmeans = KMeans(n_clusters=n_clusters,  n_init=60)
+    # kmeans = MiniBatchKMeans(n_clusters=n_clusters, random_state=42, n_init=10, batch_size=1000)
     clusters = kmeans.fit_predict(X)
 
     # Get the feature names (terms) from the vectorizer
@@ -142,7 +165,8 @@ def cluster_questions(questions, n_clusters=5):
     cluster_terms = {}
     for i in range(n_clusters):
         cluster_center = kmeans.cluster_centers_[i]
-        top_terms_idx = cluster_center.argsort()[-5:][::-1]  # Get top 5 terms for each cluster
+        top_terms_idx = cluster_center.argsort()
+        # [-5:][::-1]  # Get top 5 terms for each cluster
         top_terms = feature_names[top_terms_idx]
         cluster_terms[i] = " ".join(top_terms)  # Combine top terms to represent the cluster
 
@@ -156,6 +180,9 @@ def cluster_questions(questions, n_clusters=5):
     # Replace cluster numbers with the feature-based cluster names
     clustered_data["cluster_name"] = clustered_data["cluster"].apply(lambda x: cluster_terms[x])
 
+    end_time = time.time()
+    time_taken = end_time - start_time
+    st.sidebar.text(f"Clustering Time: {time_taken:.2f} seconds")
     return clustered_data, sorted_clusters, cluster_sizes, cluster_terms
 
 
@@ -198,13 +225,13 @@ def display_keyword_related_questions(selected_keyword, keywords_map):
     selected_file = st.sidebar.selectbox("Filter by File:", ["All Files"] + list(file_counts.keys()))
 
     # Display filtered questions
-    st.markdown(f"## Questions related to: **{keyword}**")
+    st.markdown(f"##### Questions related to: **{keyword}** [↗️]({create_search_url(keyword)})")
     for q in questions:
         file_name = q.split(" -- ")[1]
         if selected_file == "All Files" or file_name == selected_file:
             search_url = create_search_url(q)  # Generate search URL for the question
-            st.markdown(f"- {q} [↗️]({search_url})")  # Clickable search link
-
+        # st.markdown(f"- {re.sub(rf'\\b{re.escape(keyword)}\\b', rf'<span style=\"color:green;\">{keyword}</span>', q, flags=re.IGNORECASE)} [🏹]({search_url})", unsafe_allow_html=True)
+        st.markdown(f"- {re.sub(f'(?i)\\b{re.escape(keyword)}\\b', f'<span style=\"color:green;\">\\g<0></span>', q)} [🏹]({search_url})", unsafe_allow_html=True)
 
 
 
@@ -212,17 +239,17 @@ def display_keyword_related_questions(selected_keyword, keywords_map):
 def display_clustered_questions(clustered_df, cluster_sizes, selected_cluster, terms):
     """Displays questions for a selected cluster"""
     cluster_num = selected_cluster  # Extract cluster number
-    st.text(f"📌 Questions in Cluster {terms[cluster_num]}")
+    st.markdown(f"📌 Questions in Cluster {terms[cluster_num]} [↗️]({create_search_url(terms[cluster_num])})")
     for q in clustered_df[clustered_df["cluster"] == cluster_num]["question"]:
         search_url = create_search_url(q)  # Generate search URL for the question
         st.markdown(f"- {q}[🏹]({search_url})")  # Make question clickable (searchable on Google)
         
 
 # Function to create a slider for selecting number of clusters
-def select_number_of_clusters():
+def select_number_of_clusters(len):
     """Creates a slider to select the number of clusters"""
     # st.sidebar.header("🔢 Select Number of Clusters")
-    return st.sidebar.slider("🔢 Select Number of Clusters", min_value=2, max_value=100, value=5, step=1)
+    return st.sidebar.slider("🔢 Select Number of Clusters", min_value=2, max_value=(len//5), value=5, step=1)
 
 # Function to create a selectbox for keyword selection
 def select_keyword(keywords_map):
@@ -291,7 +318,7 @@ if uploaded_files:
     # Handle clustering logic when enabled
     if st.session_state.enable_clustering:
         # Number of clusters selection and clustering
-        n_clusters = select_number_of_clusters()
+        n_clusters = select_number_of_clusters(len(questions))
 
         # Check if number of clusters has changed (or if clustering is enabled for the first time)
         if n_clusters != st.session_state.previous_n_clusters:
@@ -322,6 +349,7 @@ if uploaded_files:
 
         # Keyword selection and reset cluster if needed
         selected_keyword = select_keyword(keywords_map)
+        st.sidebar.text(f'Number of KeyWords : {len(keywords_map.keys())}')
         if selected_keyword != "Select":
             st.session_state.selected_keyword = selected_keyword
             st.session_state.selected_cluster = None  # Reset cluster selection
