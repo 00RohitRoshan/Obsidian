@@ -1,0 +1,61 @@
+Store:
+- Criteria: Matches all Question but captures prev q option with next question
+- Regex: |-
+        pattern = re.compile(r"""
+        (?s)                                # Enable multiline matching
+        (\d+\.\s*)?                         # Optional numbering (e.g., "1.", "2.", etc.)
+        (.*?(?:\?|\:))\s*                   # Question (capture until first ? or :)
+        (?:\[\d+\])?\s*                     # Optional year tag [2004]
+        ((?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$) # First option (A., a., (A), 1., etc.)
+        (?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$)? # Second option (optional)
+        (?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$)? # Third option (optional)
+        (?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$)?)? # Fourth option (optional)
+
+        """, re.VERBOSE)
+- Criteria:   continue grabing question until a option marker is reached and continue grabbing  option until a question marker is reached
+- Regex: |- 
+        (?s)                                # Enable multiline matching
+        (\d+\.\s*|Q\.\s*)                    # Match question number or "Q." (optional)
+        (.*?)(?:\n\s*(?:\(\w\)|\w\.|\d\.)\s.*)  # Capture question text until first option (stopping at option marker)
+        (?:\[\d+\])?\s*                     # Optional year tag [2004]
+        ((?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$))   # Capture the first option (A., a., (A), 1., etc.)
+        ((?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$))?  # Second option (optional)
+        ((?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$))?  # Third option (optional)
+        ((?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$))?  # Fourth option (optional)
+- Criteria: sometimes the first option starts with Ans keyword
+- Regex: |-
+            (?s)                                # Enable multiline matching
+            (\d+\.\s*)?                         # Optional numbering (e.g., "1.", "2.", etc.)
+            (.*?(?:\?|\:))\s*                   # Question (capture until first ? or :)
+            (?:\[\d+\])?\s*                     # Optional year tag [2004]
+            ((?:Ans\s*|\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$) # First option (could start with "Ans")
+            (?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$)? # Second option (optional)
+            (?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$)? # Third option (optional)
+            (?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$)?)? # Fourth option (optional)
+- Criteria: if there is no extra space before the marker then it is a question if there is extraspace before a marker then it is the option of the previously matched question
+- Regex:
+- Criteria: "Donot depend on ? or :"
+- Regex: |- 
+        (?s)                                # Enable multiline matching
+        (\d+\.\s*)?                         # Optional numbering (e.g., "1.", "2.", etc.)
+        (.*?)\s*(?=\(\w\)|\w\.|\d\.)         # Question (capture until an answer option is detected, e.g., (A), 1., a., etc.)
+        (?:\[\d+\])?\s*                     # Optional year tag [2004]
+        ((?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$) # First option (A., a., (A), 1., etc.)
+        (?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$)? # Second option (optional)
+        (?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$)? # Third option (optional)
+        (?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$)?)? # Fourth option (optional)
+- Criteria: capture if detected marker 
+- Regex: |-
+        (?s)                                # Enable multiline matching
+        (\d+\.\s*)?                         # Optional numbering (e.g., "1.", "2.", etc.)
+        (.*?)\s*(?=\(\w\)|\w\.|\d\.)         # Question (capture until an answer option is detected, e.g., (a), 1., etc.)
+        (?:\[\d+\])?\s*                     # Optional year tag [2001]
+        ((?:\(\w\)|\w\.|\d\.)\s+.*?)       # First option (a), 1., etc.
+        (?:\s*(?:\(\w\)|\w\.|\d\.)\s+.*?)? # Second option (optional)
+        (?:\s*(?:\(\w\)|\w\.|\d\.)\s+.*?)? # Third option (optional)
+        (?:\s*(?:\(\w\)|\w\.|\d\.)\s+.*?)? # Fourth option (optional)
+- Fault: Made too sgort 
+
+
+
+

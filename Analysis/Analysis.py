@@ -57,13 +57,26 @@ def parse_mcq_files_dynamic(uploaded_files):
         # Normalize content by replacing various bullet markers
         content = re.sub(r"[\*\-]", " ", content)
 
+        # # Define a regex pattern to match MCQs dynamically
+        # pattern = re.compile(r"""
+        #     (?s)                                # Enable multiline matching
+        #     (\d+\.\s*)?                         # Optional numbering (1., 2., etc.)
+        #     # ([A-Z][^?\n:]*[\?:]?)\s*            # Question (capitalized, ending with ? or :)
+        #     ([A-Z][^?\n:]*?[\?:])?
+        #     (?:\[\d+\])?\s*                     # Optional year tag [1995]
+        #     ((?:\(\w\)|\w\.)\s+.*?(?:\n|$)+)    # Answer choices (A., B., C. or (a), (b), etc.)
+        # """, re.VERBOSE)
         # Define a regex pattern to match MCQs dynamically
         pattern = re.compile(r"""
             (?s)                                # Enable multiline matching
-            (\d+\.\s*)?                         # Optional numbering (1., 2., etc.)
-            ([A-Z][^?\n:]*[\?:]?)\s*            # Question (capitalized, ending with ? or :)
-            (?:\[\d+\])?\s*                     # Optional year tag [1995]
-            ((?:\(\w\)|\w\.)\s+.*?(?:\n|$)+)    # Answer choices (A., B., C. or (a), (b), etc.)
+            (\d+\.\s*)?                         # Optional numbering (e.g., "1.", "2.", etc.)
+            (.*?(?:\?|\:))\s*                   # Question (capture until first ? or :)
+            (?:\[\d+\])?\s*                     # Optional year tag [2004]
+            ((?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$) # First option (A., a., (A), 1., etc.)
+            (?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$)? # Second option (optional)
+            (?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$)? # Third option (optional)
+            (?:\(\w\)|\w\.|\d\.)\s+.*?(?:\n|$)?)? # Fourth option (optional)
+
         """, re.VERBOSE)
 
         matches = pattern.findall(content)
@@ -107,6 +120,7 @@ import numpy as np
 
 def cluster_questions(questions, n_clusters=5):
     """Clusters similar questions using KMeans and returns cluster names based on feature terms"""
+    stime = datetime.time()
     original_questions = questions.copy()
     
     # Preprocess the questions to remove unnecessary characters (e.g., -- file names)
@@ -118,7 +132,7 @@ def cluster_questions(questions, n_clusters=5):
     X = vectorizer.fit_transform(questions)
 
     # Fit the KMeans model
-    kmeans = KMeans(n_clusters=n_clusters, random_state=42, n_init=10)
+    kmeans = KMeans(n_clusters=n_clusters, random_state=42, n_init=30)
     clusters = kmeans.fit_predict(X)
 
     # Get the feature names (terms) from the vectorizer
@@ -189,7 +203,7 @@ def display_keyword_related_questions(selected_keyword, keywords_map):
         file_name = q.split(" -- ")[1]
         if selected_file == "All Files" or file_name == selected_file:
             search_url = create_search_url(q)  # Generate search URL for the question
-            st.markdown(f"- [{q}]({search_url})")  # Clickable search link
+            st.markdown(f"- {q} [↗️]({search_url})")  # Clickable search link
 
 
 
@@ -201,7 +215,7 @@ def display_clustered_questions(clustered_df, cluster_sizes, selected_cluster, t
     st.text(f"📌 Questions in Cluster {terms[cluster_num]}")
     for q in clustered_df[clustered_df["cluster"] == cluster_num]["question"]:
         search_url = create_search_url(q)  # Generate search URL for the question
-        st.markdown(f"- [{q}]({search_url})")  # Make question clickable (searchable on Google)
+        st.markdown(f"- {q}[🏹]({search_url})")  # Make question clickable (searchable on Google)
         
 
 # Function to create a slider for selecting number of clusters
@@ -220,7 +234,7 @@ def select_keyword(keywords_map):
 def select_cluster(sorted_clusters, cluster_sizes, features):
     """Creates a selectbox for selecting a cluster and returns the cluster number"""
     # Create options that include both the cluster feature name and its size
-    sorted_cluster_options = ["Select"] + [f"{features[c]} ({cluster_sizes[c]})" for c in sorted_clusters]
+    sorted_cluster_options = ["Select"] + [f"({cluster_sizes[c]}) {features[c]} " for c in sorted_clusters]
     
     # Show the selectbox with the cluster names and sizes
     selected_cluster_option = st.sidebar.selectbox("📂 Select a Cluster", sorted_cluster_options)
@@ -246,14 +260,30 @@ if "selected_cluster" not in st.session_state:
 # File upload
 uploaded_files = st.file_uploader("Upload MCQ files (text or markdown format)", accept_multiple_files=True, type=["txt", "md"])
 
+if "enable_clustering" not in st.session_state:
+    st.session_state.enable_clustering = False  # Default: Clustering OFF
+
+if "previous_n_clusters" not in st.session_state:
+    st.session_state.previous_n_clusters = None  # To track the number of clusters for comparison
+
+if "clustered_df" not in st.session_state:
+    st.session_state.clustered_df = None  # To store the clustered DataFrame
+
+if "sorted_clusters" not in st.session_state:
+    st.session_state.sorted_clusters = None  # To store the sorted clusters
+
+if "cluster_sizes" not in st.session_state:
+    st.session_state.cluster_sizes = None  # To store the cluster sizes
+
+if "cluster_terms" not in st.session_state:
+    st.session_state.cluster_terms = None  # To store the cluster terms
+
 if uploaded_files:
     # Parse the uploaded files
     questions = parse_mcq_files_dynamic(uploaded_files)
     st.sidebar.text(f'Total Questions: {len(questions)}')
 
     # Initialize the session state for enable_clustering if not already done
-    if "enable_clustering" not in st.session_state:
-        st.session_state.enable_clustering = False  # Default: Clustering OFF
 
     # Toggle switch to enable/disable clustering
     st.session_state.enable_clustering = st.sidebar.checkbox("Enable Clustering", value=st.session_state.enable_clustering)
@@ -263,8 +293,22 @@ if uploaded_files:
         # Number of clusters selection and clustering
         n_clusters = select_number_of_clusters()
 
-        # Check if clustering has already been done or if number of clusters has changed
-        clustered_df, sorted_clusters, cluster_sizes, cluster_terms = cluster_questions(questions, n_clusters=n_clusters)
+        # Check if number of clusters has changed (or if clustering is enabled for the first time)
+        if n_clusters != st.session_state.previous_n_clusters:
+            # If the number of clusters has changed, perform clustering
+            clustered_df, sorted_clusters, cluster_sizes, cluster_terms = cluster_questions(questions, n_clusters=n_clusters)
+            # Update the session state with the new clustering results
+            st.session_state.previous_n_clusters = n_clusters
+            st.session_state.clustered_df = clustered_df
+            st.session_state.sorted_clusters = sorted_clusters
+            st.session_state.cluster_sizes = cluster_sizes
+            st.session_state.cluster_terms = cluster_terms
+        else:
+            # Use the previously computed clustering data
+            clustered_df = st.session_state.clustered_df
+            sorted_clusters = st.session_state.sorted_clusters
+            cluster_sizes = st.session_state.cluster_sizes
+            cluster_terms = st.session_state.cluster_terms
 
         # Cluster selection and reset keyword if needed
         selected_cluster = select_cluster(sorted_clusters, cluster_sizes, cluster_terms)
@@ -282,4 +326,3 @@ if uploaded_files:
             st.session_state.selected_keyword = selected_keyword
             st.session_state.selected_cluster = None  # Reset cluster selection
             display_keyword_related_questions(selected_keyword, keywords_map)
-
