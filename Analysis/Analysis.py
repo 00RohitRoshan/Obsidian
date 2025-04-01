@@ -20,7 +20,7 @@ import time
 nltk.download("stopwords")
 nltk.download('wordnet')
 lemmatizer = WordNetLemmatizer()
-stop_words = set(stopwords.words("english")).union({"ii","india", "year", "project", "which", "was", "ans", "b", "c", "given", "correct", "answer", "r", "true", "using", "statements", "select"})
+stop_words = set(stopwords.words("english")).union({"si","option","level","ldc","deo","tier","cml","cgl","ssc","ii","india", "year", "project", "which", "was", "ans", "b", "c", "given", "correct", "answer", "r", "true", "using", "statements", "select"})
 
 
 def preprocess_question(question):
@@ -98,6 +98,21 @@ def parse_mcq_files_dynamic(uploaded_files):
             full_question = f"{question_cleaned} {options_formatted} -- {os.path.splitext(file.name)[0]}"
             questions.append(full_question)
 
+    return questions
+
+def NewLine(uploaded_files):
+    questions = []
+    for file in uploaded_files:
+        content = file.getvalue().decode("utf-8")
+        thisQuestions = ""
+        if f'\r\n' in content:
+            print("CRLF (Windows style)")
+            thisQuestions = re.split(r"\r\n\r\n", content)
+        else :
+            print("LF (Unix/Linux style)")
+            thisQuestions = re.split(r"\n\n", content)
+        for q in thisQuestions:
+            questions.append(f'{q} -- {os.path.splitext(file.name)[0]}')      
     return questions
 
 # Function to extract and sort keywords by frequency
@@ -230,8 +245,8 @@ def display_keyword_related_questions(selected_keyword, keywords_map):
         file_name = q.split(" -- ")[1]
         if selected_file == "All Files" or file_name == selected_file:
             search_url = create_search_url(q)  # Generate search URL for the question
+            st.markdown(f"- {re.sub(f'(?i)\\b{re.escape(keyword)}\\b', f'<span style=\"color:green;\">\\g<0></span>', q)} [🏹]({search_url})", unsafe_allow_html=True)
         # st.markdown(f"- {re.sub(rf'\\b{re.escape(keyword)}\\b', rf'<span style=\"color:green;\">{keyword}</span>', q, flags=re.IGNORECASE)} [🏹]({search_url})", unsafe_allow_html=True)
-        st.markdown(f"- {re.sub(f'(?i)\\b{re.escape(keyword)}\\b', f'<span style=\"color:green;\">\\g<0></span>', q)} [🏹]({search_url})", unsafe_allow_html=True)
 
 
 
@@ -305,15 +320,21 @@ if "cluster_sizes" not in st.session_state:
 if "cluster_terms" not in st.session_state:
     st.session_state.cluster_terms = None  # To store the cluster terms
 
+if "blankLine" not in st.session_state:
+    st.session_state.blankLine = False  # Default: Clustering OFF
+
 if uploaded_files:
-    # Parse the uploaded files
-    questions = parse_mcq_files_dynamic(uploaded_files)
-    st.sidebar.text(f'Total Questions: {len(questions)}')
-
-    # Initialize the session state for enable_clustering if not already done
-
     # Toggle switch to enable/disable clustering
     st.session_state.enable_clustering = st.sidebar.checkbox("Enable Clustering", value=st.session_state.enable_clustering)
+    st.session_state.blankLine = st.sidebar.checkbox("Blank Line Divide", value=st.session_state.blankLine)
+    
+    if st.session_state.blankLine:
+        questions = NewLine(uploaded_files)
+    else:
+        # Parse the uploaded files
+        questions = parse_mcq_files_dynamic(uploaded_files)
+    
+    st.sidebar.text(f'Total Questions: {len(questions)}')
 
     # Handle clustering logic when enabled
     if st.session_state.enable_clustering:
@@ -354,3 +375,4 @@ if uploaded_files:
             st.session_state.selected_keyword = selected_keyword
             st.session_state.selected_cluster = None  # Reset cluster selection
             display_keyword_related_questions(selected_keyword, keywords_map)
+

@@ -1,24 +1,1553 @@
-Combined Graduate level Examination 2023 Tier I 
-Roll Number 
- Candidate Name !
-IRK Digital Computer Centre 1 
-14/07/2023 
-:30 PM -3:30 PM 
-Combined Graduate Level Examination Tier I 2023 
-Section : General Intelligence and Reasoning 
+Addale4l7
 
---- New Section ---
+Combined Graduate level Examination 2023 Tier |
 
-Q.1 Select the set in which the numbers are related in the same way as are the numbers of
-the following sets. 
-(NOTE : Operations should be performed on the whole numbers , without breaking 
-down the numbers into its constituent digits. E.g. 13-Operations on 13 such as 
-adding /Subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 
-and 3 and then performing mathematical operations on 1 and 3 is not allowed) 
-(3, 9, 30) 
-(10, 3, 33) 
-Ans X 1. (6, 9, 40) 
-X 2. (8, 8, 74) 
-� 3. (12, 3, 39) 
-X 4. (9, 7, 98) 
-Question ID: 26433089582 
+Roll Number
+Candidate Name |
+Menue Name __ |R K Digital Computer Centre 1
+
+Exam Date 14/07/2023
+Exam Time 2:30 PM - 3:30 PM
+Subject Combined Graduate Level Examination Tier | 2023
+
+Q1 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE : Operations should be performed on the whole numbers, without breaking
+down the numbers into its constituent digits. E.g. 13 - Operations on 13 such as
+adding /Subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1
+and 3 and then performing mathematical operations on 1 and 3 is not allowed)
+(3, 9, 30)
+(10, 3, 33)
+
+Ans XX 1. (6,9, 40)
+XK 2. (8, 8, 74)
+JH 3. (12, 3, 39)
+X 4. (9. 7, 98)
+
+Question ID : 26433089582
+Status : Answered
+Chosen Option : 3
+
+Q.2 Select the figure that will replace the question mark (?) in the following figure series.
+
+¢ A
+
+®
+O
+
+©
+@
+~
+
+Ans
+
+ef 4.
+
+°
+> A
+O
+
+Question ID : 26433057018
+
+Status : Answered
+
+Chosen Option : 4
+
+Q.3 Which of the following terms will replace the question mark (?) in the given series?
+PGLT, RHNU, TIPV, VJRW, ?
+
+Ans 3% 1. WKUX
+* 2. XLTX
+* 3. WXKT
+ft 4. XKTX
+
+Question ID : 26433083094
+
+Status : Answered
+
+Chosen Option : 4
+
+Q.4 Select the option that represents the letters that, when sequentially placed from left to
+right in the blanks below, will complete the letter series.
+R__ODRMN___MN_DR_NO_
+
+Ans) x 1. MNODROMD
+2 2. MNODRODM
+@ 3. NAODROMD
+2 4. MNDOROMD
+
+Question ID : 26433090002
+Status : Answered
+Chosen Option : 1
+
+Q5 Select the figure that will replace the question mark (7?) in the following figure
+
+series.
+
+¢ oh
+
+Ans
+
+* 3.
+x4.
+Question ID : 26433070431
+Status : Answered
+Chosen Option : 1
+
+Q.6 Select the set in which the numbers are related in the same way as are the numbers of
+
+the following set.
+(NOTE: Operations should be performed on the whole numbers, without breaking
+
+down the numbers into their constituent digits. E.g. 13 — Operations on 13 such as
+adding /Subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1
+and 3 and then performing mathematical operations on 1 and 3 is not allowed.)
+
+(12,8 , 80)
+(16 , 10, 131)
+
+Ans 3% 1. (11,5, 55)
+% 2. (13, 4, 160)
+3. (14, 12, 126)
+wf 4. (9, 6, 54)
+
+Question ID : 26433092724
+
+Not Attempted and
+Marked For Review
+
+Chosen Option : —
+
+Status :
+
+Q.7 Select the option that represents the correct order of the given words as they would
+appear in an English dictionary.
+
+1. Pancakes
+
+2. Pandemic
+
+3. Panicked
+
+4. Pancreas
+
+5. Panorama
+
+6. Panther
+
+Ans of 1.1,4,2,3,5,6
+* 2.4, 1,2, 3,5,6
+* 3.1,4,2,3,6,5
+® 4.2,1,4,3,6,5
+
+Question ID : 264330132173
+Status : Answered
+Chosen Option : 1
+
+Q8 Select the option that is related to the third word in the same way as the second word
+is related to the first word. (The words must be considered as meaningful English
+words and must not be related to each other based on the number of letters/number of
+
+consonants/vowels in the word)
+Anklet : Ankle :: Bracelet : ?
+
+Ans #* 1.Ear
+J 2. Wrist
+* 3. Waist
+* 4. Neck
+
+Question ID : 26433067810
+Status : Answered
+Chosen Option : 2
+
+Q9 Select the option that is related to the fifth number in the same way as the second
+number is related to the first number and the fourth number is related to the third
+
+number.
+864: 12 :: 1372 : 14:3: 2048: 7
+
+Ans of 1.16
+w 2.12
+*% 3.18
+a 4.14
+
+Question ID : 26433085814
+Status : Answered
+Chosen Option : 1
+
+Q.10 Select the option that is related to the fifth letter-cluster in the same way as the second
+letter-cluster Is related to the first letter-cluster and the fourth letter-cluster Is related
+
+to the third letter-cluster.
+MOC: MKW ::SEL: GUN :: DKR:?
+
+Ans) «1. VOH
+* 2. VOG
+* 3. VNH
+* 4. VNG
+
+Question ID : 264330104102
+Status : Answered
+Chosen Option : 1
+
+Q.11 Select the correct mirror image of the given figure when the mirror is placed at
+
+MN as shown below.
+M
+
+c94BdW2N
+
+N
+Ans *1.A2Wba4e9
+* 2,.USWbassod
+
+3. WSWbabed
+a 4.WSWbaeded
+
+Question ID : 264330103139
+Status : Answered
+Chosen Option : 3
+
+Q.12._ Three of the following four letter-clusters are alike in a certain way and one is different.
+Select the one that Is different.
+
+Ans > 1.DFJL
+wf 2.KMOQ
+*< 3. ACGI
+3 4. HINP
+
+Question ID : 264330120688
+Status : Answered
+Chosen Option : 2
+
+Q.13 In a certain code language, ‘PLANT’ is written as ‘NRDVP’ and ‘SCORE’ is written as
+‘EURGT’. How will ‘GRIND’ be written in that language?
+
+Ans) of 1. TILFP
+* 2. SHLGQ
+* 3. UWKEO
+* 4. ITLPF
+
+Question ID : 264330131613
+Status : Answered
+Chosen Option : 1
+
+Q.14 Study the given pattern carefully and select the number that can replace the question
+mark (7) in it.
+First row- 8, 28, 53
+Second row- 7, 25, 47
+Third row- 13, 43, ?
+(NOTE: Operations should be performed on the whole numbers, without breaking
+down the numbers into its constituent digits. E.g. 13 - Operations on 13 such as
+adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1
+and 3 and then performing mathematical operations on 1 and 3 is NOT allowed)
+
+Ans %& 1.93
+2.85
+* 3.95
+Jf 4.83
+
+Question ID : 264330143710
+Status : Answered
+Chosen Option : 4
+
+Q.15 The second number In the glven number-palrs Is obtalned by performing certain
+mathematical operation(s) on the first number. The same operation(s) is/are followed
+in all the number-pairs, except one. Find that odd number-pair.
+(NOTE: The relation should be found without breaking down the numbers into its
+constituent digits)
+
+Ans % 1.6286: 1965
+ef 2.6571 : 2448
+7 3. 8247 : 3926
+@% 4.6903 : 2582
+
+Question ID : 264330143672
+
+. Not Attempted and
+Status : Marked For Review
+
+Chosen Option : —
+
+Q.16 In a certaln code language, ‘ZEAL’ Is coded as ‘9476’ and ‘LAME’ Is coded as ‘8694’.
+What is the code for ‘M’ in the given code language?
+
+Ans * 1.4
+2.8
+H 3.6
+* 4.9
+
+Question ID : 264330126016
+Status : Answered
+Chosen Option : 2
+
+Q.17 Select the option that represents the letters that, when placed from left to right in the
+following blanks, will complete the letter-series.
+LTK_HL__JH_V_JHL_K_H
+
+Ans gf 1.JUKLKWJ
+* 2.1UKLKWJ
+*® 3.1UKMKWJ
+® 4.JUKLKXd
+
+Question ID : 264330143745
+Status : Answered
+Chosen Option : 1
+
+Q.18 Select the set in which the numbers are related in the same way as are the numbers of
+the following sets.
+(NOTE:Operations should be performed on the whole numbers, without breaking down
+the numbers into its constituent digits. E.g. 13 - Operations on 13 such as adding
+/subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3
+and then performing mathematical operations on 1 and 3 is NOT allowed)
+(82, 35, 78)
+(18, 27, 30)
+
+Ans 1. (21,27, 24)
+* 2. (15, 36, 38)
+@ 3. (27, 33, 40)
+% 4. (20, 25, 32)
+
+Question ID : 26433089795
+
+Not Attempted and
+Marked For Review
+
+Chosen Option : —
+
+Status :
+
+Q.19 If,
+‘C @ S’ means ‘C is the father of S’,
+‘C * S’ means ‘C is the brother of S’,
+‘C #S’ means ‘C is the sister of S’,
+‘C $ S’ means ‘C is the daughter of S’,
+‘C = S’ means ‘C is the mother of S’,
+then how is Z related to Q in the following expression?
+Q$R@S*T$Z
+
+Ans > 1. Brother's wife
+ef 2. Mother
+* 3. Sister
+& 4. Daughter
+
+Question ID : 264330142940
+Status : Answered
+Chosen Option : 2
+
+Q.20 If ‘+’ means ‘subtraction’, ‘-’ means ‘multiplication’, ‘+’ means ‘addition’ and ‘x’ means
+‘division’, then what is the value of the following expression?
+11-144+9%*37+104
+
+Ans % 1.269
+of 2. 255
+* 3.245
+*% 4.271
+
+Question ID : 264330133145
+Status : Answered
+Chosen Option : 2
+
+Q.21 Select the correct combination of mathematical signs to sequentially replace the *
+signs and balance the given equation.
+86 * 54 * 34* 68* 2*33
+
+Ans) of 1.-,+,+,%,=
+® 2.4,-,4,%, =
+® 3.%,4,%,-,=
+M 4.4,4,%,-,=
+
+Question ID : 26433068675
+Status : Answered
+Chosen Option : 3
+
+Q.22 Select the correct mirror image of the given figure when the mirror is placed at AB.
+
+Ans
+
+A
+
+x) “oe
+x2.) SQ
+
+Question ID : 264330106449
+Status : Answered
+Chosen Option : 3
+
+Q.23
+
+Ans
+
+In this question, three statements are given, followed by three conclusions numbered
+I, Il and Ill. Assuming the statements to be true, even if they seem to be at variance
+with commonly known facts, decide which of the conclusions logically follows/follow
+from the statements.
+
+Statements:
+
+All balls are flowers.
+All flowers are plates.
+Some plates are cups.
+
+Conclusions:
+
+I. Some flowers are balls.
+Il. Some plates are flowers.
+Ill. All cups are plates.
+
+1. Only conclusions | and II follow.
+#& 2. Only conclusion Ill follows.
+# 3. Only conclusion II follows.
+
+@& 4. Only conclusion | follows.
+
+Question ID : 264330114231
+Status : Answered
+Chosen Option : 1
+
+Q.24
+
+Ans
+
+Which of the answer figures is the exact mirror image of the given problem figure
+
+when the mirror is held at the right side?
+
+Problem figure:
+
+Question ID : 26433067406
+Status : Answered
+Chosen Option : 1
+
+Q.25 Two different positions of the same dice have different colours - White, Red, Blue,
+
+Yellow, Green and Black - written on it. Identify the colour on the face opposite
+the face showing ‘Blue’.
+
+Ans 1. White
+wf 2. Black
+* 3. Green
+* 4. Yellow
+
+Question ID : 26433097479
+Status : Answered
+Chosen Option : 1
+
+Section : General Awareness
+
+Q.1 Ambubachi Mela (Fair) is held in which of the temples of North-East India?
+Ans)? 1. Dakshineswar Kali
+
+#® 2. Bhuvaneswari
+& 3. Billeswar
+w? 4. Kamakhya
+
+Question ID : 264330110464
+Status : Answered
+Chosen Option : 4
+
+Q2 Which of the following groups of states recorded very high population growth rate
+during 2001-2011 Census of India?
+
+Ans  % 1. Bihar, Rajasthan, Sikkim
+7 2. West Bengal, Meghalaya, Bihar
+& 3. Bihar, Haryana, Meghalaya
+«ef 4. Meghalaya, Arunachal Pradesh, Bihar
+
+Question ID : 264330132746
+Status : Answered
+Chosen Option : 3
+
+Q.3 A wealthy person in the early Vedic period was known as
+Ans) 1. Duhitri
+
+? 2. Gaveshna
+wf 3. Gomat
+*% 4. Ravi
+
+Question ID : 264330114804
+Status : Not Answered
+Chosen Option : —
+
+Q.4 India has been ranked in the Medical Tourism Index (MTI) for 2020-21 out of 46
+destinations by the Medical Tourism Association.
+
+Ans yi. io"
+* 2.15%
+* 3.20
+
+4 4. 5th
+
+Question ID : 26433081869
+Status : Not Answered
+Chosen Option : —
+
+Q.5 The Japfu range, which Is 3,014 meters high, Is located In which state?
+Ans % 1.Assam
+
+& 2. Arunachal Pradesh
+& 3. Meghalaya
+w? 4. Nagaland
+
+Question ID : 264330111332
+Status : Answered
+Chosen Option : 2
+
+Q6 Who among the following performing artists bagged the best actress award for Meena
+Gurjari in 1975?
+
+Ans 4 1. Sonal Masingh
+@ 2. Sitara Devi
+
+@ 3. Shovana Narayana
+@ 4. Mallika Sarabhai
+
+Question ID : 26433064259
+Status : Not Answered
+Chosen Option : —
+
+Eee —
+Q.7 Urmila Satyanarayanan is an exponent of which Indian classical dance form?
+Ans) «f 1. Bharatanatyam
+
+& 2. Kathak
+& 3. Manipuri
+* 4. Sattriya
+
+Question ID : 264330109597
+Status : Not Answered
+Chosen Option : —
+
+Q.8 When was the Secretary of State for India made responsible for the Government of
+British India by bringing about changes in the Home Government?
+
+Ans of 1. 1858
+2. 1833
+* 3. 1857
+* 4. 1813
+
+Question ID : 264330132664
+Status : Answered
+Chosen Option : 1
+
+Q.9 Which waterway provides connectivity with maliniand Indla through the Indla-
+Bangladesh Protocol route?
+
+Ans (# 1.NW-10
+2. NW-15
+gf 3. NW-2
+* 4. NW-83
+
+Question ID : 264330111322
+Status : Not Answered
+Chosen Option : —
+
+Q.10 In 2021, the Indian men's cricket team defeated Australia at the Gabba stadium ina
+Test match becoming the only cricket team to defeat Australia in Brisbane since
+
+Ans 1.1996
+*% 2.1992
+* 3. 1990
+of 4.1988
+
+Question ID : 26433086891
+Status : Not Answered
+Chosen Option : —
+
+ee — —
+Q.11 The Fundamental Duties were added to the Constitution of India by the
+Amendment.
+
+Ans x 1.73"
+of 2.4204
+* 3.34th
+* 4. 4ath
+
+Question ID : 264330110769
+Status : Answered
+Chosen Option : 2
+
+Q.12 announced the bifurcation of the British Indian Empire into a secular India
+and Islamic Pakistan.
+
+Ans # 1.Lord Ripon
+#& 2. Lord Dalhousie
+ef 3. Lord Louis Mountbatten
+@ 4. Lord Curzon
+
+Question ID : 264330110214
+Status : Answered
+Chosen Option : 3
+
+Q.13 Which of the following cells are found In the Ilver of mammals?
+Ans) %& 1. Purkinje cells
+
+*% 2. Microglial cells
+ef 3. Kupffer cells
+* 4. Sensory cells
+
+Question ID : 26433059115
+Status : Not Answered
+Chosen Option : —
+
+a
+
+Q.14 Who is the first law officer of India?
+Ans ( 1. Advocate General of State
+
+* 2. Chief Justice of India
+
+ef 3. Attorney General of India
+
+2 4. Minister of law
+
+Question ID : 264330112789
+Status : Answered
+Chosen Option : 3
+— lll —
+
+Q.15 The Shailendra kings who founded their empire in South-east Asia in the 8th Century
+AD were the followers of
+
+Ans «f 1. Buddhism
+2% 2. Shaivism
+& 3. Jainism
+& 4. Hinduism
+
+Question ID : 264330114823
+Status : Not Answered
+Chosen Option : —
+
+Q.16 Which Vitamin D analogue is used to treat hypoparathyroidism, refractory rickets and
+familial hypophosphatemia?
+
+Ans # 1. Tacalcitol
+
+#& 2. Tocopherol
+wf 3. Ergocalciferol
+* 4. Retinol
+
+Question ID : 264330110076
+Status : Answered
+Chosen Option : 3
+
+Q.17 Which of the following Is NOT a type of rock?
+Ans 1. Igneous rock
+
+wf 2. Trace rock
+#& 3. Metamorphic rock
+#& 4. Sedimentary rock
+
+Question ID : 264330109949
+Status : Answered
+Chosen Option : 2
+
+a
+Q.18 Whom among the following players is associated with Javelin throw?
+Ans «f 1. Neeraj Chopra
+
+& 2. Pankaj Advani
+@ 3. Saurabh Chaudhary
+? 4. Manika Batra
+
+Question ID : 264330109674
+Status : Answered
+Chosen Option : 1
+
+— lll —
+Q.19 From which Latin word is the s block element calcium derived?
+
+Ans of 1. Calx
+7% 2. Calum
+& 3. Coleus
+2% 4. Calcio
+
+Question ID : 264330141691
+Status : Answered
+Chosen Option : 2
+
+Q.20 Arrange the following Development Financial Institutions (DFl) in the correct
+chronological order, according to the year they were set up.
+(i) Industrial Credit and Investment Corporation of India (ICICI)
+(ii) Industrial Development Bank of India (IDBI)
+(iii) Industrial Finance Corporation of India (IFCl)
+
+Ans %X 1. (i)-(iii}(ii)
+of 2. (iii)-(i)-Cii)
+* 3. (ii)-(i)-(ii)
+* 4. (i)-(ii)-(ii)
+
+Question ID : 264330112898
+Status : Not Answered
+Chosen Option : -—
+
+Q.21 Who among the following was the chief guest at India’s 74th Republic Day
+celebrations?
+
+Ans 1. Frangois Hollande
+#& 2. Cyril Ramaphosa
+3. Abdel Fattah El-Sisi
+
+@ 4. Jair Bolsonaro
+
+Question ID : 264330133009
+Status : Answered
+Chosen Option : 3
+
+Q.22 Which of the following sitar players was awarded the Bharat Ratna in the year 19997
+Ans 1. Pandit Bhimsen Joshi
+
+ef 2. Pandit Ravishankar
+7 3. Hariprasad Chourasia
+@ 4. Bhupen Hazarika
+
+Question ID : 26433074118
+Status : Not Answered
+Chosen Option : —
+
+Q.23 MUDRA is a financial institution set up by the Government of India for the
+development and refinancing of micro unit enterprises. The full form of MUDRA is:
+
+Ans # 1. Micro Urban Development & Refinance Agency
+w? 2. Micro Units Development & Refinance Agency
+# 3. Micro Finance Usage Development & Refinance Agent
+
+2 4. Medium Units Development & Refinance Agency
+
+Question ID : 264330109081
+Status : Answered
+Chosen Option : 1
+
+Q.24 The first Paralympic games were held in which year?
+Ans # 1.1962
+
+J 2.1960
+* 3. 1964
+* 4.1961
+
+Question ID : 264330109681
+Status : Not Answered
+Chosen Option : —
+
+Q.25 The suitability of post tensioning is good for:
+Ans ¢f 1. longs spans
+
+7 2. end spans
+& 3. break spans
+* 4. edge spans
+
+Question ID : 26433064410
+Status : Not Answered
+Chosen Option : —
+
+Section : Quantitative Aptitude
+
+Q.1  Virat can complete a work in 30 days and Daniel is 60% more efficient than Virat to
+complete the same work. Find the total time taken by Daniel to complete the work.
+
+“x1. 162days
+2. 18= days
+x3. 192 days
+
+x4, 172 days
+
+Question ID : 26433066323
+Status : Answered
+Chosen Option : 2
+
+Q.2 The average of 36 numbers was found to be 45. Later, it was detected that 84 was
+misread as 48. Find the correct average of the given numbers.
+
+Ans (* 1.58
+*% 2.48
+Gf 3.46
+4.56
+
+Question ID : 264330130067
+Status : Answered
+Chosen Option : 3
+
+93 Ifsin 23° = 2 then the value of sec 23° — sin 67° is .
+Ans 1 az
+*' low
+b? _ a=
+2.
+« ab
+x 3 Fe
+by b? + a?
+qa?
+v4. b?— az
+
+Question ID : 26433083080
+Status : Answered
+Chosen Option : 3
+
+Q.4 What is the central angle corresponding to the sector indicating the expenses incurred
+on Health?
+
+Amount spent on various expenses
+
+5000
+
+15000
+
+# Rent Health = Education © Entertainment © Electricity
+
+Ans #% 1.72°
+*% 2.54°
+*% 3. 110°
+Zo 4. 108°
+
+Question ID : 264330130033
+Status : Answered
+Chosen Option : 4
+
+Q.5 In an election between three candidates, Arjun, Bhaskar and Saral contested for a
+post. Arjun got 50% votes more than Saral, and Saral got 2% votes less than Bhaskar.
+The difference between the votes of Bhaskar and Saral is 1296. What is the half of the
+
+difference between the votes of Arjun and Bhaskar?
+Ans 1.3888
+
+* 2. 13988
+* 3.7766
+wf 4.15228
+
+Question ID : 264330130298
+Status : Answered
+Chosen Option : 4
+
+Q6 Solve the following expression.
+[7 + 30 +6 — (6 + 6) +7]
+
+Ans * 1.6
+2.7
+*K 3.5
+«4.4
+
+Question ID : 26433066350
+Status : Answered
+Chosen Option : 2
+
+Q.7 In an office, a typing work can be finished by Monika in 6 hours, Anita in 8 hours and
+Manju in 5 hours if they work alone. How much time (in hours) will they take if they
+
+work together?
+Ans 3
+* 1. 35
+JF 2.2 :
+"59
+2
+M3. 32
+25
+2
+a 4. 2
+27
+
+Question ID : 264330130021
+Status : Answered
+Chosen Option : 2
+
+Q.8 Which of the following statements is INCORRECT?
+
+Ans (% 1. Ifa chord is extended outside the circle on both ends then it is called secant.
+
+2 2. Tangent is perpendicular to the radius of the circle at the point of contact.
+f 3. Aline which intersects two distinct points of a circle is called tangent.
+
+#& 4. Tangent is a line touching only one point of the circle.
+
+Question ID : 26433082522
+Status : Answered
+Chosen Option : 3
+
+Q9 A's efficiency is twice that of B's. A can work only for 8 hours a day while B can work
+for 12 hours a day. If A can finish a work in 12 days, in how many days can B finish the
+same work?
+
+Ans * 1.8
+* 2.10
+3.16
+* 4.12
+
+Question ID : 264330112117
+Status : Answered
+Chosen Option : 3
+
+Q.10 Two friends P and Q simultaneously start running from same point around a circular
+track. They run in the same direction. P runs at 6 m/sec and Q runs at b misec. If they
+cross each other at exactly two polnts on the circular track and b Is a natural number
+less than 6, then how many values can b take?
+
+Ans * 1.2
+G21
+* 3.4
+* 4.3
+
+Question ID : 26433081604
+Status : Not Answered
+Chosen Option : —
+
+Q.11 A dealer professing to sell his goods at cost price uses 950 grams weight for 1 kg. His
+galn percentage Is: ( rounded off to two decimal places)
+
+Ans X 1. 5.35%
+72. 5.26%
+* 3. 5.86%
+x 4. 5.96%
+
+Question ID : 26433082378
+Status : Answered
+Chosen Option : 2
+
+Q.12 Atrader allows a 20% trade discount and a 30% cash discount. If the list price is
+21,200, then the selling price (in %) is:
+
+Ans # 1.627
+*% 2.720
+* 3.762
+wf 4.672
+
+Question ID : 264330104251
+Status : Answered
+Chosen Option : 4
+
+Q.13
+Tfx+ “ = 7, then the value of x® + a Is:
+
+Ans % 1. 113682
+of 2. 103682
+7 3. 103882
+* 4. 103862
+
+Question ID : 26433074499
+Status : Answered
+Chosen Option : 2
+
+Q.14 The current ages of Sudhir and Ashish are in the ratio 5 : 7. Twelve years ago, the ratio
+of thelr ages was 1 : 2. What will be the age of Sudhlr after flve years from now?
+
+Ans #< 1.20 years
+wf 2.25 years
+* 3.33 years
+* 4.28 years
+
+Question ID : 264330131495
+Status : Answered
+Chosen Option : 2
+
+Q.15 Aman invests a total sum of %10,000 in a company. A part of the sum was invested at
+10% simple interest per annum and the remaining part at 15% simple interest per
+annum. If the total Interest accrued to him In two years equals %2,400, the sum
+invested at 15% simple interest per annum is:
+
+Ans 3 1. 8,000
+Wf 2.%4,000
+3. 76,000
+* 4. 5,000
+
+Question ID : 264330112802
+Status : Answered
+Chosen Option : 2
+
+Q.16 AB is the diameter of a circle with centre O. P be a point on it. If 2 AOP = 95°, then
+ZOBP = .
+
+Ans) # 1.57.5°
+* 2. 45.5°
+Gf 3.47.5"
+* 4.55.5°
+
+Question ID : 264330143558
+Status : Answered
+Chosen Option : 3
+
+Q.17 ,
+rf 258 — 15 and 228 = 16, then the value of sin? is
+seca seca TT
+
+Ans 956
+ef 1. 481
+256
+2. 481
+481
+* 3. ane
+re
+256
+
+Question ID : 264330143550
+Status : Answered
+Chosen Option : 1
+
+18 . .
+a What is the value of sin30° + cos30° + tan30°
+
+Ans ” 543
+
+ar
+5-3
+2V3
+5473
+V3
+5— v3
+v3
+
+*% 2.
+Question ID : 264330123997
+Status : Answered
+Chosen Option : 1
+
+aQ.19 .
+Ifsec* 6 + tan? 6= = , then the value of sec*6 — tan*@ is:
+
+Ans x1. 18
+
+20
+25
+12
+25
+o
+25
+“18
+
+* 2.
+x 3.
+Question ID : 264330143573
+Status : Answered
+Chosen Option : 4
+
+Q.20 The volume of a cone is 73920 cm’. If the height of the cone is 160cm, then find the
+diameter of its base.
+
+Ans) *% 1.21cm
+*& 2.40cm
+& 3. 22cm
+eZ 4. 42cm
+
+Question ID : 264330103435
+Status : Answered
+Chosen Option : 4
+
+Q.21 Aand B have some toffees. If A gives one toffee to B, then they have equal number of
+toffees. If B gives one toffee to A, then the toffees with A are double with B. The total
+number of toffees with A and B are
+
+Ans) of 1.12
+*% 2.10
+* 3.14
+* 4.15
+
+Question ID : 264330145542
+Status : Answered
+Chosen Option : 1
+
+Q.22 study the given table carefully and answer the following question.
+The table shows the percentage of students of four departments — Mechanical,
+Civil, Computer Science and Applied — with each student being in only one
+
+Ans
+
+department. The table also shows the number of students of these four departments
+
+in five different colleges, with the total number of students being 2080.
+College Number of Students | Mechanical| Civil | Computer Science | Applied
+IT Delhi 430 = 20% = 10%
+TIT Kanpur 350 20% = 25% -
+IIT Bombay a 20% 18% = 32%
+IIT Madras a am 25% 18% 35%
+TT Guwahati 400 20% 22% = 20%
+
+Ifthe number of students in ITT Bombay is 20% less than the number of students in
+
+TIT Madras, then the number of students in ITT Bombay is:
+
+* 1.300
+* 2.500
+* 3.200
+4.400
+
+Question ID : 264330122421
+Status : Answered
+Chosen Option : 4
+
+Q23 Simplify the following expression.
+
+Ans
+
+85 1 (‘8: ae @
+34° 18 les ae 129
+x1. 32
+
+5
+
+3
+2. 45
+
+34
+
+1
+K 3.37
+
+35
+
+1
+7432
+
+3)
+14/5°
+
+112
+36
+
+Question ID : 264330143474
+
+Not Attempted and
+Marked For Review
+
+Chosen Option : —
+
+Status :
+
+Q.24 An inlet pipe can fill an empty tank in 140 hours while an outlet pipe drains a
+completely-filled tank in 63 hours. If 8 inlet pipes and y outlet pipes are opened
+
+simultaneously, when the tank is empty, then the tank gets completely filled in 105
+hours. Find the value of y.
+
+Ans * 1.1
+*K 2.4
+*% 3.2
+4.3
+
+Question ID : 264330131194
+Status : Answered
+Chosen Option : 4
+
+Q.25 Jehangir had to cover a distance of 90 km in an hour. During the first 25 minutes he
+travelled at a speed of 15.2 metres per second. How many metres did Jehanglr cover
+per second during the remaining period to reach his destination just on time?
+
+Ans #* 1.30.8
+* 2.32.5
+
+JG 3.32
+*% 4.31.2
+
+Question ID : 264330131188
+Status : Not Answered
+Chosen Option : —
+
+Section : English Comprehension
+
+Q.1_ Select the option that expresses the given sentence in passive voice.
+
+The little boy called up his best friend on his birthday.
+Ans) 7 1. His best friend has been called up by the little boy on his birthday.
+
+2. His best friend was called up by the little boy on his birthday.
+@ 3. His best friend is called up by the little boy on his birthday.
+# 4. His best friend was being called up by the little boy on his birthday.
+
+Question ID : 264330141542
+Status : Answered
+Chosen Option : 2
+
+Q.2 Sentences of a paragraph are given below in jumbled order. Arrange the sentences in
+the correct order to form a meaningful and coherent paragraph.
+
+A.Through a subtle analysis, Woolf raises certain concerns regarding discrimination
+against women in a male-dominated society.
+
+B.It's also against the need for freedom of expression in women, and the right to
+human dignity and equality.
+
+C.In ‘Shakespeare's Sister’, Virginia Woolf explores the plight of women in society in
+England during the 15th and 16th centuries.
+
+D.It is against the denial of education to the girl-child and violence against women.
+
+Ans > 1.BACD
+* 2.DCBA
+* 3. ADBC
+@ 4. CADB
+
+Question ID : 26433096932
+Status : Answered
+Chosen Option : 4
+
+Q.3 Select the option that can be used as a one-word substitute for the given group of
+words.
+
+A person who hates and avoids other people
+Ans # 1. Masochist
+
+* 2. Pervert
+* 3. Hermit
+ef 4. Misanthrope
+
+Question ID : 26433088200
+Status : Answered
+Chosen Option : 4
+
+Q.4 Select the option that expresses the given sentence in passive voice.
+Who stole my tickets?
+
+Ans (% 1. My tickets was stolen by whom?
+@* 2. My tickets got stolen by who?
+e 3. By whom were my tickets stolen?
+
+# 4. My tickets were stolen by who?
+
+Question ID : 264330137196
+Status : Answered
+Chosen Option : 3
+
+Q.5 Select the most appropriate ANTONYM of the word given in brackets to fill in the
+blank.
+
+The gradual (curtail) in the expenditures made them tensed.
+Ans # 1. indent
+
+* 2. innate
+ef 3. increase
+
+* 4. insinuate
+
+Question ID : 264330141149
+Status : Answered
+Chosen Option : 1
+
+Q.6 Select the most appropriate synonym of the given word.
+Insidious
+
+Ans # 1. Protected
+# 2. Secure
+* 3. Safe
+@ 4. Harmful
+
+Question ID : 26433096220
+Status : Answered
+Chosen Option : 4
+
+Q.7 Select the most appropriate ANTONYM of the underlined word In the given sentence.
+The thief was caught with a spurious Picasso painting.
+Ans #* 1. Fake
+* 2. Stolen
+# 3. Splendid
+w@ 4. Authentic
+
+Question ID : 26433087924
+Status : Answered
+Chosen Option : 4
+
+Q.8 Select the most appropriate option that can substitute the underlined segment in the
+given sentence. If there is no need to substitute it, select ‘No substitution’.
+
+The frog adopts Itself to live both In water and on land.
+Ans % 1. frog adepts itself
+*% 2. frog alters itself
+2 3. No substitution
+wf 4. frog adapts itself
+
+Question ID : 26433073257
+Status : Answered
+Chosen Option : 1
+
+Q.9 The following sentence has been divided into parts. One of them may contain an error.
+Select the part that contains the error from the given options. If you don’t find any
+error, mark ‘No error’ as your answer.
+
+Darshan wished he hadn’t / went to the theme park / in the first place.
+Ans 4% 1. Darshan wished he hadn't
+
+2 2. in the first place
+3. went to the theme park
+2% 4. No error
+
+Question ID : 26433084571
+Status : Answered
+Chosen Option : 1
+
+Q.10 Select the most appropriate option to fill in the blank.
+Kiran had a short as a writer.
+
+Ans, 1. caress
+of 2. career
+* 3. carer
+7 4. carrier
+
+Question ID : 26433099000
+Status : Answered
+Chosen Option : 2
+
+Q.11 Select the option that can be used as a one-word substitute for the given group of
+words.
+
+Aplace where colns, medals, or tokens are made
+Ans) # 1. Hutch
+
+& 2. Hangar
+of 3. Mint
+7 4. Monastery
+
+Question ID : 26433073683
+Status : Answered
+Chosen Option : 3
+
+————
+Q.12 Select the most appropriate meaning of the given idiom.
+To bell the cat
+
+Ans % 1. To feed pets
+
+2 2. To play with kids
+
+*® 3. To love cats
+
+af 4. To face risk
+
+Question ID : 264330135965
+Status : Answered
+Chosen Option : 4
+_— —_———_—_— SS
+
+Q.13 Select the most appropriate option that can substitute the underlined segment in the
+given sentence. If there is no need to substitute it, select ‘No substitution’
+we all should help each other.
+Ans) 1. help mutually
+wf 2. help one another
+2% 3. help each one
+7 4. No substitution
+
+Question ID : 26433073253
+Status : Answered
+Chosen Option : 4
+
+Q.14 Parts of the following sentence have been given as options. Select the option that
+contains an error.
+
+An lion is the most ferocious of all animals.
+Ans ( 1. ferocious of
+
+? 2. all animals.
+wf 3. An lion
+2 4. is the most
+
+Question ID : 26433072528
+Status : Answered
+Chosen Option : 3
+
+Q.15 Select the appropriate idiom to fill in the blank.
+
+The police have not yet been able to solve the case; it seems to be
+Ans) # 1. in anutshell
+
+@ 2. tuming over a new leaf
+3. a hard nut to crack
+* 4. ina pink
+
+Question ID : 264330101280
+Status : Answered
+Chosen Option : 3
+
+Q.16 Select the most appropriate ANTONYM of the underlined word in the given sentence.
+
+Israel has been a staunch ally of the United States.
+Ans }% 1. Resolute
+
+7 2. Careless
+& 3. Confused
+ef 4. Unsteady
+
+Question ID : 26433087925
+Status : Answered
+Chosen Option : 4
+
+Q.17 Identify the option that rectifies the underlined spelling error in the given sentence.
+The boys of our class have reported that considerable progress in the implimentation
+of their policies has been made.
+
+Ans 4 1. Implimentation
+7 2. implimantation
+wf 3. Implementation
+2% 4. Implemantation
+
+Question ID : 264330122263
+Status : Answered
+Chosen Option : 3
+
+Q.18 Select the most appropriate synonym of the given word.
+Abound
+
+Ans , 1. Increase
+& 2. Flourish
+* 3. Succeed
+?* 4. Adequate
+
+Question ID : 26433096991
+Status : Answered
+Chosen Option : 4
+
+Q.19 Select the INCORRECTLY spelt word.
+Ans 1. Opportunity
+
+* 2. Reliance
+
+ef 3. Appraoch
+
+* 4. Bureau
+
+Question ID : 26433092315
+Status : Answered
+Chosen Option : 3
+a
+Q.20 Select the option that can be used as a one-word substitute for the given group of
+words.
+
+A person who abandons religion
+Ans # 1. Egotist
+
+* 2. Priest
+w 3. Apostate
+* 4. Atheist
+
+Question ID : 26433086325
+Status : Answered
+Chosen Option : 4
+
+Q.21
+
+Comprehension:
+
+In the following passage, some words have been deleted. Read the passage carefully and
+select the most appropriate option to fill in each blank.
+
+Global warming is one of the biggest environmental (1) facing the world today. The
+primary cause of global warming is the (2) of greenhouse gases such as carbon
+dioxide and methane into the atmosphere. These gases trap heat from the sun, causing the
+Earth's temperature to rise. The (3) effects of global warming are widespread and
+include more frequent and severe weather events, rising sea levels and the loss of
+biodiversity. Many governments and organisations have implemented (4) to reduce
+greenhouse gas emissions. However, individuals can also play a role in (5) global
+warming by making small changes to their daily habits, such as reducing their energy
+consumption and driving less.
+
+SubQuestlon No : 21
+Select the most appropriate option to fill in blank no. 1.
+Ans /< 1. consequences
+@& 2. opportunities
+* 3. benefits
+ef 4. challenges
+Question ID : 264330137498
+Status : Answered
+Chosen Option : 4
+Comprehension:
+In the following passage, some words have been deleted. Read the passage carefully and
+select the most appropriate option to fill in each blank.
+Global warming is one of the biggest environmental (1) facing the world today. The
+primary cause of global warming is the (2) of greenhouse gases such as carbon
+dioxide and methane into the atmosphere. These gases trap heat from the sun, causing the
+Earth's temperature to rise. The (3) effects of global warming are widespread and
+include more frequent and severe weather events, rising sea levels and the loss of
+biodiversity. Many governments and organisations have implemented (4) to reduce
+greenhouse gas emissions. However, individuals can also play a role in (5) global
+warming by making small changes to their daily habits, such as reducing their energy
+consumption and driving less.
+SubQuestion No : 22
+Q.22 Select the most appropriate option to fill in blank no. 2.
+Ans 1. emission
+
+* 2. absorption
+* 3. reflection
+2 4. conduction
+
+Question ID : 264330137499
+Status : Answered
+Chosen Option : 1
+
+Comprehension:
+
+In the following passage, some words have been deleted. Read the passage carefully and
+select the most appropriate option to fill in each blank.
+
+Global warming is one of the biggest environmental (1) facing the world today. The
+primary cause of global warming is the (2) of greenhouse gases such as carbon
+dioxide and methane into the atmosphere. These gases trap heat from the sun, causing the
+Earth's temperature to rise. The (3) effects of global warming are widespread and
+include more frequent and severe weather events, rising sea levels and the loss of
+biodiversity. Many governments and organisations have implemented (4) to reduce
+greenhouse gas emissions. However, individuals can also play a role in (5) global
+warming by making small changes to their daily habits, such as reducing their energy
+consumption and driving less.
+
+SubQuestlon No : 23
+Q.23 Select the most appropriate option to fill in blank no. 3.
+Ans Vf 1. negative
+
+* 2. positive
+? 3. neutral
+?* 4. negligible
+
+Question ID : 264330137500
+Status : Answered
+Chosen Option : 1
+
+Comprehension:
+
+In the following passage, some words have been deleted. Read the passage carefully and
+select the most appropriate option to fill in each blank.
+
+Global warming is one of the biggest environmental (1) facing the world today. The
+primary cause of global warming is the (2) of greenhouse gases such as carbon
+dioxide and methane into the atmosphere. These gases trap heat from the sun, causing the
+Earth's temperature to rise. The (3) effects of global warming are widespread and
+include more frequent and severe weather events, rising sea levels and the loss of
+biodiversity. Many governments and organisations have implemented (4) to reduce
+greenhouse gas emissions. However, individuals can also play a role in (5) global
+warming by making small changes to their daily habits, such as reducing their energy
+consumption and driving less.
+
+SubQuestion No : 24
+Q.24 Select the most appropriate option to fill in blank no. 4.
+Ans (# 1. sanctions
+
+% 2. subsidies
+7 3. restrictions
+ef 4. policies
+
+Question ID : 264330137501
+Status : Answered
+Chosen Option : 4
+
+Q.25
+Ans
+
+Comprehension:
+
+In the following passage, some words have been deleted. Read the passage carefully and
+select the most appropriate option to fill in each blank.
+
+Global warming is one of the biggest environmental (1) facing the world today. The
+primary cause of global warming is the (2) of greenhouse gases such as carbon
+dioxide and methane into the atmosphere. These gases trap heat from the sun, causing the
+Earth's temperature to rise. The (3) effects of global warming are widespread and
+include more frequent and severe weather events, rising sea levels and the loss of
+biodiversity. Many governments and organisations have implemented (4) to reduce
+greenhouse gas emissions. However, individuals can also play a role in (5) global
+warming by making small changes to their daily habits, such as reducing their energy
+consumption and driving less.
+
+SubQuestion No : 25
+Select the most appropriate option to fill in blank no. 5.
+7 1. exacerbating
+
+ef 2. mitigating
+? 3. sustaining
+? 4. expanding
+
+Question ID : 264330137502
+
+Status : Answered
+
+Chosen Option : 2
+
