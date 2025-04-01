@@ -116,20 +116,44 @@ def NewLine(uploaded_files):
     return questions
 
 # Function to extract and sort keywords by frequency
+# def extract_keywords(questions):
+#     """Extracts keywords and maps them to questions"""
+#     keyword_map = defaultdict(list)
+#     for question in questions:
+#         q = question.split(" -- ")[0]
+#         words = q.lower().split()
+#         filtered_words = [word for word in words if word not in stop_words and word.isalpha()]
+#         for word in filtered_words:
+#             keyword_map[word].append(question)
+
+#     # Sort keywords by the number of associated questions (most frequent first)
+#     sorted_keywords = sorted(keyword_map.items(), key=lambda x: len(x[1]), reverse=True)
+    
+#     return dict(sorted_keywords)
+
+from collections import defaultdict
+
 def extract_keywords(questions):
-    """Extracts keywords and maps them to questions"""
-    keyword_map = defaultdict(list)
+    """Extracts keywords and maps them to unique questions"""
+    keyword_map = defaultdict(set)  # Use a set to prevent duplicates
+
     for question in questions:
-        q = question.split(" -- ")[0]
+        q = question.split(" -- ")[0]  # Extract the question part
         words = q.lower().split()
         filtered_words = [word for word in words if word not in stop_words and word.isalpha()]
-        for word in filtered_words:
-            keyword_map[word].append(question)
 
-    # Sort keywords by the number of associated questions (most frequent first)
-    sorted_keywords = sorted(keyword_map.items(), key=lambda x: len(x[1]), reverse=True)
-    
+        for word in filtered_words:
+            keyword_map[word].add(question)  # Use a set to store unique questions
+
+    # Convert sets back to lists for consistency
+    sorted_keywords = sorted(
+        {k: list(v) for k, v in keyword_map.items()}.items(), 
+        key=lambda x: len(x[1]), 
+        reverse=True
+    )
+
     return dict(sorted_keywords)
+
 
 def cluster_questions(questions, n_clusters=5):
     """Clusters similar questions using KMeans and returns cluster names based on feature terms"""
