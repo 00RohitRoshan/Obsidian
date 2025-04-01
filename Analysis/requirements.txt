@@ -4,8 +4,10 @@ pandas
 numpy
 flask 
 streamlit
-matplotlib
-pdfplumber
-pillow
+pdf2image 
+pytesseract 
+PyMuPDF
 easyocr
-unstructured
+opencv-python
+pillow
+pymupdf 

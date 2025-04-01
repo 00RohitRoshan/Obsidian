@@ -1,0 +1,2571 @@
+Page - 1
+:
+:
+:
+:
+:
+:
+:
+:
+: 81616113318
+:
+:
+Page - 2
+Q.3
+Ans
+Question ID : 81616113336
+Status : Answered
+Chosen Option : 3
+Q.4 Four words have been given, out of which three are alike in some manner and one is different. Select the
+word that is different.
+Ans 1. Intelligence
+2. Weight
+3. Aptitude
+4. Memory
+Question ID : 81616113922
+Status : Answered
+Chosen Option : 2
+Page - 3
+Q.5 Read the given statements and conclusions carefully. Assuming that the information given in the
+statements is true, even if it appears to be at variance with commonly known facts, decide which of
+the given conclusions logically follow(s) from the statements.
+Statements:
+All polygons are angles.
+All angles are diagonals. All
+cones are cubes.
+All cubes are
+decagons. No diagonal is a
+cube.
+Conclusions:
+I. Some diagonals are polygons. II. All
+diagonals are decagons.
+III. No polygon is a cone.
+IV. Some cubes are angles.
+Ans 1. Both conclusions I and III follow
+2. Both conclusions I and II follow
+3. Only conclusion I follows
+4. Both conclusions II and IV follow
+Question ID : 81616113020
+Status : Answered
+Chosen Option : 1
+Q.6 Select the correct combination of mathematical signs that can sequentially replace the * signs and
+balance the given equation.
+42 * 7 * 64 * 11 * 6 *4
+Ans 1. ÷, –, +, ×,
+=
+2. ×, +, –, ÷, =
+3. ÷, +, –, ×, =
+4. ×, –, +, ÷, =
+Question ID : 81616113935
+Status : Answered
+Chosen Option : 1
+Page - 4
+Q.7 Four number-pairs have been given, out of which three are alike in some manner and one is
+different. Select the number-pair that is different.
+Ans 1. 14 : 210
+2. 18 : 342
+3. 17 : 307
+4. 12 : 156
+Question ID : 81616113932
+Status : Answered
+Chosen Option : 3
+Q.8 Select the number from among the given options that can replace the question mark (?) in the following series.
+24, 35, 51, 73, 102, ?
+Ans 1. 149
+2. 131
+3. 151
+4. 139
+Question ID : 81616113829
+Status : Answered
+Chosen Option : 4
+Q.9 In a certain code language, ‘AROUND’ is coded as ‘52182412144’ and ‘FIX’ is coded as ‘63624’. How will ‘PLASTIC’ be coded in
+that language?
+Ans 1. 1612261920183
+2. 1612522021363
+3. 1812521920383
+4. 1612521920363
+Question ID : 81616113926
+Status : Answered
+Chosen Option : 4
+Page - 5
+Q.10 Select the option that is related to the third word in the same way as the second word is related to the first word.
+Depression : Mood :: Insomnia : ?
+Ans 1. Sleep
+2. Thinking
+3. Night
+4. Dreams
+Question ID : 81616113822
+Status : Answered
+Chosen Option : 1
+Q.11 Select the combination of letters that when sequentially placed in the blanks of the given series
+will complete the series.
+L_UA_Z_N_AP_L_U_P
+Z Ans 1. N, L, P, A, N,
+U, Z
+2. P, N, L, Z, U, A, N
+3. P, L, U, Z, N, A, N
+4. N, P, L, U, Z, N, A
+Question ID : 81616113321
+Status : Answered
+Chosen Option : 4
+Page - 6
+Page - 7
+Page - 8
+:
+:
+:
+Page - 9
+Q.13 Select the correct option that indicates the arrangement of the given words in the order in which
+they appear in an English dictionary.
+1. Freeze
+2. Freedom
+3. Fryer
+4. Frozen
+5. Fraud
+6. Fringe
+Ans 1. 5, 6, 2, 1, 4,
+3
+2. 5, 2, 1, 6, 3, 4
+3. 5, 1, 2, 6, 4, 3
+4. 5, 2, 1, 6, 4, 3
+Question ID : 81616113819
+Status : Answered
+Chosen Option : 4
+Page - 10
+Q.14 Out of the total number of players, 100/3 % are in hotel X and the remaining are in hotel Y. If 20
+players from hotel Y are shifted to hotel X, then the number of players in hotel X
+becomes 50% of the total number of players. If 20 players from hotel X are shifted to hotel
+Y, then the number of players in hotel X becomes what per cent of the total number of
+players?
+Ans 1. 20.67%
+2. 16.67%
+3. 26.34%
+4. 12.75%
+Question ID : 81616113330
+Status : Answered
+Chosen Option : 1
+Q.15 Four letter-clusters have been given, out of which three are alike in some manner and one is
+different. Select the letter-cluster that is different.
+Ans 1. TPLH
+2. NJFA
+3. CYUQ
+4. FBXT
+Question ID :
+81616113820
+Status : Answered
+Chosen Option : 2
+Q.16
+Ans
+1.
+2.
+3. 4.
+Question ID : 81616113335
+Status : Answered
+Chosen Option : 1
+Page - 11
+Q.17
+Ans
+Question ID :
+81616113034
+Status : Answered
+Chosen Option : 4
+Q.18
+Ans 1.
+4.
+Question ID : 81616113939
+Status : Answered
+Chosen Option : 3
+Page - 12
+Q.19 Study the given pattern carefully and select the number that can replace the question mark (?) in it.
+4 7 6
+15 ? 21
+44 68 60
+Ans 1. 19
+2. 20
+3. 18
+4. 24
+Question ID : 81616113024
+Status : Answered
+Chosen Option : 4
+Q.20 P, L, T, B, N and D are six members of a business family. N is the son of B, who is not the mother of N. L
+is the brother of B. D and B are a married couple. T is the daughter of D, who is the sister of P.How is
+N related to T?
+Ans 1. Sister
+2. Father
+3. Brother
+4. Mother
+Question ID : 81616113322
+Status : Not Answered
+Chosen Option : --
+Q.21 Select the letter-cluster from among the given options that can replace the question mark (?) in the
+following series.
+PNNA, RPPE, TRRI, VTTO, ?
+Ans 1. YVVU
+2. XWWU
+3. XVVU
+4. YUUV
+Question ID : 81616113313
+Status : Answered
+Chosen Option : 3
+Page - 13
+Q.22 In a certain code language, 'PERMIT' is written as 'VVLNOG'. How will 'INERTIA' be written in that
+language?
+Ans 1. XYOHBCU
+2. OMYIZRU
+3. OHYXZCU
+4. XOYHCZU
+Question ID : 81616113016
+Status : Not Answered
+Chosen Option : --
+Page - 14
+Q.1 Who among the following was elected as the President of Veterinary Council of India in January 2021?
+Ans 1. Rajeev Arora
+2. Dipankar Seth
+3. Umesh Sharma
+4. KK Verma
+Question ID : 81616113361
+Status : Not Answered
+Chosen Option : --
+Q.2 Which of the following statements about Swami Dayanand Saraswati is INCORRECT? Ans
+1. He authored the book 'Satyarth Prakash'.
+2. He was the founder of Arya Samaj.
+3. His birthplace was Gujarat.
+4. He was the founder of Brahmo Samaj.
+Question ID : 81616113957
+Status : Answered
+Chosen Option : 4
+Q.3 Who among the following had written Kitab-ul-Hind that gave an incisive description of early
+11th Century India?
+Ans 1. Al-Bukhari
+2. Al-Khwarizmi
+3. Al-Biruni
+4. Al-Kindi
+Question ID : 81616113050
+Status : Answered
+Chosen Option : 3
+Page - 15
+Q.4 Which of the following is the application of sciences such as physics, chemistry, biology, computer science
+and engineering to matters of law and to the identification of various facts of civilian investigation?
+Ans 1. Psychology
+2. Morphology
+3. Forensic science
+4. Kalology
+Question ID : 81616113039
+Status : Answered
+Chosen Option : 3
+Page - 16
+Q.5 As per the Union Budget of 2021-22, how many regional national institutes of virology will be set up?
+Ans 1. Six
+2. Two
+3. Three
+4. Four
+Question ID : 81616113947
+Status : Not Answered
+Chosen Option : --
+Q.6 In Leh, the first ever ice climbing festival was celebrated in____ alley in January 2021.
+Ans 1. Nubra
+2. Ripchar
+3. Markha
+4. Dras
+Question ID : 81616113035
+Status : Answered
+Chosen Option : 1
+Q.7 Which of the following places is famous for a copper
+mine? Ans 1. Khetri
+2. Keonjhar
+3. Gaya
+4. Satna
+Question ID : 81616113854
+Status : Answered
+Chosen Option : 1
+Q.8 Who among the following was one of the founders of the Hindustan Republic
+Association? Ans 1. Jatindranath Mukherjee
+2. Ram Prasad Bismil
+3. Surya Sen
+4. Lala Lajpat Rai
+Question ID : 81616113352
+Status : Answered
+Chosen Option : 2
+Page - 17
+Q.9 In which of the following years was the Planning Commission of India set
+up? Ans 1. 1962
+2. 1945
+3. 1950
+4. 1958
+Question ID : 81616113357
+Status : Answered
+Chosen Option : 3
+Page - 18
+Q.10 Baghmara Pitcher Plant Sanctuary is located in which of the following
+states? Ans 1. Assam
+2. Karnataka
+3. Goa
+4. Meghalaya
+Question ID : 81616113348
+Status : Answered
+Chosen Option : 4
+Q.11 In December 2020, the Ministry of Home Affairs declared the entire State of___ as a ‘disturbed
+area’ for six more months under the Armed Forces (Special Powers) Act, 1958 (AFSPA).
+Ans 1. Jharkhand
+2. Punjab
+3. Nagaland
+4. West Bengal
+Question ID : 81616113867
+Status : Answered
+Chosen Option : 3
+Q.12 Who among the following won the ‘3rd Rabindranath Tagore Literary Prize’ for his novel ‘The City and
+The Sea’ in December 2020?
+Ans 1. Raj Kamal Jha
+2. Shekhar Gupta
+3. Siddhartha Sarma
+4. Rajdeep Sardesai
+Question ID : 81616113355
+Status : Answered
+Chosen Option : 3
+Q.13 In which of the following years was the Second Round Table Conference in London
+held? Ans 1. 1931
+2. 1941
+3. 1939
+4. 1925
+Question ID : 81616113047
+Status : Answered
+Chosen Option : 1
+Page - 19
+Page - 20
+Q.14 Unique Transaction Reference number is a____ character code used to uniquely identify a transaction in the RTGS
+system.
+Ans 1. 34
+2. 45
+3. 22
+4. 17
+Question ID : 81616113340
+Status : Answered
+Chosen Option : 4
+Q.15 Who among the following is a Padma Vibhushan awardee of
+2021? Ans 1. Sudarshan Sahoo
+2. Tarlochan Singh
+3. Mouma Das
+4. Sumitra Mahajan
+Question ID : 81616113859
+Status : Not Answered
+Chosen Option : --
+Q.16 Which of the following is NOT a town/city on the west coast of
+India? Ans 1. Surat
+2. Gopalpur
+3. Karwar
+4. Mangalore
+Question ID : 81616113953
+Status : Answered
+Chosen Option : 2
+Q.17 Which of the following is a process in which hot, less dense materials rise upward and are replaced
+by colder, more dense materials?
+Ans 1. Condensation
+2. Radiation
+3. Conduction
+4. Convection
+Question ID : 81616113346
+Status : Answered
+Chosen Option : 1
+Page - 21
+Q.18 Who among the following replaced Morarji Desai as the Prime Minister of India in
+1979? Ans 1. Jagjivan Ram
+2. Charan Singh
+3. Chandrasekhar
+4. Devi Lal
+Question ID : 81616113962
+Status : Answered
+Chosen Option : 1
+Q.19 Which of the following has the same dimension as that of linear
+momentum? Ans 1. Impulse
+2. Work
+3. Stress
+4. Energy
+Question ID : 81616113848
+Status : Answered
+Chosen Option : 1
+Q.20 Gurdwara Patalpuri Sahib is located on the bank of river__
+_.
+Ans 1. Ganga
+2. Sutlej
+3. Yamuna
+4. Beas
+Question ID : 81616113945
+Status : Answered
+Chosen Option : 4
+Q.21 Who won the Toyota Thailand Open Women’s Singles Title in Bangkok in January
+2021? Ans 1. Ashwini Ponnappa
+2. Carolina Marin
+3. Tai Tzu-ying
+4. PV Sindhu
+Question ID : 81616113056
+Status : Answered
+Chosen Option : 3
+Page - 22
+:
+:
+:
+______
+:
+:
+:
+___
+:
+:
+:
+:
+:
+:
+Page - 23
+:
+:
+:
+:
+Page - 24
+Q.2
+Ans 1.
+2.
+3.
+4.
+Q.3
+Ans 1.
+4.
+Q.4
+Ans
+1.
+2.
+3. 4.
+Question ID : 81616113873
+Status : Answered
+Chosen Option : 3
+:
+:
+:
+:
+:
+:
+Page - 25
+Q.5
+Ans 1.
+2.
+3.
+4.
+Question ID : 81616114192
+Status : Answered
+Chosen Option : 4
+Q.6
+Status : Answered
+Chosen Option : 3
+Q.7
+Ans 1.
+2.
+3. 4.
+Question ID : 81616113365
+Status : Answered
+Chosen Option : 1
+:
+Page - 26
+Q.8
+Ans 1.
+2.
+3. 4.
+Question ID : 81616113869
+Status : Answered
+Chosen Option : 2
+Q.9
+Ans 1.
+2.
+3. 4.
+Question ID : 81616113977
+Status : Answered
+Chosen Option : 2
+Q.10
+Ans 1.
+2.
+3.
+4.
+Question ID : 81616113072
+Status : Not Attempted and
+Marked For Review
+Chosen Option : --
+Question ID : 81616113373
+Status : Answered
+Chosen Option : 4
+Page - 27
+Q.12
+Ans
+3.
+4.
+Question ID : 81616113987
+Status : Not Attempted and
+Marked For Review
+Chosen Option : --
+Q.13
+Ans
+2.
+3.
+4.
+Question ID : 81616113380
+Status : Answered
+Chosen Option : 4
+Page - 28
+Q.14
+Ans 1.
+2.
+3.
+Page - 29
+Question ID : 81616114194
+Status : Not Answered
+Chosen Option : --
+Page - 30
+Q.15
+Ans 1.
+2.
+4.
+Question ID : 81616113063
+Status : Answered
+Chosen Option : 3
+Q.16
+Ans 1.
+2.
+3. 4.
+Question ID : 81616112679
+Status : Answered
+Chosen Option : 2
+Q.17
+Ans 1.
+2.
+3.
+4.
+Question ID : 81616113066
+Status : Answered
+Chosen Option : 3
+Page - 31
+Q.18
+Ans
+2.
+3. 4.
+Question ID : 81616113377
+Status : Answered
+Chosen Option : 3
+Q.19
+Ans 1.
+2.
+Question ID : 81616112677
+Status : Answered
+Chosen Option : 2
+Q.20
+Ans 1.
+2.
+4.
+Question ID : 81616113976
+Status : Not Answered
+Chosen Option : --
+Page - 32
+Q.21
+Ans 1.
+3. 4.
+Question ID : 81616113069
+Status : Not Answered
+Chosen Option : --
+Q.22
+Ans 1.
+2.
+3. 4.
+Question ID : 81616114090
+Status : Answered
+Chosen Option : 2
+Q.23
+Ans
+2.
+3. 4.
+Question ID : 81616112777
+Status : Answered
+Chosen Option : 1
+Page - 33
+Section : English Comprehension
+Q.1 Select the option that expresses the given sentence in passive voice.
+The invigilator is advising the students not to carry calculators into the examination hall.
+Ans 1. The students are being advised by the invigilator not to carry calculators into the examination
+hall.
+2. The students have been advised not to carry calculators into the examination hall by the
+invigilator.
+3. The students were advised not to carry calculators into the examination hall.
+4. The students were advised the invigilator not to carry calculators into the examination hall.
+Q.24 https://testbook.com
+Ans 1.
+2.
+Question ID : 81616113973
+Status : Not Answered
+Chosen Option : --
+Q.25
+Question ID : 81616113984
+Status : Not Answered
+Chosen Option : --
+:
+:
+:
+https://play.google.com/store/apps/details?id=com.testbook.tbapp
+P a g e 34 | 45
+34
+Q.2 Select the most appropriate option to fill in the blank.
+India is formally moving ahead to_____ 21 MIG-29 and 12 Sukhoi-30MKI fighters from Russia along with
+upgrades of their existing fleets.
+Ans 1. accomplish
+2. achieve
+3. advance
+4. procure
+Question ID : 81616113413
+Status : Answered
+Chosen Option : 4
+Q.3 Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right
+order to form a meaningful and coherent paragraph.
+A. But the eagle, in wrath, gave the beetle a flap of his wing, and straightaway seized upon the hare
+and devoured him.
+B. The beetle therefore interceded with the eagle, begging of him not to kill the poor suppliant, and
+pleaded with him not to kill so small an animal.
+C. When the eagle flew away, the beetle flew after him, to learn where his nest was.
+D.A hare, being pursued by an eagle, took himself for refuge to the nest of a beetle, whom he begged
+to save him.
+Ans 1. ACDB
+2. DCAB
+3. CBAD
+4. DBAC
+Question ID : 81616113905
+Status : Answered
+Chosen Option : 3
+Q.4 Select the most appropriate meaning of the given idiom.
+Bang for the buck
+Ans 1. A sorrowful heart
+2. More value for money
+3. Dash against something
+4. Less value for money
+Question ID : 81616113104
+Status : Answered
+Chosen Option : 3
+P a g e 35 | 45
+35
+Q.5 Select the option that expresses the given sentence in indirect speech.
+“Everything is going to be alright,” said the doctor.
+Ans 1. The doctor said that everything are going to be alright.
+2. The doctor said that everything will be alright.
+3. The doctor said that everything was going to be alright.
+4. The doctor said that everything is going to be alright.
+Question ID : 81616113391
+Status : Answered
+Chosen Option : 4
+Q.6 Select the most appropriate synonym of the given word.
+Generic
+Ans 1. Specific
+2. Definite
+3. Universal
+4. Precise
+Question ID : 81616113403
+Status : Answered
+Chosen Option : 3
+P a g e 36 | 45
+36
+Q.7 Select the most appropriate meaning of the given idiom.
+Raise the bar
+Ans 1. To grow taller
+2. To set higher goals
+3. To win a competition
+4. To raise the price
+Question ID : 81616113103
+Status : Answered
+Chosen Option : 2
+Q.8 Select the option that can be used as a one-word substitute for the given group of words.
+A herd or flock of animals being driven in a
+body Ans 1. Crowd
+2. Cluster
+3. Throng
+4. Drove
+Question ID : 81616114015
+Status : Answered
+Chosen Option : 3
+Q.9 Select the most appropriate synonym of the given word.
+Regime
+Ans 1. Country
+2. Rule
+3. Territory
+4. Space
+Question ID : 81616113402
+Status : Answered
+Chosen Option : 3
+P a g e 37 | 45
+37
+Q.10 Select the most appropriate option to substitute the underlined segment in the given
+sentence. If no substitution is required, select ‘No substitution’.
+The toy drummer plays the drum if you press the button at the back.
+Ans 1. will play the drum if you will press
+2. playing the drum if you pressed
+3. played the drum if you are pressing
+4. No substitution
+Question ID : 81616113998
+Status : Answered
+Chosen Option : 4
+P a g e 38 | 45
+38
+Q.11 Select the INCORRECTLY spelt word.
+Ans 1. Unmanageable
+2. Wildernesses
+3. Voilence
+4. Exterminated
+Question ID : 81616113916
+Status : Answered
+Chosen Option : 3
+Q.12 Select the most appropriate ANTONYM of the given word.
+Gradual
+Ans 1. Abrupt
+2. Slow
+3. Regular
+4. Gentle
+Question ID : 81616113102
+Status : Answered
+Chosen Option : 1
+Q.13 Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right
+order to form a meaningful and coherent paragraph.
+A. When we got near, we saw it was the steam rising from hot springs.
+B. We saw in the distance a great column of smoke.
+C. We wondered if it came from a chimney or a burning house.
+D.We thought of taking a bath in the hot water.
+Ans 1. BCDA
+2. ABCD
+3. BCAD
+4. ACDB
+Question ID : 81616113098
+Status : Answered
+Chosen Option : 1
+P a g e 39 | 45
+39
+Q.14 Select the most appropriate option to fill in the blank.
+Work and domestic_____ made Kajal short-tempered.
+Ans 1. pressures
+2. weights
+3. gravities
+4. forces
+Question ID : 81616114018
+Status : Answered
+Chosen Option : 1
+P a g e 40 | 45
+40
+Q.15 Select the INCORRECTLY spelt
+word. Ans 1. Pieceful
+2. Creature
+3. Specified
+4. Decrease
+Question ID : 81616113915
+Status : Answered
+Chosen Option : 1
+Q.16 Select the most appropriate ANTONYM of the given word.
+Seize
+Ans 1. Grab
+2. Catch
+3. Snatch
+4. Loosen
+Question ID : 81616113909
+Status : Answered
+Chosen Option : 4
+Q.17 The following sentence has been divided into parts. One of them contains an error. Select the part
+that contains the error from the given options.
+You must avoid riding in a crowded bus / or travelling in a metro / during rush hour / as both are quiet
+unpleasant experiences.
+Ans 1. as both are quiet unpleasant experiences
+2. during rush hour
+3. or travelling in a metro
+4. You must avoid riding in a crowded bus
+Question ID : 81616113995
+Status : Answered
+Chosen Option : 4
+P a g e 41 | 45
+41
+Q.18 The following sentence has been split into four segments. Identify the segment that contains a
+grammatical error.
+Had you / not reached in time, / we will have / lost our lives.
+Ans 1. Had you
+2. lost our lives
+3. not reached in time
+4. we will have
+Question ID : 81616113085
+Status : Answered
+Chosen Option : 4
+P a g e 42 | 45
+42
+Q.19 Select the most appropriate option to substitute the underlined segment in the given sentence. If no
+substitution is required, select ‘No substitution’.
+While washing your hands, rub them together for 20 seconds to remove the microbes on t hem.
+Ans 1. the microbes on their
+2. the microbes on those
+3. the microbes on they
+4. No substitution
+Question ID : 81616113393
+Status : Answered
+Chosen Option : 4
+Q.20 Select the option that can be used as a one-word substitute for the given group of words.
+A group of three novels or plays, each complete in
+itself Ans 1. Triplet
+2. Trivet
+3. Triumvir
+4. Trilogy
+Question ID : 81616114014
+Status : Answered
+Chosen Option : 4
+Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help of the
+alternatives given. Select the most appropriate option for each blank.
+What every tourist must take back from Bhutan is pure honey, especially Putka,
+“Antibiotic” honey produced (1)
+Melipona Bees (stingless bees) a breed found in protected areas (2) 700 to 1,500 metres
+above sea level. Due (3) their small size, they can get larger nutrients (4) regular honeybees. It has a
+tangy/sour taste and can (5) your sore throat in a matter of minutes.
+SubQuestion No : 21
+Q.21 Select the most appropriate option to fill in blank number
+1. Ans 1. of
+2. through
+3. by
+4. with
+Question ID : 81616113900
+Status : Answered
+P a g e 43 | 45
+43
+Chosen Option : 3
+P a g e 44 | 45
+44
+Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help of the
+alternatives given. Select the most appropriate option for each blank.
+What every tourist must take back from Bhutan is pure honey, especially Putka,
+“Antibiotic” honey produced (1)
+Melipona Bees (stingless bees) a breed found in protected areas (2) 700 to 1,500 metres
+above sea level. Due (3) their small size, they can get larger nutrients (4) regular honeybees. It
+has a tangy/sour taste and can (5) your sore throat in a matter of minutes.
+SubQuestion No : 22
+Q.22 Select the most appropriate option to fill in blank number
+2. Ans 1. midst
+2. after
+3. between
+4. among
+Question ID : 81616113901
+Status : Answered
+Chosen Option : 3
+Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help of the
+alternatives given. Select the most appropriate option for each blank.
+What every tourist must take back from Bhutan is pure honey, especially Putka,
+“Antibiotic” honey produced (1)
+Melipona Bees (stingless bees) a breed found in protected areas (2) 700 to 1,500 metres
+above sea level. Due (3) their small size, they can get larger nutrients (4) regular honeybees. It has a
+tangy/sour taste and can (5) your sore throat in a matter of minutes.
+SubQuestion No : 23
+Q.23 Select the most appropriate option to fill in blank number
+3. Ans 1. for
+2. at
+3. to
+4. of
+Question ID : 81616113902
+Status : Answered
+Chosen Option : 3
+P a g e 45 | 45
+45
+Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help of the
+alternatives given. Select the most appropriate option for each blank.
+What every tourist must take back from Bhutan is pure honey, especially Putka,
+“Antibiotic” honey produced (1)
+Melipona Bees (stingless bees) a breed found in protected areas (2) 700 to 1,500 metres
+above sea level. Due (3) their small size, they can get larger nutrients (4) regular honeybees. It
+has a tangy/sour taste and can (5) your sore throat in a matter of minutes.
+SubQuestion No : 24
+Q.24 Select the most appropriate option to fill in blank number
+4. Ans 1. then
+2. than
+3. though
+4. and
+Question ID : 81616113903
+Status : Answered
+Chosen Option : 4
+Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help of the
+alternatives given. Select the most appropriate option for each blank.
+What every tourist must take back from Bhutan is pure honey, especially Putka,
+“Antibiotic” honey produced (1)
+Melipona Bees (stingless bees) a breed found in protected areas (2) 700 to 1,500 metres
+above sea level. Due (3) their small size, they can get larger nutrients (4) regular honeybees. It has a
+tangy/sour taste and can (5) your sore throat in a matter of minutes.
+SubQuestion No : 25
+Q.25 Select the most appropriate option to fill in blank number
+5. Ans 1. pacify
+2. appease
+3. soothe
+4. calm
+Question ID : 81616113904
+Status : Answered
+Chosen Option : 1
+
+Page-1Roll Number
+Candidate Name
+Venue Name iON Digital Zone iDZ Siliguri
+Exam Date 13/08/2021
+Exam Time 12:00 PM - 1:00 PM
+Subject Combined Graduate Level Examination 2020 Tier
+1
+Q.1 Four letter-clusters have been given, out of which three are alike in some manner and
+one is different. Select the letter-cluster that is different. Ans 1. TVYB
+2. LNQJ
+3. HJMP
+4. BDGT
+Question ID : 81616113517
+Status : Answered
+Chosen Option : 2
+Q.2
+Ans
+1.
+2. 3. 4. Question ID : 81616113536
+Status : Answered Chosen Option : 3
+Page-2Q.3 Seven years from now, Anamika will be as old as Malini was 4 years ago. Srinidhi was
+born 2 years ago. The average age of Anamika, Malini and Srinidhi 10 years from now
+will be 33 years. What is the present age of Anamika?
+Ans 1. 30 years 2. 29 years 3. 28 years 4. 31 years Question ID : 81616113532
+Status : Not Answered
+Chosen Option : -- Q.4
+Ans
+1.
+2.
+3.
+4. Question ID : 81616113538
+Status : Answered
+Chosen Option : 1
+Page-3Q.5 Select the option in which the numbers are related in the same way as are the numbers
+of the following set. (24, 10, 392)
+Ans 1. (26, 12, 369)
+2. (27, 15, 480)
+3. (29, 18, 242)
+4. (21, 18, 234)
+Question ID : 81616114236
+Status : Answered
+Chosen Option : 3
+Page-4Q.6 Four number-pairs have been given, out of which three are alike in some manner and
+one is different. Select the number-pair that is different. Ans 1. 12 : 432
+2. 7 : 147
+3. 8 : 192
+4. 13 : 506
+Question ID : 81616113023
+Status : Answered
+Chosen Option : 4
+Q.7 Select the option that is related to the fourth number in the same way as the first
+number is related to the second number and the fifth number is related to the sixth
+number. 17 : 293 :: ? : 488 :: 21 : 445
+Ans 1. 22
+2. 20
+3. 28
+4. 24
+Question ID : 81616114234
+Status : Answered
+Chosen Option : 1
+Q.8 Select the option in which the words share the same relationship as that shared by the
+given pair of words. Resistance : Ohm
+Ans 1. Force : Watt
+2. Ampere : Current
+3. Density : Joule 4. Angle : Radians Question ID : 81616113520
+Status : Answered
+Chosen Option : 4
+Page-5Q.9
+Ans
+1.2.3. 4. Question ID : 81616113537
+Status : Answered
+Chosen Option : 3
+Q.10
+Page-6Q.13 Select the correct combination of mathematical signs that can sequentially replace the
+* signs and balance the equation. 60 * 2 * 3 * 6 * 5 * 43
+Ans 1. ÷, ×, +, -,=
+2. ÷, +, ×, =, -
+3. ÷, +, ×, -, =
+4. +, ÷, ×, =, - Question ID : 81616113026
+Status : Answered
+Chosen Option : 3
+Q.14 Select the letter-cluster from among the given options that can replace the question
+mark (?) in the following series. CMQR, BONV, AQKZ, ZSHD, ?
+Ans 1. ZVGH
+2. YUEH
+3. YVEI
+4. ZUDH
+Question ID : 81616113515
+Status : Answered
+Chosen Option : 2
+Q.15 Select the number from among the given options that can replace the question mark (?)
+in the following series. 4, 11, 31, 65, 193, ?
+Ans 1. 368
+2. 398
+3. 386
+4. 389
+Question ID : 81616113526
+Status : Answered
+Chosen Option : 4
+Q.16 In a certain code language, 'VIRTUE' is coded as '201' and 'TRAGEDY' is coded as '218'. How will 'PROFANE' be coded in that language?
+Ans 1. 570
+2. 342
+3. 432
+4. 456
+Question ID : 81616113017
+Status : Not Answered
+Chosen Option : --
+Page-7Q.23 In a certain code language, ‘DOLPHIN’ is written as ‘EPMPGHM’. How will ‘CORDIAL’ be written in that language?
+Ans 1. EPTDHZK
+2. DPSDHAL
+3. DPSDHZK
+4. DPSEGZK
+Question ID : 81616114228
+Status : Answered
+Chosen Option : 4
+Q.24 Select the correct option that indicates the arrangement of the given words in the
+order in which they appear in an English dictionary. 1. Protest
+2. Palindrome
+3. Probability
+4. Pathetic
+5. Parking
+Ans 1. 2, 4, 5, 3, 1
+2. 2, 1, 3, 4, 5
+3. 2, 5, 4, 3, 1
+4. 2, 5, 1, 4, 3
+Question ID : 81616113516
+Status : Answered
+Chosen Option : 3
+Q.25
+Ans 1. 2. 3. 4. Question ID : 81616113030
+Status : Not Answered
+Chosen Option : -- Section : General Awareness
+Page-8Q.1 In which of the following states is the Rowa Wildlife Sanctuary
+situated? Ans 1. Tripura 2. Haryana 3. Punjab
+4. Assam
+Question ID : 81616113044
+Status : Answered
+Chosen Option : 1
+Q.2 Veer Surendra Sai was a freedom fighter from: Ans 1. Odisha 2. Telangana 3. Nagaland
+4. Sikkim
+Question ID : 81616114262
+Status : Answered
+Chosen Option : 2
+Q.3 Who among the following persons was elected as the Vice President of Asia
+Pacific Broadcasting Union in December 2020?
+Ans 1. Rakesh Mohan 2. Hemant Pandey
+3. Bina Agarwal
+4. Shashi Shekhar Vempati
+Question ID : 81616113564
+Status : Answered
+Chosen Option : 3
+Q.4 The Mysore Palace was the residence of the
+__ _. Ans 1. Palas 2. Wodeyars 3. Chandelas 4. Bundelas Question ID : 81616114259
+Status : Answered
+Chosen Option : 3
+Page-9Q.5 Pattachitra art form is dedicated to which Lord in Hindu
+mythology? Ans 1. Lord Jagannath
+2. Lord Ganesha 3. Lord Shiva 4. Lord Brahma Question ID : 81616113036
+Status : Answered
+Chosen Option : 3
+Q.6 In which of the following years was the Mughal empire established by
+Babur? Ans 1. 1699
+2. 1526
+3. 1578
+4. 1634
+Question ID : 81616113554
+Status : Answered
+Chosen Option : 2
+Q.7 Mizoram has started ‘Love Brigade’ scheme to fight against which of the following
+diseases in December 2020?
+Ans 1. Syphilis 2. HIV/AIDS
+3. Chlamydia 4. Gonorrhoea Question ID : 81616113041
+Status : Answered
+Chosen Option : 2
+Q.8 Lakshya Sen is associated with which of the following
+sports? Ans 1. Table tennis 2. Basketball
+3. Badminton 4. Lawn tennis Question ID : 81616114268
+Status : Answered
+Chosen Option : 4
+Page-10Q.9 Who among the following was appointed as the Chief Executive of the health insurance
+scheme 'Ayushman Bharat' by the National Health Authority in January 2021?
+Ans 1. Rama Mohan Rao Amara 2. Anil Ladha 3. RS Sharma 4. Sanjeev Kumar Question ID : 81616113563
+Status : Answered
+Chosen Option : 4
+Q.10 With which of the following sports is Ruia Gold Cup
+associated? Ans 1. Bridge 2. Water polo 3. Badminton 4. Swimming
+Question ID : 81616113560
+Status : Answered
+Chosen Option : 3
+Q.11 Who among the following was appointed as the Managing Director and Chief Executive
+Officer of SBI Cards and Payment Services Ltd. in January 2021?
+Ans 1. Rajnish Kumar 2. Ashwini Kumar Tewari
+3. Swaminathan Janakiraman 4. Rama Mohan Rao Amara Question ID : 81616113038
+Status : Answered
+Chosen Option : 2
+Q.12 Which of the following Articles of the Constitution of India states that there will be a
+Vice- President of India?
+Ans 1. Article 75
+2. Article 56
+3. Article 45
+4. Article 63
+Question ID : 81616113053
+Status : Answered
+Chosen Option : 4
+Page-11Q.13 With what do you divide thrust in a liquid to obtain the value of
+pressure? Ans 1. Mass 2. Density
+3. Volume 4. Area Question ID : 81616114251
+Status : Answered
+Chosen Option : 3
+Q.14 With which of the following countries did India sign an agreement in February 2021 for
+the construction of Lalandar (Shatoot) Dam?
+Ans 1. Australia 2. Japan 3. Afghanistan 4. Brazil
+Question ID : 81616113562
+Status : Answered
+Chosen Option : 3
+Q.15 Which of the following is NOT used to make
+toothpaste? Ans 1. Galena 2. Silica 3. Limestone 4. Aluminium Oxide Question ID : 81616114254
+Status : Answered
+Chosen Option : 3
+Q.16 A channel of canal where water is forced to flow against the slope of land by
+upliftment is called _. Ans 1. Groundwater table 2. Warabandi system
+3. Lift channel
+4. Flow channel
+Question ID : 81616113550
+Status : Answered
+Chosen Option : 3
+Page-12Q.17 An elastic wave generated by an impulse such as an earthquake or an explosion is called
+______. Ans 1. tectonic shift
+2. epicentre 3. seismic wave 4. sound wave Question ID : 81616113551
+Status : Answered
+Chosen Option : 3
+Q.18 Who among the following was the founder of
+Homeopathy? Ans 1. FG Hopkins 2. Selman Waksman 3. Samuel Hahnemann 4. Robert Koch
+Question ID : 81616113548
+Status : Answered
+Chosen Option : 3
+Q.19 Which of the following states launched the SAANS (Social Awareness and Action to
+Neutralise Pneumonia Successfully) campaign in February 2021?
+Ans 1. Uttar Pradesh
+2. Odisha 3. Madhya Pradesh
+4. Sikkim
+Question ID : 81616113545
+Status : Answered
+Chosen Option : 3
+Q.20 Who among the following persons was announced as the brand ambassador for the
+BAFTA (British Academy of Film and Television Arts) 'Breakthrough Initiative’ in
+November 2020?
+Ans 1. Akshay Kumar 2. AR Rahman 3. Ajay Devgan 4. Kuldeep Handoo Question ID : 81616113557
+Status : Answered
+Chosen Option : 3
+Page-13Q.21 Who among the following wrote the novel ‘Rangbhumi: The Arena of
+Life’? Ans 1. Abanindranath Tagore 2. Mahatma Gandhi
+3. Munshi Pemchand
+4. Rabindranath Tagore Question ID : 81616113556
+Status : Answered
+Chosen Option : 3
+Q.22 Who among the following assassinated Sir William Hutt Curzon Wyllie in
+London? Ans 1. Sukhdev Thapar 2. Surya Sen 3. Madan Lal Dhingra 4. Khudiram Bose Question ID : 81616113048
+Status : Answered
+Chosen Option : 4
+Q.23 In which of the following temples will you find
+Gopurams? Ans 1. Shiva Temple, Chidambaram
+2. Bhabatarini Temple, Dakshineswar 3. Dilwara Temple, Mount Abu 4. Golden Temple, Amritsar Question ID : 81616114247
+Status : Answered
+Chosen Option : 3
+Q.24 Which of the following Acts introduced federal features and provincial autonomy in the
+legislature and also made provisions for the distribution of legislative powers between
+the Centre and the provinces?
+Ans 1. The Government of India Act, 1858
+2. The Government of India Act, 1919
+3. The Government of India Act, 1935
+4. Indian Councils Act, 1909
+Question ID : 81616113559
+Status : Answered
+Chosen Option : 4
+Page-14Q.25 Where is the corporate office of RBL Bank
+located? Ans 1. Srinagar 2. Patna 3. Mumbai
+4. Bengaluru Question ID : 81616113542
+Status : Answered
+Chosen Option : 3
+75 :44
+71:J5
+44:75
+56%
+70%
+Surbhi sold an article for 2 176 after 160
+150
+in AABC , Dand E are the points on sides AB and AC.respectively such that MADE
+10
+6.75
+Page-15Q.5 The value of
+2sn’3D°tan 6D°—3cos’6D°sec’3O’ .
+4cot’4S°-sec’60’+sn’60°+cos’90° ”’
+If a five digit number 247xy is divisible by 3, 7 and 11, then what is the value of(2y-8x)?
+The ratio of two numbers Aand Bis 5 : 8.If 5 is added to each ofA and B, then the ratio ofA and B becomes 2 : 3. The
+sum ofA and B is: X 78
+x 4z
+Iflengthof arectangle isincreased toitsthreetimes and breadth isdecreased toitshalf,thenlhe ratioofthe areaof
+given rectangle to the area of newrectangle is: W J:3
+W 3:2
+W 3: I
+W 2:3
+Page-16Q.9
+Ans
+1.2. 3.4. Question ID : 81616113566
+Status : Answered
+Chosen Option : 4
+Q.10
+Ans 1. 2. 3. 4. Question ID : 81616114284
+Status : Answered
+Chosen Option : 3
+Q.11
+Ans
+1.2. 3.4. Question ID : 81616112878
+Status : Answered
+Chosen Option : 1
+Page-17Q.12 The histogiam shows the weights of smdents of class X in a school.
+Weigh t t in Kg)
+Letxbethenumberofstudentswhoseweightislessthan50kgandybe thenumberofthe smdentswhoseweightis greater than or equal lo 6o kg. Whar is the value of x : y * K 11 : 13
+K 9 : 13
+Ina triangle ABCAB:AC =5: 2,BC = 9cm.BAis produced toD. and the bisertor oftheAngleCAD meets BC
+produced at E. What is the length (in cm) ofCE7
+X 10
+If 2 ros' 8 —— 3s in8, 0° < 8 < 90° , then the value of (s ec' 8 — t nn
+2 8 + cos 8 ) is: 4
+4
+4
+4
+Page-1849 : 46
+51 : 49
+49 : 5I
+46 : 49
+and for the period beyond 6
+19674
+zoog7
+l99ññ
+2I07.5
+Q.15
+Page-19Q.18
+Ans 1. 2.3. 4. Question ID : 81616113068
+Status : Answered
+Chosen Option : 3
+Q.19
+Ans 1. 2. 3. 4. Question ID : 81616113579
+Status : Answered
+Chosen Option : 3
+Q.20
+Ans 1. 2.3. 4. Question ID : 81616113567
+Status : Answered
+Chosen Option : 3
+Q.21
+Ans
+1. 2.3. 4. Question ID : 81616113073
+Status : Answered
+Chosen Option : 3
+Page-20Q.22 A 240 m long train overtakes a man walking at 6 km/h, in the same direction, in 9
+seconds. How much time (in seconds) will it take to pass a 372 m long tunnel with the
+same speed?
+Ans 1. 20
+2. 21.6
+3. 18
+4. 20.4
+Question ID : 81616114281
+Status : Answered
+Chosen Option : 3
+Q.23
+Ans 1. 2. 3. 4. Question ID : 81616113570
+Status : Answered
+Chosen Option : 3
+Q.24
+Ans 1. 2. 3.4. Question ID : 81616113075
+Status : Answered
+Chosen Option : 3
+Q.25
+Ans 1. 2.3. 4. Question ID : 81616113576
+Status : Not Answered
+Chosen Option : -- Section : English Comprehension
+Page-21Q.1 Select the most appropriate synonym of the given word. Prompt
+Ans 1. Gradual
+2. Quick
+3. Slow
+4. Lengthy
+Question ID : 81616113605
+Status : Answered
+Chosen Option : 2
+Q.2 Select the INCORRECTLY spelt word. Ans 1. Sincere 2. Grievance 3. Liesure 4. Seize Question ID : 81616113613
+Status : Answered
+Chosen Option : 3
+Q.3 Select the INCORRECTLY spelt word. Ans 1. Borrow
+2. Alottment
+3. Terrorism
+4. Allowance Question ID : 81616113612
+Status : Answered
+Chosen Option : 2
+Q.4 Select the most appropriate ANTONYM of the given word. Hope
+Ans 1. Chance 2. Courage 3. Doubt
+4. Optimism
+Question ID : 81616113606
+Status : Answered
+Chosen Option : 3
+Page-22Q.5 Select the option that can be used as a one-word substitute for the given group of words. A self-governing country or
+region Ans 1. Democracy
+2. Monarchy
+3. Autonomy
+4. Anarchy
+Question ID : 81616113105
+Status : Answered
+Chosen Option : 1
+Q.6 Select the option that expresses the given sentence in reported speech. “Is he alright now?” I asked my neighbour’s wife about her husband, Mr. Gulyani. Ans 1. I asked Mrs. Gulyani, my neighbour's wife, if her husband was alright then. 2. I asked Mrs. Gulyani, my neighbour's wife, if your husband will be alright now. 3. I asked Mrs. Gulyani, my neighbour's wife, if her husband had become alright then. 4. I asked Mrs. Gulyani, my neighbour's wife, if her husband is alright now. Question ID : 81616113593
+Status : Answered
+Chosen Option : 1
+Q.7 Select the option that expresses the given sentence in passive voice. The sunrays burned my face. Ans 1. My face is burned by the sunrays. 2. My face has been burned by the sunrays. 3. My face is being burned by the sunrays. 4. My face was burned by the sunrays. Question ID : 81616113087
+Status : Answered
+Chosen Option : 4
+Q.8 Select the option that can be used as a one-word substitute for the given group of words. A place where coins, medals or tokens are
+made Ans 1. Mint
+2. Casting
+3. Mill
+4. Workshop
+Question ID : 81616113106
+Status : Answered
+Chosen Option : 1
+Page-23Q.9 The following sentence has been split into four segments. Identify the segment that
+contains a grammatical error. The woodcutter felled / some trees / with hardly / many effort at all. Ans 1. many effort at all
+2. some trees 3. with hardly
+4. The woodcutter felled
+Question ID : 81616113086
+Status : Answered
+Chosen Option : 1
+Q.10 Select the most appropriate meaning of the following idiom. To take a chill pill
+Ans 1. To gulp a tablet for a cold
+2. To drink cold water 3. To calm down 4. To ask a doctor for medication Question ID : 81616114316
+Status : Answered
+Chosen Option : 3
+Q.11 Select the most appropriate ANTONYM of the given word. Putrefy
+Ans 1. Destroy
+2. Contaminate 3. Combine 4. Decompose Question ID : 81616114314
+Status : Answered
+Chosen Option : 3
+Q.12 Select the option that will improve the underlined part of the given sentence. In case no
+improvement is needed select ‘No improvement required’. Fierce competition against restaurants has driven up the prices. Ans 1. along
+2. No improvement required
+3. among
+4. through
+Question ID : 81616113089
+Status : Answered
+Page-24Chosen Option : 3
+Q.13 Select the most appropriate option to substitute the underlined segment in the given
+sentence. If no substitution is required, select ‘No substitution required’. “Can you give me so many examples of subordinate clauses?”, the teacher asked the class. Ans 1. No substitution required
+2. some many examples of
+3. some few examples of
+4. some more examples of
+Question ID : 81616113595
+Status : Answered
+Chosen Option : 4
+Q.14 The following sentence has been divided into parts. One of them may contain an
+error. Select the part that contains the error from the given options. If you don’t
+find any error, mark ‘No error’ in your answer. The river appears to have / got its name / from the town nearby. Ans 1. got its name 2. from the town nearby
+3. No error 4. The river appears to have Question ID : 81616114297
+Status : Answered
+Chosen Option : 1
+Page-25Q.15 Sentences of a paragraph are given below in jumbled order. Arrange the sentences in
+the right order to form a meaningful and coherent paragraph. A. “Excellently well,” said she; “we have everything that we want; I have but one prayer, that we may have a heavy storm of rain to water our plants.” B. A man who had two daughters married one to a gardener and the other to a potter. C. Off he went to the potter's home and asked his other daughter how matters were withher. D.After a while he paid a visit to the gardener's home and asked his daughter how she was, and how it fared with her. Ans 1. ACDB
+2. DCAB
+3. BDAC
+4. BCDA
+Question ID : 81616113602
+Status : Answered
+Chosen Option : 4
+Q.16 Sentences of a paragraph are given below in jumbled order. Arrange the sentences in
+the right order to form a meaningful and coherent paragraph. A. While India is home to 75 per cent of the tigers in the world, the Global Tiger Day, as it is also known - sees awareness events organised in the country, as well as in
+neighbouring Bangladesh and Nepal. B. Its primary objective is to preserve the natural habitat of the tiger. C. International Tiger Day was initiated in 2010, at the Saint Petersburg Tiger Summit. D. This annual event observed on 29 July, aims to create awareness on tiger conservation. Ans 1. CDBA
+2. CABD
+3. DCBA
+4. BACD
+Question ID : 81616114310
+Status : Answered
+Chosen Option : 1
+Q.17 Select the most appropriate option to fill in the blank. Help from relatives
+_____ him in difficult times. Ans 1. approved
+2. supported
+3. allowed
+4. passed
+Question ID : 81616113109
+Status : Answered
+Chosen Option : 2
+Page-26Q.18 Select the most appropriate synonym of the given word. Dedicated
+Ans 1. Tedious 2. Boring
+3. Dreary
+4. Committed
+Question ID : 81616113604
+Status : Answered
+Chosen Option : 4
+Q.19 Select the most appropriate meaning of the following idiom. To walk on air
+Ans 1. To be completely free 2. To feel very depressed
+3. To be very rich
+4. To be very happy
+Question ID : 81616114315
+Status : Answered
+Chosen Option : 1
+Q.20 Select the most appropriate option to fill in the blank. The interviewer asked Gautam, “Can you tell me what your___ in life are?” Ans 1. frivolities 2. trivialities 3. determinations 4. aspirations Question ID : 81616113615
+Status : Answered
+Chosen Option : 4
+Page-27Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help
+of the alternatives given. Select the most appropriate option for each blank. Communication is a connection between people sharing information with (1) other. It
+is important in everyday life, (2) work and nearly any time you interact with other (3) . Communication issues don’t always happen (4) of your English level. The truth is, you can know how to speak English (5) knowing how to communicate in English. SubQuestion No : 21
+Q.21 Select the most appropriate option to fill in blank
+number 1. Ans 1. some 2. one 3. every
+4. each
+Question ID : 81616113597
+Status : Answered
+Chosen Option : 4
+Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help
+of the alternatives given. Select the most appropriate option for each blank. Communication is a connection between people sharing information with (1) other. It
+is important in everyday life, (2) work and nearly any time you interact with other (3) . Communication issues don’t always happen (4) of your English level. The truth is, you can know how to speak English (5) knowing how to communicate in English. SubQuestion No : 22
+Q.22 Select the most appropriate option to fill in blank
+number 2. Ans 1. from
+2. at
+3. while 4. on Question ID : 81616113598
+Status : Answered
+Chosen Option : 2
+Page-28Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help
+of the alternatives given. Select the most appropriate option for each blank. Communication is a connection between people sharing information with (1) other. It
+is important in everyday life, (2) work and nearly any time you interact with other (3) . Communication issues don’t always happen (4) of your English level. The truth is, you can know how to speak English (5) knowing how to communicate in English. SubQuestion No : 23
+Q.23 Select the most appropriate option to fill in blank
+number 3. Ans 1. people 2. animals 3. ones 4. creatures Question ID : 81616113599
+Status : Answered
+Chosen Option : 1
+Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help
+of the alternatives given. Select the most appropriate option for each blank. Communication is a connection between people sharing information with (1) other. It
+is important in everyday life, (2) work and nearly any time you interact with other (3) . Communication issues don’t always happen (4) of your English level. The truth is, you can know how to speak English (5) knowing how to communicate in English. SubQuestion No : 24
+Q.24 Select the most appropriate option to fill in blank
+number 4. Ans 1. because 2. since 3. about
+4. beside Question ID : 81616113600
+Status : Answered
+Chosen Option : 1
+Page-29Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help
+of the alternatives given. Select the most appropriate option for each blank. Communication is a connection between people sharing information with (1) other. It
+is important in everyday life, (2) work and nearly any time you interact with other (3) . Communication issues don’t always happen (4) of your English level. The truth is, you can know how to speak English (5) knowing how to communicate in English. SubQuestion No : 25
+Q.25 Select the most appropriate option to fill in blank
+number 5. Ans 1. without
+2. minus 3. devoid
+4. lacking
+Question ID : 81616113601
+Status : Answered
+Chosen Option : 1
+Page-30
+
+Page-1Roll Number
+Candidate
+Name
+Venue Name iON Digital Zone iDZ 1 Industrial Area Panki
+Exam Date 16/08/2021
+Exam Time 3:00 PM - 4:00 PM
+Subject Combined Graduate Level Examination 2020
+Tier 1
+Section : General Intelligence and Reasoning
+1. 2. 3. 4.
+Page-2Q.2
+Ans
+1.
+2.
+3.
+4. Question ID : 81616114144
+Status : Answered
+Chosen Option : 1
+Page-3Q.3 Four letter-clusters have been given, out of which three are alike in some manner and
+one is different. Select the letter-cluster that is different. Ans 1. NPSV
+2. QTWZ
+3. XADG
+4. BEHK
+Question ID : 81616113921
+Status : Answered
+Chosen Option : 1
+Q.4 Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. b _ c e _ k b _ c _ f k b b _ e f _ b b c
+_ f k Ans 1. b, f, b, e, c, e, k
+2. b, e, b, f, c, k, e 3. b, f, b, e, c, k, e 4. b, f, b, c, e, k, e Question ID : 81616114129
+Status : Answered
+Chosen Option : 3
+Q.5 Select the option in which the numbers are NOT related in the same way as are the numbers of the following set. (7, 21, 49)
+Ans 1. (6, 18, 36)
+2. (8, 24, 64)
+3. (5, 15, 25)
+4. (9, 27, 72)
+Question ID : 81616112418
+Status : Answered
+Chosen Option : 4
+Page-4Q.6 When number X multiplied to its next number, the product 1260 is obtained. When Number X is added to Number Y, a total of 106 is obtained. Find the value of Number Y. (Assume numbers to be positive)
+Ans 1. 77
+2. 61
+3. 87
+4. 71
+Question ID : 81616114138
+Status : Answered
+Chosen Option : 4
+Page-5Q.7
+Ans 1. 2. 3. 4. Question ID : 81616112827
+Status : Answered
+Chosen Option : 2
+Q.8 Select the correct combination of mathematical signs that can sequentially replace
+the * signs and balance the equation. 36 * 14 * 63 * 9 * 11 * (6 * 3) * 90
+Ans 1. -, +, ÷, ×, -, +, =
+2. -, +, ÷, ×, =, -, +
+3. -, +, ×, ÷, -, +, =
+4. +, -, ÷, ×, =, -, + Question ID : 81616112824
+Status : Answered
+Chosen Option : 1
+Q.9 Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. BOARD, BOARW, BOAIW, ?, BLZIW, YLZIW Ans 1. BOZIW
+2. BOAIW
+3. BLZRW
+4. BOZRW
+Question ID : 81616114121 Status : Answered
+Chosen Option : 1
+Page-6Q.10
+1.
+2. 3. Question ID : 81616113937
+Status : Answered
+Chosen Option : 3
+Q.11 In a certain code language, ‘AND’ is written as ‘C-LP-F’ and ‘NOR’ is coded as ‘P- MQ-T’. How will ‘BUT’ be written in that language?
+Ans 1. D-SW-U
+2. C-SU-V
+3. D-SW-V
+4. C-TV-W
+Question ID : 81616112410
+Status : Answered
+Chosen Option : 3
+Page-7Q.12 Select the option that is related to the third number in the same way as the second
+number is related to the first number. 21 : 445 : : 24 : ?
+Ans 1. 495
+2. 505
+3. 523
+4. 580
+Question ID : 81616112416
+Status : Answered
+Chosen Option : 4
+Q.13 Select the option that is related to the third word in the same way as the second word is
+related to the first word. Awful : Nice : : Nomadic : ?
+Ans 1. Homeless 2. Careless 3. Nocturnal
+4. Settled
+Question ID : 81616113923
+Status : Answered
+Chosen Option : 4
+Q.14 Select the correct option that indicates the arrangement of the given words in the order
+in which they appear in an English dictionary. 1. Success 2. Surreal
+3. Succumb
+4. Suction 5. Surrogate 6. Surprise Ans 1. 1, 4, 3, 6, 2, 5
+2. 1, 3, 6, 4, 2, 5
+3. 1, 3, 4, 6, 5, 2
+4. 1, 3, 4, 6, 2, 5
+Question ID : 81616113920
+Status : Answered
+Chosen Option : 4
+Page-8Q.15 Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the statements. Statements: All dancers are talented. Some girls are dancers. Conclusions:
+I. Some girls are talented.
+II. All talented are girls.
+III. All girls are talented. Ans 1. Only conclusion III follows 2. Both conclusions I and II follow
+3. Only conclusion II follows 4. Only conclusion I follows Question ID : 81616112414
+Status : Answered
+Chosen Option : 4
+Q.16 In a certain code language, 'SAFETY' is coded as '95' and 'EXPAND' is coded as '87'. How will 'GATHER' be coded in that language?
+Ans 1. 88
+2. 90
+3. 86
+4. 84
+Question ID : 81616112815
+Status : Answered
+Chosen Option : 2
+Q.17 Select the option in which the numbers are related in the same way as are the numbers of
+the following set. (16, 12, 32)
+Ans 1. (20, 15, 42)
+2. (76, 57, 176)
+3. (56, 24, 68)
+4. (36, 27, 77)
+Question ID : 81616112823
+Status : Not Attempted
+and
+Marked For Review
+Page-9Chosen Option : --
+Page-10Q.18 Select the number from among the given options that can replace the question mark
+(?) in the following series. 37, 52, 74, 104, 143, ?
+Ans 1. 176
+2. 168
+3. 192
+4. 202
+Question ID : 81616113930
+Status : Answered
+Chosen Option : 3
+Q.19 Select the option in which the words share the same relationship as that shared by the given pair of words. Dentist : Hospital
+Ans 1. Engineer : Design 2. Criminal : Police Station 3. Professor : University
+4. Doctor : Treatment
+Question ID : 81616114126
+Status : Answered
+Chosen Option : 3
+Q.20 Four words have been given, out of which three are alike in some manner and one is different. Select the word that is different. Ans 1. Vivacious 2. Sluggish
+3. Lethargic 4. Passive Question ID : 81616112811
+Status : Not Answered
+Chosen Option : --
+Page-11Q.21
+1.2. 3.
+4.
+Ans 1. 2. 3. 4. Question ID : 81616112828
+Status : Answered
+Chosen Option : 2
+Page-12Q.23 Four number-pairs have been given, out of which three are alike in some manner and
+one is different. Select the number-pair that is different. Ans 1. 5237 : 4003
+2. 4327 : 2003
+3. 3527 : 2293
+4. 2347 : 1113
+Question ID : 81616112821
+Status : Answered
+Chosen Option : 4
+Page-13Q.1 Who among the following won the 'Indian Personality of the Year Award' during the 51st
+International Film Festival?
+Ans 1. Amitabh Bachchan 2. Asha Bhosle 3. Biswajit Chatterjee 4. Shabana Azmi
+Question ID : 81616114163
+Q.24
+Ans 1. 2. 3. 4. Question ID : 81616112428
+Status : Answered
+Chosen Option : 4
+Q.25 Pointing to the photograph of a girl, Raghav said, “She is my father’s mother’s daughter’s only brother’s daughter”. How is Raghav’s father related to that girl’s mother?
+Ans 1. Father 2. Maternal uncle 3. Son 4. Husband
+Question ID : 81616114130
+Status : Answered
+Chosen Option : 4
+Page-14Status : Answered
+Chosen Option : 1
+Page-15Q.2 In which of the following years did the revolt in the countryside of the Bombay Deccan occur? Ans 1. 1875
+2. 1790
+3. 1905
+4. 1890
+Question ID : 81616112846
+Status : Answered
+Chosen Option : 1
+Q.3 As of 26th January 2021, who is the Lok Sabha Speaker? Ans 1. JP Nadda 2. Rajnath Singh
+3. Om Birla 4. Nitin Gadkari
+Question ID : 81616113960
+Status : Answered
+Chosen Option : 3
+Q.4 ‘Jadopatiya’ is a form of popular in the state of
+Jharkhand. Ans 1. painting
+2. music 3. sculpture 4. dance Question ID : 81616112429
+Status : Answered
+Chosen Option : 1
+Q.5 Article 21A of the Constitution of India provides Right to . Ans 1. Work
+2. Privacy
+3. Equality
+4. Education Question ID : 81616114165
+Page-16Status : Answered
+Chosen Option : 4
+Q.6 ‘Swasthya Sathi’ scheme is the health insurance scheme that covers the entire population of which of the following states?
+Ans 1. Meghalaya 2. Assam
+3. Bihar 4. West Bengal
+Question ID : 81616112839
+Status : Not Answered
+Chosen Option : --
+Page-17Q.7 In which of the following states was the International Paragliding Festival organised by
+the Adventure Sports and Sustainable Tourism Academy (ASSTA) in 2020?
+Ans 1. Tripura 2. Uttarakhand
+3. Assam
+4. Kerala Question ID : 81616112834
+Status : Answered
+Chosen Option : 2
+Q.8 What is the abbreviated form of the IPL franchise cricket team from
+Chennai? Ans 1. CA
+2. CSK
+3. CL
+4. GCW
+Question ID : 81616113964
+Status : Answered
+Chosen Option : 2
+Q.9 Which of the following states topped the second edition of the Indian Innovation Index
+released by NITI Aayog in January 2021?
+Ans 1. Punjab
+2. Tamil Nadu 3. Karnataka 4. Andhra Pradesh
+Question ID : 81616112836
+Status : Answered
+Chosen Option : 3
+Q.10 SHG promotes thrift in small proportion by a minimum contribution from each member of
+the group. What does 'H' stand for in SHG?
+Ans 1. Help
+2. Habitat
+3. Harvest
+4. Heavy
+Question ID : 81616114148
+Status : Answered
+Page-18Chosen Option : 1
+Q.11 In which of the following states is Anchar Lake
+located? Ans 1. Meghalaya 2. Assam
+3. Jammu and Kashmir 4. Bihar Question ID : 81616112842
+Status : Answered
+Chosen Option : 4
+Q.12 Who among the following rulers is called the ‘Napolean of
+India’? Ans 1. Bindusara 2. Chandragupta I
+3. Samudragupta 4. Ashoka Question ID : 81616112441
+Status : Answered
+Chosen Option : 3
+Q.13 What do you call the effect of splitting of a spectral line into several components in the presence of a static magnetic field?
+Ans 1. Askaryan effect
+2. Zeeman effect
+3. Bezold effect
+4. Domino effect
+Question ID : 81616112433
+Status : Answered
+Chosen Option : 4
+Q.14 Which of the following states won the National Award for Best Electoral Practices 2020? Ans 1. Mizoram
+2. Meghalaya 3. Kerala 4. Karnataka Question ID : 81616114169
+Status : Answered
+Chosen Option : 3
+Page-19Q.15 Deserts, rain forests, coral reefs and mangroves are features of diversity. Ans 1. ecological
+2. cultural
+3. species 4. genetic Question ID : 81616113949
+Status : Answered
+Chosen Option : 1
+Q.16 As of 2020, which among the following is a permanent member at United Nations Security Council?
+Ans 1. Germany
+2. Brazil
+3. China 4. Japan Question ID : 81616113966
+Status : Answered
+Chosen Option : 3
+Q.17 Which of the following is NOT in Karnataka? Ans 1. Hampi
+2. Duduma Waterfall
+3. Mysore Palace 4. Bannerghatta National Park
+Question ID : 81616114156
+Status : Answered
+Chosen Option : 3
+Q.18 Topaz is a of fluorine and
+aluminium. Ans 1. silicate 2. sulphate 3. phosphate 4. carbonate Question ID : 81616113955
+Status : Answered
+Page-20Chosen Option : 2
+Q.19 When is the statehood day of Tripura observed? Ans 1. 12 March
+2. 3 October 3. 21 February
+4. 21 January
+Question ID : 81616112851
+Status : Answered
+Chosen Option : 4
+Page-21Quantitative Aptitude
+Q.24 Who among the following laid the foundations of the Indian National Movement by
+founding the Indian Association at Calcutta in 1876?
+Ans 1. Surendranath Banerjee 2. Dadabhai Naoroji
+3. Aurobindo Ghose 4. Womesh Chandra Banerjee Question ID : 81616112444
+Status : Answered
+Chosen Option : 1
+Q.25 Who among the following is an Indian Paralympic
+swimmer? Ans 1. Sukant Kadam
+2. Sharath M Gayakwad
+3. Gaurav Khanna 4. Pramod Bhagat
+Question ID : 81616112450
+Status : Not Answered
+Chosen Option : -- Section : Q.1
+Ans 1. 2. 3. 4. Question ID : 81616114173
+Status : Answered
+Chosen Option : 1
+Page-22Q.2
+Ans 1. 2. 3. 4. Question ID : 81616113974
+Status : Answered
+Chosen Option : 3
+Page-23Q.3
+Ans 1. 2. 3. 4. Question ID : 81616114190
+Status : Answered
+Chosen Option : 3
+Q.4
+Ans 1. 2. 3. 4. Question ID : 81616112871
+Status : Answered
+Chosen Option : 4
+Q.5
+Ans
+1.2. 3.4. Question ID : 81616113181
+Status : Answered
+Chosen Option : 4
+Page-24Q.6
+Ans
+1.2. 3.4. Question ID : 81616113980
+Status : Answered
+Chosen Option : 3
+Q.7
+Ans 1. 2. 3. 4. Question ID : 81616113589
+Status : Not Answered
+Chosen Option : --
+Page-25Q.8
+Ans 1. 2. 3. 4. Question ID : 81616114181
+Status : Answered
+Chosen Option : 1
+Page-26Q.9
+Ans 1. 2. 3. 4. Question ID : 81616112466
+Status : Answered
+Chosen Option : 4
+Q.10
+Ans 1. 2. 3. 4. Question ID : 81616114185
+Status : Not Attempted
+and
+Marked For ReviewChosen Option : -- Q.11
+Ans 1. 2. 3. 4. Question ID : 81616112866
+Status : Answered
+Chosen Option : 2
+Q.12
+Ans
+1.2. 3.4. Question ID : 81616112876
+Page-27Status : Answered
+Chosen Option : 4
+Page-28Q.13
+Ans
+1.2.3. 4. Question ID : 81616113970
+Status : Answered
+Chosen Option : 3
+Q.14
+Ans 1. 2. 3.4. Question ID : 81616112463
+Status : Answered
+Chosen Option : 3
+Q.15
+Ans 1. 2. 3. 4. Question ID : 81616112457
+Status : Answered
+Chosen Option : 3
+Page-29Q.16
+Ans 1. 2. 3. 4. Question ID : 81616113587
+Status : Answered
+Chosen Option : 4
+Q.17
+Ans 1.2.3. 4. Question ID : 81616112873
+Status : Answered
+Chosen Option : 3
+Page-30Q.18
+Ans
+1.2. 3. 4. Question ID : 81616112376
+Status : Not Answered
+Chosen Option : -- Q.19
+Ans 1.2. 3. 4. Question ID : 81616112460
+Status : Answered
+Chosen Option : 2
+Q.20
+Ans 1. 2. 3. 4. Question ID : 81616114188
+Status : Answered
+Chosen Option : 3
+Page-31Q.21
+Ans 1. 2. 3. 4. Question ID : 81616113985
+Status : Not Answered
+Chosen Option : -- Q.22
+Ans 1. 2. 3. 4. Question ID : 81616112858
+Status : Answered
+Chosen Option : 3
+Q.23
+Ans 1. 2. 3. 4. Question ID : 81616112865
+Status : Not Answered
+Chosen Option : --
+Page-32Q.24
+Ans 1. 2. 3. 4. Question ID : 81616112374
+Status : Answered
+Chosen Option : 1
+Q.25
+Ans 1. 2. 3. 4. Question ID : 81616112862
+Status : Answered
+Page-33English
+Comprehension
+Chosen Option : 2
+Section :
+Page-34Q.1 Select the most appropriate option to substitute the underlined segment in the given
+sentence. If no substitution is required, select ‘No substitution required’.
+I asked Rahul that how far was his office from his home. Ans 1. that how far his office is 2. then how far was his office 3. how far his office was 4. No substitution required
+Question ID : 81616112887
+Status : Answered
+Chosen Option : 1
+Q.2 Select the most appropriate option to fill in the blank. My New Year’s is to think positive always. Ans 1. repetition 2. resolution 3. confession 4. celebration Question ID : 81616112907
+Status : Answered
+Chosen Option : 2
+Q.3 Select the option that expresses the given sentence in reported speech. "Is the door closed?" Alka asked Tarun. Ans 1. Alka asked Tarun is the door close. 2. Alka asked Tarun if the door is closed. 3. Alka asked Tarun whether she closed the door. 4. Alka asked Tarun whether the door was closed. Question ID : 81616114199
+Status : Answered
+Chosen Option : 4
+Page-35Q.4 Select the option that can be used as a one-word substitute for the given group of words. A place in a large institution, for the care of those who
+are ill Ans 1. Hangar 2. Hostel
+3. Infirmary
+4. Dormitory
+Question ID : 81616112903
+Status : Answered
+Chosen Option : 4
+Page-36Q.5 Select the option that expresses the given sentence in passive voice. Help the needy people. Ans 1. The needy people are helping. 2. Let the needy people be helped. 3. The needy people are been helped. 4. Let the needy people being helped. Question ID : 81616112885
+Status : Answered
+Chosen Option : 2
+Q.6 Select the INCORRECTLY spelt word. Ans 1. Professional
+2. Dillemma 3. Perpetuate 4. Electronics Question ID : 81616114017
+Status : Answered
+Chosen Option : 3
+Q.7 Select the most appropriate ANTONYM of the given word. Magnificent
+Ans 1. Modest
+2. Mighty
+3. Opulent
+4. Grandiose Question ID : 81616112496
+Status : Answered
+Chosen Option : 3
+Page-37Q.9 Select the most appropriate option to fill in the blank. We the marks of the students on different subjects and compared their performance for the year. Ans 1. questioned
+2. inspected
+3. analysed
+4. probed
+Question ID : 81616114221
+Status : Answered
+Chosen Option : 3
+Q.10 The following sentence has been divided into parts. One of them contains an error. Select
+the part that contains the error from the given options. Raman putted the vegetables / in the frying pan / and after adding some water, / closed the lid. Ans 1. and after adding some water 2. closed the lid
+3. in the frying pan 4. Raman putted the vegetables Question ID : 81616112884
+Status : Answered
+Chosen Option : 4
+Q.11 Select the INCORRECTLY spelt word. Ans 1. Boundary
+2. Photgraph
+3. Competency
+4. Processing
+Question ID : 81616114016
+Status : Answered
+Chosen Option : 2
+Page-38Q.12 The following sentence has been divided into parts. One of them contains an error. Select
+the part that contains the error from the given options. The recruiters / were pleased / to John’s / domain knowledge and personality. Ans 1. domain knowledge and personality
+2. The recruiters 3. to John’s 4. were pleased
+Question ID : 81616112479
+Status : Answered
+Chosen Option : 3
+Q.13 Select the most appropriate meaning of the given idiom. At the eleventh hour Ans 1. At 11:00 a.m. 2. At 11:00 p.m. 3. One hour before midnight
+4. At the very last minute Question ID : 81616112497
+Status : Answered
+Chosen Option : 4
+Q.14 Sentences of a paragraph are given below in jumbled order. Arrange the sentences in
+the right order to form a meaningful and coherent paragraph. A. I was shocked to find my house unlocked. B. To my astonishment, I found that my son, who had a spare key, had come in my absence. C. Last Sunday I returned home late at night. D. I ran inside in fear that my house has been
+robbed. Ans 1. CDAB
+2. ABCD
+3. BCDA
+4. CADB
+Question ID : 81616112492
+Status : Answered
+Chosen Option : 4
+Page-39Q.15 Select the most appropriate synonym of the given word. Adjust
+Ans 1. Adapt
+2. Shift
+3. Move 4. Change Question ID : 81616114210
+Status : Answered
+Chosen Option : 1
+Q.16 Select the option that can be used as a one-word substitute for the given group of words. A group of stars Ans 1. Congregation 2. Constellation 3. Planets 4. Astronomy
+Question ID : 81616112904
+Status : Answered
+Chosen Option : 2
+Q.17 Select the option that will substitute the underlined part of the given sentence. In case no substitution is needed, select ‘No substitution required’. Among applied sciences, medicine is one which have given man some power over death. Ans 1. is the one which gave 2. No substitution required
+3. is one which has given 4. are one which given Question ID : 81616114201
+Status : Answered
+Chosen Option : 1
+Page-40Q.18 Select the most appropriate meaning of the given idiom. A storm in a teacup
+Ans 1. Disarranging the cutlery
+2. A sudden storm during teatime 3. Unnecessary tension 4. Lot of fuss that will soon be forgotten Question ID : 81616112498
+Status : Answered
+Chosen Option : 4
+Q.19 Sentences of a paragraph are given below in jumbled order. Arrange the sentences in
+the right order to form a meaningful and coherent paragraph. A. Whichever soonest made a traveller take off his cloak should be accounted the more powerful. B. They agreed to put the point to test. C. A dispute once arose between the wind and the sun to decide which was the
+stronger of the two. D. The wind began, and blew with all his might and sent a blast, cold and fierce as a
+storm. Ans 1. BCDA
+2. CDBA
+3. CBAD
+4. ACDB
+Question ID : 81616114006
+Status : Answered
+Chosen Option : 3
+Q.20 Select the most appropriate ANTONYM of the given word. Hazard
+Ans 1. Risk
+2. Peril
+3. Safety
+4. Gamble Question ID : 81616114010
+Status : Answered
+Chosen Option : 3
+Page-41Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help
+of the alternatives given. Select the most appropriate option for each blank. “Everything in Bhutan is chemical-free, all fruits and vegetables are (1) organically, so whatever you buy is (2) farm produced as the (3) of the population indulge in
+farming for (4) ,” says my taxi driver Karma Chime. “We use turmeric on wounds, also to dye (5) and it is added extensively in our cooking. Also, many believe it is anti-cancer and can treat tumours. SubQuestion No : 21
+Q.21 Select the most appropriate option to fill in blank number 1. Ans 1. grown 2. grew
+3. grows 4. grow Question ID : 81616114001
+Status : Answered
+Chosen Option : 1
+Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help
+of the alternatives given. Select the most appropriate option for each blank. “Everything in Bhutan is chemical-free, all fruits and vegetables are (1) organically, so whatever you buy is (2) farm produced as the (3) of the population indulge in
+farming for (4) ,” says my taxi driver Karma Chime. “We use turmeric on wounds, also to dye (5) and it is added extensively in our cooking. Also, many believe it is anti-cancer and can treat tumours. SubQuestion No : 22
+Q.22 Select the most appropriate option to fill in blank number 2. Ans 1. locally
+2. closely
+3. nearby
+4. nearly
+Question ID : 81616114002
+Status : Answered
+Chosen Option : 1
+Page-42Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help
+of the alternatives given. Select the most appropriate option for each blank. “Everything in Bhutan is chemical-free, all fruits and vegetables are (1) organically, so whatever you buy is (2) farm produced as the (3) of the population indulge in
+farming for (4) ,” says my taxi driver Karma Chime. “We use turmeric on wounds, also to dye (5) and it is added extensively in our cooking. Also, many believe it is anti-cancer and can treat tumours. SubQuestion No : 23
+Q.23 Select the most appropriate option to fill in blank number 3. Ans 1. community
+2. common 3. majority
+4. mass Question ID : 81616114003
+Status : Answered
+Chosen Option : 3
+Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help
+of the alternatives given. Select the most appropriate option for each blank. “Everything in Bhutan is chemical-free, all fruits and vegetables are (1) organically, so whatever you buy is (2) farm produced as the (3) of the population indulge in
+farming for (4) ,” says my taxi driver Karma Chime. “We use turmeric on wounds, also to dye (5) and it is added extensively in our cooking. Also, many believe it is anti-cancer and can treat tumours. SubQuestion No : 24
+Q.24 Select the most appropriate option to fill in blank number 4. Ans 1. conservation 2. sustenance 3. provision 4. nutrition Question ID : 81616114004
+Status : Answered
+Chosen Option : 2
+Page-43Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help
+of the alternatives given. Select the most appropriate option for each blank. “Everything in Bhutan is chemical-free, all fruits and vegetables are (1) organically, so whatever you buy is (2) farm produced as the (3) of the population indulge in
+farming for (4) ,” says my taxi driver Karma Chime. “We use turmeric on wounds, also to dye (5) and it is added extensively in our cooking. Also, many believe it is anti-cancer and can treat tumours. SubQuestion No : 25
+Q.25 Select the most appropriate option to fill in blank number 5. Ans 1. fashions 2. covering
+3. attires 4. garments Question ID : 81616114005
+Status : Answered
+Chosen Option : 4
+
+Page-1Roll Number
+Candidate
+Name
+Venue Name iON Digital Zone iDZ 1 Industrial Area Panki
+Exam Date 16/08/2021
+Exam Time 3:00 PM - 4:00 PM
+Subject Combined Graduate Level Examination 2020
+Tier 1
+Section : General Intelligence and Reasoning
+1. 2. 3. 4.
+Page-2Q.2
+Ans
+1.
+2.
+3.
+4. Question ID : 81616114144
+Status : Answered
+Chosen Option : 1
+Page-3Q.3 Four letter-clusters have been given, out of which three are alike in some manner and
+one is different. Select the letter-cluster that is different. Ans 1. NPSV
+2. QTWZ
+3. XADG
+4. BEHK
+Question ID : 81616113921
+Status : Answered
+Chosen Option : 1
+Q.4 Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series. b _ c e _ k b _ c _ f k b b _ e f _ b b c
+_ f k Ans 1. b, f, b, e, c, e, k
+2. b, e, b, f, c, k, e 3. b, f, b, e, c, k, e 4. b, f, b, c, e, k, e Question ID : 81616114129
+Status : Answered
+Chosen Option : 3
+Q.5 Select the option in which the numbers are NOT related in the same way as are the numbers of the following set. (7, 21, 49)
+Ans 1. (6, 18, 36)
+2. (8, 24, 64)
+3. (5, 15, 25)
+4. (9, 27, 72)
+Question ID : 81616112418
+Status : Answered
+Chosen Option : 4
+Page-4Q.6 When number X multiplied to its next number, the product 1260 is obtained. When Number X is added to Number Y, a total of 106 is obtained. Find the value of Number Y. (Assume numbers to be positive)
+Ans 1. 77
+2. 61
+3. 87
+4. 71
+Question ID : 81616114138
+Status : Answered
+Chosen Option : 4
+Page-5Q.7
+Ans 1. 2. 3. 4. Question ID : 81616112827
+Status : Answered
+Chosen Option : 2
+Q.8 Select the correct combination of mathematical signs that can sequentially replace
+the * signs and balance the equation. 36 * 14 * 63 * 9 * 11 * (6 * 3) * 90
+Ans 1. -, +, ÷, ×, -, +, =
+2. -, +, ÷, ×, =, -, +
+3. -, +, ×, ÷, -, +, =
+4. +, -, ÷, ×, =, -, + Question ID : 81616112824
+Status : Answered
+Chosen Option : 1
+Q.9 Select the letter-cluster from among the given options that can replace the question mark (?) in the following series. BOARD, BOARW, BOAIW, ?, BLZIW, YLZIW Ans 1. BOZIW
+2. BOAIW
+3. BLZRW
+4. BOZRW
+Question ID : 81616114121 Status : Answered
+Chosen Option : 1
+Page-6Q.10
+1.
+2. 3. Question ID : 81616113937
+Status : Answered
+Chosen Option : 3
+Q.11 In a certain code language, ‘AND’ is written as ‘C-LP-F’ and ‘NOR’ is coded as ‘P- MQ-T’. How will ‘BUT’ be written in that language?
+Ans 1. D-SW-U
+2. C-SU-V
+3. D-SW-V
+4. C-TV-W
+Question ID : 81616112410
+Status : Answered
+Chosen Option : 3
+Page-7Q.12 Select the option that is related to the third number in the same way as the second
+number is related to the first number. 21 : 445 : : 24 : ?
+Ans 1. 495
+2. 505
+3. 523
+4. 580
+Question ID : 81616112416
+Status : Answered
+Chosen Option : 4
+Q.13 Select the option that is related to the third word in the same way as the second word is
+related to the first word. Awful : Nice : : Nomadic : ?
+Ans 1. Homeless 2. Careless 3. Nocturnal
+4. Settled
+Question ID : 81616113923
+Status : Answered
+Chosen Option : 4
+Q.14 Select the correct option that indicates the arrangement of the given words in the order
+in which they appear in an English dictionary. 1. Success 2. Surreal
+3. Succumb
+4. Suction 5. Surrogate 6. Surprise Ans 1. 1, 4, 3, 6, 2, 5
+2. 1, 3, 6, 4, 2, 5
+3. 1, 3, 4, 6, 5, 2
+4. 1, 3, 4, 6, 2, 5
+Question ID : 81616113920
+Status : Answered
+Chosen Option : 4
+Page-8Q.15 Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly
+known facts, decide which of the given conclusions logically follow(s) from the statements. Statements: All dancers are talented. Some girls are dancers. Conclusions:
+I. Some girls are talented.
+II. All talented are girls.
+III. All girls are talented. Ans 1. Only conclusion III follows 2. Both conclusions I and II follow
+3. Only conclusion II follows 4. Only conclusion I follows Question ID : 81616112414
+Status : Answered
+Chosen Option : 4
+Q.16 In a certain code language, 'SAFETY' is coded as '95' and 'EXPAND' is coded as '87'. How will 'GATHER' be coded in that language?
+Ans 1. 88
+2. 90
+3. 86
+4. 84
+Question ID : 81616112815
+Status : Answered
+Chosen Option : 2
+Q.17 Select the option in which the numbers are related in the same way as are the numbers of
+the following set. (16, 12, 32)
+Ans 1. (20, 15, 42)
+2. (76, 57, 176)
+3. (56, 24, 68)
+4. (36, 27, 77)
+Question ID : 81616112823
+Status : Not Attempted
+and
+Marked For Review
+Page-9Chosen Option : --
+Page-10Q.18 Select the number from among the given options that can replace the question mark
+(?) in the following series. 37, 52, 74, 104, 143, ?
+Ans 1. 176
+2. 168
+3. 192
+4. 202
+Question ID : 81616113930
+Status : Answered
+Chosen Option : 3
+Q.19 Select the option in which the words share the same relationship as that shared by the given pair of words. Dentist : Hospital
+Ans 1. Engineer : Design 2. Criminal : Police Station 3. Professor : University
+4. Doctor : Treatment
+Question ID : 81616114126
+Status : Answered
+Chosen Option : 3
+Q.20 Four words have been given, out of which three are alike in some manner and one is different. Select the word that is different. Ans 1. Vivacious 2. Sluggish
+3. Lethargic 4. Passive Question ID : 81616112811
+Status : Not Answered
+Chosen Option : --
+Page-11Q.21
+1.2. 3.
+4.
+Ans 1. 2. 3. 4. Question ID : 81616112828
+Status : Answered
+Chosen Option : 2
+Page-12Q.23 Four number-pairs have been given, out of which three are alike in some manner and
+one is different. Select the number-pair that is different. Ans 1. 5237 : 4003
+2. 4327 : 2003
+3. 3527 : 2293
+4. 2347 : 1113
+Question ID : 81616112821
+Status : Answered
+Chosen Option : 4
+Page-13Q.1 Who among the following won the 'Indian Personality of the Year Award' during the 51st
+International Film Festival?
+Ans 1. Amitabh Bachchan 2. Asha Bhosle 3. Biswajit Chatterjee 4. Shabana Azmi
+Question ID : 81616114163
+Q.24
+Ans 1. 2. 3. 4. Question ID : 81616112428
+Status : Answered
+Chosen Option : 4
+Q.25 Pointing to the photograph of a girl, Raghav said, “She is my father’s mother’s daughter’s only brother’s daughter”. How is Raghav’s father related to that girl’s mother?
+Ans 1. Father 2. Maternal uncle 3. Son 4. Husband
+Question ID : 81616114130
+Status : Answered
+Chosen Option : 4
+Page-14Status : Answered
+Chosen Option : 1
+Page-15Q.2 In which of the following years did the revolt in the countryside of the Bombay Deccan occur? Ans 1. 1875
+2. 1790
+3. 1905
+4. 1890
+Question ID : 81616112846
+Status : Answered
+Chosen Option : 1
+Q.3 As of 26th January 2021, who is the Lok Sabha Speaker? Ans 1. JP Nadda 2. Rajnath Singh
+3. Om Birla 4. Nitin Gadkari
+Question ID : 81616113960
+Status : Answered
+Chosen Option : 3
+Q.4 ‘Jadopatiya’ is a form of popular in the state of
+Jharkhand. Ans 1. painting
+2. music 3. sculpture 4. dance Question ID : 81616112429
+Status : Answered
+Chosen Option : 1
+Q.5 Article 21A of the Constitution of India provides Right to . Ans 1. Work
+2. Privacy
+3. Equality
+4. Education Question ID : 81616114165
+Page-16Status : Answered
+Chosen Option : 4
+Q.6 ‘Swasthya Sathi’ scheme is the health insurance scheme that covers the entire population of which of the following states?
+Ans 1. Meghalaya 2. Assam
+3. Bihar 4. West Bengal
+Question ID : 81616112839
+Status : Not Answered
+Chosen Option : --
+Page-17Q.7 In which of the following states was the International Paragliding Festival organised by
+the Adventure Sports and Sustainable Tourism Academy (ASSTA) in 2020?
+Ans 1. Tripura 2. Uttarakhand
+3. Assam
+4. Kerala Question ID : 81616112834
+Status : Answered
+Chosen Option : 2
+Q.8 What is the abbreviated form of the IPL franchise cricket team from
+Chennai? Ans 1. CA
+2. CSK
+3. CL
+4. GCW
+Question ID : 81616113964
+Status : Answered
+Chosen Option : 2
+Q.9 Which of the following states topped the second edition of the Indian Innovation Index
+released by NITI Aayog in January 2021?
+Ans 1. Punjab
+2. Tamil Nadu 3. Karnataka 4. Andhra Pradesh
+Question ID : 81616112836
+Status : Answered
+Chosen Option : 3
+Q.10 SHG promotes thrift in small proportion by a minimum contribution from each member of
+the group. What does 'H' stand for in SHG?
+Ans 1. Help
+2. Habitat
+3. Harvest
+4. Heavy
+Question ID : 81616114148
+Status : Answered
+Page-18Chosen Option : 1
+Q.11 In which of the following states is Anchar Lake
+located? Ans 1. Meghalaya 2. Assam
+3. Jammu and Kashmir 4. Bihar Question ID : 81616112842
+Status : Answered
+Chosen Option : 4
+Q.12 Who among the following rulers is called the ‘Napolean of
+India’? Ans 1. Bindusara 2. Chandragupta I
+3. Samudragupta 4. Ashoka Question ID : 81616112441
+Status : Answered
+Chosen Option : 3
+Q.13 What do you call the effect of splitting of a spectral line into several components in the presence of a static magnetic field?
+Ans 1. Askaryan effect
+2. Zeeman effect
+3. Bezold effect
+4. Domino effect
+Question ID : 81616112433
+Status : Answered
+Chosen Option : 4
+Q.14 Which of the following states won the National Award for Best Electoral Practices 2020? Ans 1. Mizoram
+2. Meghalaya 3. Kerala 4. Karnataka Question ID : 81616114169
+Status : Answered
+Chosen Option : 3
+Page-19Q.15 Deserts, rain forests, coral reefs and mangroves are features of diversity. Ans 1. ecological
+2. cultural
+3. species 4. genetic Question ID : 81616113949
+Status : Answered
+Chosen Option : 1
+Q.16 As of 2020, which among the following is a permanent member at United Nations Security Council?
+Ans 1. Germany
+2. Brazil
+3. China 4. Japan Question ID : 81616113966
+Status : Answered
+Chosen Option : 3
+Q.17 Which of the following is NOT in Karnataka? Ans 1. Hampi
+2. Duduma Waterfall
+3. Mysore Palace 4. Bannerghatta National Park
+Question ID : 81616114156
+Status : Answered
+Chosen Option : 3
+Q.18 Topaz is a of fluorine and
+aluminium. Ans 1. silicate 2. sulphate 3. phosphate 4. carbonate Question ID : 81616113955
+Status : Answered
+Page-20Chosen Option : 2
+Q.19 When is the statehood day of Tripura observed? Ans 1. 12 March
+2. 3 October 3. 21 February
+4. 21 January
+Question ID : 81616112851
+Status : Answered
+Chosen Option : 4
+Page-21Quantitative Aptitude
+Q.24 Who among the following laid the foundations of the Indian National Movement by
+founding the Indian Association at Calcutta in 1876?
+Ans 1. Surendranath Banerjee 2. Dadabhai Naoroji
+3. Aurobindo Ghose 4. Womesh Chandra Banerjee Question ID : 81616112444
+Status : Answered
+Chosen Option : 1
+Q.25 Who among the following is an Indian Paralympic
+swimmer? Ans 1. Sukant Kadam
+2. Sharath M Gayakwad
+3. Gaurav Khanna 4. Pramod Bhagat
+Question ID : 81616112450
+Status : Not Answered
+Chosen Option : -- Section : Q.1
+Ans 1. 2. 3. 4. Question ID : 81616114173
+Status : Answered
+Chosen Option : 1
+Page-22Q.2
+Ans 1. 2. 3. 4. Question ID : 81616113974
+Status : Answered
+Chosen Option : 3
+Page-23Q.3
+Ans 1. 2. 3. 4. Question ID : 81616114190
+Status : Answered
+Chosen Option : 3
+Q.4
+Ans 1. 2. 3. 4. Question ID : 81616112871
+Status : Answered
+Chosen Option : 4
+Q.5
+Ans
+1.2. 3.4. Question ID : 81616113181
+Status : Answered
+Chosen Option : 4
+Page-24Q.6
+Ans
+1.2. 3.4. Question ID : 81616113980
+Status : Answered
+Chosen Option : 3
+Q.7
+Ans 1. 2. 3. 4. Question ID : 81616113589
+Status : Not Answered
+Chosen Option : --
+Page-25Q.8
+Ans 1. 2. 3. 4. Question ID : 81616114181
+Status : Answered
+Chosen Option : 1
+Page-26Q.9
+Ans 1. 2. 3. 4. Question ID : 81616112466
+Status : Answered
+Chosen Option : 4
+Q.10
+Ans 1. 2. 3. 4. Question ID : 81616114185
+Status : Not Attempted
+and
+Marked For ReviewChosen Option : -- Q.11
+Ans 1. 2. 3. 4. Question ID : 81616112866
+Status : Answered
+Chosen Option : 2
+Q.12
+Ans
+1.2. 3.4. Question ID : 81616112876
+Page-27Status : Answered
+Chosen Option : 4
+Page-28Q.13
+Ans
+1.2.3. 4. Question ID : 81616113970
+Status : Answered
+Chosen Option : 3
+Q.14
+Ans 1. 2. 3.4. Question ID : 81616112463
+Status : Answered
+Chosen Option : 3
+Q.15
+Ans 1. 2. 3. 4. Question ID : 81616112457
+Status : Answered
+Chosen Option : 3
+Page-29Q.16
+Ans 1. 2. 3. 4. Question ID : 81616113587
+Status : Answered
+Chosen Option : 4
+Q.17
+Ans 1.2.3. 4. Question ID : 81616112873
+Status : Answered
+Chosen Option : 3
+Page-30Q.18
+Ans
+1.2. 3. 4. Question ID : 81616112376
+Status : Not Answered
+Chosen Option : -- Q.19
+Ans 1.2. 3. 4. Question ID : 81616112460
+Status : Answered
+Chosen Option : 2
+Q.20
+Ans 1. 2. 3. 4. Question ID : 81616114188
+Status : Answered
+Chosen Option : 3
+Page-31Q.21
+Ans 1. 2. 3. 4. Question ID : 81616113985
+Status : Not Answered
+Chosen Option : -- Q.22
+Ans 1. 2. 3. 4. Question ID : 81616112858
+Status : Answered
+Chosen Option : 3
+Q.23
+Ans 1. 2. 3. 4. Question ID : 81616112865
+Status : Not Answered
+Chosen Option : --
+Page-32Q.24
+Ans 1. 2. 3. 4. Question ID : 81616112374
+Status : Answered
+Chosen Option : 1
+Q.25
+Ans 1. 2. 3. 4. Question ID : 81616112862
+Status : Answered
+Page-33English
+Comprehension
+Chosen Option : 2
+Section :
+Page-34Q.1 Select the most appropriate option to substitute the underlined segment in the given
+sentence. If no substitution is required, select ‘No substitution required’.
+I asked Rahul that how far was his office from his home. Ans 1. that how far his office is 2. then how far was his office 3. how far his office was 4. No substitution required
+Question ID : 81616112887
+Status : Answered
+Chosen Option : 1
+Q.2 Select the most appropriate option to fill in the blank. My New Year’s is to think positive always. Ans 1. repetition 2. resolution 3. confession 4. celebration Question ID : 81616112907
+Status : Answered
+Chosen Option : 2
+Q.3 Select the option that expresses the given sentence in reported speech. "Is the door closed?" Alka asked Tarun. Ans 1. Alka asked Tarun is the door close. 2. Alka asked Tarun if the door is closed. 3. Alka asked Tarun whether she closed the door. 4. Alka asked Tarun whether the door was closed. Question ID : 81616114199
+Status : Answered
+Chosen Option : 4
+Page-35Q.4 Select the option that can be used as a one-word substitute for the given group of words. A place in a large institution, for the care of those who
+are ill Ans 1. Hangar 2. Hostel
+3. Infirmary
+4. Dormitory
+Question ID : 81616112903
+Status : Answered
+Chosen Option : 4
+Page-36Q.5 Select the option that expresses the given sentence in passive voice. Help the needy people. Ans 1. The needy people are helping. 2. Let the needy people be helped. 3. The needy people are been helped. 4. Let the needy people being helped. Question ID : 81616112885
+Status : Answered
+Chosen Option : 2
+Q.6 Select the INCORRECTLY spelt word. Ans 1. Professional
+2. Dillemma 3. Perpetuate 4. Electronics Question ID : 81616114017
+Status : Answered
+Chosen Option : 3
+Q.7 Select the most appropriate ANTONYM of the given word. Magnificent
+Ans 1. Modest
+2. Mighty
+3. Opulent
+4. Grandiose Question ID : 81616112496
+Status : Answered
+Chosen Option : 3
+Page-37Q.9 Select the most appropriate option to fill in the blank. We the marks of the students on different subjects and compared their performance for the year. Ans 1. questioned
+2. inspected
+3. analysed
+4. probed
+Question ID : 81616114221
+Status : Answered
+Chosen Option : 3
+Q.10 The following sentence has been divided into parts. One of them contains an error. Select
+the part that contains the error from the given options. Raman putted the vegetables / in the frying pan / and after adding some water, / closed the lid. Ans 1. and after adding some water 2. closed the lid
+3. in the frying pan 4. Raman putted the vegetables Question ID : 81616112884
+Status : Answered
+Chosen Option : 4
+Q.11 Select the INCORRECTLY spelt word. Ans 1. Boundary
+2. Photgraph
+3. Competency
+4. Processing
+Question ID : 81616114016
+Status : Answered
+Chosen Option : 2
+Page-38Q.12 The following sentence has been divided into parts. One of them contains an error. Select
+the part that contains the error from the given options. The recruiters / were pleased / to John’s / domain knowledge and personality. Ans 1. domain knowledge and personality
+2. The recruiters 3. to John’s 4. were pleased
+Question ID : 81616112479
+Status : Answered
+Chosen Option : 3
+Q.13 Select the most appropriate meaning of the given idiom. At the eleventh hour Ans 1. At 11:00 a.m. 2. At 11:00 p.m. 3. One hour before midnight
+4. At the very last minute Question ID : 81616112497
+Status : Answered
+Chosen Option : 4
+Q.14 Sentences of a paragraph are given below in jumbled order. Arrange the sentences in
+the right order to form a meaningful and coherent paragraph. A. I was shocked to find my house unlocked. B. To my astonishment, I found that my son, who had a spare key, had come in my absence. C. Last Sunday I returned home late at night. D. I ran inside in fear that my house has been
+robbed. Ans 1. CDAB
+2. ABCD
+3. BCDA
+4. CADB
+Question ID : 81616112492
+Status : Answered
+Chosen Option : 4
+Page-39Q.15 Select the most appropriate synonym of the given word. Adjust
+Ans 1. Adapt
+2. Shift
+3. Move 4. Change Question ID : 81616114210
+Status : Answered
+Chosen Option : 1
+Q.16 Select the option that can be used as a one-word substitute for the given group of words. A group of stars Ans 1. Congregation 2. Constellation 3. Planets 4. Astronomy
+Question ID : 81616112904
+Status : Answered
+Chosen Option : 2
+Q.17 Select the option that will substitute the underlined part of the given sentence. In case no substitution is needed, select ‘No substitution required’. Among applied sciences, medicine is one which have given man some power over death. Ans 1. is the one which gave 2. No substitution required
+3. is one which has given 4. are one which given Question ID : 81616114201
+Status : Answered
+Chosen Option : 1
+Page-40Q.18 Select the most appropriate meaning of the given idiom. A storm in a teacup
+Ans 1. Disarranging the cutlery
+2. A sudden storm during teatime 3. Unnecessary tension 4. Lot of fuss that will soon be forgotten Question ID : 81616112498
+Status : Answered
+Chosen Option : 4
+Q.19 Sentences of a paragraph are given below in jumbled order. Arrange the sentences in
+the right order to form a meaningful and coherent paragraph. A. Whichever soonest made a traveller take off his cloak should be accounted the more powerful. B. They agreed to put the point to test. C. A dispute once arose between the wind and the sun to decide which was the
+stronger of the two. D. The wind began, and blew with all his might and sent a blast, cold and fierce as a
+storm. Ans 1. BCDA
+2. CDBA
+3. CBAD
+4. ACDB
+Question ID : 81616114006
+Status : Answered
+Chosen Option : 3
+Q.20 Select the most appropriate ANTONYM of the given word. Hazard
+Ans 1. Risk
+2. Peril
+3. Safety
+4. Gamble Question ID : 81616114010
+Status : Answered
+Chosen Option : 3
+Page-41Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help
+of the alternatives given. Select the most appropriate option for each blank. “Everything in Bhutan is chemical-free, all fruits and vegetables are (1) organically, so whatever you buy is (2) farm produced as the (3) of the population indulge in
+farming for (4) ,” says my taxi driver Karma Chime. “We use turmeric on wounds, also to dye (5) and it is added extensively in our cooking. Also, many believe it is anti-cancer and can treat tumours. SubQuestion No : 21
+Q.21 Select the most appropriate option to fill in blank number 1. Ans 1. grown 2. grew
+3. grows 4. grow Question ID : 81616114001
+Status : Answered
+Chosen Option : 1
+Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help
+of the alternatives given. Select the most appropriate option for each blank. “Everything in Bhutan is chemical-free, all fruits and vegetables are (1) organically, so whatever you buy is (2) farm produced as the (3) of the population indulge in
+farming for (4) ,” says my taxi driver Karma Chime. “We use turmeric on wounds, also to dye (5) and it is added extensively in our cooking. Also, many believe it is anti-cancer and can treat tumours. SubQuestion No : 22
+Q.22 Select the most appropriate option to fill in blank number 2. Ans 1. locally
+2. closely
+3. nearby
+4. nearly
+Question ID : 81616114002
+Status : Answered
+Chosen Option : 1
+Page-42Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help
+of the alternatives given. Select the most appropriate option for each blank. “Everything in Bhutan is chemical-free, all fruits and vegetables are (1) organically, so whatever you buy is (2) farm produced as the (3) of the population indulge in
+farming for (4) ,” says my taxi driver Karma Chime. “We use turmeric on wounds, also to dye (5) and it is added extensively in our cooking. Also, many believe it is anti-cancer and can treat tumours. SubQuestion No : 23
+Q.23 Select the most appropriate option to fill in blank number 3. Ans 1. community
+2. common 3. majority
+4. mass Question ID : 81616114003
+Status : Answered
+Chosen Option : 3
+Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help
+of the alternatives given. Select the most appropriate option for each blank. “Everything in Bhutan is chemical-free, all fruits and vegetables are (1) organically, so whatever you buy is (2) farm produced as the (3) of the population indulge in
+farming for (4) ,” says my taxi driver Karma Chime. “We use turmeric on wounds, also to dye (5) and it is added extensively in our cooking. Also, many believe it is anti-cancer and can treat tumours. SubQuestion No : 24
+Q.24 Select the most appropriate option to fill in blank number 4. Ans 1. conservation 2. sustenance 3. provision 4. nutrition Question ID : 81616114004
+Status : Answered
+Chosen Option : 2
+Page-43Comprehension:
+In the following passage, some words have been deleted. Fill in the blanks with the help
+of the alternatives given. Select the most appropriate option for each blank. “Everything in Bhutan is chemical-free, all fruits and vegetables are (1) organically, so whatever you buy is (2) farm produced as the (3) of the population indulge in
+farming for (4) ,” says my taxi driver Karma Chime. “We use turmeric on wounds, also to dye (5) and it is added extensively in our cooking. Also, many believe it is anti-cancer and can treat tumours. SubQuestion No : 25
+Q.25 Select the most appropriate option to fill in blank number 5. Ans 1. fashions 2. covering
+3. attires 4. garments Question ID : 81616114005
+Status : Answered
+Chosen Option : 4
