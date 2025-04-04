@@ -20,7 +20,7 @@ import time
 nltk.download("stopwords")
 nltk.download('wordnet')
 lemmatizer = WordNetLemmatizer()
-stop_words = set(stopwords.words("english")).union({"si","option","level","ldc","deo","tier","cml","cgl","ssc","ii","india", "year", "project", "which", "was", "ans", "b", "c", "given", "correct", "answer", "r", "true", "using", "statements", "select"})
+stop_words = set(stopwords.words("english")).union({"xk","xx","si","option","level","ldc","deo","tier","cml","cgl","ssc","ii","india", "year", "project", "which", "was", "ans", "b", "c", "given", "correct", "answer", "r", "true", "using", "statements", "select"})
 
 
 def preprocess_question(question):
@@ -269,7 +269,7 @@ def display_keyword_related_questions(selected_keyword, keywords_map):
         file_name = q.split(" -- ")[1]
         if selected_file == "All Files" or file_name == selected_file:
             search_url = create_search_url(q)  # Generate search URL for the question
-            st.markdown(f"- {re.sub(f'(?i)\\b{re.escape(keyword)}\\b', f'<span style=\"color:green;\">\\g<0></span>', q)} [🏹]({search_url})", unsafe_allow_html=True)
+            st.markdown(f"---\n {re.sub(f'(?i)\\b{re.escape(keyword)}\\b', f'<span style=\"color:green;\">\\g<0></span>', q)} [🏹]({search_url})", unsafe_allow_html=True)
         # st.markdown(f"- {re.sub(rf'\\b{re.escape(keyword)}\\b', rf'<span style=\"color:green;\">{keyword}</span>', q, flags=re.IGNORECASE)} [🏹]({search_url})", unsafe_allow_html=True)
 
 
