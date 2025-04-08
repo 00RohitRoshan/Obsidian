@@ -17,6 +17,9 @@ Date  | Idea  | Remark
 2025/03/20|[Unlimited Data Storage](./UnlimitedDataStorage/README.md)|*`Data is Data`* , Let users store and share file,text,URL(shortener) Public/Private [*Refer*](https://github.com/EzeibekweEmma/google-drive-clone)
 2025/03/20|Adult Sites|Premium Leaked/most viewed clipped/Sell Adult products
 2025/03/20|Local Auto YT| Tune short GPT to use *suno,DeepSeek,stable difusion* to generate, with *local image and video library* to store and reuse , MVP `Text [script->Timmed CC->Search Query]` 
+2025/04/08| VPN |
+2025/04/08| Roommate.com | site to find roommate and pg, manage PG(rent and maintainance), price map
+
 
 
 
