@@ -1,0 +1,5 @@
+- My eyes are weakening
+- Free time and mental energy
+- Financial stability
+- Through SSC I can gather information and connections 
+- I have already learnt enough about tech
