@@ -1,16 +1,11 @@
 Section : General Awareness
+
 Q.2
 Ans 1. A-4, B-1, C-3, D-2
 2. A-1, B-4, C-2, D-3
 3. A-4, B-2, C-1, D-3
 4. A-4, B-1, C-2, D-3
-Question ID : 264330172292
-Option 1 ID : 264330675729
-Option 2 ID : 264330675728
-Option 3 ID : 264330675730
-Option 4 ID : 264330675727
-Status : Answered
-Chosen Option : 4
+
 Q.3
 Which of the following options represents the total income earned by individuals from
 all the sources before deduction of personal income taxes?
@@ -18,39 +13,21 @@ Ans 1. Disposable income
 2. Personal income
 3. Gross income
 4. National income
-Question ID : 264330172912
-Option 1 ID : 264330678172
-Option 2 ID : 264330678173
-Option 3 ID : 264330678174
-Option 4 ID : 264330678171
-Status : Answered
-Chosen Option : 3
+
 Q.4
 Ans
 1.
 2.
 3.
 4.
-Question ID : 264330172047
-Option 1 ID : 264330674765
-Option 2 ID : 264330674763
-Option 3 ID : 264330674766
-Option 4 ID : 264330674764
-Status : Answered
-Chosen Option : 2
+
 Q.5 According to which of the following foreign travellers did Dhruvasena II attend
 Harsha’s assembly at Prayag (Allahabad)?
 Ans 1. Marco Polo
 2. Hiuen Tsang
 3. Fa-Hien
 4. Itsing
-Question ID : 264330171274
-Option 1 ID : 264330671714
-Option 2 ID : 264330671711
-Option 3 ID : 264330671713
-Option 4 ID : 264330671712
-Status : Not Answered
-Chosen Option : --
+
 Q.6 The Constitution (Scheduled Tribes) Order (Fourth Amendment) Bill, 2022 was passed
 in Rajya Sabha in December 2022. It seeks to amend the Constitution (Scheduled
 Tribes) Order, 1950, with respect to its application to the State of _________.
@@ -58,88 +35,46 @@ Ans 1. Karnataka
 2. Rajasthan
 3. Goa
 4. Manipur
-Question ID : 264330171912
-Option 1 ID : 264330674238
-Option 2 ID : 264330674235
-Option 3 ID : 264330674236
-Option 4 ID : 264330674237
-Status : Not Answered
-Chosen Option : --
+
 Q.7
 Ans 1. 1-C, 2-B, 3-A
 2. 1-A, 2-C, 3-B
 3. 1-A, 2-B, 3-C
 4. 1-B, 2-C, 3-A
-Question ID : 264330173727
-Option 1 ID : 264330681373
-Option 2 ID : 264330681374
-Option 3 ID : 264330681372
-Option 4 ID : 264330681371
-Status : Answered
-Chosen Option : 4
+
 Q.8
 Ans 1. A-i, B-iii, C-ii, D-iv
 2. A-iv, B-i, C-ii, D-iii
 3. A-i, B-ii, C-iii, D-iv
 4. A-ii, B-i, C-iii, D-iv
-Question ID : 264330172335
-Option 1 ID : 264330675893
-Option 2 ID : 264330675892
-Option 3 ID : 264330675894
-Option 4 ID : 264330675891
-Status : Answered
-Chosen Option : 2
+
 Q.9 Which of the following are some regions in the world, known for their thriving citrus
 fruit production?
 Ans 1. Africa
 2. Equatorial regions
 3. Caribbean
 4. Mediterranean regions
-Question ID : 264330167795
-Option 1 ID : 264330658134
-Option 2 ID : 264330658131
-Option 3 ID : 264330658133
-Option 4 ID : 264330658132
-Status : Answered
-Chosen Option : 4
+
 Q.10 Based on current scientific knowledge, it is currently postulated that the Earth has an
 estimated age of:
 Ans 1. about 4,50,00,00,000 years
 2. about 95,00,00, 00 years
 3. about 45,00,000 years
 4. about 65,00,000 years
-Question ID : 264330167796
-Option 1 ID : 264330658136
-Option 2 ID : 264330658138
-Option 3 ID : 264330658135
-Option 4 ID : 264330658137
-Status : Answered
-Chosen Option : 1
+
 Q.11 What kind of energy is associated with falling coconuts, speeding cars, rolling stones
 and flying aircraft?
 Ans 1. Potential energy
 2. Kinetic Energy
 3. Radiant energy
 4. Elastic energy
-Question ID : 264330172096
-Option 1 ID : 264330674962
-Option 2 ID : 264330674961
-Option 3 ID : 264330674960
-Option 4 ID : 264330674959
-Status : Answered
-Chosen Option : 2
+
 Q.12
 Ans 1. A-1, B-3, C-2, D-4
 2. A-4, B-2, C-3, D-1
 3. A-1, B-2, C-3, D-4
 4. A-1, B-2, C-4, D-3
-Question ID : 264330171993
-Option 1 ID : 264330674547
-Option 2 ID : 264330674548
-Option 3 ID : 264330674550
-Option 4 ID : 264330674549
-Status : Answered
-Chosen Option : 1
+
 Q.13 In September 2022, the Government of _____________ decided to launch a campaign
 aimed at women’s safety titled ‘Hamar Beti Hamar Maan’ (our daughter, our honour).
 Its focus will be creating awareness on safety measures among school- and collegegoing girls and prioritising registration and investigation of women-related crimes.
@@ -147,172 +82,87 @@ Ans 1. Bihar
 2. Madhya Pradesh
 3. Jharkhand
 4. Chhattisgarh
-Question ID : 264330171921
-Option 1 ID : 264330674271
-Option 2 ID : 264330674272
-Option 3 ID : 264330674274
-Option 4 ID : 264330674273
-Status : Answered
-Chosen Option : 4
+
 Q.14 According to Census of India 2011, in which of the following states was the gap in the
 literacy rates of males and females, highest?
 Ans 1. Meghalaya
 2. Mizoram
 3. Rajasthan
 4. Kerala
-Question ID : 264330172294
-Option 1 ID : 264330675735
-Option 2 ID : 264330675737
-Option 3 ID : 264330675738
-Option 4 ID : 264330675736
-Status : Answered
-Chosen Option : 3
+
 Q.15
 Ans 1. i-b, ii-c, iii-a
 2. i-c, ii-b, iii-a
 3. i-b, ii-a, iii-c
 4. i-a, ii-c, iii-b
-Question ID : 264330172916
-Option 1 ID : 264330678190
-Option 2 ID : 264330678189
-Option 3 ID : 264330678188
-Option 4 ID : 264330678187
-Status : Answered
-Chosen Option : 4
+
 Q.16 Which Committee had suggested a penalty or punishment for the non-performance of
 Fundamental Duties?
 Ans 1. Indira Gandhi Committee
 2. Morarji Desai Committee
 3. Verma Committee
 4. Swaran Singh Committee
-Question ID : 264330171898
-Option 1 ID : 264330674185
-Option 2 ID : 264330674186
-Option 3 ID : 264330674184
-Option 4 ID : 264330674183
-Status : Not Answered
-Chosen Option : --
+
 Q.17 Among the choices listed, which one is NOT a form of cancer?
 Ans 1. Glaucoma
 2. Carcinoma
 3. Lymphoma
 4. Sarcoma
-Question ID : 264330166349
-Option 1 ID : 264330652458
-Option 2 ID : 264330652456
-Option 3 ID : 264330652455
-Option 4 ID : 264330652457
-Status : Answered
-Chosen Option : 1
+
 Q.18 In September 2022,the _____________ Assembly sets aside one day for women MLAs
 to speak about women issues such as safety, health, hygiene and education .
 Ans 1. Rajasthan
 2. Punjab
 3. Uttar Pradesh
 4. Madhya Pradesh
-Question ID : 264330171923
-Option 1 ID : 264330674280
-Option 2 ID : 264330674281
-Option 3 ID : 264330674282
-Option 4 ID : 264330674279
-Status : Not Answered
-Chosen Option : --
+
 Q.19 Who among the following has written the ‘Badshah Nama’?
 Ans 1. Babur
 2. Abdul Hamid Lahori
 3. Inayat Khan
 4. Abul Fazl
-Question ID : 264330171290
-Option 1 ID : 264330671777
-Option 2 ID : 264330671776
-Option 3 ID : 264330671778
-Option 4 ID : 264330671775
-Status : Not Answered
-Chosen Option : --
+
 Q.20 What will be the average kinetic energy per molecule in SI units for an ideal gas at a
 temperature of 25°C?
 Ans 1. 9.17 × 10−22 J
 2. 6.17 × 10−21 J
 3. 7.17 × 10−20 J
 4. 8.17 × 10−22 J
-Question ID : 264330171742
-Option 1 ID : 264330673574
-Option 2 ID : 264330673571
-Option 3 ID : 264330673572
-Option 4 ID : 264330673573
-Status : Not Answered
-Chosen Option : --
+
 Q.21 Which of the following is a possible criticism of privatisation?
 Ans 1. Expansion of bureaucracy and efficiency in public enterprises
 2. Excessive government interference into private businesses
 3. Limited access to essential services for marginalised populations
 4. Reduced competition and innovation in the market
-Question ID : 264330172915
-Option 1 ID : 264330678186
-Option 2 ID : 264330678185
-Option 3 ID : 264330678183
-Option 4 ID : 264330678184
-Status : Answered
-Chosen Option : 3
+
 Q.22 What are the elements in group zero commonly known as?
 Ans 1. Reactive
 2. Inert gases
 3. Radioactive
 4. Volatile
-Question ID : 264330163737
-Option 1 ID : 264330642200
-Option 2 ID : 264330642202
-Option 3 ID : 264330642201
-Option 4 ID : 264330642199
-Status : Answered
-Chosen Option : 2
+
 Q.23
 Ans
 1.
 2.
 3.
 4.
-Question ID : 264330172046
-Option 1 ID : 264330674762
-Option 2 ID : 264330674760
-Option 3 ID : 264330674761
-Option 4 ID : 264330674759
-Status : Answered
-Chosen Option : 2
+
 Q.24 Identify the INCORRECTLY matched pair(s) of the British Governor-Generals of India
 and the events with which they are associated.
 Ans 1. Only (ii) and (iii)
 2. Only (ii)
 3. Only (i) and (iii)
 4. Only (i)
-Question ID : 264330171925
-Option 1 ID : 264330674290
-Option 2 ID : 264330674288
-Option 3 ID : 264330674289
-Option 4 ID : 264330674287
-Status : Not Answered
-Chosen Option : --
+
 Q.25 Among the following diseases, which one is NOT inherited?
 Ans 1. Down syndrome
 2. Cystic fibrosis
 3. Malaria
 4. Muscular dystrophy
-Question ID : 264330166353
-Option 1 ID : 264330652474
-Option 2 ID : 264330652471
-Option 3 ID : 264330652473
-Option 4 ID : 264330652472
-Status : Answered
-Chosen Option : 3
+
 Q.1
 Ans 1.
 2.
 3.
 4.
-Question ID : 264330183365
-Option 1 ID : 264330719183
-Option 2 ID : 264330719182
-Option 3 ID : 264330719181
-Option 4 ID : 264330719180
-Status : Answered
-Chosen Option : 4
