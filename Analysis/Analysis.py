@@ -270,8 +270,8 @@ def display_keyword_related_questions(selected_keyword, keywords_map):
         file_name = q.split(" -- ")[1]
         if selected_file == "All Files" or file_name == selected_file:
             search_url = create_search_url(q)  # Generate search URL for the question
-            st.markdown(f"---\n <span style=\"color:yellow;\">{i} _</span>  {re.sub(f'(?i)\\b{re.escape(keyword)}\\b', f'<span style=\"color:green;\">\\g<0></span>', q)} [🏹]({search_url})", unsafe_allow_html=True)
             i+=1
+            st.markdown(f"---\n   {re.sub(f'(?i)\\b{re.escape(keyword)}\\b', f'<span style=\"color:green;\">\\g<0></span>', q)} [🏹]({search_url}) `{i}`", unsafe_allow_html=True)
         # st.markdown(f"- {re.sub(rf'\\b{re.escape(keyword)}\\b', rf'<span style=\"color:green;\">{keyword}</span>', q, flags=re.IGNORECASE)} [🏹]({search_url})", unsafe_allow_html=True)
 
 
