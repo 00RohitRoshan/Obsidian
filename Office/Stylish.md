@@ -36,5 +36,14 @@ ul.breadcrumbs {display:none}
 .sidebar-primary{
   display:none
 }
+.noprint{
+  display:none
+}
+.site-header{
+  display:none
+}
+.cias-menu-wrapper{
+  display:none
+}
 ```
 
