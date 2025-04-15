@@ -240,3 +240,21 @@ Many top creators **mix styles** depending on content:
 ---
 
 Would you like me to turn this into a PDF cheat sheet for your content planning? Or even help design a voice style guide specifically for your channel’s niche?
+
+---
+## Prompt: for audio prompt
+```css
+rewrite as engaging youtube script with
+[laughter]
+[laughs]
+[sighs]
+[music]
+[gasps]
+[clears throat]
+— or ... for hesitations
+♪ for song lyrics
+CAPITALIZATION for emphasis of a word
+[MAN] and [WOMAN] to bias Bark toward male and female speakers, respectively
+for suno bark tts
+```
+
