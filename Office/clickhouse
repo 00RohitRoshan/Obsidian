@@ -1,0 +1,18 @@
+docker stop clickhouse-server 
+docker rm clickhouse-server
+docker run -d --name clickhouse-server   --ulimit nofile=262144:262144   --volume=$(pwd)/clickhouse/data:/var/lib/clickhouse   --volume=$(pwd)/clickhouse/logs:/var/log/clickhouse-server   --volume=$(pwd)/config.xml:/etc/clickhouse-server/config.xml   --volume=$(pwd)/clickhouse/gcs/:/var/lib/clickhouse/disks/gcs/ -v ./users.xml:/etc/clickhouse-server/users.xml -v ./dusers.xml:/etc/clickhouse-server/users.d/default-password.xml -v ./certs/:/etc/clickhouse-server/certs/   --network=host   --cap-add=SYS_NICE   --cap-add=NET_ADMIN   --cap-add=IPC_LOCK   --cap-add=SYS_PTRACE   clickhouse/clickhouse-server
+
+for log in $(sudo find /var/lib/docker/containers/ -type f -name "*.log"); do
+    sudo tail -n 10 "$log" > temp.log && sudo mv temp.log "$log"
+done
+docker logs clickhouse-server --tail 30 -f
+
+# ssl users
+CREATE USER cert_user IDENTIFIED WITH ssl_certificate CN '35.200.185.93:cert_user';
+openssl req -newkey rsa:2048 -nodes -subj "/CN=35.200.185.93:cert_user"  -keyout chnode1_cert_user.key -out chnode1_cert_user.csr
+openssl x509 -req -in chnode1_cert_user.csr -out chnode1_cert_user.crt -CA ../certs/marsnet_ca.crt -CAkey ../certs/marsnet_ca.key -days 365
+echo 'SHOW TABLES' | curl 'https://35.200.185.93:8443' --cert certUser/crt.crt --key certUser/key.key --cacert certs/marsnet_ca.crt -H "X-ClickHouse-SSL-Certificate-Auth: on" -H "X-ClickHouse-User: cert_user" --data-binary @-
+
+
+
+

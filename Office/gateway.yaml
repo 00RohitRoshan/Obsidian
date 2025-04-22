@@ -1,0 +1,47 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: internal-uat-dummy
+  labels:
+    app: internal-uat-dummy
+
+spec:
+  ports:
+  - name: http
+    port: 8000
+    targetPort: 8000
+  - name: grpc
+    port: 9000
+    targetPort: 9000
+  selector:
+    app: internal-uat-dummy
+  type: LoadBalancer
+  sessionAffinity: ClientIP
+
+---
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: internal-uat-dummy
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: internal-uat-dummy
+  
+  template:
+    metadata:
+      labels:
+        app: internal-uat-dummy
+    
+    spec:
+      containers:
+      - image: gcr.io/isu-sso/internal-gateway@sha256:7f7132ae6c549c454ba21ddafa1443297a58b64dfd6805150d8e64ed2f3df74c 
+        imagePullPolicy: IfNotPresent
+        name: internal-uat-dummy
+    
+        ports:
+        - containerPort: 8000
+
+
+

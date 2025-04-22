@@ -1,0 +1,10 @@
+helm uninstall camunda -n camunda
+
+helm upgrade --install camunda camunda/camunda-platform -f values.yaml
+
+helm template camunda camunda/camunda-platform --values values.yaml
+
+helm upgrade camunda camunda/camunda-platform --reuse-values
+
+
+kubectl expose pod camunda-keycloak --type=LoadBalancer --port=80 --target-port=8443 --name=camunda-keycloak-service
