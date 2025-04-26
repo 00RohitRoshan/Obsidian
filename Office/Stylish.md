@@ -46,4 +46,17 @@ ul.breadcrumbs {display:none}
   display:none
 }
 ```
-
+- educationprovince.com
+```CSS
+aside#sidebar-primary.sidebar-primary.customify-col-3_sm-12 {
+  display:none;
+}
+.elementor.elementor > .elementor-element {
+	/*Your code should go under this comment*/
+  display:none;
+}
+.attachment-large {
+  /*Your code should go under this comment*/
+display:none;
+}
+```

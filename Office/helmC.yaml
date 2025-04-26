@@ -1,6 +1,6 @@
 helm uninstall camunda -n camunda
 
-helm upgrade --install camunda camunda/camunda-platform -f values.yaml
+helm upgrade --install camunda camunda/camunda-platform -f values.yaml --version 12.0.0 -n camunda-stage
 
 helm template camunda camunda/camunda-platform --values values.yaml
 
