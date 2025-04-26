@@ -1,2436 +1,2754 @@
 Section : General Awareness
 
-Q.1 In which year was Project Tiger launched in India? 
-Ans	 1. 1973  
- 2. 1970  
- 3. 1972  
- 4. 1985
+#### Indian History
+1. **In which year was Project Tiger launched in India?**  
+  - Options:  
+    1. 1973  
+    2. 1970  
+    3. 1972  
+    4. 1985  
 
-Q.2 Lathmar Holi is primarily celebrated in the state of:
-Ans 1. Karnataka
- 2. Himachal Pradesh
- 3. Arunachal Pradesh
- 4. Uttar Pradesh
+2. **Details about Sudarshana lake is given in a rock inscription at Girnar (Junagarh), which was composed to record the achievements of the Shaka ruler.**  
+  - Options:  
+    1. Chashtana  
+    2. Rudradaman I  
+    3. Rudrasimha III  
+    4. Maues  
 
-Q.3 Which of the following awards was won by Lata Mangeshkar in the year 2001? 
-Ans 1. Dadasaheb Phalke Award
- 2. Padma Vibhushan
- 3. Bharat Ratna
- 4. Filmfare Lifetime Achievement Award
+3. **Who among the following formed the Bihar Provincial Kisan Sabha in 1929?**  
+  - Options:  
+    1. Jayprakash Narayan  
+    2. JM Sengupta  
+    3. Kunwar Singh  
+    4. Swami Sahajanand Saraswati  
 
-Q.4 Details about Sudarshana lake is given in a rock inscription at Girnar (Junagarh), which was composed to record the achievements of the Shaka ruler 	.
-Ans 1. Chashtana
- 2. Rudradaman I
- 3. Rudrasimha III
- 4. Maues
+4. **Mahendravarman I was the ruler of which of the following dynasties?**  
+  - Options:  
+    1. Pallava  
+    2. Pandya  
+    3. Chalukya  
+    4. Chola  
 
-Q.5 		is an industry association and self-regulatory organisation (SRO) whose primary objective is to work towards the robust development of the microfinance sector.
-Ans 1. NABARD
- 2. Self-help Group Association
- 3. Microfinance and Investments Regulatory Authority
- 4. Microfinance Institutions Network
+5. **Who founded the Prarthana Samaj in Mumbai in 1867?**  
+  - Options:  
+    1. Gopal Krishna Gokhale  
+    2. Shri Ram Bajpai  
+    3. Atmaram Pandurang  
+    4. Ram Mohan Roy  
 
-Q.6 Which article has a similar provision to that of Article 32 and deals with writ jurisdiction?
-Ans 1. Article 228
- 2. Article 227
- 3. Article 226
- 4. Article 225
+#### Indian Geography
+1. **Which plateaus are very fertile because they are rich in black soil that is very good for farming?**  
+  - Options:  
+    1. Deccan lava plateau  
+    2. African plateau  
+    3. Ethiopian plateau  
+    4. Katanga plateau  
 
-Q.7 Which of the following is NOT a condition for the President's office in India? 
-Ans 1. He shall not hold any office of profit.
- 2. The allowances shall not be diminished during his term of office.
- 3. He shall not be entitled, without payment of rent, to use his official residence.
- 4. He shall not be a member of either House of the Parliament.
+2. **When the analysis of population density is done by calculating it through net cultivated area, then the measure is termed as:**  
+  - Options:  
+    1. Net density  
+    2. Gross density  
+    3. Agricultural density  
+    4. Physiological density  
 
-Q.8 Which of the following statements best defines the monoecious? 
-Ans 1. A flower with gynoecium only
- 2. A flower with androecium only
- 3. A flower with both androecium and gynoecium
- 4. A flower with dithecous
+#### Science and Technology
+1. **Which of the following statements best defines the monoecious?**  
+  - Options:  
+    1. A flower with gynoecium only  
+    2. A flower with androecium only  
+    3. A flower with both androecium and gynoecium  
+    4. A flower with dithecous  
 
-Q.9 Mohan Veena player, Pandit Vishwa Mohan Bhatt won the 	Award in the year 1994.
-Ans	 1. Grammy
- 2. Sangita Kalanidhi
- 3. Oscar
- 4. Sangeet Natak Akademi
+2. **Which of the following decomposition reactions is NOT a redox reaction?**  
+  - Options:  
+    1. Decomposition of sodium hydride  
+    2. Decomposition of calcium carbonate  
+    3. Decomposition of potassium chlorate  
+    4. Decomposition of dihydrogen monoxide  
 
-Q.10 Who is Union Minister of State (Independent Charge) for Science and Technology as of July 2023?
-Ans 1. Dharmendra Pradhan
- 2. Jitendra Singh
- 3. Ashwini Vaishnaw
- 4. Ramesh Pokhriyal
+3. **Which of the following is a correct order of basicity?**  
+  - Options:  
+    1. LiOH > NaOH > KOH > CsOH  
+    2. KOH > CsOH > NaOH > LiOH  
+    3. LiOH > KOH > CsOH > NaOH  
+    4. CsOH > KOH > NaOH > LiOH  
 
-Q.11 Which of the following decomposition reactions is NOT a redox reaction? Ans 1. Decomposition of sodium hydride
- 2. Decomposition of calcium carbonate
- 3. Decomposition of potassium chlorate
- 4. Decomposition of dihydrogen monoxide
+4. **Which of the following pairs is INCORRECT regarding the grade of organisation and its example?**  
+  - Options:  
+    1. Cell-tissue grade organisation - Jellyfish  
+    2. Cellular grade organisation - Sycon  
+    3. Protoplasmic grade organisation - Paramecium  
+    4. Tissue-organ grade organisation - Euplectella  
 
-Q.12 Who among the following has authored the play 'Nil Darpan'? Ans 1. Chittaranjan Das
- 2. Motilal Nehru
- 3. Dinabandhu Mitra
- 4. Sarojini Naidu
+#### Indian Economics
+1. **What challenge does foreign investment often face in India?**  
+  - Options:  
+    1. Excessive foreign competition  
+    2. Lack of skilled labour  
+    3. Lack of consumer base  
+    4. Inconsistent regulatory environment  
 
-Q.13 Who among the following formed the Bihar Provincial Kisan Sabha in 1929? Ans 1. Jayprakash Narayan
- 2. JM Sengupta
- 3. Kunwar Singh
- 4. Swami Sahajanand Saraswati
+2. **Which of the following states is the biggest producer of Pulses?**  
+  - Options:  
+    1. Bihar  
+    2. Madhya Pradesh  
+    3. Punjab  
+    4. Haryana  
 
-Q.14 Which plateaus are very fertile because they are rich in black soil that is very good for farming?
-Ans	 1. Deccan lava plateau
- 2. African plateau
- 3. Ethiopian plateau
- 4. Katanga plateau
+#### Indian Politics
+1. **Which article has a similar provision to that of Article 32 and deals with writ jurisdiction?**  
+  - Options:  
+    1. Article 228  
+    2. Article 227  
+    3. Article 226  
+    4. Article 225  
 
-Q.15 Which of the following is a correct order of basicity? Ans 1. LiOH>NaOH>KOH>CsOH
- 2. KOH>CsOH>NaOH>LiOH
- 3. LiOH>KOH>CsOH>NaOH
- 4. CsOH>KOH>NaOH>LiOH
+2. **Which of the following is NOT a condition for the President's office in India?**  
+  - Options:  
+    1. He shall not hold any office of profit.  
+    2. The allowances shall not be diminished during his term of office.  
+    3. He shall not be entitled, without payment of rent, to use his official residence.  
+    4. He shall not be a member of either House of the Parliament.  
 
-Q.16 Which of the following pairs is INCORRECT regarding the grade of organisation and its example?
-Ans 1. Cell-tissue grade organisation - Jellyfish
- 2. Cellular grade organisation - Sycon
- 3. Protoplasmic grade organisation - Paramecium
- 4. Tissue-organ grade organisation - Euplectella
+#### Sports
+1. **Mohan Veena player, Pandit Vishwa Mohan Bhatt won the Award in the year 1994.**  
+  - Options:  
+    1. Grammy  
+    2. Sangita Kalanidhi  
+    3. Oscar  
+    4. Sangeet Natak Akademi  
 
-Q.17 The head office of Board of Control for Cricket in India (BCCI) is located in 	. Ans 1. Kolkata
- 2. Chennai
- 3. Mumbai
- 4. New Delhi
+2. **The head office of Board of Control for Cricket in India (BCCI) is located in:**  
+  - Options:  
+    1. Kolkata  
+    2. Chennai  
+    3. Mumbai  
+    4. New Delhi  
 
-Q.18 When the analysis of population density is done by calculating it through net cultivated area, then the measure is termed as:
-Ans 1. Net density
- 2. Gross density
- 3. Agricultural density
- 4. Physiological density
+3. **In which city was the first golf club of India situated?**  
+  - Options:  
+    1. Kolkata  
+    2. Mysore  
+    3. Shimla  
+    4. Gulmarg  
 
-Q.19 Mahendravarman I was the ruler of which of the following dynasties? Ans	 1. Pallava
- 2. Pandya
- 3. Chalukya
- 4. Chola
+#### Current Affairs
+1. **Who is Union Minister of State (Independent Charge) for Science and Technology as of July 2023?**  
+  - Options:  
+    1. Dharmendra Pradhan  
+    2. Jitendra Singh  
+    3. Ashwini Vaishnaw  
+    4. Ramesh Pokhriyal  
 
-Q.20 What challenge does foreign investment often face in India? Ans 1. Excessive foreign competition
- 2. Lack of skilled labour
- 3. Lack of consumer base
- 4. Inconsistent regulatory environment
+2. **Who is the Chief Minister of Tamil Nadu as of July 2023?**  
+  - Options:  
+    1. KN Nehru  
+    2. Pinarayi Vijayan  
+    3. M Yedurappa  
+    4. MK Stalin  
 
-Q.21 Which of the following states is the biggest producer of Pulses? Ans 1. Bihar
- 2. Madhya Pradesh
- 3. Punjab
- 4. Haryana
-
-Q.22 Who founded the Prarthana Samaj in Mumbai in 1867? Ans 1. Gopal Krishna Gokhale
- 2. Shri Ram Bajpai
- 3. Atmaram Pandurang
- 4. Ram Mohan Roy
-
-Q.23 Who is the Chief Minister of Tamil Nadu as of July 2023? Ans 1. KN Nehru
- 2. Pinarayi Vijayan
- 3. M Yedurappa
- 4. MK Stalin
-
-Q.24 In which city was the first golf club of India situated? Ans	 1. Kolkata
- 2. Mysore
- 3. Shimla
- 4. Gulmarg
-
-Q.25 Which Indian among the following has his name in Time Magazine's list of '100 most influential people of 2021'?
-Ans 1. Amit Shah
- 2. Narendra Modi
- 3. Neeraj Chopra
- 4. Virat Kohli
-
-Section : General Awareness
-
-Q.1 In which part of India does the hot wind 'Loo' blow? Ans 1. South and Southwestern
- 2. East and Northeastern
- 3. West and Southwestern
- 4. North and Northwestern
-
-Q.2 The first southern campaign of Alauddin Khilji in 1307-08 AD was led to which of the following regions?
-Ans 1. Madura
- 2. Warangal
- 3. Dwar Samudra
- 4. Devagiri
-
-Q.3 Which of the following can be represented as a functional unit of nature? Ans	 1. Ecosystem
- 2. Humans
- 3. Vehicles
- 4. Plants
-
-Q.4 At what latitude does the easterly jet stream blow over peninsular India during the summer months?
-Ans 1. 30�N
- 2. 24�N
- 3. 28�N
- 4. 14�N
-
-Q.5 The inaugural match of the Women Premier League 2023 cricket was played in which of the following venues?
-Ans 1. Chennai
- 2. Kolkata
- 3. Delhi
- 4. Mumbai
-
-Q.6 When electricity is passed through water, what kind of chemical reaction occurs? Ans	 1. Decomposition
- 2. Double displacement
- 3. Combination
- 4. Displacement
-
-Q.7 Which music-composer duo was honoured with the National Lata Mangeshkar Award for the year 2020?
-Ans 1. Jatin-Lalit
- 2. Anand-Milind
- 3. Salim-Sulaiman
- 4. Sachin-Jigar
-
-Q.8 In which of the following states is Govindji Nartanalaya located? Ans 1. Assam
- 2. Nagaland
- 3. Tripura
- 4. Manipur
-
-Q.9 In which state of India is Kund or Tanka used for water harvesting? Ans 1. Uttar Pradesh
- 2. Punjab
- 3. Rajasthan
- 4. Andhra Pradesh
-
-Q.10 When was the High Court and Supreme Court Judges (Salaries and Conditions of Service) Amendment Bill, 2021 introduced in Lok Sabha?
-Ans	 1. 30 November 2021
- 2. 27 September 2021
- 3. 29 March 2021
- 4. 28 April 2021
-
-Q.11 Which condition, also known as icterus, causes a yellowing of your skin and the whites of your eyes?
-Ans 1. Pemphigus
- 2. Ichthyosis
- 3. Eczema
- 4. Jaundice
-
-Q.12 Which of the following inscriptions of Rudradaman happened to be the first royal inscription of early India composed in chaste Sanskrit?
-Ans 1. Mehrauli
- 2. Prayag
- 3. Chirand
- 4. Girnar
-
-Q.13 According to Census of India 2011, in rural India, which state has the maximum female workforce participation rate?
-Ans 1. Andhra Pradesh
- 2. Arunachal Pradesh
- 3. Uttar Pradesh
- 4. Himachal Pradesh
-
-Q.14 Which of the following celebrations is dedicated to Sun God and his wife Usha to thank them for sustaining life on earth and for granting wishes?
-Ans 1. Vishwakarma Puja
- 2. Madai Festival
- 3. Sorath Sabha
- 4. Chhath Puja
-
-Q.15 At which Olympics did Gagan Narang win a bronze medal? Ans 1. Beijing 2008
- 2. London 2012
- 3. Athens 2004
- 4. Rio 2016
-
-Q.16 When was a Madrasa opened in Kolkata to promote the study of Arabic, Persian and Islamic law?
-Ans 1. 1772 C.E.
- 2. 1783 C.E.
- 3. 1781 C.E.
- 4. 1774 C.E.
-
-Q.17 What is the IUPAC name of tertiarybutyl alcohol? Ans 1. 1-propylpropan-3-ol
- 2. 1-ethylpropan-3-ol
- 3. 1-Methylpropan-3-ol
- 4. 2-Methylpropan-2-ol
-
-Q.18 Which Article of the Constitution explains that the executive power of every state shall be so exercised as not to impede or prejudice the exercise of the executive power of the Union, and the executive power of the union shall extend to the giving of such directions to a state as may appear to the Government of India to be necessary for that purpose?
-Ans 1. Article 123
- 2. Article 261
- 3. Article 257
- 4. Article 247
-
-Q.19 Under the leadership of which of the following revolutionaries was Chittagong Armoury Raid conducted?
-Ans 1. Rash Behari Bose
- 2. Surya Sen
- 3. Hemu Kalani
- 4. Badal Gupta
-
-Q.20 What is the relationship between interest rate and demand for money? Ans	 1. Inverse
- 2. Direct
- 3. No relationship exists
- 4. Proportionate
-
-Q.21 The government of which of the following states created a draft policy in 2022 for senior citizens on the basis of article 41, which aims to form a directorate for the welfare of senior citizens?
-Ans 1. Karnataka
- 2. Kerala
- 3. Telangana
- 4. Tamil Nadu
-
-Q.22 In the year 1952, who among the following lent his voice for the film 'Amar Bhupali', which was being produced in two languages simultaneously and he sang in both Bengali and Marathi ?
-Ans 1. Hemanta Mukherjee
- 2. Debabrata Biswas
- 3. Kishore Kumar
- 4. Manna Dey
-
-Q.23 Which of the following statements correctly defines the green revolution? Ans 1. It is a new strategy to use green colour for all purposes.
- 2. It is a new strategy to increase the share of the forest.
- 3. It is a new strategy in agriculture to produce food grains, especially wheat and rice.
- 4. It is a new strategy to use only herbal products.
-
-Q.24 In 2021, in which of the following states did the Prime Minister lay the foundation stone for the Raja Mahendra Pratap Singh State University?
-Ans 1. Gujarat
- 2. Himachal Pradesh
- 3. Nagaland
- 4. Uttar Pradesh
-
-Q.25 Which of the following is NOT correct about Directive Principles of State Policy? Ans 1. They provide guidelines for the governance of the country.
- 2. They are justiciable in nature.
- 3. They are morally binding on the government.
- 4. They ensure social and economic development.
-
+3. **Which Indian among the following has his name in Time Magazine's list of '100 most influential people of 2021'?**  
+  - Options:  
+    1. Amit Shah  
+    2. Narendra Modi  
+    3. Neeraj Chopra  
+    4. Virat Kohli  
 
 Section : General Awareness
 
-Q.1 What is the length of Indian Railways network, according to Railway Yearbook 2019- 20?
-Ans	 1. 67,956 km
- 2. 2,402 km
- 3. 63,950 km
- 4. 1,604 km
+#### Indian History and Politics
+1. **The first southern campaign of Alauddin Khilji in 1307-08 AD was led to which of the following regions?**  
+  - Options:  
+    1. Madura  
+    2. Warangal  
+    3. Dwar Samudra  
+    4. Devagiri  
 
-Q.2 Which of the following is the largest crustal plate on Earth with an area of over 103,000,000 km2?
-Ans 1. African plate
- 2. South American plate
- 3. Eurasian plate
- 4. Pacific plate
+2. **Which of the following inscriptions of Rudradaman happened to be the first royal inscription of early India composed in chaste Sanskrit?**  
+  - Options:  
+    1. Mehrauli  
+    2. Prayag  
+    3. Chirand  
+    4. Girnar  
 
-Q.3 'Nuakhai' is the state festival of:
-Ans	 1. Odisha
- 2. Tamil Nadu
- 3. Meghalaya
- 4. Bihar
+3. **When was a Madrasa opened in Kolkata to promote the study of Arabic, Persian and Islamic law?**  
+  - Options:  
+    1. 1772 C.E.  
+    2. 1783 C.E.  
+    3. 1781 C.E.  
+    4. 1774 C.E.  
 
-Q.4 Which of the following is a straight-chain alkyl carboxylic acid with the chemical formula CH3CH2CH2CO2H?
-Ans 1. Methanoic acid
- 2. Ethanoic acid
- 3. Propionic acid
- 4. Butyric acid
+4. **Under the leadership of which of the following revolutionaries was Chittagong Armoury Raid conducted?**  
+  - Options:  
+    1. Rash Behari Bose  
+    2. Surya Sen  
+    3. Hemu Kalani  
+    4. Badal Gupta  
 
-Q.5 Who among the following was the youngest instrumentalist to be awarded the Padma Bhushan, the third highest civilian award of India in 2002?
-Ans	 1. Ustad Zakir Hussain
- 2. Pandit Ravi Shankar
- 3. Pandit Bhimsen Joshi
- 4. Ustad Bismillah Khan
+5. **In 2021, in which of the following states did the Prime Minister lay the foundation stone for the Raja Mahendra Pratap Singh State University?**  
+  - Options:  
+    1. Gujarat  
+    2. Himachal Pradesh  
+    3. Nagaland  
+    4. Uttar Pradesh  
 
-Q.6 Which Article of the Indian Constitution prohibits providing of any religious instruction in the educational institutions maintained by the State?
-Ans 1. Article 29
- 2. Article 28
- 3. Article 30
- 4. Article 31
+#### Indian Geography
+1. **In which part of India does the hot wind 'Loo' blow?**  
+  - Options:  
+    1. South and Southwestern  
+    2. East and Northeastern  
+    3. West and Southwestern  
+    4. North and Northwestern  
 
-Q.7 Article 77 of the Indian Constitution deals with the 	. Ans 1. Vice-President of India
- 2. oath of office by the Vice-President
- 3. conduct of business of the Government of India
- 4. term of office of the Vice-President
+2. **At what latitude does the easterly jet stream blow over peninsular India during the summer months?**  
+  - Options:  
+    1. 30°N  
+    2. 24°N  
+    3. 28°N  
+    4. 14°N  
 
-Q.8 The Muslim Women (Protection of Rights on Marriage) Act, 2019 deals with subsistence allowance in which of the following Sections?
-Ans 1. Section 7
- 2. Section 5
- 3. Section 4
- 4. Section 6
+3. **In which state of India is Kund or Tanka used for water harvesting?**  
+  - Options:  
+    1. Uttar Pradesh  
+    2. Punjab  
+    3. Rajasthan  
+    4. Andhra Pradesh  
 
-Q.9 Which of the following Illustrations shows the mitochondrion's structural details?
+4. **Which of the following celebrations is dedicated to Sun God and his wife Usha to thank them for sustaining life on earth and for granting wishes?**  
+  - Options:  
+    1. Vishwakarma Puja  
+    2. Madai Festival  
+    3. Sorath Sabha  
+    4. Chhath Puja  
 
-Ans 1. c
- 2. a
- 3. b
- 4. d
+5. **Which condition, also known as icterus, causes a yellowing of your skin and the whites of your eyes?**  
+  - Options:  
+    1. Pemphigus  
+    2. Ichthyosis  
+    3. Eczema  
+    4. Jaundice  
 
-Q.10 In which year was the 'Naye Bharat Ke Sapne' campaign launched by Meta and the Ministry of Women?
-Ans 1. 2022
- 2. 2021
- 3. 2023
- 4. 2020
+#### Science and Technology
+1. **When electricity is passed through water, what kind of chemical reaction occurs?**  
+  - Options:  
+    1. Decomposition  
+    2. Double displacement  
+    3. Combination  
+    4. Displacement  
 
-Q.11 Which of the following statements is INCORRECT? Ans	 1. Fats and oils get reduced over time and smell bad.
- 2. Antioxidants are added to foods containing fats and oil to prevent oxidation.
- 3. Chips manufacturers usually flush bags of chips with Nitrogen to prevent the chips from getting ranicid.
- 4. Fats and oils are oxidised, they become rancid.
+2. **What is the IUPAC name of tertiarybutyl alcohol?**  
+  - Options:  
+    1. 1-propylpropan-3-ol  
+    2. 1-ethylpropan-3-ol  
+    3. 1-Methylpropan-3-ol  
+    4. 2-Methylpropan-2-ol  
 
-Q.12 Under which of the following Acts was the power to rule India, transferred from the English East India Company to the British Crown?
-Ans 1. Regulating Act 1773
- 2. Pitt's India Act 1784
- 3. Government of India Act 1858
- 4. Charter Act of 1833
+3. **What is the relationship between interest rate and demand for money?**  
+  - Options:  
+    1. Inverse  
+    2. Direct  
+    3. No relationship exists  
+    4. Proportionate  
 
-Q.13 Which of the following countries won the first men's Asian Hockey Championship trophy?
-Ans 1. Japan
- 2. China
- 3. Pakistan
- 4. India
+#### Indian Politics
+1. **When was the High Court and Supreme Court Judges (Salaries and Conditions of Service) Amendment Bill, 2021 introduced in Lok Sabha?**  
+  - Options:  
+    1. 30 November 2021  
+    2. 27 September 2021  
+    3. 29 March 2021  
+    4. 28 April 2021  
 
-Q.14 Silappathikaram (the Jewelled Anklet), the earliest epic poem in Tamil was written in the 5th - 6th Century CE by 	.
-Ans 1. Tolkappiyar
- 2. Tirumalisai Alwar
- 3. Ilango Adigal
- 4. Sittalai Sattanar
+2. **Which Article of the Constitution explains that the executive power of every state shall be so exercised as not to impede or prejudice the exercise of the executive power of the Union, and the executive power of the union shall extend to the giving of such directions to a state as may appear to the Government of India to be necessary for that purpose?**  
+  - Options:  
+    1. Article 123  
+    2. Article 261  
+    3. Article 257  
+    4. Article 247  
 
-Q.15 Which of the following statements is correct?.
-Ans 1. The five-year plan focuses mostly on private intervention in the economy.
- 2. The five-year plan permits long-term intervention by the government in the economy.
- 3. The five-year plan always focused on the growth of the tertiary sector.
- 4. A five-year plan always stresses market-oriented activities.
+3. **The government of which of the following states created a draft policy in 2022 for senior citizens on the basis of article 41, which aims to form a directorate for the welfare of senior citizens?**  
+  - Options:  
+    1. Karnataka  
+    2. Kerala  
+    3. Telangana  
+    4. Tamil Nadu  
 
-Q.16 In Pradhan Mantri Gramin Awaas yojana, the cost of unit assistance is shared between Central and State Governments in the ratio 	in plain areas.
-Ans 1. 30 : 70
- 2. 90 : 10
- 3. 60 : 40
- 4. 40 : 60
+4. **Which of the following is NOT correct about Directive Principles of State Policy?**  
+  - Options:  
+    1. They provide guidelines for the governance of the country.  
+    2. They are justiciable in nature.  
+    3. They are morally binding on the government.  
+    4. They ensure social and economic development.  
 
-Q.17 Who was the revenue minister during the reign of Akbar? Ans	 1. Todar Mal
- 2. Abdul Rahim
- 3. Mulla Do-Piyaza
- 4. Tansen
+#### Sports
+1. **The inaugural match of the Women Premier League 2023 cricket was played in which of the following venues?**  
+  - Options:  
+    1. Chennai  
+    2. Kolkata  
+    3. Delhi  
+    4. Mumbai  
 
-Q.18 Hot local wind that flows over north India in summer is known as:
-Ans 1. Purga
- 2. Loo
- 3. Chinook
- 4. Mango showers
+2. **At which Olympics did Gagan Narang win a bronze medal?**  
+  - Options:  
+    1. Beijing 2008  
+    2. London 2012  
+    3. Athens 2004  
+    4. Rio 2016  
 
-Q.19 As per the definition of Census of India, a 'marginal worker' is a person who works for: Ans 1. more than 183 days (or six months) in a year
- 2. less than 183 days (or six months) in a year
- 3. eight months in a year
- 4. 83 days in a year
+3. **In the year 1952, who among the following lent his voice for the film 'Amar Bhupali', which was being produced in two languages simultaneously and he sang in both Bengali and Marathi?**  
+  - Options:  
+    1. Hemanta Mukherjee  
+    2. Debabrata Biswas  
+    3. Kishore Kumar  
+    4. Manna Dey  
 
-Q.20 In which of the following states is the Nrityagram, an Odissi dance institution, located? Ans	 1. Karnataka
- 2. Tamil Nadu
- 3. Kerala
- 4. Maharashtra
+#### Economics
+1. **Which of the following can be represented as a functional unit of nature?**  
+  - Options:  
+    1. Ecosystem  
+    2. Humans  
+    3. Vehicles  
+    4. Plants  
 
-Q.21 At which Olympics was Kho-Kho featured in an exhibition in the main stadium? Ans 1. 2008
- 2. 2016
- 3. 1932
- 4. 1936
-
-Q.22 Which of the following goods needs further transformation in the economic process? Ans 1. Capital goods
- 2. Intermediate goods
- 3. Finished goods
- 4. Consumer durable goods
-
-Q.23 Who among the following devised the system of 'Subsidiary Alliance'? Ans 1. Lord William Bentinck
- 2. Lord Wellesley
- 3. Lord Dalhousie
- 4. Lord Canning
-
-Q.24 Which of the following is an inactivated (killed) polio vaccine developed in 1952? Ans 1. HDCV vaccine
- 2. Salk vaccine
- 3. TAB vaccine
- 4. Imvanex vaccine
-
-Q.25 Which of the following personalities is a Padma Shri awardee folk singer from the state of Uttar Pradesh?
-Ans	 1. Ajita Srivastava
- 2. Teejan Bai
- 3. Ila Arun
- 4. Gurmeet Bawa
-
-Section : General Awareness
-
-Q.1 Which government honoured a distinguished percussionist named Pandit Anindo Chatterjee with the Banga Vibhushan Award in 2022?
-Ans 1. Jharkhand
- 2. West Bengal
- 3. Tripura
- 4. Assam
-
-Q.2 According to the Indian Railways (2019-2020), which state has the largest railway track in India?
-Ans 1. Madhya Pradesh
- 2. Uttar Pradesh
- 3. Haryana
- 4. Punjab
-
-Q.3 Who was appointed as India's 28th Controller General of Accounts (CGA) in March 2023?
-Ans 1. Praveen Sharma
- 2. SS Dubey
- 3. Vikram Devdutt
- 4. Arun Goel
-
-Q.4 After the death of Humayun, the 13 year-old Akbar was coronated in 1556 at Kalanaur in 	.
-Ans 1. Gujarat
- 2. Rajasthan
- 3. Punjab
- 4. Bengal
-
-Q.5 Which Five-Year Plan primarily focused on the 'Garibi Hatao' initiative? Ans 1. Fourth Five-Year Plan
- 2. Sixth Five-Year Plan
- 3. Third Five-Year Plan
- 4. Fifth Five-Year Plan
-
-Q.6 In which of the following cities of Manipur is the Jawaharlal Nehru Manipur Dance Academy located?
-Ans 1. Ukhrul
- 2. Imphal
- 3. Chandel
- 4. Thoubal
-
-Q.7 Which Governor-General of British India helped Raja Ram Mohan Roy legally abolish the sati practice?
-Ans 1. Lord Curzon
- 2. Lord William Bentinck
- 3. Lord Cornwallis
- 4. Lord Ripon
-
-Q.8 Mahabalipuram emerged as an important centre of temple architecture under which of the following kingdoms of south India?
-Ans	 1. Pallava
- 2. Chera
- 3. Chola
- 4. Chalukya
-
-Q.9 Which of the following was the mascot of the FIH men's Hockey World Cup - 2023? Ans 1. Asha
- 2. Bheema
- 3. Jitu
- 4. Olly
-
-Q.10 By which of the following state governments is the Tansen Music Festival organised? Ans	 1. Madhya Pradesh Government
- 2. Maharashtra Government
- 3. Uttar Pradesh Government
- 4. Rajasthan Government
-
-Q.11 Which of the following statements is INCORRECT about the Directive Principles of State Policy?
-Ans 1. They are positive, as they require the State to do certain things.
- 2. These have moral and political sanctions.
- 3. They aim at establishing social and economic democracy in the country.
- 4. They promote welfare of individuals. Hence, they are personal and individualistic.
-
-Q.12 The Indian Constitution has established 	. Ans	 1. independent judicial system
- 2. plural judicial system
- 3. dual judicial system
- 4. partial Judicial system
-
-Q.13 Which of the following is a non-perishable food? Ans	 1. Pulses
- 2. Curds
- 3. Meat
- 4. Milk
-
-Q.14 Which of the following is NOT correct with regards to the history of calculating National Income (NI) in India?
-Ans		 1. Dadabhai Naoroji divided the Indian economy into two parts: primary sector and secondary sector.
- 2. First attempt to compute NI was made by Dadabhai Naoroji.
- 3. First official attempt to compute NI was made by PC Mahalanobis.
- 4. First scientific method to compute NI was used by Dr VKRV Rao.
-
-Q.15 Hubbardia heptaneuron, which has become endangered, is a species of which of the following?
-Ans 1. Tiger
- 2. Bamboo
- 3. Crane
- 4. Grass
-
-Q.16 The Parliament passed the Marine Aids to Navigation Bill, 2021 to repeal and replace which of the following Acts?
-Ans 1. The Dourine Act, 1910
- 2. The Lighthouse Act, 1927
- 3. The Dangerous Machines (Regulation) Act, 1983
- 4. The Personal Injuries (Emergency Provisions) Act, 1962
-
-Q.17 When was the 1st Asian Kabaddi Championship held? Ans 1. 1975
- 2. 1970
- 3. 1980
- 4. 1985
-
-Q.18 The climate of a place is NOT affected by which of the following? Ans 1. Location
- 2. Type of soil
- 3. Relief
- 4. Distance from the sea
-
-Q.19 In which musical note did Newland put the metals Co and Ni with halogens? Ans 1. Re
- 2. Mi
- 3. Do
- 4. Fa
-
-Q.20 Which of the following places is related to Gandhi's Satyagraha of the year 1917? Ans	 1. Champaran
- 2. Ahmedabad
- 3. Kheda
- 4. Bardoli
-
-Q.21 Which of the following is in geographical proximity to Sri Lanka? Ans	 1. Only Karaikal
- 2. Karaikal and Yanam
- 3. Only Yanam
- 4. Mahe
-
-Q.22 The decomposition of gaseous Ammonia on a hot platinum surface is a
-	order reaction at high pressure.
-Ans 1. three
- 2. two
- 3. zero
- 4. one
-
-✅
-
-Q.23 Which organisms are classified as Aves? Ans 1. Frogs
- 2. Snakes
- 3. Birds
- 4. Fishes
-
-Q.24 Which of the following festivals is celebrated as the birth anniversary of Guru Nanak Dev?
-Ans 1. Hola Mohalla
- 2. Baisakhi
- 3. Gurpurab
- 4. Chappar Mela
-
-Q.25 How many awards were presented at the National Sports and Adventure Awards-2022 ceremony held at Rashtrapati Bhavan on 30 November 2022?
-Ans	 1. 44
- 2. 52
- 3. 28
- 4. 32
+2. **Which of the following statements correctly defines the green revolution?**  
+  - Options:  
+    1. It is a new strategy to use green colour for all purposes.  
+    2. It is a new strategy to increase the share of the forest.  
+    3. It is a new strategy in agriculture to produce food grains, especially wheat and rice.  
+    4. It is a new strategy to use only herbal products.  
 
 
 Section : General Awareness
 
-Q.1 Which of the following has the highest salinity? Ans 1. Great salt lake
- 2. Dead sea
- 3. Red sea
- 4. Lake Van
+#### Indian Geography
+1. **What is the length of Indian Railways network, according to Railway Yearbook 2019-20?**  
+  - Options:  
+    1. 67,956 km  
+    2. 2,402 km  
+    3. 63,950 km  
+    4. 1,604 km  
 
-Q.2 Which of the following social reformers of 19th century India was the author of 'Stree Purush Tulana'?
-Ans 1. Pandita Ramabai
- 2. Tarabai Shinde
- 3. Usha Mehta
- 4. Swarnakumari Devi
+2. **Which of the following is the largest crustal plate on Earth with an area of over 103,000,000 km²?**  
+  - Options:  
+    1. African plate  
+    2. South American plate  
+    3. Eurasian plate  
+    4. Pacific plate  
 
-Q.3 Harela is a festival of greenery, peace, prosperity, and environmental conservation, primarily celebrated in which of the following states?
-Ans 1. Madhya Pradesh
- 2. Assam
- 3. Uttarakhand
- 4. Haryana
+3. **'Nuakhai' is the state festival of:**  
+  - Options:  
+    1. Odisha  
+    2. Tamil Nadu  
+    3. Meghalaya  
+    4. Bihar  
 
-Q.4 Which state initiated the implementation of the Mid-day Meal scheme in elementary schools?
-Ans 1. Uttar Pradesh
- 2. Tamil Nadu
- 3. Madhya Pradesh
- 4. Karnataka
+4. **Hot local wind that flows over north India in summer is known as:**  
+  - Options:  
+    1. Purga  
+    2. Loo  
+    3. Chinook  
+    4. Mango showers  
 
-Q.5 In which of the following games is one player known as the Wicketkeeper? Ans	 1. Cricket
- 2. Basketball
- 3. Hockey
- 4. Football
+#### Science and Technology
+1. **Which of the following is a straight-chain alkyl carboxylic acid with the chemical formula CH₃CH₂CH₂CO₂H?**  
+  - Options:  
+    1. Methanoic acid  
+    2. Ethanoic acid  
+    3. Propionic acid  
+    4. Butyric acid  
 
-Q.6 'Au' is the symbol for which of the following elements? Ans	 1. Gold
- 2. Aluminium
- 3. Argon
- 4. Silver
+2. **Which of the following Illustrations shows the mitochondrion's structural details?**  
+  - Options:  
+    1. c  
+    2. a  
+    3. b  
+    4. d  
 
-Q.7 Who among the following freedom fighters of India is the author of the book, 'The Indian Struggle'?
-Ans 1. Vallabhbhai Patel
- 2. Motilal Nehru
- 3. Mahatma Gandhi
- 4. Subhas Chandra Bose
+3. **Which of the following goods needs further transformation in the economic process?**  
+  - Options:  
+    1. Capital goods  
+    2. Intermediate goods  
+    3. Finished goods  
+    4. Consumer durable goods  
 
-Q.8 Which Article of the Constitution of India grants power to the President to appoint Judges of the Supreme Court?
-Ans	 1. Article 124(2)
- 2. Article 123(1)
- 3. Article 128(4)
- 4. Article 127(3)
+4. **Which of the following is an inactivated (killed) polio vaccine developed in 1952?**  
+  - Options:  
+    1. HDCV vaccine  
+    2. Salk vaccine  
+    3. TAB vaccine  
+    4. Imvanex vaccine  
 
-Q.9 Mohiniyattam is associated with which of the following traditional dance styles? Ans	 1. Lasya style
- 2. Samapadam
- 3. Tribhanga
- 4. Chowk
+#### Indian History and Politics
+1. **Who was the revenue minister during the reign of Akbar?**  
+  - Options:  
+    1. Todar Mal  
+    2. Abdul Rahim  
+    3. Mulla Do-Piyaza  
+    4. Tansen  
 
-Q.10 As of March 2023, how many High Courts are there in India? Ans 1. 20
- 2. 35
- 3. 25
- 4. 30
+2. **Under which of the following Acts was the power to rule India transferred from the English East India Company to the British Crown?**  
+  - Options:  
+    1. Regulating Act 1773  
+    2. Pitt's India Act 1784  
+    3. Government of India Act 1858  
+    4. Charter Act of 1833  
 
-Q.11 In which year was the International Olympic Committee formed? Ans 1. 1898
- 2. 1892
- 3. 1896
- 4. 1894
+3. **Who among the following devised the system of 'Subsidiary Alliance'?**  
+  - Options:  
+    1. Lord William Bentinck  
+    2. Lord Wellesley  
+    3. Lord Dalhousie  
+    4. Lord Canning  
 
-Q.12 Ustad Vilayat Ali Khan is a maestro in 	. Ans 1. Tabla
- 2. Flute
- 3. Sitar
- 4. Mridangam
+4. **Silappathikaram (the Jewelled Anklet), the earliest epic poem in Tamil, was written in the 5th - 6th Century CE by:**  
+  - Options:  
+    1. Tolkappiyar  
+    2. Tirumalisai Alwar  
+    3. Ilango Adigal  
+    4. Sittalai Sattanar  
 
-Q.13 Which physical feature of India prevents the cold winds from central Asia from entering the Indian subcontinents?
-Ans	 1. Himalayas
- 2. Indian plains
- 3. Coastal area
- 4. Indian desert
+#### Indian Economics
+1. **In Pradhan Mantri Gramin Awaas Yojana, the cost of unit assistance is shared between Central and State Governments in the ratio in plain areas:**  
+  - Options:  
+    1. 30 : 70  
+    2. 90 : 10  
+    3. 60 : 40  
+    4. 40 : 60  
 
-Q.14 Which of the following is the transboundary river between India and Pakistan? Ans 1. Beas
- 2. Indus
- 3. Ravi
- 4. Jhelum
+2. **As per the definition of Census of India, a 'marginal worker' is a person who works for:**  
+  - Options:  
+    1. More than 183 days (or six months) in a year  
+    2. Less than 183 days (or six months) in a year  
+    3. Eight months in a year  
+    4. 83 days in a year  
 
-Q.15 To which group do the alkaline earth metals such as radium, barium and strontium belong?
-Ans 1. Group 3A
- 2. Group 1A
- 3. Group 2A
- 4. Group 5A
+#### Sports
+1. **At which Olympics was Kho-Kho featured in an exhibition in the main stadium?**  
+  - Options:  
+    1. 2008  
+    2. 2016  
+    3. 1932  
+    4. 1936  
 
-Q.16 According to the Agricultural and Processed food products Export Development Authority (APEDA) 2020-2021, which state of India has the first rank in grapes production?
-Ans 1. Bihar
- 2. Uttar Pradesh
- 3. Karnataka
- 4. Maharashtra
+2. **Which of the following countries won the first men's Asian Hockey Championship trophy?**  
+  - Options:  
+    1. Japan  
+    2. China  
+    3. Pakistan  
+    4. India  
 
-Q.17 Which of the following Articles of the Indian Constitution mentions about the organisation of 'Village Panchayats'?
-Ans 1. Article 38
- 2. Article 31
- 3. Article 40
- 4. Article 36
+3. **In which of the following states is the Nrityagram, an Odissi dance institution, located?**  
+  - Options:  
+    1. Karnataka  
+    2. Tamil Nadu  
+    3. Kerala  
+    4. Maharashtra  
 
-Q.18 Which of the following Articles of the Indian Constitution contains Fundamental Duties?
-Ans 1. 45A
- 2. 32A
- 3. 51A
- 4. 62B
+#### Current Affairs
+1. **In which year was the 'Naye Bharat Ke Sapne' campaign launched by Meta and the Ministry of Women?**  
+  - Options:  
+    1. 2022  
+    2. 2021  
+    3. 2023  
+    4. 2020  
 
-Q.19 How many medals did India win in International Shooting Sport Federation (ISSF) World Cup 2022, which was held in Cairo, Egypt?
-Ans 1. 9
- 2. 7
- 3. 6
- 4. 8
-
-Q.20 Which species is known as black lipped pearl oyster found in the Indo-Pacific, within tropical coral reefs?
-Ans 1. Aplysia dactylomela
- 2. Chaetopleura apiculata
- 3. Dentalium neohexagonum
- 4. Pinctada margaritifera
-
-Q.21 In the 7th Century AD, a new religion called Islam was born in 	. Ans 1. South Africa
- 2. Indonesia
- 3. Malaysia
- 4. Arabia
-
-Q.22 Sitar maestro, Pandit Ravi Shankar was awarded which of the following awards by the Government of India in 1999?
-Ans 1. Padma Shri
- 2. Bharat Ratna
- 3. Padma Vibhushan
- 4. Padma Bhushan
-
-Q.23 Gautamiputra Satakarni titled Rajaraja and Maharaja is related to which of the following dynasties?
-Ans	 1. Satavahana
- 2. Shaka
- 3. Shunga
- 4. Pandya
-
-Q.24 Which of the following options is associated with the class of cold-blooded animals? Ans 1. Pavo
- 2. Chameleon
- 3. Macropus
- 4. Psittacula
-
-Q.25 The CSO adopted the concept of Gross Value Added in 	. Ans 1. January 2012
- 2. January 2017
- 3. January 2013
- 4. January 2015
-
-Section : General Awareness
-
-Q.1 MG Music Awards is presented annually by which of the following states? Ans 1. Manipur
- 2. Mizoram
- 3. Nagaland
- 4. Chhattisgarh
-
-Q.2 National Sports University is situated in 	. Ans 1. Mizoram
- 2. Tripura
- 3. Manipur
- 4. Meghalaya
-
-Q.3 Which of the following is the main cause of land degradation in Jharkhand and Chhattisgarh?
-Ans	 1. Deforestation due to mining
- 2. Overgrazing
- 3. Intensive use of manure
- 4. Over-irrigation
-
-Q.4 Which country has the Republic feature of the Indian Constitution been borrowed from?
-Ans 1. Irish Constitution
- 2. British Constitution
- 3. French Constitution
- 4. Australian Constitution
-
-Q.5 Rudrasena II of which of the following dynasties married Prabhavatigupta, the daughter of Chandragupta II of the Gupta dynasty?
-Ans	 1. Vakataka
- 2. Chalukya
- 3. Pallava
- 4. Pushyabhuti
-
-Q.6 As of 2021, which is the world's largest drainage basin with an area of about 70,00,000 km2?
-Ans	 1. Amazon basin
- 2. Congo basin
- 3. Amur basin
- 4. Nile basin
-
-Q.7 'Sangken' is a festival celebrated in Arunachal Pradesh by people of which of the following religions?
-Ans 1. Jainism
- 2. Islam
- 3. Hinduism
- 4. Buddhism
-
-Q.8 The cause of a redox reaction is the:
-Ans 1. transfer of neutrons between two reactants
- 2. transfer of electrons between two products
- 3. transfer of electrons between two reactants
- 4. exchange of halogens between two reactants
-
-Q.9 Which of the following States has declared a social security scheme for registered newspaper hawkers in the State in 2021 considering the losses they faced during the pandemic and that they are a part of the unorganised sector?
-Ans 1. Maharashtra
- 2. Gujarat
- 3. Tamil Nadu
- 4. Odisha
-
-Q.10 Which of the following characteristics is NOT of Aves?
-Ans	 1. They give birth to live young ones with some exceptions those lay eggs.
- 2. They have four-chambered heart.
- 3. They breathe through the lungs
- 4. These are warm-blooded animals.
-
-Q.11 Which of the following books is INCORRECTLY paired with its respective author? Ans 1. Hind Swaraj - Mahatma Gandhi
- 2. Why I am an Atheist - Bhagat Singh
- 3. Gitanjali - Rabindranath Tagore
- 4. The Discovery of India - Subhash Chandra Bose
-
-Q.12 What is the aim of the PM Ujjwala 2.0 Yojna launched in August 2021? Ans 1. Free gas stove for BPL Households
- 2. 20 million LPG connections will be provided to the beneficiaries
- 3. Free LPG connections for commercial use
- 4. 10 million LPG connections will be provided to the beneficiaries
-
-Q.13 Which cell organelle is defined as the small round organelle that undergoes oxidation reaction to produce hydrogen peroxide?
-Ans 1. Vacuole
- 2. Nucleus
- 3. Centrosome
- 4. Peroxisomes
-
-Q.14 As for the year 2020-21, which of the following states had the lowest unemployment rate among persons aged 15 years and above?
-Ans	 1. Gujarat
- 2. Sikkim
- 3. Madhya Pradesh
- 4. Chhattisgarh
-
-Q.15 The Accelerated Female Literacy Programme was initiated in districts where the female literacy rate, based on the 2001 census, was 	.
-Ans 1. below 35%
- 2. below 50%
- 3. below 45%
- 4. below 30%
-
-Q.16 Who among the following was a poet who won Nobel Prize for literature in 1913? Ans 1. Rudyard Kipling
- 2. Bankin Chandra Chattopadhyay
- 3. Aurobindo Ghose
- 4. Rabindranath Tagore
-
-Q.17 Which group of people will be benefited by the Mukhya Mantri Sukh Ashray Yojana approved by Himachal Pradesh?
-Ans	 1. Orphans, specially abled children, destitute women and senior citizens
- 2. Students and teachers
- 3. Farmers and agricultural labourers
- 4. Unemployed youth
-
-Q.18 Which of the following departments of Delhi Sultanate was reorganized by Balban? Ans 1. Diwan-i-Mustakhraj
- 2. Diwan-i-Arz
- 3. Diwan-i-Ishtiaq
- 4. Diwan-i-Risalat
-
-Q.19 When was the Indian Hockey Federation established? Ans	 1. 1925
- 2. 1945
- 3. 1935
- 4. 1955
-
-Q.20 Which of the following elements is a metalloid? Ans 1. Sodium
- 2. Iron
- 3. Silicon
- 4. Oxygen
-
-Q.21 Madhuri Barthwal, a folk singer and Padma Shri 2022 awardee, belongs to which of the following states of India?
-Ans 1. Maharashtra
- 2. Himachal Pradesh
- 3. Uttarakhand
- 4. Uttar Pradesh
-
-Q.22 If assets of a bank are greater than liabilities, it will be recorded as:
-Ans	 1. net worth
- 2. liabilities
- 3. assets
- 4. reserves
-
-Q.23 In which of the following states is the development of rail transport less, due to its geographical conditions?
-Ans 1. Bihar
- 2. Uttar Pradesh
- 3. Sikkim
- 4. Haryana
-
-Q.24 Which of the following options is the legislative organ of the Union government? Ans	 1. Parliament
- 2. Executive
- 3. Legislative assembly
- 4. Judiciary
-
-Q.25 In which year was the National Institute of Kathak Dance established? Ans 1. 1961
- 2. 1969
- 3. 1954
- 4. 1964
+2. **The Muslim Women (Protection of Rights on Marriage) Act, 2019 deals with subsistence allowance in which of the following Sections?**  
+  - Options:  
+    1. Section 7  
+    2. Section 5  
+    3. Section 4  
+    4. Section 6  
 
 Section : General Awareness
 
-Q.1 Consider the following statements associated with the India Infrastructure Project Development Fund (IIPDF).
-1. IIPDF was set up in 2017.
-2. The funds for IIPDF are provided by the Central Government'?
-3. This scheme is notified under the Department of Economic Affairs. Which of the above statements is/are INCORRECT?
-Ans 1. Only 1 and 2
- 2. Only 1
- 3. Only 2 and 3
- 4. Only 3
-
-Q.2 Which party formed the government in Britain in the year 1945? Ans	 1. Labour Party
- 2. Socialist Party
- 3. Democratic Party
- 4. Liberal Party
-
-Q.3 Which type of radiation has very short (<10-3 nm) wavelengths, produced by nuclear explosions, lightning and less dramatic activity of radioactive decay?
-Ans 1. Microwave
- 2. Infra-red
- 3. Ultraviolet
- 4. Gamma
-
-Q.4 Bharatanatyam dance style is associated with which of the following states? Ans 1. Karnataka
- 2. Tamil Nadu
- 3. Bihar
- 4. Manipur
-
-Q.5 Which Indian marathon event is considered the largest marathon in Asia? Ans 1. Kaveri Trail Marathon
- 2. Mumbai Marathon
- 3. Delhi Half Marathon
- 4. Pinkathon
-
-Q.6 Which of the following organisations, divided into two branches, was established by Lokmanya Bal Gangadhar Tilak and Annie Besant?
-Ans 1. Theosophical society
- 2. Home Rule League
- 3. East Indian Association
- 4. Indian Association
-
-Q.7 Consider the following statements and choose the correct statement(s) from the following:
-1. The UDAN scheme has completed five years since its implementation in 2017.
-2. It is the flagship scheme of the Ministry of Science and Technology.
-3. The Airports Authority of India is the implementing agency of this scheme. 
-Ans 1. Only statement 2
- 2. Only statements 1 and 3
- 3. Only statements 2 and 3
- 4. Only statement 3
-
-Q.8 In which of the following years did India NOT host the ICC Cricket World Cup Tournament?
-Ans 1. 1996
- 2. 1983
- 3. 1987
- 4. 2011
-
-Q.9 Ebony and Mahogany trees are found in which type of forests? Ans 1. Montane forests
- 2. Mangrove forests
- 3. Tropical evergreen forests
- 4. Tropical deciduous forests
-
-Q.10 Who among the following was one of the Navratnas of Akbar? Ans 1. Amir Khusro
- 2. Purandar Das
- 3. Swami Haridas
- 4. Tansen
-
-Q.11 In which year was the PM Ayushman Bharat Health Infrastructure Mission launched? Ans 1. 2022
- 2. 2020
- 3. 2023
- 4. 2021
-
-Q.12 When was the Duty-Free Tariff Preference (DFTP) Scheme for Least Developed Countries (LDCs) announced by India?
-Ans 1. 2006
- 2. 2009
- 3. 2010
- 4. 2008
-
-Q.13 Which of the following options is mostly caused by overpopulation? Ans 1. Reduction in the scarcity of water
- 2. Land and other renewable resources are under pressure
- 3. Increase in the area covered by forests
- 4. Adequate natural resource storage
-
-Q.14 On which of the following dates does India celebrate its Constitution Day? Ans 1. 15th August
- 2. 2th October
- 3. 26th November
- 4. 26th January
-
-Q.15 Match the following books with their respective authors.
-
-
-
-Ans 1. a-i; b-iii; c-ii; d-iv
- 2. a-iii; b-i; c-iv; d-ii
- 3. a-ii; b-iv; c-iii; d-i
- 4. a-iv; b-iii; c-i; d-ii
-
-Q.16 Which of the following pairs do NOT share any borders? Ans 1. Bhutan and West Bengal
- 2. Bhutan and Meghalaya
- 3. Bhutan and Arunachal Pradesh
- 4. Bhutan and Assam
-
-Q.17 Palladium on barium sulphate (Pd/BaSO4) is also known as:
-Ans 1. an aldol reaction catalyst
- 2. a Cannizzaro reaction catalyst
- 3. the Rosenmund catalyst
- 4. a Hillman reaction catalyst
-
-Q.18 Which of the following types of direct tax collection increased as of 10 February 2023 budget?
-Ans 1. Octroi duties
- 2. Personal income tax
- 3. Commercial tax
- 4. Corporate tax
-
-Q.19 Which Ghazal singer was conferred with the prestigious Deenanath Mangeshkar Award in April 2023?
-Ans 1. Ghazal Srinivas
- 2. Pankaj Udhas
- 3. Bhupinder Singh
- 4. Talat Aziz
-
-Q.20 What kind of radiation is absorbed by the ozone layer? Ans 1. Infrared radiation
- 2. Visible radiation
- 3. Green radiation
- 4. Ultraviolet radiation
-
-Q.21 The organisation that Comptroller and Auditor General heads is known as
-	.
-Ans 1. Indian Civil Accounts Organisation
- 2. Indian Audit and Accounts Department
- 3. Controller General of Accounts
- 4. Institute of Chartered Accountants of India
-
-Q.22 Which of the following categories does Gonyaulax belong to? Ans 1. Chrysophytes
- 2. Dinoflagellates
- 3. Euglenoids
- 4. Protozoans
-
-Q.23 Valabhi, a city of ancient India was the capital of the 	dynasty from the 5th to 8th Century CE.
-Ans 1. Chalukya
- 2. Maitraka
- 3. Vakataka
- 4. Pallava
-
-Q.24 Who has written the book 'Fearless Governance', published in January 2021, describing her stint as Governor?
-Ans 1. Draupadi Murmu
- 2. Kiran Bedi
- 3. Anandi ben Patel
- 4. Baby Rani Maurya
-
-Q.25 Shab-e-Barat is celebrated by which religious group? Ans 1. Buddhist
- 2. Muslim
- 3. Jain
- 4. Parsi
-
-Section : General Awareness
-
-Q.1 Tabla player, Ustad Zakir Hussain was awarded which of the following awards by the Government of India in 2023?
-Ans 1. Padma Bhushan
- 2. Bharat Ratna
- 3. Padma Vibhushan
- 4. Padma Shri
-
-Q.2 Which of the following famous Indian athletes won the Zurich Diamond League final 2022 in September 2022?
-Ans 1. Bajrang Punia
- 2. PT Usha
- 3. Neeraj Chopra
- 4. Mirabai Chanu
-
-Q.3 Match the concepts in column A with their respective descriptions in column B.
-
-
-Ans	 1. a-5, b-1, c-2, d-3
- 2. a-2, b-3, c-4, d-1
- 3. a-5, b-3, c-2, d-1
- 4. a-2, b-1, c-4, d-3
-
-Q.4 Which of the following battles is considered the formal beginning of the British Raj in India?
-Ans 1. Battle of Buxar
- 2. First Carnatic War
- 3. Battle of Plassey
- 4. Battle of Wandiwash
-
-Q.5 How many chambers are there in the heart of fishes? Ans 1. 4
- 2. 2
- 3. 3
- 4. 1
-
-Q.6 Which of the following Table Tennis World Championship events was held in India? Ans 1. 17th World Championships, 1950
- 2. 19th World Championships, 1952
- 3. 20th World Championships, 1953
- 4. 18th World Championships, 1951
-
-Q.7 Taxus wallichiana Zucc (Himalayan yew) is a medicinal plant found in which of the following states?
-Ans 1. Jharkhand
- 2. Himachal Pradesh
- 3. Bihar
- 4. Goa
-
-Q.8 When haloalkanes and aryl and vinyl halides react with magnesium metal they yield which reagent?
-Ans 1. Tollens' reagent
- 2. Fehling reagent
- 3. Grignard reagent
- 4. Hinsberg reagent
-
-Q.9 Who among the following, while praising the amending feature of the Indian Constitution said that 'This variety in the amending process is wise but is rarely found'?
-Ans 1. Ivor Jennings
- 2. HM Seervai
- 3. Granville Austin
- 4. K C Wheare
-
-Q.10 In which of the following cities did Mahatma Gandhi lead the peasant movement against the imposed indigo cultivation by the British planters?
-Ans 1. Gorakhpur
- 2. Bardoli
- 3. Kheda
- 4. Champaran
-
-Q.11 Chittani Ramachandra Hegde was associated with which of the following dances? Ans 1. Chhau dance
- 2. Chappeli dance
- 3. Yakshagana dance
- 4. Huttari dance
-
-Q.12 Anna Chandy, the first Indian woman to serve as a judge at a high court was oppointed in which High Court?
-Ans 1. Tamil Nadu
- 2. Kerala
- 3. West Bengal
- 4. Andhra Pradesh
-
-Q.13 What is the unit of measurement for optical power of the lens? Ans 1. Katal
- 2. Yotta
- 3. Radian
- 4. Diopter
-
-Q.14 As in July 2021,The NIPUN Bharat Scheme was launched by which of the following Ministries?
-Ans 1. Ministry of Agriculture and Farmers
- 2. Ministry of Education
- 3. Ministry of Health and Family Welfare
- 4. Ministry of Corporate Affairs
-
-Q.15 Which Article of the Constitution of India expressly provides that the President is eligible for re-election?
-Ans 1. Article 59
- 2. Article 56
- 3. Article 57
- 4. Article 58
-
-Q.16 As per the report of the NITI Aayog in 2023, which among the following states in India has the lowest percentage of the total population that is multidimensionally poor?
-Ans 1. Uttarakhand
- 2. Sikkim
- 3. Kerala
- 4. Goa
-
-Q.17 Gangu bai Hangal and Prabha Atre were exponents of the 	Gharana. Ans 1. Mewati
- 2. Jaipur
- 3. Kirana
- 4. Rampur
-
-Q.18 Which of the following cups/trophies is NOT related to the Indian domestic cricket? Ans 1. Duleep Trophy
- 2. Deodhar Trophy
- 3. Ranji Trophy
- 4. Durand Cup
-
-Q.19 Who among the following was the last sultan of Delhi sultanate? Ans 1. Sikandar Lodi
- 2. Firoz Shah Tughlaq
- 3. Ibrahim Lodi
- 4. Muhammad Bin Tughlaq
-
-Q.20 The idols of which three Gods are installed in Jagannath Temple, Puri? Ans 1. Brahma, Vishnu and Mahesh
- 2. Ram, Lakshman and Janaki
- 3. Radha, Krishna and Balram
- 4. Jagannath, Balabhadra and Subhadra
-
-Q.21 In the context of water bodies, Neap Tides occur:
-Ans	 1. when the sun and moon are at right angles to each other
- 2. when the sun and moon are on the opposite sides
- 3. when there is so much interference by continents
- 4. when the earth, moon and sun line up in a straight line
-
-Q.22 According to the Ashrama system of Vedic life, which of the following was the third stage of life?
-Ans	 1. Vanaprastha
- 2. Sanyasa
- 3. Grihastha
- 4. Brahmacharya
-
-Q.23 Which of the following pairs is INCORRECTLY matched? Ans 1. Lysosomes: Suicidal bags
- 2. Ribosomes: Protein factory
- 3. Mitochondria: Power house of the cell
- 4. Nucleus: Lipid metabolism
-
-Q.24 The Government of India allowed automatic approval of 	% of FDI by Reserve Bank of India in nine categories of industries.
-Ans	 1. Up to 74
- 2. Up to 41
- 3. Up to 51
- 4. Up to 60
-
-Q.25 Which of the following Indian states has the least number of operational airports as of 2022?
-Ans 1. Karnataka
- 2. Mizoram
- 3. Maharashtra
- 4. Bihar
-
-Section : General Awareness
-
-Q.1 Lata Mangeshkar was honoured with the Bharat Ratna in the year 	. Ans 1. 2004
- 2. 2003
- 3. 2001
- 4. 2002
-
-Q.2 What is the reason for the similar size of the vascular bundle in monocot leaves? Ans 1. Radial venation
- 2. Parallel venation
- 3. Cubical venation
- 4. Rectangular venation
-
-Q.3 In which state of India was the Neeru-Meeru programme introduced for construction of water harvesting structures?
-Ans 1. Uttar Pradesh
- 2. Andhra Pradesh
- 3. Punjab
- 4. Rajasthan
-
-Q.4 Hariprasad Chaurasia, an Indian flutist in the Hindustani classical tradition, was awarded with which of the following awards in 2000?
-Ans	 1. Padma Vibhushan
- 2. Padma Bhushan
- 3. Padma Shri
- 4. Bharat Ratna
-
-Q.5 Which of the following events took place in the United Provinces in February, 1922? Ans	 1. Chauri Chaura
- 2. Quit India
- 3. Kakori Incident
- 4. Khilafat Movement
-
-Q.6 What do we mean by Allen's rule?
-Ans 1. The body compensates low oxygen availability by increasing red blood cell production, decreasing the binding affinity of haemoglobin and by increasing the breathing rate.
- 2. Some plants have no leaves - they are reduced to spines - and the photosynthetic function is taken over by the flattened stems.
- 3. Desert lizards lack the physiological ability that mammals have to deal with the high temperatures of their habitat.
-  4. Mammals from colder climates generally have shorter ears and limbs to minimise heat loss.
-
-Q.7 Ernest Rutherford used about 	thick gold foil for alpha scattering experiments.
-Ans	 1. 1000 atoms
- 2. 700 atoms
- 3. 900 atoms
- 4. 500 atoms
-
-Q.8 Which Article of the Constitution of India deals with the conduct of business of the Government of a state?
-Ans 1. Article 164
- 2. Article 167
- 3. Article 166
- 4. Article 177
-
-Q.9 In which of the following districts of Rajasthan are the 'Barchans' found? Ans	 1. Jaisalmer
- 2. Alwar
- 3. Udaipur
- 4. Bhilwara
-
-Q.10 In May 2022, Then President Ram Nath Kovind appointed	as the Lieutenant Governor of Delhi.
-Ans 1. Vijai Kapoor
- 2. Vinai Kumar Saxena
- 3. Anil Baijal
- 4. Kiran Bedi
-
-Q.11 Which of the following Constitutions inspired the law-making process in India? Ans	 1. British Constitution
- 2. US Constitution
- 3. Irish Constitution
- 4. Canadian Constitution
-
-Q.12 According to which of the following foreign travellers, people of Delhi used to write letters containing abuses to the Sultan, therefore, in order to punish them Sultan decided to shift the capital?
-Ans 1. Hasan Nizami
- 2. Isami
- 3. Ibn Batuta
- 4. Al Biruni
-
-Q.13 How many players are there on each side of the Kabaddi Team in the field? Ans 1. 9
- 2. 10
- 3. 8
- 4. 7
-
-Q.14 In 2022, which of the following railway stations has been selected for the 'One Station One Product' scheme launched by Indian Railways, which identifies Kanchipuram sarees as the chosen product?
-Ans 1. Patna Jn
- 2. Visakhapatnam
- 3. Chennai Central
- 4. Howrah
-
-Q.15 Which of the following definitions best describes the concept of microfinance? Ans 1. A microfinance institution is a digital-only and mobile-first bank.
-  2. Microfinance is a banking service provided to unemployed or low-income individuals or groups, who otherwise would have no other access to financial services.
- 3. Microfinance refers to providing banking services to individuals living in rural areas.
- 4. A microfinance institution is a company registered under the Companies Act, 1956, and engaged in the business of loans and advances and acquisition of shares/stocks/bonds/debentures/securities issued by the government.
-
-Q.16 How long will a sound wave take to travel 1.5km, which has a frequency of 5 kHz and wavelength of 6 cm?
-Ans 1. 25 seconds
- 2. 5 seconds
- 3. 50 seconds
- 4. 2.5 seconds
-
-Q.17 With reference to Morley-Minto Reforms of 1909, consider the following statements.
-a) They are also called the Indian Councils Act, 1909.
-b) They increased the strength of Legislative Councils.
-c) The right to separate electorate was given to the Muslims. Which of the above statements is/are correct?
-Ans 1. a, b
- 2. c, a
- 3. b, c
- 4. a, b, c
-
-Q.18 Which of the following types of unemployment is found in India when people are employed for a certain period of a year in tourist resorts and various tourism-related activities in the mountain regions, but are unemployed in off-seasons?
-Ans 1. Under employment
- 2. Seasonal unemployment
- 3. Disguised unemployment
- 4. Cyclical unemployment
-
-Q.19 Which of the following terms is NOT related to cricket? Ans 1. No Ball
- 2. Wide Ball
- 3. Deuce
- 4. Wicket
-
-Q.20 Which of the following schemes enables students mobility across Higher Education Institutions?
-Ans	 1. Academic Bank of Credits
- 2. National Educational Technology Forum
- 3. Structured Assessment for Analysing Learning Levels (SAFAL)
- 4. PM Umeed scheme
-
-Q.21 When was the Jawaharlal Nehru Manipur Dance Academy established? Ans	 1. 1954
- 2. 1951
- 3. 1952
- 4. 1953
-
-Q.22 Who developed the theory of combustion as a chemical reaction with oxygen in the 18th century, that excluded phlogiston theory?
-Ans 1. Friedrich W�hler
- 2. Antoine Lavoisier
- 3. Robert Boyle
- 4. Johann Becher
-
-Q.23 The Mahalanobis model was the basis for which Five-Year Plan? Ans 1. Fourth Five-Year Plan
- 2. Second Five-Year Plan
- 3. First Five-Year Plan
- 4. Sixth Five-Year Plan
-
-Q.24 'Poush Mela' is a unique festival celebrated in which of the following Indian states? Ans 1. Uttar Pradesh
- 2. Madhya Pradesh
- 3. Himachal Pradesh
- 4. West Bengal
-
-Q.25 Vasudeva I who issued coins in gold (dinars and quarter dinars) and copper (single denomination) was a 	king.
-Ans 1. Shunga
- 2. Shaka
- 3. Vakataka
- 4. Kushana
-
-Section : General Awareness
-
-Q.1 The organisms that do not have a defined nucleus or organelles are classified into
-      Kingdom.
-Ans 
- 1. Fungi
- 2. Monera
- 3. Protista
- 4. Plantae
-
-Q.2 Kathakali, one of the classical dances of India, is predominantly performed in which of the following states of India?
-Ans 
- 1. Uttar Pradesh
- 2. Assam
- 3. Kerala
- 4. Manipur
-
-Q.3 In 2002, Zakir Hussain became the youngest percussionist to be honoured with which award?
-Ans 
- 1. Padma Bhushan
- 2. National Heritage Fellowship
- 3. Grammy Award
- 4. Sangeet Natak Akademi Award
-
-Q.4 Microbes like Rhizobium, Nitrosomonas, and Nitrobacter are used for:
-Ans 
- 1. carbon cycling
- 2. nitrogen cycling
- 3. water cycling
- 4. sulphur cycling
-
-Q.5 Which is the National Mission for Financial Inclusion to ensure access to financial services, namely, basic savings and deposit accounts, remittance, credit, insurance, pension in an affordable manner?
-Ans 
- 1. Swarnjayanti Gram Swarozgar Yojana
- 2. Pradhan Mantri Jan Dhan Yojana
- 3. Deendayal Antyodaya Yojana
- 4. Deen Dayal Upadhyaya Grameen Kaushalya Yojana
-
-Q.6 What is net investment?
-Ans 
- 1. Gross investment + depreciation
- 2. Gross investment - depreciation
- 3. Gross capital investment - indirect taxes
- 4. Sum of all the investments in a country
-
-Q.7 
-Ans 
- 1. a-i, b-ii, c-iii, d-iv
- 2. a-iv, b-iii, c-ii, d-i
- 3. a-iii, b-iv, c-i, d-ii
- 4. a-ii, b-i, c-iv, d-iii
-
-Q.8 In which state/UT is the Hemis festival celebrated?
-Ans 
- 1. Sikkim
- 2. Punjab
- 3. Lakshadweep
- 4. Ladakh
-
-Q.9 A javelin thrown by an athlete is in motion.
-Ans 
- 1. rectilinear
- 2. periodic
- 3. curvilinear
- 4. oscillatory
-
-Q.10 Who among the following is the world-renowned exponent of the bamboo flute?
-Ans 
- 1. MS Subbulakshmi
- 2. Hariprasad Chaurasia
- 3. Ravi Shankar
- 4. Bismillah Khan
-
-Q.11 The magnificent Kailasa temple at Ellora was built during the reign of which Rashtrakuta king?
-Ans 
- 1. Indra III
- 2. Govinda III
- 3. Krishna I
- 4. Amoghavarsha
-
-Q.12 Which Article of the Constitution of India provides that 'there shall be a Vice President of India'?
-Ans 
- 1. Article 61
- 2. Article 63
- 3. Article 65
- 4. Article 62
-
-Q.13 Purvanchal Himalayas does NOT comprise of:
-Ans 
- 1. Pir Panjal range
- 2. Mizo hills
- 3. Manipur hills
- 4. Naga hills
-
-Q.14 Which of the following plays was NOT written by Harshavardhana?
-Ans 
- 1. Vikramorvasiyam
- 2. Nagananda
- 3. Ratnavali
- 4. Priyadarshika
-
-Q.15 In August 2022, the Ministry of Social Justice and Empowerment launched the scheme, with an aim to provide comprehensive rehabilitation services to people engaged in begging in 75 municipalities.
-Ans 
- 1. SMILE-75
- 2. BEAM-75
- 3. TWINKLE-75
- 4. RISE-75
-
-Q.16 A student, on his school assignment, is taking a session on how to make compost at home for using it at a park. Which fundamental duty is he performing?
-Ans 
- 1. To strive towards excellence in all spheres of individual and collective activity
- 2. To protect and improve the natural environment
- 3. To develop the scientific temper, humanism and the spirit of inquiry
- 4. To safeguard public property and to abjure violence
-
-Q.17 India won the ICC Men Cricket World Cup for the first time in which of the following years?
-Ans 
- 1. 1992
- 2. 1987
- 3. 1996
- 4. 1983
-
-Q.18 Calculate the oxidation number of 'S' in H2S2O7.
-Ans 
- 1. 3
- 2. 7
- 3. 2
- 4. 6
-
-Q.19 Which of the following is NOT an amendment made to the Airport Economic Regulatory Authority (AERA) Amendment Act, 2021?
-Ans 
- 1. The government can call any airport a major airport just by notification.
- 2. A major airport is one which has an annual traffic of minimum 35 lakh passengers.
- 3. The government will club together profit-making and loss-making airports.
- 4. The government can offer airports as a package in PPP mode to the prospective bidders.
-
-Q.20 In which year did India make its Olympic debut in hockey?
-Ans 
- 1. 1936
- 2. 1928
- 3. 1924
- 4. 1932
-
-Q.21 Who among the following was selected as the Sherpa for India's G20 hosted in 2022-23?
-Ans 
- 1. Amitabh Kant
- 2. Piyush Goyal
- 3. Ashwini Vaishnav
- 4. Shaktikanta Das
-
-Q.22 With reference to the Sepoy Mutiny of 1857, on which of the following dates did the soldiers at Meerut start their journey to Delhi?
-Ans 
- 1. 29 March
- 2. 10 May
- 3. 2 June
- 4. 19 April
-
-Q.23 The green revolution technology resulted in an increase in production of cereal production from 72.4 million tons in 1965-66 to ________ million tons in 1978-79.
-Ans 
- 1. 150.8
- 2. 165.9
- 3. 141.2
- 4. 131.9
-
-Q.24 Identify the oldest iron and steel company of India from the following options.
-Ans 
- 1. Mysore Iron & Steel Works
- 2. Tata Iron & Steel Company (TISCO)
- 3. Visvesvaraiya Iron & Steel Works
- 4. Indian Iron & Steel Company (IISCO)
-
-Q.25 Which of the following is the largest artificial lake of Asia?
-Ans 
- 1. Chilika Lake
- 2. Dal Lake
- 3. Bhopal Lake
- 4. Naini Lake
-
-Q.1 Chand Bardai's famous literary work, mentions Prithviraj Chauhan's love story and heroic deeds.
-Ans 
- 1. Rajamartanda
- 2. Harakeli Nataka
- 3. Prithviraj Raso
- 4. Abhidhana Chintamani
-
-Q.2 Who established Shantiniketan and when?
-Ans 
- 1. Ravindranath Tagore, 1905
- 2. Mahatma Gandhi, 1910
- 3. Ravindranath Tagore, 1901
- 4. Devendranath Tagore, 1915
-
-Q.3 In which year was the Digital India mission launched?
-Ans 
- 1. 2017
- 2. 2015
- 3. 2014
- 4. 2016
-
-Q.4 In July 2020, which state initiated the 'Ashirwad Scheme' to extend financial support for a daughter's marriage who belongs to a family earning a lower income?
-Ans 
- 1. Rajasthan
- 2. Bihar
- 3. Uttar Pradesh
- 4. Punjab
-
-Q.5 Hindustani singer Pandit Venkatesh Kumar was honoured with 'Kalidas Samman-2022' by which state government?
-Ans 
- 1. Maharashtra
- 2. Madhya Pradesh
- 3. Gujarat
- 4. Uttar Pradesh
-
-Q.6 Which of the following institutes was founded by Mrinalini Sarabhai who was a Bharatanatyam and Kathakali dancer?
-Ans 
- 1. Nalanda Nritya Kala Mahavidyalaya
- 2. Nrityanjali Institute of Performing Arts
- 3. Sri Thyagaraja College of Music and Dance
- 4. Darpana Academy of Performing Arts
-
-Q.7 
-Ans 
- 1. i-a, ii-c, iii-b, iv-d
- 2. i-a, ii-b, iii-c, iv-d
- 3. i-d, ii-c, iii-b, iv-a
- 4. i-b, ii-a, iii-c, iv-d
-
-Q.8 Which of the following hills is located in the Eastern Ghats?
-Ans 
- 1. Shevaroy hills
- 2. Khasi hills
- 3. Anamudi hills
- 4. Naga hills
-
-Q.9 Who among the following players is related to table tennis?
-Ans 
- 1. Pankaj Advani
- 2. Manika Batra
- 3. K Srikanth
- 4. Manish Narwal
-
-Q.10 What are the five Fs of indirect transmission?
-Ans 
- 1. Fruit, fingers, flu, food and fluid
- 2. Flies, fingers, fomites, food and fluid
- 3. Flies, fingers, friends, food and fruit
- 4. Flies, fingers, fomites, food and fruit
-
-Q.11 Which of the following is an example of public sector industry in India?
-Ans 
- 1. Tata Iron Steel Company
- 2. Bajaj Auto
- 3. Dabur
- 4. Bharat Heavy Electricals Limited
-
-Q.12 The Election Laws Amendment Bill passed in the Parliament recently seeks to implement certain electoral reforms. One of them is the eligibility date. Till now, only one date - 1 January was considered for deciding eligibility with respect to age. What reform does the Bill seek in this regard?
-Ans 
- 1. Eliminating the idea of eligibility date - enrolment throughout the year
- 2. Introducing three dates - 1 January, 1 May, 1 September
- 3. Introducing four dates - 1 January, 1 April, 1 July, 1 October
- 4. Introducing two dates - 1 January and 1 June
-
-Q.13 Which of the following is NOT a Fundamental Duty of the Indian citizens?
-Ans 
- 1. To cherish and follow the noble ideas that inspired our national struggle for freedom.
- 2. Mandatory national service of 5 years.
- 3. To develop scientific temper, humanism and the spirit of inquiry and reform.
- 4. To safeguard public property and to abjure violence.
-
-Q.14 __________ leaves are used to make bidis.
-Ans 
- 1. Neem
- 2. Betel
- 3. Tendu
- 4. Champa
-
-Q.15 Buddhadev Dasgupta is famous for playing which of the following musical instruments?
-Ans 
- 1. Sarangi
- 2. Sarod
- 3. Bansuri
- 4. Mridangam
-
-Q.16 In which of the following years was Pro Kabaddi League established in India?
-Ans 
- 1. 2016
- 2. 2015
- 3. 2014
- 4. 2013
-
-Q.17 According to Census of India 2011, what is the gap between male and female literacy rate in India?
-Ans 
- 1. 21.59%
- 2. 24.84%
- 3. 16.68%
- 4. 18.30%
-
-Q.18 In which form of exchange are goods used as medium of exchange?
-Ans 
- 1. Barter exchange
- 2. Currency exchange
- 3. Credit exchange
- 4. Online exchange
-
-Q.19 What is the product formed when zinc and sulphuric acid react?
-Ans 
- 1. Zinc oxide
- 2. Zinc sulphide
- 3. Zinc sulphate
- 4. Zinc hydroxide
-
-Q.20 In the state legislative assembly, the Money bill can be introduced with the prior permission of __________.
-Ans 
- 1. Auditor General
- 2. Finance Minister
- 3. Governor
- 4. CAG
-
-Q.21 Which of the following gases emits red light when electricity is passed through it?
-Ans 
- 1. Argon
- 2. Neon
- 3. Hydrogen
- 4. Helium
-
-Q.22 The Vedangas are Hindu auxiliary disciplines that originated in ancient times and are linked to the study of the Vedas. These are __________ in number.
-Ans 
- 1. Seven
- 2. Five
- 3. Six
- 4. Four
-
-Q.23 Gangaur Festival, Pushkar Fair, Nagaur Fair and Urs Fair are the popular fairs and festivals of which state?
-Ans 
- 1. Maharashtra
- 2. Tripura
- 3. Rajasthan
- 4. Punjab
-
-Q.24 Who among the following freedom fighters is known as 'Deshbandhu'?
-Ans 
- 1. Gopal Krishna Gokhale
- 2. Chittaranjan Das
- 3. Subhas Chandra Bose
- 4. Bhagat Singh
-
-Q.25 What was the actual growth rate of the first five-year plan?
-Ans 
- 1. 4.2%
- 2. 2.6%
- 3. 3.6%
- 4. 2.1%
-
-Q.1 What was Antoine-Laurent Lavoisier's most important contribution to chemistry in 1789?
-1. Law of Conservation of Mass
-2. Law of Multiple Proportions
-3. Law of Definite Proportions
-4. Law of Conservation of Energy
-
-Q.2 An electric iron requires a fuse to prevent short circuiting.
-1. 4 A
-2. 3 A
-3. 2 A
-4. 5 A
-
-Q.3 Who among the following is primarily connected to the World's Parliament of Religions convened in Chicago, 1893?
-1. Dayanand Saraswati
-2. Swami Vivekananda
-3. Raja Ram Mohan Roy
-4. Ramakrishna Paramhansa
-
-Q.4 Khuallam is a famous dance of:
-1. Bihar
-2. Andhra Pradesh
-3. Mizoram
-4. Uttar Pradesh
-
-Q.5 The concept of Public Interest Litigation originated in:
-1. Switzerland
-2. Iceland
-3. USA
-4. New Zealand
-
-Q.6 Thrissur Pooram is one of the famous temple festivals celebrated in:
-1. Andhra Pradesh
-2. Kerala
-3. Karnataka
-4. Tamil Nadu
-
-Q.7 Identify the group of districts that are NOT an example of industrial districts of India.
-1. Cuttack and Kota
-2. Kanpur and Agra
-3. Alwar and Bhiwani
-4. Jabalpur and Bhopal
-
-Q.8 Match the concepts in column A with their respective descriptions in column B.
-1. a-2, b-1, c-3, d-4
-2. a-3, b-1, c-2, d-4
-3. a-3, b-4, c-1, d-2
-4. a-4, b-3, c-2, d-1
-
-Q.9 Ustad Zia Mohiuddin Dagar was a player of profound depth, favouring sparse and slow realisations of ragas.
-1. Sitar
-2. Violin
-3. Flute
-4. Rudra veena
-
-Q.10 The headquarters of the second Green Revolution cell was in:
-1. Raipur
-2. Patna
-3. Kolkata
-4. Bhubaneswar
-
-Q.11 Who was the Viceroy of India when Mahatma Gandhi started Dandi March on 12 March 1930?
-1. Lord Chelmsford
-2. Lord Minto II
-3. Lord Irwin
-4. Lord Willingdon
-
-Q.12 Who is the world's most popular leader as per Global Leader Approval Ratings released by US-based Morning Consult in February 2023?
-1. Xi Jinping
-2. Vladimir Putin
-3. Joe Biden
-4. Narendra Modi
-
-Q.13 In which year was Smart Cities Mission launched?
-1. 2015
-2. 2013
-3. 2019
-4. 2018
-
-Q.14 Which of the following nations won the seven times women's Asia Cup cricket Championship?
-1. Pakistan
-2. Bangladesh
-3. India
-4. Sri Lanka
-
-Q.15 Which Article of the Indian Constitution provides that the State must secure a social order to promote the welfare of people?
-1. Article 37
-2. Article 38
-3. Article 39
-4. Article 36
-
-Q.16 Identify a water-harvesting system found in Jaisalmer.
-1. Guls
-2. Johads
-3. Khadins
-4. Kuls
-
-Q.17 The were tributary chiefs of the Gupta dynasty. They established an independent kingdom in western India. Dhruvasena II was the most important ruler of this kingdom.
-1. Maitrakas
-2. Maukharis
-3. Pushyabhutis
-4. Gurjara Pratiharas
-
-Q.18 As of 31 May 2021, only 47% of total routes and 39% of airports (unserved and underserved) have been operationalised under UDAN, according to ICRA. What is the full form of UDAN?
-1. Udtha Desh Ka Aam Nayak
-2. Ude Desh Ka Aam Naagrik
-3. Unnath Desh Ka Aam Naagrik
-4. Ujwal Desh Ka Aam Naagrik
-
-Q.19 Which of the following options is the most appropriate cause for unemployment in India?
-1. Over population
-2. Environment conditions
-3. High educational systems
-4. Lack of labour force
-
-Q.20 As of June 2021, how many biosphere reserves are established in India?
-1. 18
-2. 20
-3. 26
-4. 15
-
-Q.21 In which of the following battles did Muhammad of Ghor defeat Jayachandra of Gahadavala dynasty in 1194 AD?
-1. First battle of Tarain
-2. Battle of Chandawar
-3. Battle of Anhilwara
-4. Second battle of Tarain
-
-Q.22 The growth form of a plant, comprising its size, shape and orientation is known as:
-1. habit
-2. environment
-3. habitat
-4. growth pattern
-
-Q.23 When and where did India win its first World Championships medal in Athletics?
-1. 2009, Germany
-2. 2005, Finland
-3. 2007, Japan
-4. 2003, France
-
-Q.24 Tabla maestro, Bickram Ghosh, was awarded with which of the following awards in 2023 in the Contemporary Category?
-1. Padma Shri
-2. Padma Bhushan
-3. Sangeet Natak Akademi
-4. Sangeet Kalanidhi
-
-Q.25 According to the Census of India 2011, the percentage of adolescent population (10-19 years) from the total population is how much?
-1. 22.9%
-2. 21.9%
-3. 20.9%
-4. 19.9%
+#### Indian History and Politics
+1. **Which government honoured a distinguished percussionist named Pandit Anindo Chatterjee with the Banga Vibhushan Award in 2022?**  
+  - Options:  
+    1. Jharkhand  
+    2. West Bengal  
+    3. Tripura  
+    4. Assam  
+
+2. **After the death of Humayun, the 13 year-old Akbar was coronated in 1556 at Kalanaur in ________.**  
+  - Options:  
+    1. Gujarat  
+    2. Rajasthan  
+    3. Punjab  
+    4. Bengal  
+
+3. **Which Governor-General of British India helped Raja Ram Mohan Roy legally abolish the sati practice?**  
+  - Options:  
+    1. Lord Curzon  
+    2. Lord William Bentinck  
+    3. Lord Cornwallis  
+    4. Lord Ripon  
+
+4. **Mahabalipuram emerged as an important centre of temple architecture under which of the following kingdoms of south India?**  
+  - Options:  
+    1. Pallava  
+    2. Chera  
+    3. Chola  
+    4. Chalukya  
+
+5. **By which of the following state governments is the Tansen Music Festival organised?**  
+  - Options:  
+    1. Madhya Pradesh Government  
+    2. Maharashtra Government  
+    3. Uttar Pradesh Government  
+    4. Rajasthan Government  
+
+6. **Which of the following places is related to Gandhi's Satyagraha of the year 1917?**  
+  - Options:  
+    1. Champaran  
+    2. Ahmedabad  
+    3. Kheda  
+    4. Bardoli  
+
+7. **Which of the following festivals is celebrated as the birth anniversary of Guru Nanak Dev?**  
+  - Options:  
+    1. Hola Mohalla  
+    2. Baisakhi  
+    3. Gurpurab  
+    4. Chappar Mela  
+
+---
+
+#### Indian Geography
+1. **According to the Indian Railways (2019-2020), which state has the largest railway track in India?**  
+  - Options:  
+    1. Madhya Pradesh  
+    2. Uttar Pradesh  
+    3. Haryana  
+    4. Punjab  
+
+2. **Which of the following is in geographical proximity to Sri Lanka?**  
+  - Options:  
+    1. Only Karaikal  
+    2. Karaikal and Yanam  
+    3. Only Yanam  
+    4. Mahe  
+
+3. **The climate of a place is NOT affected by which of the following?**  
+  - Options:  
+    1. Location  
+    2. Type of soil  
+    3. Relief  
+    4. Distance from the sea  
+
+---
+
+#### Science and Technology
+1. **The decomposition of gaseous Ammonia on a hot platinum surface is a ________ order reaction at high pressure.**  
+  - Options:  
+    1. three  
+    2. two  
+    3. zero  
+    4. one  
+
+2. **In which musical note did Newland put the metals Co and Ni with halogens?**  
+  - Options:  
+    1. Re  
+    2. Mi  
+    3. Do  
+    4. Fa  
+
+3. **Which organisms are classified as Aves?**  
+  - Options:  
+    1. Frogs  
+    2. Snakes  
+    3. Birds  
+    4. Fishes  
+
+---
+
+#### Sports
+1. **Which of the following was the mascot of the FIH men's Hockey World Cup - 2023?**  
+  - Options:  
+    1. Asha  
+    2. Bheema  
+    3. Jitu  
+    4. Olly  
+
+2. **How many awards were presented at the National Sports and Adventure Awards-2022 ceremony held at Rashtrapati Bhavan on 30 November 2022?**  
+  - Options:  
+    1. 44  
+    2. 52  
+    3. 28  
+    4. 32  
+
+---
+
+#### Indian Economics
+1. **Which Five-Year Plan primarily focused on the 'Garibi Hatao' initiative?**  
+  - Options:  
+    1. Fourth Five-Year Plan  
+    2. Sixth Five-Year Plan  
+    3. Third Five-Year Plan  
+    4. Fifth Five-Year Plan  
+
+2. **The Parliament passed the Marine Aids to Navigation Bill, 2021 to repeal and replace which of the following Acts?**  
+  - Options:  
+    1. The Dourine Act, 1910  
+    2. The Lighthouse Act, 1927  
+    3. The Dangerous Machines (Regulation) Act, 1983  
+    4. The Personal Injuries (Emergency Provisions) Act, 1962  
+
+---
+
+#### Current Affairs
+1. **Who was appointed as India's 28th Controller General of Accounts (CGA) in March 2023?**  
+  - Options:  
+    1. Praveen Sharma  
+    2. SS Dubey  
+    3. Vikram Devdutt  
+    4. Arun Goel  
+
+2. **Which of the following statements is INCORRECT about the Directive Principles of State Policy?**  
+  - Options:  
+    1. They are positive, as they require the State to do certain things.  
+    2. These have moral and political sanctions.  
+    3. They aim at establishing social and economic democracy in the country.  
+    4. They promote welfare of individuals. Hence, they are personal and individualistic.  
 
 
 Section : General Awareness
 
-Q.1 Which team won the T20 cricket event, Syed Mushtaq Ali Trophy 2022-2023?  
-1. Vidarbha  
-2. Himanchal Pradesh  
-3. Mumbai  
-4. Punjab
+#### Indian Geography
+1. **Which of the following has the highest salinity?**  
+  - Options:  
+    1. Great salt lake  
+    2. Dead sea  
+    3. Red sea  
+    4. Lake Van  
 
-Q.2 According to the Census of India 2011, which group of Union Territories recorded the highest sex ratio?  
-1. Chandigarh, Puducherry, Lakshadweep  
-2. Puducherry, Lakshadweep, Andaman and Nicobar Islands  
-3. Puducherry, Delhi, Andaman and Nicobar Islands  
-4. Chandigarh, Puducherry, Delhi
+2. **Harela is a festival of greenery, peace, prosperity, and environmental conservation, primarily celebrated in which of the following states?**  
+  - Options:  
+    1. Madhya Pradesh  
+    2. Assam  
+    3. Uttarakhand  
+    4. Haryana  
 
-Q.3  
-1. A-i, B-iv, C-ii, D-iii  
-2. A-ii, B-iv, C-i, D-iii  
-3. A-iv, B-ii, C-i, D-iii  
-4. A-iii, B-iv, C-i, D-ii
+3. **Which physical feature of India prevents the cold winds from central Asia from entering the Indian subcontinents?**  
+  - Options:  
+    1. Himalayas  
+    2. Indian plains  
+    3. Coastal area  
+    4. Indian desert  
 
-Q.4 Which Indian singer wrote 'Raag Sarita'?  
-1. Balasaheb Poonchwale  
-2. Kumar Gandharva  
-3. Kesarbai Kerkar  
-4. Chintaman Raghunath Vyas
+4. **Which of the following is the transboundary river between India and Pakistan?**  
+  - Options:  
+    1. Beas  
+    2. Indus  
+    3. Ravi  
+    4. Jhelum  
 
-Q.5 Which of the following features of the Indian Constitution was borrowed from Irish Constitution?  
-1. Directive Principles of State Policy  
-2. Fundamental Rights  
-3. Rule of Law  
-4. Concurrent List
+5. **According to the Agricultural and Processed food products Export Development Authority (APEDA) 2020-2021, which state of India has the first rank in grapes production?**  
+  - Options:  
+    1. Bihar  
+    2. Uttar Pradesh  
+    3. Karnataka  
+    4. Maharashtra  
 
-Q.6 Which state government honoured Vani Jairam with the MS Subbulakshmi Award for 2019?  
-1. Odissa  
-2. Karnataka  
-3. Tamil Nadu  
-4. Maharashtra
+#### Indian History and Politics
+1. **Which of the following social reformers of 19th century India was the author of 'Stree Purush Tulana'?**  
+  - Options:  
+    1. Pandita Ramabai  
+    2. Tarabai Shinde  
+    3. Usha Mehta  
+    4. Swarnakumari Devi  
 
-Q.7 Vindhyashakti was the founder of which of the following dynasties?  
-1. Pallava  
-2. Maukhari  
-3. Chalukya  
-4. Vakataka
+2. **Which state initiated the implementation of the Mid-day Meal scheme in elementary schools?**  
+  - Options:  
+    1. Uttar Pradesh  
+    2. Tamil Nadu  
+    3. Madhya Pradesh  
+    4. Karnataka  
 
-Q.8 Which of the following is a man-made ecosystem?  
-1. Forest  
-2. Aquarium  
-3. Grassland  
-4. Desert
+3. **Who among the following freedom fighters of India is the author of the book, 'The Indian Struggle'?**  
+  - Options:  
+    1. Vallabhbhai Patel  
+    2. Motilal Nehru  
+    3. Mahatma Gandhi  
+    4. Subhas Chandra Bose  
 
-Q.9 Which of the following are the two basic categories of an ecosystem?  
-1. Forest and Rivers  
-2. Forest and Aquatic  
-3. Lakes and Ponds  
-4. Terrestrial and Aquatic
+4. **Gautamiputra Satakarni titled Rajaraja and Maharaja is related to which of the following dynasties?**  
+  - Options:  
+    1. Satavahana  
+    2. Shaka  
+    3. Shunga  
+    4. Pandya  
 
-Q.10 Which of the following statements is correct about the composition of the agriculture sector and employment in GDP post-independence?  
-1. The proportion of both the agriculture sector and employment in GDP has declined significantly.  
-2. The proportion of employment has declined significantly but not the share of the agriculture sector in GDP.  
-3. The proportion of both the agriculture sector and employment in GDP has increased significantly.  
-4. The proportion of GDP contributed by the agricultural sector declined significantly but not the employment depending on the agriculture sector.
+5. **In the 7th Century AD, a new religion called Islam was born in ________.**  
+  - Options:  
+    1. South Africa  
+    2. Indonesia  
+    3. Malaysia  
+    4. Arabia  
 
-Q.11 Who among the following famous Indian women cricketers announced retirement in June 2022?  
-1. Smriti Mandhana  
-2. Mithali Raj  
-3. Anjum Chopra  
-4. Jhulan Goswami
+#### Indian Constitution and Governance
+1. **Which Article of the Constitution of India grants power to the President to appoint Judges of the Supreme Court?**  
+  - Options:  
+    1. Article 124(2)  
+    2. Article 123(1)  
+    3. Article 128(4)  
+    4. Article 127(3)  
 
-Q.12 Which region in India receives less rainfall in summer, but heavy rainfall in winter season due to the retreating north easterly winds?  
-1. Southern coastal region  
-2. Eastern coastal region  
-3. Western coastal region  
-4. Northern coastal region
+2. **Which of the following Articles of the Indian Constitution mentions about the organisation of 'Village Panchayats'?**  
+  - Options:  
+    1. Article 38  
+    2. Article 31  
+    3. Article 40  
+    4. Article 36  
 
-Q.13 Sundari trees are found in which type of forests in India?  
-1. Tropical evergreen forests  
-2. Tropical deciduous forests  
-3. Mangrove forests  
-4. The thorn forests and scrubs
+3. **Which of the following Articles of the Indian Constitution contains Fundamental Duties?**  
+  - Options:  
+    1. 45A  
+    2. 32A  
+    3. 51A  
+    4. 62B  
 
-Q.14 The Supreme Court of India comprises the Chief Justice and not more than ______ other Judges appointed by the President of India.  
-1. 33  
-2. 38  
-3. 35  
-4. 37
+#### Science and Technology
+1. **'Au' is the symbol for which of the following elements?**  
+  - Options:  
+    1. Gold  
+    2. Aluminium  
+    3. Argon  
+    4. Silver  
 
-Q.15 Who won the paralympic bronze medal in archery for India at Tokyo in 2020?  
-1. Deepika Kumari  
-2. Harvinder Singh  
-3. Atanu Das  
-4. Pravin Jadhav
+2. **To which group do the alkaline earth metals such as radium, barium and strontium belong?**  
+  - Options:  
+    1. Group 3A  
+    2. Group 1A  
+    3. Group 2A  
+    4. Group 5A  
 
-Q.16 The central bank of India or Reserve Bank of India was created before Independence, in the year 1934. The recommendation to create a central bank was made by a commission called:  
-1. Dr. Raja Chelliah Committee  
-2. Kothari Commission  
-3. Hilton Young Commission  
-4. Narasimham Committee
+3. **Which species is known as black lipped pearl oyster found in the Indo-Pacific, within tropical coral reefs?**  
+  - Options:  
+    1. Aplysia dactylomela  
+    2. Chaetopleura apiculata  
+    3. Dentalium neohexagonum  
+    4. Pinctada margaritifera  
 
-Q.17 Ranjana Gauhar was awarded the Padma Shri Award (2003) for her contribution to which of the following Indian dance forms?  
-1. Sattriya  
-2. Manipuri  
-3. Kuchipudi  
-4. Odissi
+#### Sports
+1. **In which of the following games is one player known as the Wicketkeeper?**  
+  - Options:  
+    1. Cricket  
+    2. Basketball  
+    3. Hockey  
+    4. Football  
 
-Q.18 Which of the following two quantities have the same dimensions?  
-1. Power and radius of circular motion  
-2. Work and torque  
-3. Power and moment of inertia  
-4. Work and angular displacement
+2. **How many medals did India win in International Shooting Sport Federation (ISSF) World Cup 2022, which was held in Cairo, Egypt?**  
+  - Options:  
+    1. 9  
+    2. 7  
+    3. 6  
+    4. 8  
 
-Q.19 Which polyatomic ionic compound is a white, crystalline powder used in fire extinguishers and to neutralise acids and bases?  
-1. Sodium Bicarbonate  
-2. Sodium Thiosulphate  
-3. Sodium Bisulphite  
-4. Sodium Chromate
+#### Arts and Culture
+1. **Mohiniyattam is associated with which of the following traditional dance styles?**  
+  - Options:  
+    1. Lasya style  
+    2. Samapadam  
+    3. Tribhanga  
+    4. Chowk  
 
-Q.20 Which port is developed as a satellite port?  
-1. Mormugao  
-2. New Mangalore  
-3. Jawaharlal Nehru  
-4. Haldia
+2. **Ustad Vilayat Ali Khan is a maestro in ________.**  
+  - Options:  
+    1. Tabla  
+    2. Flute  
+    3. Sitar  
+    4. Mridangam  
 
-Q.21 The Doctrine of Lapse was an annexation policy devised by which of the following Governor-Generals of India?  
-1. Lord Mayo  
-2. Lord Dalhousie  
-3. Lord Wellesley  
-4. Lord Canning
+3. **Sitar maestro, Pandit Ravi Shankar was awarded which of the following awards by the Government of India in 1999?**  
+  - Options:  
+    1. Padma Shri  
+    2. Bharat Ratna  
+    3. Padma Vibhushan  
+    4. Padma Bhushan  
 
-Q.22 Chhath Puja is the main festival of which state?  
-1. Assam  
-2. Bihar  
-3. Tamil Nadu  
-4. Karnataka
+Section : General Awareness
 
-Q.23 For which of the following states was the Constitution (Scheduled Castes and Scheduled Tribes) Orders (Second Amendment) Bill, 2022, introduced in the Parliament?  
-1. Bihar  
-2. Uttar Pradesh  
-3. Odisha  
-4. Madhya Pradesh
+#### Indian History and Politics
+1. **Which country has the Republic feature of the Indian Constitution been borrowed from?**  
+    - Options:  
+      1. Irish Constitution  
+      2. British Constitution  
+      3. French Constitution  
+      4. Australian Constitution  
 
-Q.24 Who among the following is the hero of the Sanskrit historical poem, the 'Ramacharita' written by Sandhyakar Nandi?  
-1. Ramapala  
-2. Dharmapala  
-3. Devapala  
-4. Gopala
+2. **Rudrasena II of which of the following dynasties married Prabhavatigupta, the daughter of Chandragupta II of the Gupta dynasty?**  
+    - Options:  
+      1. Vakataka  
+      2. Chalukya  
+      3. Pallava  
+      4. Pushyabhuti  
 
-Q.25 In which of the following areas did the Uprising of Khurda in 1817 take place?  
-1. Bengal  
-2. Madras  
-3. United Province  
-4. Odisha
+3. **Which of the following books is INCORRECTLY paired with its respective author?**  
+    - Options:  
+      1. Hind Swaraj - Mahatma Gandhi  
+      2. Why I am an Atheist - Bhagat Singh  
+      3. Gitanjali - Rabindranath Tagore  
+      4. The Discovery of India - Subhash Chandra Bose  
 
-Q.1 Presently, which of the following countries is NOT a beneficiary of India's Duty-Free Tariff Preference (DFTP) Scheme?
-Ans 1. Rwanda
-  2. Burundi
-  3. Myanmar
-  4. Angola
+4. **Who among the following was a poet who won Nobel Prize for literature in 1913?**  
+    - Options:  
+      1. Rudyard Kipling  
+      2. Bankim Chandra Chattopadhyay  
+      3. Aurobindo Ghose  
+      4. Rabindranath Tagore  
 
-Q.2 A small object is placed on the focus on the left side of a convex lens. Where will be the image formed?
-Ans 1. At infinity on the right side of the lens.
-  2. At infinity on the left side of the lens.
-  3. At the focus on the right side of the lens.
-  4. At the centre on the right side of the lens.
+5. **Which of the following departments of Delhi Sultanate was reorganized by Balban?**  
+    - Options:  
+      1. Diwan-i-Mustakhraj  
+      2. Diwan-i-Arz  
+      3. Diwan-i-Ishtiaq  
+      4. Diwan-i-Risalat  
 
-Q.3 After the fall of the Guptas, different kingdoms emerged in various parts of India. Among them, the Maukharis emerged in which of the following areas?
-Ans 1. Thanesar
-  2. Valabhi
-  3. Kunnur
-  4. Kannauj
+6. **When was the Indian Hockey Federation established?**  
+    - Options:  
+      1. 1925  
+      2. 1945  
+      3. 1935  
+      4. 1955  
 
-Q.4 Which of the following is a public sector industry?
-Ans 1. Adani
-  2. BHEL
-  3. Reliance
-  4. Tata
+7. **Which of the following options is the legislative organ of the Union government?**  
+    - Options:  
+      1. Parliament  
+      2. Executive  
+      3. Legislative assembly  
+      4. Judiciary  
 
-Q.5 Indian National Army was formed in which of the following countries?
-Ans 1. Japan
-  2. London
-  3. Germany
-  4. Singapore
+#### Geography and Environment
+1. **As of 2021, which is the world's largest drainage basin with an area of about 70,00,000 km²?**  
+    - Options:  
+      1. Amazon basin  
+      2. Congo basin  
+      3. Amur basin  
+      4. Nile basin  
 
-Q.6 Which of the following nations won the ICC World Test Championship, defeating India, in 2023?
-Ans 1. Australia
-  2. England
-  3. South Africa
-  4. New Zealand
+2. **Which of the following is the main cause of land degradation in Jharkhand and Chhattisgarh?**  
+    - Options:  
+      1. Deforestation due to mining  
+      2. Overgrazing  
+      3. Intensive use of manure  
+      4. Over-irrigation  
 
-Q.7 One of the greatest of Chola ruler Rajaraja I ruled from 985 AD to ___.
-Ans 1. 1015 AD
-  2. 1017 AD
-  3. 1018 AD
-  4. 1014 AD
+3. **In which of the following states is the development of rail transport less, due to its geographical conditions?**  
+    - Options:  
+      1. Bihar  
+      2. Uttar Pradesh  
+      3. Sikkim  
+      4. Haryana  
 
-Q.8 Indian Olympic Association was established in which of the following years?
-Ans 1. 1929
-  2. 1933
-  3. 1927
-  4. 1931
+#### Science and Technology
+1. **The cause of a redox reaction is the:**  
+    - Options:  
+      1. transfer of neutrons between two reactants  
+      2. transfer of electrons between two products  
+      3. transfer of electrons between two reactants  
+      4. exchange of halogens between two reactants  
 
-Q.9 Which of the following is NOT a device of parliamentary proceedings?
-Ans 1. Half-an-hour discussion
-  2. Full-day discussion
-  3. Two-hour (short) discussion
-  4. Zero-hour discussion
+2. **Which cell organelle is defined as the small round organelle that undergoes oxidation reaction to produce hydrogen peroxide?**  
+    - Options:  
+      1. Vacuole  
+      2. Nucleus  
+      3. Centrosome  
+      4. Peroxisomes  
 
-Q.10 Which of the following rivers marks the eastern-most boundary of the Himalayas?
-Ans 1. Kali
-  2. Teesta
-  3. Satluj
-  4. Brahmaputra
+3. **Which of the following elements is a metalloid?**  
+    - Options:  
+      1. Sodium  
+      2. Iron  
+      3. Silicon  
+      4. Oxygen  
 
-Q.11 Padma Bhushan awardee, Ustad Sabri Khan played which of the following musical instruments?
-Ans 1. Tabla
-  2. Sarod
-  3. Sarangi
-  4. Santoor
+4. **Which of the following characteristics is NOT of Aves?**  
+    - Options:  
+      1. They give birth to live young ones with some exceptions those lay eggs.  
+      2. They have four-chambered heart.  
+      3. They breathe through the lungs  
+      4. These are warm-blooded animals.  
 
-Q.12 Exfoliation is a form of ___.
-Ans 1. chemical weathering
-  2. biochemical weathering
-  3. physical weathering
-  4. mass wasting
+#### Awards, Festivals and Culture
+1. **MG Music Awards is presented annually by which of the following states?**  
+    - Options:  
+      1. Manipur  
+      2. Mizoram  
+      3. Nagaland  
+      4. Chhattisgarh  
 
-Q.13 Which of the following Articles deals with the composition of the Rajya Sabha?
-Ans 1. Article 92
-  2. Article 76
-  3. Article 84
-  4. Article 80
+2. **'Sangken' is a festival celebrated in Arunachal Pradesh by people of which of the following religions?**  
+    - Options:  
+      1. Jainism  
+      2. Islam  
+      3. Hinduism  
+      4. Buddhism  
 
-Q.14 Which of the following is India's national academy of dance?
-Ans 1. Lalit Kala Akademi
-  2. Centre for Indian Classical Dances
-  3. Centre for Cultural Resources and Training
-  4. Sangeet Natak Akademi
+3. **Madhuri Barthwal, a folk singer and Padma Shri 2022 awardee, belongs to which of the following states of India?**  
+    - Options:  
+      1. Maharashtra  
+      2. Himachal Pradesh  
+      3. Uttarakhand  
+      4. Uttar Pradesh  
 
-Q.15 What is the empirically fitted relationship between the rate of change of money, wage, and rate of unemployment known as?
-Ans 1. Keynesian model
-  2. Philips curve
-  3. Friedman's model
-  4. Baumol hypothesis
+#### Government Schemes and Social Welfare
+1. **Which of the following States has declared a social security scheme for registered newspaper hawkers in the State in 2021 considering the losses they faced during the pandemic and that they are a part of the unorganised sector?**  
+    - Options:  
+      1. Maharashtra  
+      2. Gujarat  
+      3. Tamil Nadu  
+      4. Odisha  
 
-Q.16 Match the following neighbouring countries with their official languages correctly.
-Ans 1. 1-c, 2-a, 3-b, 4-d
-  2. 1-a, 2-c, 3-d, 4-b
-  3. 1-c, 2-d, 3-a, 4-b
-  4. 1-c, 2-a, 3-d, 4-b
+2. **What is the aim of the PM Ujjwala 2.0 Yojna launched in August 2021?**  
+    - Options:  
+      1. Free gas stove for BPL Households  
+      2. 20 million LPG connections will be provided to the beneficiaries  
+      3. Free LPG connections for commercial use  
+      4. 10 million LPG connections will be provided to the beneficiaries  
 
-Q.17 Who asked James Rennel to prepare the map of Hindustan?
-Ans 1. Lord Dalhousie
-  2. Robert Clive
-  3. Lord Ripen
-  4. Warren Hastings
+3. **Which group of people will be benefited by the Mukhya Mantri Sukh Ashray Yojana approved by Himachal Pradesh?**  
+    - Options:  
+      1. Orphans, specially abled children, destitute women and senior citizens  
+      2. Students and teachers  
+      3. Farmers and agricultural labourers  
+      4. Unemployed youth  
 
-Q.18 The birth anniversary of Mahatma Gandhi is celebrated as the national festival of India. In which of the following years was Gandhi ji born?
-Ans 1. 1869
-  2. 1890
-  3. 1885
-  4. 1877
+4. **The Accelerated Female Literacy Programme was initiated in districts where the female literacy rate, based on the 2001 census, was:**  
+    - Options:  
+      1. below 35%  
+      2. below 50%  
+      3. below 45%  
+      4. below 30%  
 
-Q.19 Who among the following is appointed as the new Chairman of Pension Fund Regulatory and Development Authority (PFRDA) in March 2023?
-Ans 1. Mamta Shankar
-  2. Supratim Bandopadhyay
-  3. Shasikanta Das
-  4. Deepak Mohanty
+#### Education and Institutions
+1. **National Sports University is situated in:**  
+    - Options:  
+      1. Mizoram  
+      2. Tripura  
+      3. Manipur  
+      4. Meghalaya  
 
-Q.20 Transition elements are the elements that are found in Groups 3-12 of the modern periodic table, that constitute the ___.
-Ans 1. f-block
-  2. d-block
-  3. p-block
-  4. s-block
+2. **In which year was the National Institute of Kathak Dance established?**  
+    - Options:  
+      1. 1961  
+      2. 1969  
+      3. 1954  
+      4. 1964  
 
-Q.21 Which Article in the fundamental duty applies, when a construction worker takes his 8-year-old son to the site rather than sending him to school?
-Ans 1. Article 51A (h)
-  2. Article 51A (i)
-  3. Article 51A (j)
-  4. Article 51A (k)
+#### Economy and Finance
+1. **If assets of a bank are greater than liabilities, it will be recorded as:**  
+    - Options:  
+      1. net worth  
+      2. liabilities  
+      3. assets  
+      4. reserves  
 
-Q.22 The Nandi Award for Best Male Playback Singer was instituted by which state in the year 1977?
-Ans 1. Andhra Pradesh
-  2. Maharashtra
-  3. Tripura
-  4. Gujarat
+2. **As for the year 2020-21, which of the following states had the lowest unemployment rate among persons aged 15 years and above?**  
+    - Options:  
+      1. Gujarat  
+      2. Sikkim  
+      3. Madhya Pradesh  
+      4. Chhattisgarh  
 
-Q.23 Which Bill was passed by the Parliament, in July 2021, to help in the availability of working capital for the micro, small and medium enterprises sector?
-Ans 1. The Factoring Regulation (Amendment) Bill, 2021
-  2. The Minerals Laws (Amendment) Bill, 2020
-  3. The Insolvency and Bankruptcy Code (Amendment) Bill, 2021
-  4. The Essential Commodities (Amendment) Bill, 2020
+Section : General Awareness
 
-Q.24 Identify the structural formula for magnesium hydroxide.
-Ans 1. Mg(OH)2
-  2. MgO2
-  3. Mg2H2
-  4. MgOH
+#### Indian History and Politics
+1. **Which party formed the government in Britain in the year 1945?**  
+    - Options:  
+      1. Labour Party  
+      2. Socialist Party  
+      3. Democratic Party  
+      4. Liberal Party  
 
-Q.25 What kind of phyllotaxy was examined in the Guava plant?
-Ans 1. Superimposed
-  2. Whorled
-  3. Alternate
-  4. Opposite
+2. **Which of the following organisations, divided into two branches, was established by Lokmanya Bal Gangadhar Tilak and Annie Besant?**  
+    - Options:  
+      1. Theosophical society  
+      2. Home Rule League  
+      3. East Indian Association  
+      4. Indian Association  
 
+3. **Who among the following was one of the Navratnas of Akbar?**  
+    - Options:  
+      1. Amir Khusro  
+      2. Purandar Das  
+      3. Swami Haridas  
+      4. Tansen  
+
+4. **On which of the following dates does India celebrate its Constitution Day?**  
+    - Options:  
+      1. 15th August  
+      2. 2nd October  
+      3. 26th November  
+      4. 26th January  
+
+5. **Valabhi, a city of ancient India, was the capital of the ______ dynasty from the 5th to 8th Century CE.**  
+    - Options:  
+      1. Chalukya  
+      2. Maitraka  
+      3. Vakataka  
+      4. Pallava  
+
+#### Geography and Environment
+1. **Ebony and Mahogany trees are found in which type of forests?**  
+    - Options:  
+      1. Montane forests  
+      2. Mangrove forests  
+      3. Tropical evergreen forests  
+      4. Tropical deciduous forests  
+
+2. **Which of the following pairs do NOT share any borders?**  
+    - Options:  
+      1. Bhutan and West Bengal  
+      2. Bhutan and Meghalaya  
+      3. Bhutan and Arunachal Pradesh  
+      4. Bhutan and Assam  
+
+3. **Which type of radiation is absorbed by the ozone layer?**  
+    - Options:  
+      1. Infrared radiation  
+      2. Visible radiation  
+      3. Green radiation  
+      4. Ultraviolet radiation  
+
+4. **Which type of radiation has very short (<10⁻³ nm) wavelengths, produced by nuclear explosions, lightning, and radioactive decay?**  
+    - Options:  
+      1. Microwave  
+      2. Infra-red  
+      3. Ultraviolet  
+      4. Gamma  
+
+#### Science and Technology
+1. **Palladium on barium sulphate (Pd/BaSO4) is also known as:**  
+    - Options:  
+      1. an aldol reaction catalyst  
+      2. a Cannizzaro reaction catalyst  
+      3. the Rosenmund catalyst  
+      4. a Hillman reaction catalyst  
+
+2. **Which of the following categories does Gonyaulax belong to?**  
+    - Options:  
+      1. Chrysophytes  
+      2. Dinoflagellates  
+      3. Euglenoids  
+      4. Protozoans  
+
+#### Economy and Finance
+1. **Consider the following statements associated with the India Infrastructure Project Development Fund (IIPDF). Which of the above statements is/are INCORRECT?**  
+    - Options:  
+      1. Only 1 and 2  
+      2. Only 1  
+      3. Only 2 and 3  
+      4. Only 3  
+
+2. **Which of the following types of direct tax collection increased as of 10 February 2023 budget?**  
+    - Options:  
+      1. Octroi duties  
+      2. Personal income tax  
+      3. Commercial tax  
+      4. Corporate tax  
+
+#### Government Schemes and Social Welfare
+1. **Consider the following statements regarding the UDAN scheme. Which statement(s) is/are correct?**  
+    - Options:  
+      1. Only statement 2  
+      2. Only statements 1 and 3  
+      3. Only statements 2 and 3  
+      4. Only statement 3  
+
+2. **In which year was the PM Ayushman Bharat Health Infrastructure Mission launched?**  
+    - Options:  
+      1. 2022  
+      2. 2020  
+      3. 2023  
+      4. 2021  
+
+3. **When was the Duty-Free Tariff Preference (DFTP) Scheme for Least Developed Countries (LDCs) announced by India?**  
+    - Options:  
+      1. 2006  
+      2. 2009  
+      3. 2010  
+      4. 2008  
+
+#### Literature and Books
+1. **Match the following books with their respective authors.**  
+    - Options:  
+      1. a-i; b-iii; c-ii; d-iv  
+      2. a-iii; b-i; c-iv; d-ii  
+      3. a-ii; b-iv; c-iii; d-i  
+      4. a-iv; b-iii; c-i; d-ii  
+
+2. **Who has written the book 'Fearless Governance', published in January 2021, describing her stint as Governor?**  
+    - Options:  
+      1. Draupadi Murmu  
+      2. Kiran Bedi  
+      3. Anandi ben Patel  
+      4. Baby Rani Maurya  
+
+#### Sports
+1. **Which Indian marathon event is considered the largest marathon in Asia?**  
+    - Options:  
+      1. Kaveri Trail Marathon  
+      2. Mumbai Marathon  
+      3. Delhi Half Marathon  
+      4. Pinkathon  
+
+2. **In which of the following years did India NOT host the ICC Cricket World Cup Tournament?**  
+    - Options:  
+      1. 1996  
+      2. 1983  
+      3. 1987  
+      4. 2011  
+
+#### Awards, Festivals and Culture
+1. **Bharatanatyam dance style is associated with which of the following states?**  
+    - Options:  
+      1. Karnataka  
+      2. Tamil Nadu  
+      3. Bihar  
+      4. Manipur  
+
+2. **Which Ghazal singer was conferred with the prestigious Deenanath Mangeshkar Award in April 2023?**  
+    - Options:  
+      1. Ghazal Srinivas  
+      2. Pankaj Udhas  
+      3. Bhupinder Singh  
+      4. Talat Aziz  
+
+3. **Shab-e-Barat is celebrated by which religious group?**  
+    - Options:  
+      1. Buddhist  
+      2. Muslim  
+      3. Jain  
+      4. Parsi  
+
+#### Institutions and Governance
+1. **The organisation that Comptroller and Auditor General heads is known as:**  
+    - Options:  
+      1. Indian Civil Accounts Organisation  
+      2. Indian Audit and Accounts Department  
+      3. Controller General of Accounts  
+      4. Institute of Chartered Accountants of India  
+
+#### Population and Resources
+1. **Which of the following options is mostly caused by overpopulation?**  
+    - Options:  
+      1. Reduction in the scarcity of water  
+      2. Land and other renewable resources are under pressure  
+      3. Increase in the area covered by forests  
+      4. Adequate natural resource storage  
+
+
+Section : General Awareness
+
+#### Awards and Honors
+1. **Tabla player Ustad Zakir Hussain was awarded which award by the Government of India in 2023?**  
+    - Options:  
+      1. Padma Bhushan  
+      2. Bharat Ratna  
+      3. Padma Vibhushan  
+      4. Padma Shri  
+
+2. **Which famous Indian athlete won the Zurich Diamond League final 2022?**  
+    - Options:  
+      1. Bajrang Punia  
+      2. PT Usha  
+      3. Neeraj Chopra  
+      4. Mirabai Chanu  
+
+#### Indian History and Polity
+1. **Which battle is considered the formal beginning of the British Raj in India?**  
+    - Options:  
+      1. Battle of Buxar  
+      2. First Carnatic War  
+      3. Battle of Plassey  
+      4. Battle of Wandiwash  
+
+2. **Who praised the Indian Constitution's amending feature, saying "This variety in the amending process is wise but rarely found"?**  
+    - Options:  
+      1. Ivor Jennings  
+      2. HM Seervai  
+      3. Granville Austin  
+      4. K C Wheare  
+
+3. **In which city did Mahatma Gandhi lead a peasant movement against indigo cultivation?**  
+    - Options:  
+      1. Gorakhpur  
+      2. Bardoli  
+      3. Kheda  
+      4. Champaran  
+
+4. **Anna Chandy, the first woman High Court judge, was appointed to which High Court?**  
+    - Options:  
+      1. Tamil Nadu  
+      2. Kerala  
+      3. West Bengal  
+      4. Andhra Pradesh  
+
+5. **Which Article of the Indian Constitution states that the President is eligible for re-election?**  
+    - Options:  
+      1. Article 59  
+      2. Article 56  
+      3. Article 57  
+      4. Article 58  
+
+6. **Who was the last Sultan of the Delhi Sultanate?**  
+    - Options:  
+      1. Sikandar Lodi  
+      2. Firoz Shah Tughlaq  
+      3. Ibrahim Lodi  
+      4. Muhammad Bin Tughlaq  
+
+7. **According to the Ashrama system of Vedic life, what was the third stage of life?**  
+    - Options:  
+      1. Vanaprastha  
+      2. Sanyasa  
+      3. Grihastha  
+      4. Brahmacharya  
+
+#### Science and Environment
+1. **How many chambers are there in the heart of fishes?**  
+    - Options:  
+      1. 4  
+      2. 2  
+      3. 3  
+      4. 1  
+
+2. **Taxus wallichiana Zucc (Himalayan yew) is found in which Indian state?**  
+    - Options:  
+      1. Jharkhand  
+      2. Himachal Pradesh  
+      3. Bihar  
+      4. Goa  
+
+3. **When haloalkanes and aryl/vinyl halides react with magnesium metal, they form which reagent?**  
+    - Options:  
+      1. Tollens' reagent  
+      2. Fehling reagent  
+      3. Grignard reagent  
+      4. Hinsberg reagent  
+
+4. **What is the unit of measurement for the optical power of a lens?**  
+    - Options:  
+      1. Katal  
+      2. Yotta  
+      3. Radian  
+      4. Diopter  
+
+5. **Which of the following pairs is INCORRECTLY matched?**  
+    - Options:  
+      1. Lysosomes: Suicidal bags  
+      2. Ribosomes: Protein factory  
+      3. Mitochondria: Powerhouse of the cell  
+      4. Nucleus: Lipid metabolism  
+
+#### Sports
+1. **Which Table Tennis World Championship event was held in India?**  
+    - Options:  
+      1. 17th World Championships, 1950  
+      2. 19th World Championships, 1952  
+      3. 20th World Championships, 1953  
+      4. 18th World Championships, 1951  
+
+2. **Which of the following cups/trophies is NOT related to Indian domestic cricket?**  
+    - Options:  
+      1. Duleep Trophy  
+      2. Deodhar Trophy  
+      3. Ranji Trophy  
+      4. Durand Cup  
+
+#### Culture and Religion
+1. **Chittani Ramachandra Hegde was associated with which dance form?**  
+    - Options:  
+      1. Chhau dance  
+      2. Chappeli dance  
+      3. Yakshagana dance  
+      4. Huttari dance  
+
+2. **The idols of which three Gods are installed in Jagannath Temple, Puri?**  
+    - Options:  
+      1. Brahma, Vishnu and Mahesh  
+      2. Ram, Lakshman and Janaki  
+      3. Radha, Krishna and Balram  
+      4. Jagannath, Balabhadra and Subhadra  
+
+3. **Gangu Bai Hangal and Prabha Atre were exponents of which Gharana?**  
+    - Options:  
+      1. Mewati  
+      2. Jaipur  
+      3. Kirana  
+      4. Rampur  
+
+#### Geography and Environment
+1. **When do Neap Tides occur?**  
+    - Options:  
+      1. Sun and Moon are at right angles  
+      2. Sun and Moon are on opposite sides  
+      3. Interference by continents  
+      4. Earth, Moon, Sun in a straight line  
+
+#### Government Schemes and Economy
+1. **As of July 2021, the NIPUN Bharat Scheme was launched by which Ministry?**  
+    - Options:  
+      1. Ministry of Agriculture and Farmers Welfare  
+      2. Ministry of Education  
+      3. Ministry of Health and Family Welfare  
+      4. Ministry of Corporate Affairs  
+
+2. **According to a 2023 NITI Aayog report, which state has the lowest percentage of multidimensionally poor population?**  
+    - Options:  
+      1. Uttarakhand  
+      2. Sikkim  
+      3. Kerala  
+      4. Goa  
+
+3. **The Government of India allowed automatic approval of ______% FDI by RBI in nine industries.**  
+    - Options:  
+      1. Up to 74%  
+      2. Up to 41%  
+      3. Up to 51%  
+      4. Up to 60%  
+
+4. **Which Indian state has the least number of operational airports as of 2022?**  
+    - Options:  
+      1. Karnataka  
+      2. Mizoram  
+      3. Maharashtra  
+      4. Bihar  
+
+#### General Knowledge
+1. **Match the concepts in column A with their respective descriptions in column B.**  
+    - Options:  
+      1. a-5, b-1, c-2, d-3  
+      2. a-2, b-3, c-4, d-1  
+      3. a-5, b-3, c-2, d-1  
+      4. a-2, b-1, c-4, d-3  
+
+
+Section : General Awareness
+
+#### Awards and Honors
+1. **Lata Mangeshkar was honoured with the Bharat Ratna in which year?**  
+    - Options:  
+      1. 2004  
+      2. 2003  
+      3. 2001  
+      4. 2002  
+
+2. **Hariprasad Chaurasia was awarded which award in 2000?**  
+    - Options:  
+      1. Padma Vibhushan  
+      2. Padma Bhushan  
+      3. Padma Shri  
+      4. Bharat Ratna  
+
+#### Indian History and Polity
+1. **Which event took place in the United Provinces in February 1922?**  
+    - Options:  
+      1. Chauri Chaura  
+      2. Quit India  
+      3. Kakori Incident  
+      4. Khilafat Movement  
+
+2. **Which Article deals with the conduct of business of the Government of a State?**  
+    - Options:  
+      1. Article 164  
+      2. Article 167  
+      3. Article 166  
+      4. Article 177  
+
+3. **Which Constitution inspired the law-making process in India?**  
+    - Options:  
+      1. British Constitution  
+      2. US Constitution  
+      3. Irish Constitution  
+      4. Canadian Constitution  
+
+4. **Which foreign traveller mentioned that abuses in letters led to the shifting of the capital?**  
+    - Options:  
+      1. Hasan Nizami  
+      2. Isami  
+      3. Ibn Batuta  
+      4. Al Biruni  
+
+5. **Who developed the theory of combustion with oxygen in the 18th century?**  
+    - Options:  
+      1. Friedrich Wöhler  
+      2. Antoine Lavoisier  
+      3. Robert Boyle  
+      4. Johann Becher  
+
+6. **With reference to Morley-Minto Reforms of 1909, which statements are correct?**  
+    - Options:  
+      1. a, b  
+      2. c, a  
+      3. b, c  
+      4. a, b, c  
+
+7. **The Mahalanobis model was the basis for which Five-Year Plan?**  
+    - Options:  
+      1. Fourth  
+      2. Second  
+      3. First  
+      4. Sixth  
+
+8. **Vasudeva I, who issued gold and copper coins, belonged to which dynasty?**  
+    - Options:  
+      1. Shunga  
+      2. Shaka  
+      3. Vakataka  
+      4. Kushana  
+
+#### Science and Environment
+1. **What explains the similar size of vascular bundles in monocot leaves?**  
+    - Options:  
+      1. Radial venation  
+      2. Parallel venation  
+      3. Cubical venation  
+      4. Rectangular venation  
+
+2. **What is Allen's Rule?**  
+    - Options:  
+      1. Body compensates low oxygen by RBC increase  
+      2. Leaves reduced to spines  
+      3. Desert lizards lack temperature regulation  
+      4. Mammals from colder climates have shorter ears/limbs  
+
+3. **Thickness of gold foil used by Rutherford for alpha scattering experiment?**  
+    - Options:  
+      1. 1000 atoms  
+      2. 700 atoms  
+      3. 900 atoms  
+      4. 500 atoms  
+
+4. **How long will a sound wave take to travel 1.5 km?** (frequency 5 kHz, wavelength 6 cm)  
+    - Options:  
+      1. 25 seconds  
+      2. 5 seconds  
+      3. 50 seconds  
+      4. 2.5 seconds  
+
+#### Government Schemes and Economy
+1. **The Neeru-Meeru programme for water harvesting was launched in which state?**  
+    - Options:  
+      1. Uttar Pradesh  
+      2. Andhra Pradesh  
+      3. Punjab  
+      4. Rajasthan  
+
+2. **In May 2022, who was appointed as the Lieutenant Governor of Delhi?**  
+    - Options:  
+      1. Vijai Kapoor  
+      2. Vinai Kumar Saxena  
+      3. Anil Baijal  
+      4. Kiran Bedi  
+
+3. **Which railway station was chosen for 'One Station One Product' with Kanchipuram sarees?**  
+    - Options:  
+      1. Patna Junction  
+      2. Visakhapatnam  
+      3. Chennai Central  
+      4. Howrah  
+
+4. **Which definition best describes microfinance?**  
+    - Options:  
+      1. Digital-only mobile-first bank  
+      2. Banking for unemployed/low-income groups  
+      3. Rural banking services  
+      4. Company for loans & shares  
+
+5. **Which scheme enables student mobility across Higher Education Institutions?**  
+    - Options:  
+      1. Academic Bank of Credits  
+      2. National Educational Technology Forum  
+      3. SAFAL  
+      4. PM Umeed Scheme  
+
+#### Geography and Environment
+1. **In which district of Rajasthan are Barchans (sand dunes) found?**  
+    - Options:  
+      1. Jaisalmer  
+      2. Alwar  
+      3. Udaipur  
+      4. Bhilwara  
+
+2. **Which type of unemployment occurs seasonally at tourist resorts in mountain regions?**  
+    - Options:  
+      1. Underemployment  
+      2. Seasonal unemployment  
+      3. Disguised unemployment  
+      4. Cyclical unemployment  
+
+#### Sports and Culture
+1. **How many players are there in a Kabaddi team on the field?**  
+    - Options:  
+      1. 9  
+      2. 10  
+      3. 8  
+      4. 7  
+
+2. **Which term is NOT related to cricket?**  
+    - Options:  
+      1. No Ball  
+      2. Wide Ball  
+      3. Deuce  
+      4. Wicket  
+
+3. **When was the Jawaharlal Nehru Manipur Dance Academy established?**  
+    - Options:  
+      1. 1954  
+      2. 1951  
+      3. 1952  
+      4. 1953  
+
+4. **'Poush Mela' is a festival celebrated in which state?**  
+    - Options:  
+      1. Uttar Pradesh  
+      2. Madhya Pradesh  
+      3. Himachal Pradesh  
+      4. West Bengal  
+
+
+Section : General Awareness
+
+#### Biology and Environment
+1. **Organisms without a defined nucleus or organelles belong to which Kingdom?**  
+    - Options:  
+      1. Fungi  
+      2. Monera  
+      3. Protista  
+      4. Plantae  
+
+2. **Microbes like Rhizobium, Nitrosomonas, and Nitrobacter are used for:**  
+    - Options:  
+      1. Carbon cycling  
+      2. Nitrogen cycling  
+      3. Water cycling  
+      4. Sulphur cycling  
+
+3. **A student demonstrating home composting is performing which Fundamental Duty?**  
+    - Options:  
+      1. Strive towards excellence  
+      2. Protect and improve the natural environment  
+      3. Develop scientific temper  
+      4. Safeguard public property  
+
+#### Indian Dance, Festivals, and Culture
+1. **Kathakali is predominantly performed in which state?**  
+    - Options:  
+      1. Uttar Pradesh  
+      2. Assam  
+      3. Kerala  
+      4. Manipur  
+
+2. **In which state/UT is the Hemis Festival celebrated?**  
+    - Options:  
+      1. Sikkim  
+      2. Punjab  
+      3. Lakshadweep  
+      4. Ladakh  
+
+3. **Who is the world-renowned exponent of the bamboo flute?**  
+    - Options:  
+      1. MS Subbulakshmi  
+      2. Hariprasad Chaurasia  
+      3. Ravi Shankar  
+      4. Bismillah Khan  
+
+4. **Which of these plays was NOT written by Harshavardhana?**  
+    - Options:  
+      1. Vikramorvasiyam  
+      2. Nagananda  
+      3. Ratnavali  
+      4. Priyadarshika  
+
+5. **In August 2022, which scheme was launched to rehabilitate people engaged in begging?**  
+    - Options:  
+      1. SMILE-75  
+      2. BEAM-75  
+      3. TWINKLE-75  
+      4. RISE-75  
+
+#### Awards and Honors
+1. **In 2002, Zakir Hussain received which award?**  
+    - Options:  
+      1. Padma Bhushan  
+      2. National Heritage Fellowship  
+      3. Grammy Award  
+      4. Sangeet Natak Akademi Award  
+
+2. **Who was selected as the Sherpa for India’s G20 presidency in 2022-23?**  
+    - Options:  
+      1. Amitabh Kant  
+      2. Piyush Goyal  
+      3. Ashwini Vaishnav  
+      4. Shaktikanta Das  
+
+#### Physics and Chemistry
+1. **The motion of a javelin thrown by an athlete is:**  
+    - Options:  
+      1. Rectilinear  
+      2. Periodic  
+      3. Curvilinear  
+      4. Oscillatory  
+
+2. **Calculate the oxidation number of S in H₂S₂O₇:**  
+    - Options:  
+      1. 3  
+      2. 7  
+      3. 2  
+      4. 6  
+
+#### History and Polity
+1. **The Kailasa Temple at Ellora was built during the reign of which Rashtrakuta king?**  
+    - Options:  
+      1. Indra III  
+      2. Govinda III  
+      3. Krishna I  
+      4. Amoghavarsha  
+
+2. **Which Article provides that there shall be a Vice President of India?**  
+    - Options:  
+      1. Article 61  
+      2. Article 63  
+      3. Article 65  
+      4. Article 62  
+
+3. **Purvanchal Himalayas does NOT comprise of which range?**  
+    - Options:  
+      1. Pir Panjal range  
+      2. Mizo hills  
+      3. Manipur hills  
+      4. Naga hills  
+
+4. **During the Sepoy Mutiny of 1857, soldiers at Meerut began their journey to Delhi on:**  
+    - Options:  
+      1. 29 March  
+      2. 10 May  
+      3. 2 June  
+      4. 19 April  
+
+#### Economy and Schemes
+1. **What is Net Investment?**  
+    - Options:  
+      1. Gross investment + depreciation  
+      2. Gross investment - depreciation  
+      3. Gross capital investment - indirect taxes  
+      4. Sum of all investments in a country  
+
+2. **Which scheme is the National Mission for Financial Inclusion?**  
+    - Options:  
+      1. Swarnjayanti Gram Swarozgar Yojana  
+      2. Pradhan Mantri Jan Dhan Yojana  
+      3. Deendayal Antyodaya Yojana  
+      4. Deen Dayal Upadhyaya Grameen Kaushalya Yojana  
+
+3. **Which is NOT an amendment to the Airport Economic Regulatory Authority (AERA) Amendment Act, 2021?**  
+    - Options:  
+      1. Govt can declare a major airport by notification  
+      2. Major airport defined by 35 lakh passengers  
+      3. Govt will club profit and loss-making airports  
+      4. Govt can't offer airports in PPP mode  
+
+4. **Green Revolution technology boosted cereal production from 72.4 million tons (1965-66) to:**  
+    - Options:  
+      1. 150.8 million tons  
+      2. 165.9 million tons  
+      3. 141.2 million tons  
+      4. 131.9 million tons  
+
+#### Sports
+1. **India won the ICC Men’s Cricket World Cup for the first time in:**  
+    - Options:  
+      1. 1992  
+      2. 1987  
+      3. 1996  
+      4. 1983  
+
+2. **In which year did India make its Olympic debut in hockey?**  
+    - Options:  
+      1. 1936  
+      2. 1928  
+      3. 1924  
+      4. 1932  
+
+#### Geography and Industry
+1. **Identify the oldest iron and steel company in India:**  
+    - Options:  
+      1. Mysore Iron & Steel Works  
+      2. Tata Iron & Steel Company (TISCO)  
+      3. Visvesvaraiya Iron & Steel Works  
+      4. Indian Iron & Steel Company (IISCO)  
+
+2. **Which is the largest artificial lake in Asia?**  
+    - Options:  
+      1. Chilika Lake  
+      2. Dal Lake  
+      3. Bhopal Lake  
+      4. Naini Lake  
+
+
+ Section : General Awareness
+
+#### History, Literature, and Culture
+1. **Which literary work by Chand Bardai mentions Prithviraj Chauhan’s love story and heroic deeds?**  
+    - Options:  
+      1. Rajamartanda  
+      2. Harakeli Nataka  
+      3. Prithviraj Raso  
+      4. Abhidhana Chintamani  
+
+2. **Who established Shantiniketan and when?**  
+    - Options:  
+      1. Rabindranath Tagore, 1905  
+      2. Mahatma Gandhi, 1910  
+      3. Rabindranath Tagore, 1901  
+      4. Devendranath Tagore, 1915  
+
+3. **Which institute was founded by Mrinalini Sarabhai?**  
+    - Options:  
+      1. Nalanda Nritya Kala Mahavidyalaya  
+      2. Nrityanjali Institute of Performing Arts  
+      3. Sri Thyagaraja College of Music and Dance  
+      4. Darpana Academy of Performing Arts  
+
+4. **Which hills are located in the Eastern Ghats?**  
+    - Options:  
+      1. Shevaroy hills  
+      2. Khasi hills  
+      3. Anamudi hills  
+      4. Naga hills  
+
+5. **The Vedangas are Hindu auxiliary disciplines. How many Vedangas are there?**  
+    - Options:  
+      1. Seven  
+      2. Five  
+      3. Six  
+      4. Four  
+
+6. **Gangaur Festival, Pushkar Fair, Nagaur Fair and Urs Fair are popular in which state?**  
+    - Options:  
+      1. Maharashtra  
+      2. Tripura  
+      3. Rajasthan  
+      4. Punjab  
+
+7. **Who among the following freedom fighters is known as ‘Deshbandhu’?**  
+    - Options:  
+      1. Gopal Krishna Gokhale  
+      2. Chittaranjan Das  
+      3. Subhas Chandra Bose  
+      4. Bhagat Singh  
+
+#### Government Policies and Economy
+1. **In which year was the Digital India Mission launched?**  
+    - Options:  
+      1. 2017  
+      2. 2015  
+      3. 2014  
+      4. 2016  
+
+2. **Which state launched the Ashirwad Scheme for marriage financial support in July 2020?**  
+    - Options:  
+      1. Rajasthan  
+      2. Bihar  
+      3. Uttar Pradesh  
+      4. Punjab  
+
+3. **Which state government honoured Pandit Venkatesh Kumar with 'Kalidas Samman-2022'?**  
+    - Options:  
+      1. Maharashtra  
+      2. Madhya Pradesh  
+      3. Gujarat  
+      4. Uttar Pradesh  
+
+4. **Which industry is an example of a public sector industry in India?**  
+    - Options:  
+      1. Tata Iron Steel Company  
+      2. Bajaj Auto  
+      3. Dabur  
+      4. Bharat Heavy Electricals Limited (BHEL)  
+
+5. **What electoral reform does the Election Laws Amendment Bill introduce regarding eligibility date?**  
+    - Options:  
+      1. Enrolment throughout the year  
+      2. Dates: 1 January, 1 May, 1 September  
+      3. Dates: 1 January, 1 April, 1 July, 1 October  
+      4. Dates: 1 January and 1 June  
+
+6. **What was the actual growth rate of India's First Five-Year Plan?**  
+    - Options:  
+      1. 4.2%  
+      2. 2.6%  
+      3. 3.6%  
+      4. 2.1%  
+
+7. **According to Census 2011, what is the male-female literacy rate gap in India?**  
+    - Options:  
+      1. 21.59%  
+      2. 24.84%  
+      3. 16.68%  
+      4. 18.30%  
+
+#### Science and Technology
+1. **What are the five F’s of indirect transmission?**  
+    - Options:  
+      1. Fruit, fingers, flu, food, fluid  
+      2. Flies, fingers, fomites, food, fluid  
+      3. Flies, fingers, friends, food, fruit  
+      4. Flies, fingers, fomites, food, fruit  
+
+2. **In which form of exchange are goods used as a medium of exchange?**  
+    - Options:  
+      1. Barter exchange  
+      2. Currency exchange  
+      3. Credit exchange  
+      4. Online exchange  
+
+3. **What is the product formed when zinc reacts with sulphuric acid?**  
+    - Options:  
+      1. Zinc oxide  
+      2. Zinc sulphide  
+      3. Zinc sulphate  
+      4. Zinc hydroxide  
+
+4. **Which gas emits red light when electricity is passed through it?**  
+    - Options:  
+      1. Argon  
+      2. Neon  
+      3. Hydrogen  
+      4. Helium  
+
+#### Politics and Law
+1. **In the state legislative assembly, Money Bills can be introduced with permission from whom?**  
+    - Options:  
+      1. Auditor General  
+      2. Finance Minister  
+      3. Governor  
+      4. CAG  
+
+2. **Which of the following is NOT a Fundamental Duty of Indian citizens?**  
+    - Options:  
+      1. Cherish noble ideas from freedom struggle  
+      2. Mandatory national service of 5 years  
+      3. Develop scientific temper, humanism  
+      4. Safeguard public property and abjure violence  
+
+#### Sports and Entertainment
+1. **Who among the following players is related to table tennis?**  
+    - Options:  
+      1. Pankaj Advani  
+      2. Manika Batra  
+      3. K Srikanth  
+      4. Manish Narwal  
+
+2. **Buddhadev Dasgupta is famous for playing which instrument?**  
+    - Options:  
+      1. Sarangi  
+      2. Sarod  
+      3. Bansuri  
+      4. Mridangam  
+
+3. **In which year was the Pro Kabaddi League established in India?**  
+    - Options:  
+      1. 2016  
+      2. 2015  
+      3. 2014  
+      4. 2013  
+
+Section : General Awareness
+
+#### Science and Technology
+1. **What was Antoine-Laurent Lavoisier's most important contribution to chemistry in 1789?**  
+    - Options:  
+      1. Law of Conservation of Mass  
+      2. Law of Multiple Proportions  
+      3. Law of Definite Proportions  
+      4. Law of Conservation of Energy  
+
+2. **An electric iron requires a fuse to prevent short circuiting.**  
+    - Options:  
+      1. 4 A  
+      2. 3 A  
+      3. 2 A  
+      4. 5 A  
+
+3. **The growth form of a plant, comprising its size, shape and orientation is known as:**  
+    - Options:  
+      1. habit  
+      2. environment  
+      3. habitat  
+      4. growth pattern  
+
+---
+
+#### Indian History and Politics
+1. **Who among the following is primarily connected to the World's Parliament of Religions convened in Chicago, 1893?**  
+    - Options:  
+      1. Dayanand Saraswati  
+      2. Swami Vivekananda  
+      3. Raja Ram Mohan Roy  
+      4. Ramakrishna Paramhansa  
+
+2. **The concept of Public Interest Litigation originated in:**  
+    - Options:  
+      1. Switzerland  
+      2. Iceland  
+      3. USA  
+      4. New Zealand  
+
+3. **Who was the Viceroy of India when Mahatma Gandhi started Dandi March on 12 March 1930?**  
+    - Options:  
+      1. Lord Chelmsford  
+      2. Lord Minto II  
+      3. Lord Irwin  
+      4. Lord Willingdon  
+
+4. **Which Article of the Indian Constitution provides that the State must secure a social order to promote the welfare of people?**  
+    - Options:  
+      1. Article 37  
+      2. Article 38  
+      3. Article 39  
+      4. Article 36  
+
+5. **The were tributary chiefs of the Gupta dynasty. They established an independent kingdom in western India. Dhruvasena II was the most important ruler of this kingdom.**  
+    - Options:  
+      1. Maitrakas  
+      2. Maukharis  
+      3. Pushyabhutis  
+      4. Gurjara Pratiharas  
+
+6. **In which of the following battles did Muhammad of Ghor defeat Jayachandra of Gahadavala dynasty in 1194 AD?**  
+    - Options:  
+      1. First battle of Tarain  
+      2. Battle of Chandawar  
+      3. Battle of Anhilwara  
+      4. Second battle of Tarain  
+
+---
+
+#### Geography and Environment
+1. **Identify a water-harvesting system found in Jaisalmer.**  
+    - Options:  
+      1. Guls  
+      2. Johads  
+      3. Khadins  
+      4. Kuls  
+
+2. **As of June 2021, how many biosphere reserves are established in India?**  
+    - Options:  
+      1. 18  
+      2. 20  
+      3. 26  
+      4. 15  
+
+---
+
+#### Economy and Development
+1. **Identify the group of districts that are NOT an example of industrial districts of India.**  
+    - Options:  
+      1. Cuttack and Kota  
+      2. Kanpur and Agra  
+      3. Alwar and Bhiwani  
+      4. Jabalpur and Bhopal  
+
+2. **The headquarters of the second Green Revolution cell was in:**  
+    - Options:  
+      1. Raipur  
+      2. Patna  
+      3. Kolkata  
+      4. Bhubaneswar  
+
+3. **In which year was Smart Cities Mission launched?**  
+    - Options:  
+      1. 2015  
+      2. 2013  
+      3. 2019  
+      4. 2018  
+
+4. **As of 31 May 2021, only 47% of total routes and 39% of airports (unserved and underserved) have been operationalised under UDAN, according to ICRA. What is the full form of UDAN?**  
+    - Options:  
+      1. Udtha Desh Ka Aam Nayak  
+      2. Ude Desh Ka Aam Naagrik  
+      3. Unnath Desh Ka Aam Naagrik  
+      4. Ujwal Desh Ka Aam Naagrik  
+
+5. **Which of the following options is the most appropriate cause for unemployment in India?**  
+    - Options:  
+      1. Over population  
+      2. Environment conditions  
+      3. High educational systems  
+      4. Lack of labour force  
+
+---
+
+#### Arts and Culture
+1. **Khuallam is a famous dance of:**  
+    - Options:  
+      1. Bihar  
+      2. Andhra Pradesh  
+      3. Mizoram  
+      4. Uttar Pradesh  
+
+2. **Thrissur Pooram is one of the famous temple festivals celebrated in:**  
+    - Options:  
+      1. Andhra Pradesh  
+      2. Kerala  
+      3. Karnataka  
+      4. Tamil Nadu  
+
+3. **Ustad Zia Mohiuddin Dagar was a player of profound depth, favouring sparse and slow realisations of ragas.**  
+    - Options:  
+      1. Sitar  
+      2. Violin  
+      3. Flute  
+      4. Rudra veena  
+
+4. **Tabla maestro, Bickram Ghosh, was awarded with which of the following awards in 2023 in the Contemporary Category?**  
+    - Options:  
+      1. Padma Shri  
+      2. Padma Bhushan  
+      3. Sangeet Natak Akademi  
+      4. Sangeet Kalanidhi  
+
+---
+
+#### Sports
+1. **Which of the following nations won the seven times women's Asia Cup cricket Championship?**  
+    - Options:  
+      1. Pakistan  
+      2. Bangladesh  
+      3. India  
+      4. Sri Lanka  
+
+2. **When and where did India win its first World Championships medal in Athletics?**  
+    - Options:  
+      1. 2009, Germany  
+      2. 2005, Finland  
+      3. 2007, Japan  
+      4. 2003, France  
+
+---
+
+#### Current Affairs
+1. **Who is the world's most popular leader as per Global Leader Approval Ratings released by US-based Morning Consult in February 2023?**  
+    - Options:  
+      1. Xi Jinping  
+      2. Vladimir Putin  
+      3. Joe Biden  
+      4. Narendra Modi  
+
+---
+
+#### Miscellaneous
+1. **Match the concepts in column A with their respective descriptions in column B.**  
+    - Options:  
+      1. a-2, b-1, c-3, d-4  
+      2. a-3, b-1, c-2, d-4  
+      3. a-3, b-4, c-1, d-2  
+      4. a-4, b-3, c-2, d-1  
+
+2. **According to the Census of India 2011, the percentage of adolescent population (10-19 years) from the total population is how much?**  
+    - Options:  
+      1. 22.9%  
+      2. 21.9%  
+      3. 20.9%  
+      4. 19.9%  
+
+
+Section : General Awareness
+
+#### Sports
+1. **Which team won the T20 cricket event, Syed Mushtaq Ali Trophy 2022-2023?**  
+    - Options:  
+      1. Vidarbha  
+      2. Himanchal Pradesh  
+      3. Mumbai  
+      4. Punjab  
+
+2. **Who among the following famous Indian women cricketers announced retirement in June 2022?**  
+    - Options:  
+      1. Smriti Mandhana  
+      2. Mithali Raj  
+      3. Anjum Chopra  
+      4. Jhulan Goswami  
+
+3. **Who won the Paralympic bronze medal in archery for India at Tokyo in 2020?**  
+    - Options:  
+      1. Deepika Kumari  
+      2. Harvinder Singh  
+      3. Atanu Das  
+      4. Pravin Jadhav  
+
+---
+
+#### Geography and Environment
+1. **Which region in India receives less rainfall in summer, but heavy rainfall in winter season due to the retreating north easterly winds?**  
+    - Options:  
+      1. Southern coastal region  
+      2. Eastern coastal region  
+      3. Western coastal region  
+      4. Northern coastal region  
+
+2. **Sundari trees are found in which type of forests in India?**  
+    - Options:  
+      1. Tropical evergreen forests  
+      2. Tropical deciduous forests  
+      3. Mangrove forests  
+      4. The thorn forests and scrubs  
+
+3. **Which port is developed as a satellite port?**  
+    - Options:  
+      1. Mormugao  
+      2. New Mangalore  
+      3. Jawaharlal Nehru  
+      4. Haldia  
+
+---
+
+#### Indian History and Politics
+1. **Which of the following features of the Indian Constitution was borrowed from Irish Constitution?**  
+    - Options:  
+      1. Directive Principles of State Policy  
+      2. Fundamental Rights  
+      3. Rule of Law  
+      4. Concurrent List  
+
+2. **Vindhyashakti was the founder of which of the following dynasties?**  
+    - Options:  
+      1. Pallava  
+      2. Maukhari  
+      3. Chalukya  
+      4. Vakataka  
+
+3. **The Supreme Court of India comprises the Chief Justice and not more than ______ other Judges appointed by the President of India.**  
+    - Options:  
+      1. 33  
+      2. 38  
+      3. 35  
+      4. 37  
+
+4. **The Doctrine of Lapse was an annexation policy devised by which of the following Governor-Generals of India?**  
+    - Options:  
+      1. Lord Mayo  
+      2. Lord Dalhousie  
+      3. Lord Wellesley  
+      4. Lord Canning  
+
+5. **For which of the following states was the Constitution (Scheduled Castes and Scheduled Tribes) Orders (Second Amendment) Bill, 2022, introduced in the Parliament?**  
+    - Options:  
+      1. Bihar  
+      2. Uttar Pradesh  
+      3. Odisha  
+      4. Madhya Pradesh  
+
+6. **Who among the following is the hero of the Sanskrit historical poem, the 'Ramacharita' written by Sandhyakar Nandi?**  
+    - Options:  
+      1. Ramapala  
+      2. Dharmapala  
+      3. Devapala  
+      4. Gopala  
+
+7. **In which of the following areas did the Uprising of Khurda in 1817 take place?**  
+    - Options:  
+      1. Bengal  
+      2. Madras  
+      3. United Province  
+      4. Odisha  
+
+---
+
+#### Economy and Development
+1. **Which of the following statements is correct about the composition of the agriculture sector and employment in GDP post-independence?**  
+    - Options:  
+      1. The proportion of both the agriculture sector and employment in GDP has declined significantly.  
+      2. The proportion of employment has declined significantly but not the share of the agriculture sector in GDP.  
+      3. The proportion of both the agriculture sector and employment in GDP has increased significantly.  
+      4. The proportion of GDP contributed by the agricultural sector declined significantly but not the employment depending on the agriculture sector.  
+
+2. **The central bank of India or Reserve Bank of India was created before Independence, in the year 1934. The recommendation to create a central bank was made by a commission called:**  
+    - Options:  
+      1. Dr. Raja Chelliah Committee  
+      2. Kothari Commission  
+      3. Hilton Young Commission  
+      4. Narasimham Committee  
+
+---
+
+#### Arts and Culture
+1. **Which Indian singer wrote 'Raag Sarita'?**  
+    - Options:  
+      1. Balasaheb Poonchwale  
+      2. Kumar Gandharva  
+      3. Kesarbai Kerkar  
+      4. Chintaman Raghunath Vyas  
+
+2. **Which state government honoured Vani Jairam with the MS Subbulakshmi Award for 2019?**  
+    - Options:  
+      1. Odissa  
+      2. Karnataka  
+      3. Tamil Nadu  
+      4. Maharashtra  
+
+3. **Ranjana Gauhar was awarded the Padma Shri Award (2003) for her contribution to which of the following Indian dance forms?**  
+    - Options:  
+      1. Sattriya  
+      2. Manipuri  
+      3. Kuchipudi  
+      4. Odissi  
+
+4. **Chhath Puja is the main festival of which state?**  
+    - Options:  
+      1. Assam  
+      2. Bihar  
+      3. Tamil Nadu  
+      4. Karnataka  
+
+---
+
+#### Science and Technology
+1. **Which of the following is a man-made ecosystem?**  
+    - Options:  
+      1. Forest  
+      2. Aquarium  
+      3. Grassland  
+      4. Desert  
+
+2. **Which of the following are the two basic categories of an ecosystem?**  
+    - Options:  
+      1. Forest and Rivers  
+      2. Forest and Aquatic  
+      3. Lakes and Ponds  
+      4. Terrestrial and Aquatic  
+
+3. **Which of the following two quantities have the same dimensions?**  
+    - Options:  
+      1. Power and radius of circular motion  
+      2. Work and torque  
+      3. Power and moment of inertia  
+      4. Work and angular displacement  
+
+4. **Which polyatomic ionic compound is a white, crystalline powder used in fire extinguishers and to neutralise acids and bases?**  
+    - Options:  
+      1. Sodium Bicarbonate  
+      2. Sodium Thiosulphate  
+      3. Sodium Bisulphite  
+      4. Sodium Chromate  
+
+---
+
+#### Census and Demographics
+1. **According to the Census of India 2011, which group of Union Territories recorded the highest sex ratio?**  
+    - Options:  
+      1. Chandigarh, Puducherry, Lakshadweep  
+      2. Puducherry, Lakshadweep, Andaman and Nicobar Islands  
+      3. Puducherry, Delhi, Andaman and Nicobar Islands  
+      4. Chandigarh, Puducherry, Delhi  
+
+---
+
+#### Miscellaneous
+1. **(Matching Type Question - Columns A and B)**  
+    - Options:  
+      1. A-i, B-iv, C-ii, D-iii  
+      2. A-ii, B-iv, C-i, D-iii  
+      3. A-iv, B-ii, C-i, D-iii  
+      4. A-iii, B-iv, C-i, D-ii  
+
+Section : General Awareness
+
+#### Indian History and Politics
+1. **After the fall of the Guptas, different kingdoms emerged in various parts of India. Among them, the Maukharis emerged in which of the following areas?**  
+   - Options:  
+     1. Thanesar  
+     2. Valabhi  
+     3. Kunnur  
+     4. Kannauj  
+
+2. **Indian National Army was formed in which of the following countries?**  
+   - Options:  
+     1. Japan  
+     2. London  
+     3. Germany  
+     4. Singapore  
+
+3. **One of the greatest of Chola ruler Rajaraja I ruled from 985 AD to ___.**  
+   - Options:  
+     1. 1015 AD  
+     2. 1017 AD  
+     3. 1018 AD  
+     4. 1014 AD  
+
+4. **Who asked James Rennel to prepare the map of Hindustan?**  
+   - Options:  
+     1. Lord Dalhousie  
+     2. Robert Clive  
+     3. Lord Ripen  
+     4. Warren Hastings  
+
+5. **The birth anniversary of Mahatma Gandhi is celebrated as the national festival of India. In which of the following years was Gandhi ji born?**  
+   - Options:  
+     1. 1869  
+     2. 1890  
+     3. 1885  
+     4. 1877  
+
+#### Geography
+1. **Which of the following rivers marks the eastern-most boundary of the Himalayas?**  
+   - Options:  
+     1. Kali  
+     2. Teesta  
+     3. Satluj  
+     4. Brahmaputra  
+
+#### Polity
+1. **Which of the following Articles deals with the composition of the Rajya Sabha?**  
+   - Options:  
+     1. Article 92  
+     2. Article 76  
+     3. Article 84  
+     4. Article 80  
+
+2. **Which of the following is NOT a device of parliamentary proceedings?**  
+   - Options:  
+     1. Half-an-hour discussion  
+     2. Full-day discussion  
+     3. Two-hour (short) discussion  
+     4. Zero-hour discussion  
+
+3. **Which Article in the fundamental duty applies, when a construction worker takes his 8-year-old son to the site rather than sending him to school?**  
+   - Options:  
+     1. Article 51A (h)  
+     2. Article 51A (i)  
+     3. Article 51A (j)  
+     4. Article 51A (k)  
+
+#### Economics
+1. **What is the empirically fitted relationship between the rate of change of money, wage, and rate of unemployment known as?**  
+   - Options:  
+     1. Keynesian model  
+     2. Philips curve  
+     3. Friedman's model  
+     4. Baumol hypothesis  
+
+2. **Which Bill was passed by the Parliament, in July 2021, to help in the availability of working capital for the micro, small and medium enterprises sector?**  
+   - Options:  
+     1. The Factoring Regulation (Amendment) Bill, 2021  
+     2. The Minerals Laws (Amendment) Bill, 2020  
+     3. The Insolvency and Bankruptcy Code (Amendment) Bill, 2021  
+     4. The Essential Commodities (Amendment) Bill, 2020  
+
+#### Static GK
+1. **Indian Olympic Association was established in which of the following years?**  
+   - Options:  
+     1. 1929  
+     2. 1933  
+     3. 1927  
+     4. 1931  
+
+2. **Padma Bhushan awardee, Ustad Sabri Khan played which of the following musical instruments?**  
+   - Options:  
+     1. Tabla  
+     2. Sarod  
+     3. Sarangi  
+     4. Santoor  
+
+3. **The Nandi Award for Best Male Playback Singer was instituted by which state in the year 1977?**  
+   - Options:  
+     1. Andhra Pradesh  
+     2. Maharashtra  
+     3. Tripura  
+     4. Gujarat  
+
+#### Sports
+1. **Which of the following nations won the ICC World Test Championship, defeating India, in 2023?**  
+   - Options:  
+     1. Australia  
+     2. England  
+     3. South Africa  
+     4. New Zealand  
+
+#### Chemistry
+1. **Identify the structural formula for magnesium hydroxide.**  
+   - Options:  
+     1. Mg(OH)2  
+     2. MgO2  
+     3. Mg2H2  
+     4. MgOH  
+
+#### Biology
+1. **Exfoliation is a form of ___.**  
+   - Options:  
+     1. chemical weathering  
+     2. biochemical weathering  
+     3. physical weathering  
+     4. mass wasting  
+
+2. **What kind of phyllotaxy was examined in the Guava plant?**  
+   - Options:  
+     1. Superimposed  
+     2. Whorled  
+     3. Alternate  
+     4. Opposite  
+
+#### Environment
+1. **Presently, which of the following countries is NOT a beneficiary of India's Duty-Free Tariff Preference (DFTP) Scheme?**  
+   - Options:  
+     1. Rwanda  
+     2. Burundi  
+     3. Myanmar  
+     4. Angola  
+
+#### Government Schemes
+1. **Which of the following is a public sector industry?**  
+   - Options:  
+     1. Adani  
+     2. BHEL  
+     3. Reliance  
+     4. Tata  
+
+#### Physics
+1. **A small object is placed on the focus on the left side of a convex lens. Where will be the image formed?**  
+   - Options:  
+     1. At infinity on the right side of the lens.  
+     2. At infinity on the left side of the lens.  
+     3. At the focus on the right side of the lens.  
+     4. At the centre on the right side of the lens.  
 
 
 Section: General Awareness
 
-Q.1 Where was the Hindu College established in the year 1791?
-1. Benaras
-2. Patna
-3. Kolkata
-4. Mathura
+#### Indian History and Politics
+1. **Where was the Hindu College established in the year 1791?**  
+   - Options:  
+     1. Benaras  
+     2. Patna  
+     3. Kolkata  
+     4. Mathura  
 
-Q.2 In which year was the Gandhi-Irwin Pact signed?
-1. 1929
-2. 1941
-3. 1931
-4. 1935
+2. **In which year was the Gandhi-Irwin Pact signed?**  
+   - Options:  
+     1. 1929  
+     2. 1941  
+     3. 1931  
+     4. 1935  
 
-Q.3 Which of the following is NOT the socio-economic objective of Industrial Policy Statement 1980?
-1. Higher employment generation
-2. Promotion of export-oriented industries
-3. Consumer protection against high prices and bad quality
-4. Allowing the maximum foreign direct investment
+3. **The name 'Piyadassi' is associated with whom among the following Mauryan kings?**  
+   - Options:  
+     1. Ashoka  
+     2. Brihadratha  
+     3. Bindusara  
+     4. Chandragupta Maurya  
 
-Q.4 The name 'Piyadassi' is associated with whom among the following Mauryan kings?
-1. Ashoka
-2. Brihadratha
-3. Bindusara
-4. Chandragupta Maurya
+4. **Who was the Vakil under the reign of Mughal Emperor, Akbar, who received the title of Khan-i-Khanan?**  
+   - Options:  
+     1. Bairam Khan  
+     2. Mulla do-Piyaza  
+     3. Birbal  
+     4. Raja Todar Mal  
 
-Q.5 In which of the following years will India host the World Badminton Championship?
-1. 2025
-2. 2027
-3. 2026
-4. 2028
+#### Economics
+1. **Which of the following is NOT the socio-economic objective of Industrial Policy Statement 1980?**  
+   - Options:  
+     1. Higher employment generation  
+     2. Promotion of export-oriented industries  
+     3. Consumer protection against high prices and bad quality  
+     4. Allowing the maximum foreign direct investment  
 
-Q.6 Which of the following plants is used to cure cold and cough?
-1. Arjun
-2. Babool
-3. Jamun
-4. Tulsi
+2. **Which of the following is an example of a non-tax revenue source for the government?**  
+   - Options:  
+     1. Value-added tax  
+     2. Fees and fines  
+     3. Corporate income tax  
+     4. Personal income tax  
 
-Q.7 Where is the Gulf of Mannar located?
-1. Between the south-eastern tip of India and the southern coast of Sri Lanka
-2. Between the south-eastern tip of India and the eastern coast of Sri Lanka
-3. Between the south-eastern tip of India and the north-western coast of Sri Lanka
-4. Between the south-eastern tip of India and the western coast of Sri Lanka
+#### Sports
+1. **In which of the following years will India host the World Badminton Championship?**  
+   - Options:  
+     1. 2025  
+     2. 2027  
+     3. 2026  
+     4. 2028  
 
-Q.8 Name a common electrolyte disorder that occurs when the amount of sodium in your blood becomes abnormally low.
-1. Hypokalemia
-2. Hyperkalemia
-3. Hypernatremia
-4. Hyponatremia
+2. **Who was the player of the match in the semi-final of the T20 Women's World Cup 2023 played between India and Australia?**  
+   - Options:  
+     1. Meg Lanning  
+     2. Ashleigh Gardner  
+     3. Harmanpreet Kaur  
+     4. Deepti Sharma  
 
-Q.9 Who was the player of the match in the semi-final of the T20 Women's World Cup 2023 played between India and Australia?
-1. Meg Lanning
-2. Ashleigh Gardner
-3. Harmanpreet Kaur
-4. Deepti Sharma
+3. **Who among the following won a Gold Medal at the 2021 World Cadet Wrestling Championship held in Budapest, Hungary?**  
+   - Options:  
+     1. Vinesh Phogat  
+     2. Priya Malik  
+     3. Geeta Phogat  
+     4. Pooja Dhanda  
 
-Q.10 Who among the following won a Gold Medal at the 2021 World Cadet Wrestling Championship held in Budapest, Hungary?
-1. Vinesh Phogat
-2. Priya Malik
-3. Geeta Phogat
-4. Pooja Dhanda
+#### Biology
+1. **Which of the following plants is used to cure cold and cough?**  
+   - Options:  
+     1. Arjun  
+     2. Babool  
+     3. Jamun  
+     4. Tulsi  
 
-Q.11 What is the SI unit of current?
-1. Metre
-2. Ampere
-3. Volt
-4. Ohm
+2. **Name a common electrolyte disorder that occurs when the amount of sodium in your blood becomes abnormally low.**  
+   - Options:  
+     1. Hypokalemia  
+     2. Hyperkalemia  
+     3. Hypernatremia  
+     4. Hyponatremia  
 
-Q.12 How many members are nominated by the President to the Rajya Sabha?
-1. 20
-2. 15
-3. 10
-4. 12
+3. **Which of the following is NOT a component of a flower?**  
+   - Options:  
+     1. Androecium  
+     2. Spines  
+     3. Calyx  
+     4. Corolla  
 
-Q.13 Sangeet Natak Akademy Awardee Sulochana Chavan was a famous singer.
-1. Ghumar
-2. Giddha
-3. Jhumair
-4. Lavani
+#### Geography
+1. **Where is the Gulf of Mannar located?**  
+   - Options:  
+     1. Between the south-eastern tip of India and the southern coast of Sri Lanka  
+     2. Between the south-eastern tip of India and the eastern coast of Sri Lanka  
+     3. Between the south-eastern tip of India and the north-western coast of Sri Lanka  
+     4. Between the south-eastern tip of India and the western coast of Sri Lanka  
 
-Q.14 Which of the following is NOT a component of a flower?
-1. Androecium
-2. Spines
-3. Calyx
-4. Corolla
+2. **Which of the following crops is NOT grown during the Zaid season in India?**  
+   - Options:  
+     1. Rice  
+     2. Muskmelon  
+     3. Watermelon  
+     4. Cucumber  
 
-Q.15 Which is the colloquial term to describe the occurrence of pre-monsoon rains in India, especially in parts of Kerala, Karnataka, and Tamil Nadu?
-1. Nor Westers
-2. Kalbaisakhi
-3. Orange showers
-4. Mango showers
+3. **The festival of 'Rath Yatra' of Puri in Odisha is dedicated to which deity?**  
+   - Options:  
+     1. Lord Jagannath  
+     2. Lord Shiva  
+     3. Lord Ganesha  
+     4. Lord Hanuman  
 
-Q.16 Tera Tali folk dance is primarily associated with which of the following states?
-1. Rajasthan
-2. Haryana
-3. Madhya Pradesh
-4. Assam
+#### Polity
+1. **How many members are nominated by the President to the Rajya Sabha?**  
+   - Options:  
+     1. 20  
+     2. 15  
+     3. 10  
+     4. 12  
 
-Q.17 Dr. B. R. Ambedkar described Directive Principles of State Policy as the most important feature of the Indian constitution.
-1. identity card of the constitution
-2. The most precious part of the constitution
-3. Soul of the state
-4. A novel feature of the constitution
+2. **As per article 123, the ordinance making power is the most important legislative power of:**  
+   - Options:  
+     1. Rajya Sabha  
+     2. Chief Justice of India  
+     3. President  
+     4. Legislative council  
 
-Q.18 Which of the following crops is NOT grown during the Zaid season in India?
-1. Rice
-2. Muskmelon
-3. Watermelon
-4. Cucumber
+#### Chemistry
+1. **Grignard reagent is represented as:**  
+   - Options:  
+     1. H-Mg-H  
+     2. CH3-Ca-F  
+     3. CH3-Be-F  
+     4. CH3-Mg-Cl  
 
-Q.19 Which of the following is an example of a non-tax revenue source for the government?
-1. Value-added tax
-2. Fees and fines
-3. Corporate income tax
-4. Personal income tax
+#### Environment
+1. **Sangeet Natak Akademy Awardee Sulochana Chavan was a famous singer:**  
+   - Options:  
+     1. Ghumar  
+     2. Giddha  
+     3. Jhumair  
+     4. Lavani  
 
-Q.20 The festival of 'Rath Yatra' of Puri in Odisha is dedicated to which deity?
-1. Lord Jagannath
-2. Lord Shiva
-3. Lord Ganesha
-4. Lord Hanuman
+2. **Tera Tali folk dance is primarily associated with which of the following states?**  
+   - Options:  
+     1. Rajasthan  
+     2. Haryana  
+     3. Madhya Pradesh  
+     4. Assam  
 
-Q.21 Sangeet Kala Acharya Award is given by which organisation every year since 1993?
-1. Subramaniam Academy of Performing Arts
-2. Madras Music Academy
-3. Calcutta School of Music
-4. Shankar Mahadevan Academy
+#### Government Schemes
+1. **Which of the following schemes was launched for the welfare of the unorganised sector workers and labourers on 26 August 2021?**  
+   - Options:  
+     1. e-Shram Portal  
+     2. PM Daksh Yojana  
+     3. Gram Ujala Scheme  
+     4. PM Mentoring Yuva Scheme  
 
-Q.22 As per article 123, the ordinance making power is the most important legislative power of:
-1. Rajya Sabha
-2. Chief Justice of India
-3. President
-4. Legislative council
-
-Q.23 Grignard reagent is represented as:
-1. H-Mg-H
-2. CH3-Ca-F
-3. CH3-Be-F
-4. CH3-Mg-Cl
-
-Q.24 Which of the following schemes was launched for the welfare of the unorganised sector workers and labourers on 26 August 2021?
-1. e-Shram Portal
-2. PM Daksh Yojana
-3. Gram Ujala Scheme
-4. PM Mentoring Yuva Scheme
-
-Q.25 Who among the following was the Vakil under the reign of Mughal Emperor, Akbar, who received the title of Khan-i-Khanan?
-1. Bairam Khan
-2. Mulla do-Piyaza
-3. Birbal
-4. Raja Todar Mal
 
 
 Section : General Awareness
 
-Q.1 Wood's Dispatch of 1854 primarily dealt with which of the following subject matters? 
-Ans
-1. Education
-2. Railways
-3. Health
-4. Finance
+#### Economics
+1. **Wood's Dispatch of 1854 primarily dealt with which of the following subject matters?**  
+   - Options:  
+     1. Education  
+     2. Railways  
+     3. Health  
+     4. Finance  
 
-Q.2 If GNP is 16% higher than the last year and the rate of inflation is 9%, production in the economy has grown by:
-Ans
-1. 5%
-2. 7%
-3. 4%
-4. 6%
+2. **If GNP is 16% higher than the last year and the rate of inflation is 9%, production in the economy has grown by:**  
+   - Options:  
+     1. 5%  
+     2. 7%  
+     3. 4%  
+     4. 6%  
 
-Q.3 Which of the following gases get released when dilute sulphuric acid (H2SO4) reacts with magnesium (Mg)?
-Ans
-1. SO2
-2. O2
-3. H2
-4. SO3
+#### Chemistry
+3. **Which of the following gases get released when dilute sulphuric acid (H2SO4) reacts with magnesium (Mg)?**  
+   - Options:  
+     1. SO2  
+     2. O2  
+     3. H2  
+     4. SO3  
 
-Q.4 Prabha Atre, who received the Padma Vibhushan Award 2022, belongs to which Gharana?
-Ans
-1. Agra gharana
-2. Mewati gharana
-3. Kirana gharana
-4. Indore gharana
+4. **Calorimeter is a small container made of a thin sheet of with good thermal conductivity.**  
+   - Options:  
+     1. Cesium  
+     2. Platinum  
+     3. Silver  
+     4. Copper  
 
-Q.5 An inscription, Takht-i-Bahi recovered from Mardan near Peshawar, indicates the rule of which of the following dynasties in the north-western area of present Pakistan?
-Ans
-1. Sakas
-2. Parthians
-3. Indo-Greek
-4. Bactrian
+#### History
+5. **An inscription, Takht-i-Bahi recovered from Mardan near Peshawar, indicates the rule of which of the following dynasties in the north-western area of present Pakistan?**  
+   - Options:  
+     1. Sakas  
+     2. Parthians  
+     3. Indo-Greek  
+     4. Bactrian  
 
-Q.6 Which of the following is an example of private sector industry in India?
-Ans
-1. Bharat Heavy Electricals Limited
-2. Oil India Limited
-3. Tata Iron and Steel Company
-4. Steel Authority of India Limited
+6. **Who among the following was the successor of Mughal Emperor, Babur?**  
+   - Options:  
+     1. Aurangzeb  
+     2. Shahjahan  
+     3. Jahangir  
+     4. Humayun  
 
-Q.7 When was Pro Kabaddi League inaugurated for the first time in India?
-Ans
-1. 2007
-2. 2015
-3. 2008
-4. 2014
+7. **British Parliament introduced Indian High Courts Act in which year?**  
+   - Options:  
+     1. 1859  
+     2. 1860  
+     3. 1861  
+     4. 1858  
 
-Q.8 Who among the following Indian women boxers was elected as the Chairperson and a voting member of the International Boxing Association in 2022?
-Ans
-1. Mary Kom
-2. Lovlina Borgohain
-3. Nikhat Zareen
-4. Pooja Rani
+#### Sports
+8. **When was Pro Kabaddi League inaugurated for the first time in India?**  
+   - Options:  
+     1. 2007  
+     2. 2015  
+     3. 2008  
+     4. 2014  
 
-Q.9 Identify the Indian classical dancer associated with Kathak.
-Ans
-1. Vedantam Satyanarayana Sarma
-2. Sharodi Saikia
-3. Rohini Bhate
-4. Kelucharan Mohapatra
+9. **Who among the following Indian women boxers was elected as the Chairperson and a voting member of the International Boxing Association in 2022?**  
+   - Options:  
+     1. Mary Kom  
+     2. Lovlina Borgohain  
+     3. Nikhat Zareen  
+     4. Pooja Rani  
 
-Q.10 Who among the following was the successor of Mughal Emperor, Babur?
-Ans
-1. Aurangzeb
-2. Shahjahan
-3. Jahangir
-4. Humayun
+#### Government Schemes
+10. **In Pradhan Mantri Kisan Samman Nidhi Yojana, beneficiaries are provided with how much amount every year?**  
+   - Options:  
+     1. ₹4,000  
+     2. ₹6,000  
+     3. ₹5,000  
+     4. ₹3,000  
 
-Q.11 British Parliament introduced Indian High Courts Act in which year?
-Ans
-1. 1859
-2. 1860
-3. 1861
-4. 1858
+11. **In which year was the MPLADS scheme implemented?**  
+   - Options:  
+     1. 2013  
+     2. 1983  
+     3. 2003  
+     4. 1993  
 
-Q.12 In which of the following years was the Election Commission of India founded?
-Ans
-1. 1952
-2. 1950
-3. 1955
-4. 1947
+#### Polity
+12. **Which of the following duties has been NOT prescribed by the Indian Constitution as Fundamental Duties?**  
+   - Options:  
+     1. 2 only  
+     2. 2 and 3 both  
+     3. 1 only  
+     4. 2 and 4 both  
 
-Q.13
-Ans
-1. i (d), ii (a), iii (b), iv (c)
-2. i (b), ii (a), iii (d), iv (c)
-3. i (c), ii (d), iii (a), iv (b)
-4. i (b), ii (c), iii (d), iv (a)
+13. **In which of the following years was the Election Commission of India founded?**  
+   - Options:  
+     1. 1952  
+     2. 1950  
+     3. 1955  
+     4. 1947  
 
-Q.14 Which of the following numbers best describes the number of white pieces used in chess?
-Ans
-1. 18
-2. 16
-3. 19
-4. 17
+#### Environment
+14. **According to Census of India 2011, which Union Territory has the highest slum population?**  
+   - Options:  
+     1. Chandigarh  
+     2. Andaman and Nicobar Islands  
+     3. Puducherry  
+     4. Delhi  
 
-Q.15 Which set of diseases are caused by bacteria?
-Ans
-1. Dengue, Malaria, Cholera
-2. Influenza, Dengue, Cholera
-3. Typhoid, Cholera, Tuberculosis
-4. Malaria, Common cold, Influenza
+15. **The tropical cyclones in Australia are known as:**  
+   - Options:  
+     1. Hurricanes  
+     2. Typhoons  
+     3. Cyclones  
+     4. Willy-willies  
 
-Q.16 Which of the following hills is located in the Eastern Ghats?
-Ans
-1. Anai Mudi hill
-2. Khasi hill
-3. Mizo hill
-4. Shevaroy hill
+#### Static GK
+16. **Bhupen Hazarika was one of the most well-known personalities from the state of:**  
+   - Options:  
+     1. Nagaland  
+     2. Odisha  
+     3. Manipur  
+     4. Assam  
 
-Q.17 Paryushana festival is celebrated by the people of which of the following communities?
-Ans
-1. Jain
-2. Hindu
-3. Muslim
-4. Sikh
+17. **Paryushana festival is celebrated by the people of which of the following communities?**  
+   - Options:  
+     1. Jain  
+     2. Hindu  
+     3. Muslim  
+     4. Sikh  
 
-Q.18 Which of the following pairs is INCORRECTLY matched?
-Ans
-1. Starch: Egg yolk
-2. Maltose: Wheat, cornmeal, and barley
-3. Fructose: Grapes
-4. Lactose: Milk
+#### Biology
+18. **Which set of diseases are caused by bacteria?**  
+   - Options:  
+     1. Dengue, Malaria, Cholera  
+     2. Influenza, Dengue, Cholera  
+     3. Typhoid, Cholera, Tuberculosis  
+     4. Malaria, Common cold, Influenza  
 
-Q.19 In which year was the MPLADS scheme implemented?
-Ans
-1. 2013
-2. 1983
-3. 2003
-4. 1993
+#### Geography
+19. **Which of the following hills is located in the Eastern Ghats?**  
+   - Options:  
+     1. Anai Mudi hill  
+     2. Khasi hill  
+     3. Mizo hill  
+     4. Shevaroy hill  
 
-Q.20 Which of the following duties has been NOT prescribed by the Indian Constitution as Fundamental Duties?
-Ans
-1. 2 only
-2. 2 and 3 both
-3. 1 only
-4. 2 and 4 both
+#### Books and Authors
+20. **Prabha Atre, who received the Padma Vibhushan Award 2022, belongs to which Gharana?**  
+   - Options:  
+     1. Agra gharana  
+     2. Mewati gharana  
+     3. Kirana gharana  
+     4. Indore gharana  
 
-Q.21 According to Census of India 2011, which Union Territory has the highest slum population?
-Ans
-1. Chandigarh
-2. Andaman and Nicobar Islands
-3. Puducherry
-4. Delhi
+#### Physics
+21. **Calorimeter is a small container made of a thin sheet of which material with good thermal conductivity?**  
+   - Options:  
+     1. Cesium  
+     2. Platinum  
+     3. Silver  
+     4. Copper  
 
-Q.22 Bhupen Hazarika was one of the most well-known personalities from the state of:
-Ans
-1. Nagaland
-2. Odisha
-3. Manipur
-4. Assam
+#### Miscellaneous
+22. **Identify the Indian classical dancer associated with Kathak.**  
+   - Options:  
+     1. Vedantam Satyanarayana Sarma  
+     2. Sharodi Saikia  
+     3. Rohini Bhate  
+     4. Kelucharan Mohapatra  
 
-Q.23 The tropical cyclones in Australia are known as:
-Ans
-1. Hurricanes
-2. Typhoons
-3. Cyclones
-4. Willy-willies
-
-Q.24 Calorimeter is a small container made of a thin sheet of with good thermal conductivity.
-Ans
-1. Cesium
-2. Platinum
-3. Silver
-4. Copper
-
-Q.25 In Pradhan Mantri Kisan Samman Nidhi Yojana, beneficiaries are provided with how much amount every year?
-Ans
-1. ₹4,000
-2. ₹6,000
-3. ₹5,000
-4. ₹3,000
-
+23. **Which of the following numbers best describes the number of white pieces used in chess?**  
+   - Options:  
+     1. 18  
+     2. 16  
+     3. 19  
+     4. 17  
 
 
 Section: General Awareness
