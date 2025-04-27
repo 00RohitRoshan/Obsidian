@@ -2753,372 +2753,412 @@ Section : General Awareness
 
 Section: General Awareness
 
-Q.1 Which of the following articles from Directive Principles of state policy mentions about organization of Village Panchayats?  
-Ans  
-1. Article 40  
-2. Article 36  
-3. Article 42  
-4. Article 38
+#### Indian History and Politics
+1. **Which of the following articles from Directive Principles of State Policy mentions about organization of Village Panchayats?**  
+    - Options:  
+      1. Article 40  
+      2. Article 36  
+      3. Article 42  
+      4. Article 38  
 
-Q.2 Who among the following sports persons is designated as brand ambassador for Nikshay Mitra, an initiative under Pradhan Mantri TB Mukt Bharat Abhiyaan by Ministry of Health and Family welfare of GOI in November 2022?  
-Ans  
-1. Deepa Malik  
-2. Abhinav Bindra  
-3. Pullela Gopichand  
-4. Mary Kom
+2. **Samata Sainik Dal was formed in 1927 by whom among the following personalities?**  
+    - Options:  
+      1. Savitribai Phule  
+      2. Mahatma Gandhi  
+      3. Narayana Guru  
+      4. BR Ambedkar  
 
-Q.3 Which of the following was the mascot of the Khelo India University Games 2022?  
-Ans  
-1. Moga  
-2. Bheema  
-3. Jitu  
-4. Saavaj
+3. **Deimachus who was a Greek ambassador came to India during the reign of the Mauryan king, ____?**  
+    - Options:  
+      1. Shatadhanvan  
+      2. Ashoka  
+      3. Chandragupta Maurya  
+      4. Bindusara  
 
-Q.4 Which of the following statements about the aims of National Mission for Sustainable Agriculture (NMSA) of India is/are correct?  
-1. To make agriculture more productive.  
-2. To make agriculture more sustainable.  
-3. To promote organic farming.  
-Ans  
-1. Only 1 is correct .  
-2. Only 2 and 3 are correct .  
-3. Only 1 and 2 are correct .  
-4. 1, 2 and 3 are correct .
+4. **Which article of the Constitution of India lays down that it shall be the duty of the Advocate-General to give advice to the Government of the State upon legal matters?**  
+    - Options:  
+      1. Article 168  
+      2. Article 167  
+      3. Article 166  
+      4. Article 165  
 
-Q.5 On 29th October 2020, the Ministry of Science and Technology launched the SERB- POWER Scheme. What is the objective of the scheme?  
-Ans  
-1. To strengthen the solar programme of India with France  
-2. To mitigate gender disparity in science and engineering research funding in various academic programmes and laboratories  
-3. To allow reservation for women in the Parliament and Judiciary  
-4. To allow reservation for women in the Ministry of Science and Technology
+5. **Who among the following rulers built five astronomical observatories at different places in north India?**  
+    - Options:  
+      1. Madho Singh  
+      2. Maharana Pratap  
+      3. Sawai Mansingh  
+      4. Sawai Jaisingh II  
 
-Q.6 Samata Sainik Dal was formed in 1927 by whom among the following personalities?  
-Ans  
-1. Savitribai Phule  
-2. Mahatma Gandhi  
-3. Narayana Guru  
-4. BR Ambedkar
+6. **What is the tenure of office for the Chief Election Commissioner?**  
+    - Options:  
+      1. 5 years or up to the age of 60 years  
+      2. 6 years or up to the age of 60 years  
+      3. 6 years or up to the age of 65 years  
+      4. 5 years or up to the age of 65 years  
 
-Q.7 Which of the following is NOT a halogen gas?  
-Ans  
-1. Cl  
-2. He  
-3. Br  
-4. F
+7. **Which of the following animals was the emblem of the Chola dynasty?**  
+    - Options:  
+      1. Horse  
+      2. Wolf  
+      3. Elephant  
+      4. Tiger  
 
-Q.8 [No Question Text]  
-Ans  
-1. 53  
-2. 25  
-3. 72  
-4. 40
+---
 
-Q.9 Deimachus who was a Greek ambassador came to India during the reign of the Mauryan king, ____?  
-Ans  
-1. Shatadhanvan  
-2. Ashoka  
-3. Chandragupta Maurya  
-4. Bindusara
+#### Geography and Environment
+1. **Which of the following peninsular rivers falls into the Arabian Sea?**  
+    - Options:  
+      1. Mahanadi river  
+      2. Krishna river  
+      3. Sabarmati river  
+      4. Godavari river  
 
-Q.10 Which of the following countries has the highest Hindu population after India?  
-Ans  
-1. Sri Lanka  
-2. Bhutan  
-3. Myanmar  
-4. Nepal
+2. **In the ancient temple of Mahadev at Mahabaleshwar, the spout emerging from the mouth of a cow statue is the source of which river basin?**  
+    - Options:  
+      1. Kaveri  
+      2. Godavari  
+      3. Narmada  
+      4. Krishna  
 
-Q.11 Indira PP Bora is a Padma Shri Awardee 2020 for her contribution to which Indian classical dance?  
-Ans  
-1. Bharatanatyam  
-2. Kathak  
-3. Kuchipudi  
-4. Sattriya
+3. **What was a significant negative environmental impact of the Green Revolution?**  
+    - Options:  
+      1. Ozone layer depletion  
+      2. Increase in air pollution  
+      3. Deforestation  
+      4. Soil degradation  
 
-Q.12 Which article of the Constitution of India lays down that it shall be the duty of the Advocate-General to give advice to the Government of the State upon legal matters?  
-Ans  
-1. Article 168  
-2. Article 167  
-3. Article 166  
-4. Article 165
+---
 
-Q.13 Which of the following peninsular rivers falls into the Arabian Sea?  
-Ans  
-1. Mahanadi river  
-2. Krishna river  
-3. Sabarmati river  
-4. Godavari river
+#### Polity and Government Schemes
+1. **On 29th October 2020, the Ministry of Science and Technology launched the SERB-POWER Scheme. What is the objective of the scheme?**  
+    - Options:  
+      1. To strengthen the solar programme of India with France  
+      2. To mitigate gender disparity in science and engineering research funding in various academic programmes and laboratories  
+      3. To allow reservation for women in the Parliament and Judiciary  
+      4. To allow reservation for women in the Ministry of Science and Technology  
 
-Q.14 Follow On is related to which of the following cricket formats?  
-Ans  
-1. Only Test Matches  
-2. Both test and One-day matches  
-3. Only One Day matches  
-4. Only T20 matches
+2. **Which of the following statements about the aims of National Mission for Sustainable Agriculture (NMSA) of India is/are correct?**  
+    - Options:  
+      1. Only 1 is correct  
+      2. Only 2 and 3 are correct  
+      3. Only 1 and 2 are correct  
+      4. 1, 2 and 3 are correct  
 
-Q.15 Who among the following rulers built five astronomical observatories at different places in north India?  
-Ans  
-1. Madho Singh  
-2. Maharana Pratap  
-3. Sawai Mansingh  
-4. Sawai Jaisingh II
+---
 
-Q.16 Which of the following festivals is celebrated in Madhya Pradesh?  
-Ans  
-1. Thaipusam Festival  
-2. Bihu Festival  
-3. Jaisalmer Desert Festival  
-4. Khajuraho Dance Festival
+#### Biology
+1. **Which of the following is NOT a halogen gas?**  
+    - Options:  
+      1. Cl  
+      2. He  
+      3. Br  
+      4. F  
 
-Q.17 In the ancient temple of Mahadev at Mahabaleshwar, the spout emerging from the mouth of a cow statue is the source of which river basin?  
-Ans  
-1. Kaveri  
-2. Godavari  
-3. Narmada  
-4. Krishna
+2. **Which is a serious contagious bacterial infection that usually affects the mucous membranes of the nose and throat?**  
+    - Options:  
+      1. Diphtheria  
+      2. Meningococcal  
+      3. Shigellosis  
+      4. Chlamydia  
 
-Q.18 Which is a serious contagious bacterial infection that usually affects the mucous membranes of the nose and throat?  
-Ans  
-1. Diphtheria  
-2. Meningococcal  
-3. Shigellosis  
-4. Chlamydia
+3. **Which of the following does NOT belong to the category of Porifera?**  
+    - Options:  
+      1. Spongilla  
+      2. Hydra  
+      3. Euplectella  
+      4. Sycon  
 
-Q.19 Who among the following is a Sarod player popularly known as 'Sarod Samrat'?  
-Ans  
-1. Ustad Amjad Ali Khan Bangash  
-2. Pandit Kishan Maharaj  
-3. Pandit Shivkumar Sharma  
-4. Pandit Ravi Shankar
+---
 
-Q.20 What was a significant negative environmental impact of the Green Revolution?  
-Ans  
-1. Ozone layer depletion  
-2. Increase in air pollution  
-3. Deforestation  
-4. Soil degradation
+#### Economics
+1. **What is subtracted from GDP to arrive at NDP?**  
+    - Options:  
+      1. Net indirect taxes  
+      2. Subsidies  
+      3. Depreciation  
+      4. Net factor income from abroad  
 
-Q.21 What is subtracted from GDP to arrive at NDP?  
-Ans  
-1. Net indirect taxes  
-2. Subsidies  
-3. Depreciation  
-4. Net factor income from abroad
+---
 
-Q.22 The Maharashtra Bhushan was conferred upon ____ in the year 2002.  
-Ans  
-1. Pandit Ravi Shankar  
-2. Pandit Jasraj  
-3. Pandit Hari Prasad Chaurasia  
-4. Pandit Bhimsen Joshi
+#### Static GK and Miscellaneous
+1. **Which of the following countries has the highest Hindu population after India?**  
+    - Options:  
+      1. Sri Lanka  
+      2. Bhutan  
+      3. Myanmar  
+      4. Nepal  
 
-Q.23 What is the tenure of office for the Chief Election Commissioner?  
-Ans  
-1. 5 years or up to the age of 60 years  
-2. 6 years or up to the age of 60 years  
-3. 6 years or up to the age of 65 years  
-4. 5 years or up to the age of 65 years
+2. **Which of the following festivals is celebrated in Madhya Pradesh?**  
+    - Options:  
+      1. Thaipusam Festival  
+      2. Bihu Festival  
+      3. Jaisalmer Desert Festival  
+      4. Khajuraho Dance Festival  
 
-Q.24 Which of the following animals was the emblem of the Chola dynasty?  
-Ans  
-1. Horse  
-2. Wolf  
-3. Elephant  
-4. Tiger
+---
 
-Q.25 Which of the following does NOT belong to the category of Porifera?  
-Ans  
-1. Spongilla  
-2. Hydra  
-3. Euplectella  
-4. Sycon
+#### Books, Authors, and Awards
+1. **Indira PP Bora is a Padma Shri Awardee 2020 for her contribution to which Indian classical dance?**  
+    - Options:  
+      1. Bharatanatyam  
+      2. Kathak  
+      3. Kuchipudi  
+      4. Sattriya  
 
+2. **Who among the following is a Sarod player popularly known as 'Sarod Samrat'?**  
+    - Options:  
+      1. Ustad Amjad Ali Khan Bangash  
+      2. Pandit Kishan Maharaj  
+      3. Pandit Shivkumar Sharma  
+      4. Pandit Ravi Shankar  
+
+3. **The Maharashtra Bhushan was conferred upon ____ in the year 2002.**  
+    - Options:  
+      1. Pandit Ravi Shankar  
+      2. Pandit Jasraj  
+      3. Pandit Hari Prasad Chaurasia  
+      4. Pandit Bhimsen Joshi  
+
+---
+
+#### Government Schemes and Initiatives (Sports related)
+1. **Who among the following sports persons is designated as brand ambassador for Nikshay Mitra, an initiative under Pradhan Mantri TB Mukt Bharat Abhiyaan by Ministry of Health and Family welfare of GOI in November 2022?**  
+    - Options:  
+      1. Deepa Malik  
+      2. Abhinav Bindra  
+      3. Pullela Gopichand  
+      4. Mary Kom  
+
+---
+
+#### Sports
+1. **Which of the following was the mascot of the Khelo India University Games 2022?**  
+    - Options:  
+      1. Moga  
+      2. Bheema  
+      3. Jitu  
+      4. Saavaj  
+
+2. **Follow On is related to which of the following cricket formats?**  
+    - Options:  
+      1. Only Test Matches  
+      2. Both test and One-day matches  
+      3. Only One Day matches  
+      4. Only T20 matches  
 
 
 Section : General Awareness
 
-Q.1 Which fundamental duty applies on you when you see a few school students, on their educational trip to Humayun's tomb, writing their names on the walls?
-Ans  
-1. To uphold and protect the sovereignty, unity and integrity of India  
-2. To defend the country and render national service  
-3. To protect and improve the natural environment  
-4. To safeguard public property
+#### Indian History and Politics
+1. **Which fundamental duty applies on you when you see a few school students, on their educational trip to Humayun's tomb, writing their names on the walls?**  
+    - Options:  
+      1. To uphold and protect the sovereignty, unity and integrity of India  
+      2. To defend the country and render national service  
+      3. To protect and improve the natural environment  
+      4. To safeguard public property  
 
-Q.2 Identify the sequence of implementation of the following taxes.  
-I. Land revenue  
-II. Sales tax  
-III. MODVAT  
-IV. Service tax  
-Ans  
-1. III, II, IV, I  
-2. IV, II, I, III  
-3. I, II, III, IV  
-4. II, IV, I, III
+2. **Which of the following articles of the Constitution of India lays down that 'The allocation of seats in the Council of States to be filled by representatives of the States and of the Union territories shall be in accordance with the provisions in that behalf contained in the fourth Schedule'?**  
+    - Options:  
+      1. Article 83  
+      2. Article 80  
+      3. Article 81  
+      4. Article 82  
 
-Q.3 Which Lavani singer got Padma Shri 2022 by the President of India?  
-Ans  
-1. Sulochana Chavan  
-2. Vaishali Samant  
-3. Bela Shende  
-4. Devaki Pandit
+3. **Who among the following founded the Atmiya Sabha in 1814?**  
+    - Options:  
+      1. Keshab Chandra Sen  
+      2. Debendranath Tagore  
+      3. Ishwar Chandra Vidyasagar  
+      4. Raja Rammohun Roy  
 
-Q.4 In the year 1925, who extracted lipids from an erythrocyte sample and found that lipid monolayers are good for measuring molecular surface area versus lateral pressure?  
-Ans  
-1. Avery and Buck  
-2. Gorter and Grendel  
-3. Carson and Eccles  
-4. Margulis and Ruska
+4. **In the second Round Table Conference, Mahatma Gandhi represented which of the following parties?**  
+    - Options:  
+      1. Communist Party of India  
+      2. Muslim League  
+      3. Indian National Congress  
+      4. All India Forward Bloc  
 
-Q.5 Which of the following is a species of tropical deciduous forests?  
-Ans  
-1. Ebony  
-2. Mahogany  
-3. Teak  
-4. Palms
+5. **The Maukharis ruled over which of the following cities in western Uttar Pradesh that over the time replaced Pataliputra as a political centre of north India?**  
+    - Options:  
+      1. Kanpur  
+      2. Agra  
+      3. Kannauj  
+      4. Bareli  
 
-Q.6 Who among the following was appointed as the Governor of Jharkhand in February 2023?  
-Ans  
-1. T Gahlot  
-2. RN Ravi  
-3. Ramesh Bais  
-4. CP Radhakrishnan
+6. **Under which of the following Pala king's patronage the Vikramshila university in 8th century India was founded?**  
+    - Options:  
+      1. Dharmapala  
+      2. Gopala  
+      3. Devapala  
+      4. Mahipala I  
 
-Q.7 Which of the following is the most acidic?  
-Ans  
-1. C3H7COOH  
-2. CH3COOH  
-3. C2H5COOH  
-4. HCOOH
+---
 
-Q.8 What is the primary objective of the 'Standup India' initiative?  
-Ans  
-1. To promote digital transactions nationwide  
-2. To support all types of startups  
-3. To facilitate bank loans for SC/ST and women entrepreneurs  
-4. To boost the manufacturing sector
+#### Geography and Environment
+1. **Which of the following is a species of tropical deciduous forests?**  
+    - Options:  
+      1. Ebony  
+      2. Mahogany  
+      3. Teak  
+      4. Palms  
 
-Q.9 Which of the following articles of the Constitution of India lays down that 'The allocation of seats in the Council of States to be filled by representatives of the States and of the Union territories shall be in accordance with the provisions in that behalf contained in the fourth Schedule'?  
-Ans  
-1. Article 83  
-2. Article 80  
-3. Article 81  
-4. Article 82
+2. **Through which routes is the majority of India's international trade carried out?**  
+    - Options:  
+      1. Only Railway  
+      2. Sea and railway  
+      3. Railway and air  
+      4. Sea and air  
 
-Q.10 Annapurna Devi is associated with which of the following musical instruments?  
-Ans  
-1. Rudra veena  
-2. Surbahar  
-3. Ektara  
-4. Taal
+3. **Which of the following is NOT a greenhouse gas?**  
+    - Options:  
+      1. Nitrous oxide  
+      2. Methane  
+      3. Carbon dioxide  
+      4. Nitric oxide  
 
-Q.11 Where was the first women's international test cricket match hosted in India in 1976?  
-Ans  
-1. Mumbai  
-2. Bangalore  
-3. Kolkata  
-4. New Delhi
+---
 
-Q.12 Who among the following founded the Atmiya Sabha in 1814?  
-Ans  
-1. Keshab Chandra Sen  
-2. Debendranath Tagore  
-3. Ishwar Chandra Vidyasagar  
-4. Raja Rammohun Roy
+#### Polity and Government Schemes
+1. **Who among the following was appointed as the Governor of Jharkhand in February 2023?**  
+    - Options:  
+      1. T Gahlot  
+      2. RN Ravi  
+      3. Ramesh Bais  
+      4. CP Radhakrishnan  
 
-Q.13 Matki dance is the famous folk dance associated with which of the following states?  
-Ans  
-1. Maharashtra  
-2. Gujarat  
-3. Punjab  
-4. Madhya Pradesh
+2. **What is the primary objective of the 'Standup India' initiative?**  
+    - Options:  
+      1. To promote digital transactions nationwide  
+      2. To support all types of startups  
+      3. To facilitate bank loans for SC/ST and women entrepreneurs  
+      4. To boost the manufacturing sector  
 
-Q.14 In the second Round Table Conference, Mahatma Gandhi represented which of the following parties?  
-Ans  
-1. Communist Party of India  
-2. Muslim League  
-3. Indian National Congress  
-4. All India Forward Bloc
+3. **What is the amount of financial assistance provided per month to girl students studying in government schools under the 'Tamil Nadu Pudhumai Penn Scheme' launched by the Government of Tamil Nadu in 2023?**  
+    - Options:  
+      1. ₹2,000 per month  
+      2. ₹500 per month  
+      3. ₹3,000 per month  
+      4. ₹1,000 per month  
 
-Q.15 Through which routes is the majority of India's international trade carried out?  
-Ans  
-1. Only Railway  
-2. Sea and railway  
-3. Railway and air  
-4. Sea and air
+4. **Under Pradhan Mantri Fasal Bima Yojana, the maximum premium payable by the farmers will be for all kharif food and oilseeds crops.**  
+    - Options:  
+      1. 6%  
+      2. 8%  
+      3. 2%  
+      4. 4%  
 
-Q.16 Which of the following is NOT a greenhouse gas?  
-Ans  
-1. Nitrous oxide  
-2. Methane  
-3. Carbon dioxide  
-4. Nitric oxide
+---
 
-Q.17 What is the amount of financial assistance provided per month to girl students studying in government schools under the 'Tamil Nadu Pudhumai Penn Scheme' launched by the Government of Tamil Nadu in 2023?  
-Ans  
-1. ₹2,000 per month  
-2. ₹500 per month  
-3. ₹3,000 per month  
-4. ₹1,000 per month
+#### Chemistry
+1. **Which of the following is the most acidic?**  
+    - Options:  
+      1. C3H7COOH  
+      2. CH3COOH  
+      3. C2H5COOH  
+      4. HCOOH  
 
-Q.18 Which of the following options indicates the size of PPLO (Pleuro Pneumonia Like Organisms)?  
-Ans  
-1. About 10 μm  
-2. About 20 μm  
-3. About 0.1 μm  
-4. About 30 μm
+2. **In the year 1925, who extracted lipids from an erythrocyte sample and found that lipid monolayers are good for measuring molecular surface area versus lateral pressure?**  
+    - Options:  
+      1. Avery and Buck  
+      2. Gorter and Grendel  
+      3. Carson and Eccles  
+      4. Margulis and Ruska  
 
-Q.19 According to the Census of India 2011, 'Other Religions and Persuasions (ORP)' comprise how much of the population?  
-Ans  
-1. 9.9 million  
-2. 5.9 million  
-3. 7.9 million  
-4. 3.9 million
+3. **Which allotrope of carbon was discovered by Robert F Curl, Harold W Kroto and Richard E Smalley in 1985?**  
+    - Options:  
+      1. Lonsdaleite  
+      2. Fullerene  
+      3. Carbophene  
+      4. Graphene  
 
-Q.20 Under Pradhan Mantri Fasal Bima Yojana, the maximum premium payable by the farmers will be for all kharif food and oilseeds crops.  
-Ans  
-1. 6%  
-2. 8%  
-3. 2%  
-4. 4%
+---
 
-Q.21 The Maukharis ruled over which of the following cities in western Uttar Pradesh that over the time replaced Pataliputra as a political centre of north India?  
-Ans  
-1. Kanpur  
-2. Agra  
-3. Kannauj  
-4. Bareli
+#### Biology
+1. **Which of the following options indicates the size of PPLO (Pleuro Pneumonia Like Organisms)?**  
+    - Options:  
+      1. About 10 μm  
+      2. About 20 μm  
+      3. About 0.1 μm  
+      4. About 30 μm  
 
-Q.22 Which allotrope of carbon was discovered by Robert F Curl, Harold W Kroto and Richard E Smalley in 1985?  
-Ans  
-1. Lonsdaleite  
-2. Fullerene  
-3. Carbophene  
-4. Graphene
+---
 
-Q.23 Under which of the following Pala king's patronage the Vikramshila university in 8th century India was founded?  
-Ans  
-1. Dharmapala  
-2. Gopala  
-3. Devapala  
-4. Mahipala I
+#### Economics
+1. **Identify the sequence of implementation of the following taxes.**  
+    - I. Land revenue  
+    - II. Sales tax  
+    - III. MODVAT  
+    - IV. Service tax  
+    - Options:  
+      1. III, II, IV, I  
+      2. IV, II, I, III  
+      3. I, II, III, IV  
+      4. II, IV, I, III  
 
-Q.24 Kajari Mahotsav is primarily celebrated in which of the following districts of Uttar Pradesh?  
-Ans  
-1. Kushi Nagar  
-2. Gorakhpur  
-3. Jhansi  
-4. Mirzapur
+---
 
-Q.25 When was the Rajiv Gandhi Khel Ratna Award renamed as Major Dhyan Chand Khel Ratna Award?  
-Ans  
-1. 6th August 2021  
-2. 6th August 2022  
-3. 5th January 2022  
-4. 5th January 2021
+#### Static GK and Miscellaneous
+1. **According to the Census of India 2011, 'Other Religions and Persuasions (ORP)' comprise how much of the population?**  
+    - Options:  
+      1. 9.9 million  
+      2. 5.9 million  
+      3. 7.9 million  
+      4. 3.9 million  
+
+---
+
+#### Books, Authors, and Awards
+1. **Which Lavani singer got Padma Shri 2022 by the President of India?**  
+    - Options:  
+      1. Sulochana Chavan  
+      2. Vaishali Samant  
+      3. Bela Shende  
+      4. Devaki Pandit  
+
+2. **Annapurna Devi is associated with which of the following musical instruments?**  
+    - Options:  
+      1. Rudra veena  
+      2. Surbahar  
+      3. Ektara  
+      4. Taal  
+
+---
+
+#### Sports
+1. **Where was the first women's international test cricket match hosted in India in 1976?**  
+    - Options:  
+      1. Mumbai  
+      2. Bangalore  
+      3. Kolkata  
+      4. New Delhi  
+
+2. **When was the Rajiv Gandhi Khel Ratna Award renamed as Major Dhyan Chand Khel Ratna Award?**  
+    - Options:  
+      1. 6th August 2021  
+      2. 6th August 2022  
+      3. 5th January 2022  
+      4. 5th January 2021  
+
+---
+
+#### Festivals and Culture
+1. **Matki dance is the famous folk dance associated with which of the following states?**  
+    - Options:  
+      1. Maharashtra  
+      2. Gujarat  
+      3. Punjab  
+      4. Madhya Pradesh  
+
+2. **Kajari Mahotsav is primarily celebrated in which of the following districts of Uttar Pradesh?**  
+    - Options:  
+      1. Kushi Nagar  
+      2. Gorakhpur  
+      3. Jhansi  
+      4. Mirzapur  
 
 
+Section : General Awareness
 
-**Section : General Awareness**
-
-**
 
 Q.1** According to the Varna system that was prevalent in the Vedic period, which of the following was NOT a Varna?  
 - 1. Kshatriyas  
