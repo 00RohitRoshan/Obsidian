@@ -3159,1320 +3159,1429 @@ Section : General Awareness
 
 Section : General Awareness
 
+#### Indian History and Politics
+1. **According to the Varna system that was prevalent in the Vedic period, which of the following was NOT a Varna?**  
+   - Options:  
+     1. Kshatriyas  
+     2. Vaishyas  
+     3. Brahmanas  
+     4. Samiti  
 
-Q.1** According to the Varna system that was prevalent in the Vedic period, which of the following was NOT a Varna?  
-- 1. Kshatriyas  
-- 2. Vaishyas  
-- 3. Brahmanas  
-- 4. Samiti  
+2. **Sido and Kanhu were leaders of which of the following tribal rebellions?**  
+   - Options:  
+     1. Munda Rebellion  
+     2. Santhal Rebellion  
+     3. Moplah Rebellion  
+     4. Kol Rebellion  
 
-**
+3. **Who founded the Brahmo Samaj in Calcutta in 1828?**  
+   - Options:  
+     1. Ramabai Ranade  
+     2. Ram Mohan Roy  
+     3. Swami Vivekanand  
+     4. Gopal Krishna Gokhale  
 
-Q.2** Sido and Kanhu were leaders of which of the following tribal rebellions?  
-- 1. Munda Rebellion  
-- 2. Santhal Rebellion  
-- 3. Moplah Rebellion  
-- 4. Kol Rebellion  
+4. **Under which of the following Acts, the Board of Control was established in England to control and supervise the administration of British India?**  
+   - Options:  
+     1. Charter Act of 1793  
+     2. Regulating Act of 1773  
+     3. Charter Act of 1813  
+     4. Pitt's India Act of 1784  
 
-**
+5. **The ____ of every state unfurls the flag in its capital on the Republic Day.**  
+   - Options:  
+     1. Judge of High Court  
+     2. Speaker  
+     3. Governor  
+     4. Chief Minister  
 
-Q.3** Who founded the Brahmo Samaj in Calcutta in 1828?  
-- 1. Ramabai Ranade  
-- 2. Ram Mohan Roy  
-- 3. Swami Vivekanand  
-- 4. Gopal Krishna Gokhale  
+6. **The Upper House of a State Legislature is known as the ____.**  
+   - Options:  
+     1. Lok Sabha  
+     2. Vidhan Parishad  
+     3. Vidhan Sabha  
+     4. Rajya Sabha  
 
-**
+7. **Part IV A of the Indian Constitution was inserted in the Indian Constitution through ____ Constitutional Amendment Act.**  
+   - Options:  
+     1. 44th  
+     2. 46th  
+     3. 42nd  
+     4. 48th  
 
-Q.4** According to the Ministry of Road Transport and Highways' annual report (2020-2021), which position does India have in terms of road networks in the world?  
-- 1. Third  
-- 2. First  
-- 3. Second  
-- 4. Fourth  
+8. **The Parliament passed the Essential Defence Services Bill, 2021 in August 2021. Which of the following is an objective behind passing it?**  
+   - Options:  
+     1. To prohibit strikes, lockouts, and layoffs in units engaged in essential defence services  
+     2. To appoint more women in defence services  
+     3. To encourage more FDI in defence services  
+     4. To implement one rank one pension  
 
-**
+#### Geography
+1. **According to the Ministry of Road Transport and Highways' annual report (2020-2021), which position does India have in terms of road networks in the world?**  
+   - Options:  
+     1. Third  
+     2. First  
+     3. Second  
+     4. Fourth  
 
-Q.5** The outermost part of the Earth is known as:  
-- 1. the core  
-- 2. the mantle  
-- 3. the crust  
-- 4. volcano  
+2. **The outermost part of the Earth is known as:**  
+   - Options:  
+     1. the core  
+     2. the mantle  
+     3. the crust  
+     4. volcano  
 
-**
+3. **Which of the following are west-flowing rivers?**  
+   - Options:  
+     1. Godavari and Mahanadi  
+     2. Ganga and Yamuna  
+     3. Mahi and Sabarmati  
+     4. Krishna and Kaveri  
 
-Q.6** Who among the following is one of the Deputy Chief Ministers of Uttar Pradesh as of July 2023?  
-- 1. Keshav Prasad Maurya  
-- 2. Manoj Sinha  
-- 3. Narottam Mishra  
-- 4. Yogi Adityanath  
+#### Polity
+1. **Who among the following is one of the Deputy Chief Ministers of Uttar Pradesh as of July 2023?**  
+   - Options:  
+     1. Keshav Prasad Maurya  
+     2. Manoj Sinha  
+     3. Narottam Mishra  
+     4. Yogi Adityanath  
 
-**
+#### Chemistry
+1. **Find out why white silver chloride turns grey in sunlight.**  
+   - Options:  
+     1. Due to rusting of silver in presence of oxygen  
+     2. Due to redox reaction  
+     3. Due to the decomposition of silver chloride into silver and chlorine by light  
+     4. Due to the displacement of silver chloride to silver oxide  
 
-Q.7** Find out why white silver chloride turns grey in sunlight.  
-- 1. Due to rusting of silver in presence of oxygen  
-- 2. Due to redox reaction  
-- 3. Due to the decomposition of silver chloride into silver and chlorine by light  
-- 4. Due to the displacement of silver chloride to silver oxide  
+2. **Why does the milkman add a very small amount of baking soda to fresh milk?**  
+   - Options:  
+     1. To maintain the pH of the fresh milk at 6 for a longer time  
+     2. To reduce the pH of the fresh milk from 6 to slightly alkaline  
+     3. To increase the pH of the fresh milk from 6 to slightly alkaline  
+     4. To reduce the pH of the fresh milk from 6 to slightly more acidic  
 
-**
+3. **In the context of periodicity, a unit called picometre is used to measure the _____.**  
+   - Options:  
+     1. molar mass  
+     2. atomic radius  
+     3. atomic density  
+     4. spin quantum number  
 
-Q.8** Why does the milkman add a very small amount of baking soda to fresh milk?  
-- 1. To maintain the pH of the fresh milk at 6 for a longer time  
-- 2. To reduce the pH of the fresh milk from 6 to slightly alkaline  
-- 3. To increase the pH of the fresh milk from 6 to slightly alkaline  
-- 4. To reduce the pH of the fresh milk from 6 to slightly more acidic  
+#### Economics
+1. **Harrod Domar model was the main idea behind the ____ Five Year Plan.**  
+   - Options:  
+     1. First  
+     2. Third  
+     3. Fourth  
+     4. Second  
 
-**
+2. **Money supply is a ____ concept.**  
+   - Options:  
+     1. flow  
+     2. stock  
+     3. non-measurable  
+     4. measurable  
 
-Q.9** Under which of the following Acts, the Board of Control was established in England to control and supervise the administration of British India?  
-- 1. Charter Act of 1793  
-- 2. Regulating Act of 1773  
-- 3. Charter Act of 1813  
-- 4. Pitt's India Act of 1784  
+#### Biology
+1. **Which marine carotenoid is abundant in brown seaweed, macroalgae, and diatoms?**  
+   - Options:  
+     1. α-cryptoxanthin  
+     2. Neoxanthin  
+     3. Astaxanthin  
+     4. Fucoxanthin  
 
-**
+#### Government Schemes
+1. **When was the Rashtriya Swasthya Bima Yojana introduced to provide health insurance to people below the poverty line?**  
+   - Options:  
+     1. 2014  
+     2. 2008  
+     3. 2017  
+     4. 2009  
 
-Q.10** The ____ of every state unfurls the flag in its capital on the Republic Day.  
-- 1. Judge of High Court  
-- 2. Speaker  
-- 3. Governor  
-- 4. Chief Minister  
+#### Sports
+1. **Which of the following states was the overall champion in both men and women categories in the first Janjatiya Khel Mahotsav?**  
+   - Options:  
+     1. Jharkhand  
+     2. Odisha  
+     3. Chhattisgarh  
+     4. Maharashtra  
 
-**
+2. **Who was the first Indian woman wrestler to represent the country at the 2012 London Olympic Games?**  
+   - Options:  
+     1. Sakshi Malik  
+     2. Vinesh Phogat  
+     3. Babita Phogat  
+     4. Geeta Phogat  
 
-Q.11** Which marine carotenoid is abundant in brown seaweed, macroalgae, and diatoms?  
-- 1. α-cryptoxanthin  
-- 2. Neoxanthin  
-- 3. Astaxanthin  
-- 4. Fucoxanthin  
+#### Static GK
+1. **Who among the following was the Former Secretary (HRD), Information and Broadcasting (I&B) and has been appointed as the advisor to the Prime Minister of India in October 2021?**  
+   - Options:  
+     1. Amit Khare  
+     2. PK Sinha  
+     3. Amarjeet Sinha  
+     4. Shri Apurva Chandra  
 
-**
+#### Books and Authors / Arts
+1. **Who among the following is/was a famous sitarist?**  
+   - Options:  
+     1. Pandit Bhimsen Joshi  
+     2. Ravi Shankar  
+     3. Zakir Hussain  
+     4. Ustad Bismillah Khan  
 
-Q.12** Harrod Domar model was the main idea behind the ____ Five Year Plan.  
-- 1. First  
-- 2. Third  
-- 3. Fourth  
-- 4. Second  
+2. **Three Poets Pampa, Ponna, and Ranna are called as the 'Three Jewels' of:**  
+   - Options:  
+     1. Kannada Literature  
+     2. Sanskrit Literature  
+     3. Telugu Literature  
+     4. Tamil Literature  
 
-**
+3. **Indian classical violinist Annavarapu Rama Swamy was awarded with the ____ in 2021.**  
+   - Options:  
+     1. Sangeet Natak Akademi  
+     2. Padma Vibhushan  
+     3. Padma Bhushan  
+     4. Padma Shri  
 
-Q.13** Which of the following are west-flowing rivers?  
-- 1. Godavari and Mahanadi  
-- 2. Ganga and Yamuna  
-- 3. Mahi and Sabarmati  
-- 4. Krishna and Kaveri  
 
-**
+Section : General Awareness
 
-Q.14** The Upper House of a State Legislature is known as the ____.  
-- 1. Lok Sabha  
-- 2. Vidhan Parishad  
-- 3. Vidhan Sabha  
-- 4. Rajya Sabha  
+#### Economics
+1. **How was the growth in all food grains after the Green Revolution?**  
+   - Options:  
+     1. Unpredictable  
+     2. Proportionate  
+     3. Disproportionate  
+     4. Unitary  
 
-**
+2. **What correctly defines change of inventories of a firm during a year?**  
+   - Options:  
+     1. Sale of the firm during the year - Production of the firm during the year  
+     2. Production of the firm during the previous year - Sale of the firm during the year  
+     3. Production of the firm during the year - Sale of the firm during the year  
+     4. Production of the firm during the year - Sale of the firm during the previous year  
 
-Q.15** When was the Rashtriya Swasthya Bima Yojana introduced to provide health insurance to people below the poverty line?  
-- 1. 2014  
-- 2. 2008  
-- 3. 2017  
-- 4. 2009  
+3. **The Drought Prone Area Programme (DPAP) for providing employment to people in drought prone areas was started by the Government of India during the ___.**  
+   - Options:  
+     1. Fourth Five-Year Plan  
+     2. Seventh Five-Year Plan  
+     3. Third Five-Year Plan  
+     4. Sixth Five-Year Plan  
 
-**
 
-Q.16** Part IV A of the Indian Constitution was inserted in the Indian Constitution through ____ Constitutional Amendment Act.  
-- 1. 44th  
-- 2. 46th  
-- 3. 42nd  
-- 4. 48th  
+#### Polity
+1. **Which of the following is NOT a feature of the Constitution of India?**  
+   - Options:  
+     1. Independent Judiciary  
+     2. Universal Adult Franchise  
+     3. Dual Citizenship  
+     4. Blend of rigidity & flexibility  
 
-**
+2. **Which of the following statements is correct with respect to the political parties in India?**  
+   - Options:  
+     1. All parties are registered with the Supreme Court of India.  
+     2. A political party symbol is assigned by the President of India.  
+     3. India has a multi-party system classified as national, state or regional level.  
+     4. Status of party is accorded by the Parliament.  
 
-Q.17** Which of the following states was the overall champion in both men and women categories in the first Janjatiya Khel Mahotsav?  
-- 1. Jharkhand  
-- 2. Odisha  
-- 3. Chhattisgarh  
-- 4. Maharashtra  
+3. **The Epidemic Diseases (Amendment) Ordinance, 2020 amended which of the following Acts?**  
+   - Options:  
+     1. The Epidemic Diseases Act, 1890  
+     2. The Epidemic Diseases Act, 1892  
+     3. The Epidemic Diseases Act, 1895  
+     4. The Epidemic Diseases Act, 1897  
 
-**
 
-Q.18** Money supply is a ____ concept.  
-- 1. flow  
-- 2. stock  
-- 3. non-measurable  
-- 4. measurable  
+#### Geography
+1. **Which of the following is an example of major industrial region of India?**  
+   - Options:  
+     1. Bhojpur-Munger  
+     2. Chota Nagpur region  
+     3. Bilaspur-Korba  
+     4. Jaipur-Ajmer  
 
-**
+2. **Which of the following rivers is an east flowing river?**  
+   - Options:  
+     1. Godavari river  
+     2. Narmada river  
+     3. Mahi river  
+     4. Tapi river  
 
-Q.19** The Parliament passed the Essential Defence Services Bill, 2021 in August 2021. Which of the following is an objective behind passing it?  
-- 1. To prohibit strikes, lockouts, and layoffs in units engaged in essential defence services  
-- 2. To appoint more women in defence services  
-- 3. To encourage more FDI in defence services  
-- 4. To implement one rank one pension  
+3. **Which of the following is a landlocked Salt Lake in South-West Asia between Israel and Jordan?**  
+   - Options:  
+     1. Don Juan Pond  
+     2. Dead Sea  
+     3. Caspian Sea  
+     4. Aral Sea  
 
-**
 
-Q.20** In the context of periodicity, a unit called picometre is used to measure the _____.  
-- 1. molar mass  
-- 2. atomic radius  
-- 3. atomic density  
-- 4. spin quantum number  
+#### Biology
+1. **Filtration of waste products in humans happens in the kidneys. There is a large number of filtration units present inside the kidneys to help them in doing this job. These filtration units are called:**  
+   - Options:  
+     1. Bowman's capsules  
+     2. Alveoli  
+     3. Nephrons  
+     4. Capillaries  
 
-**
 
-Q.21** Who among the following was the Former Secretary (HRD), Information and Broadcasting (I&B) and has been appointed as the advisor to the Prime Minister of India in October 2021?  
-- 1. Amit Khare  
-- 2. PK Sinha  
-- 3. Amarjeet Sinha  
-- 4. Shri Apurva Chandra  
+#### Chemistry
+1. **Which number is called Avogadro's constant, named after the 19th century scientist Amedeo Avogadro?**  
+   - Options:  
+     1. 6.032 × 10¹⁹  
+     2. 6.012 × 10²¹  
+     3. 6.022 × 10²³  
+     4. 6.020 × 10²⁰  
 
-**
+2. **Which of the following statements are true based on the 4NH₃(g) + 5O₂(g) → 4NO(g) + 6H₂O(g)?**  
+   - Options:  
+     1. (c) and (d)  
+     2. (b) and (c)  
+     3. (a) and (d)  
+     4. (a) and (b)  
 
-Q.22** Who among the following is/was a famous sitarist?  
-- 1. Pandit Bhimsen Joshi  
-- 2. Ravi Shankar  
-- 3. Zakir Hussain  
-- 4. Ustad Bismillah Khan  
 
-**
+#### Environment
+1. **Under the 'Mero Rukh Mero Santati' initiative launched by the Sikkim Chief Minister Prem Singh Tamang in 2023, how many trees will be planted for every child born in Sikkim?**  
+   - Options:  
+     1. 100  
+     2. 150  
+     3. 200  
+     4. 50  
 
-Q.23** Three Poets Pampa, Ponna, and Ranna are called as the 'Three Jewels' of:  
-- 1. Kannada Literature  
-- 2. Sanskrit Literature  
-- 3. Telugu Literature  
-- 4. Tamil Literature  
+2. **Which branch of ecology deals with the characteristics of ancient environment and their relationship with ancient plants and animals?**  
+   - Options:  
+     1. Demecology  
+     2. Mycology  
+     3. Ichthyology  
+     4. Paleoecology  
 
-**
 
-Q.24** Who was the first Indian woman wrestler to represent the country at the 2012 London Olympic Games?  
-- 1. Sakshi Malik  
-- 2. Vinesh Phogat  
-- 3. Babita Phogat  
-- 4. Geeta Phogat  
+#### History
+1. **Which of the following kingdoms was divided into subdivisions called Aharas or Rashtras that meant districts?**  
+   - Options:  
+     1. Satavahana  
+     2. Kushana  
+     3. Parthian  
+     4. Shaka  
 
-**
+2. **The Daroga system in 1792 was introduced by whom among the following Governor-Generals in India?**  
+   - Options:  
+     1. Lord Minto  
+     2. Lord Cornwallis  
+     3. Lord Mayo  
+     4. Lord William Bentinck  
 
-Q.25** Indian classical violinist Annavarapu Rama Swamy was awarded with the ____ in 2021.  
-- 1. Sangeet Natak Akademi  
-- 2. Padma Vibhushan  
-- 3. Padma Bhushan  
-- 4. Padma Shri  
+3. **Which Indian political leader was called as Lok Nayak?**  
+   - Options:  
+     1. Ram Manohar Lohia  
+     2. Jai Prakash Narayan  
+     3. Subhash Chandra Bose  
+     4. Bal Gangadhar Tilak  
+
+
+#### Sports
+1. **Raja Bhalindra Singh trophy is associated with which of the following national sports events?**  
+   - Options:  
+     1. National Games  
+     2. Khelo India University Games  
+     3. Khelo India Youth Games  
+     4. Khelo India Winter Games  
+
+2. **Sports Authority of India comes under which ministry?**  
+   - Options:  
+     1. Ministry of Youth Affairs and Sports  
+     2. Ministry of Health and Family Welfare  
+     3. Ministry of Education  
+     4. Ministry of Social Justice  
+
+#### Books and Authors / Arts
+1. **Chariot festival is dedicated to Lord Jagannath along with Subhadra and ___.**  
+   - Options:  
+     1. Hanuman  
+     2. Sudama  
+     3. Balabhadra  
+     4. Arjuna  
+
+2. **'Padayani', a local dance form primarily performed in ___ to please Goddess Bhadrakali.**  
+   - Options:  
+     1. Kerala  
+     2. Odisha  
+     3. Assam  
+     4. West Bengal  
+
+3. **The renowned ghazal singer Girija Devi was born in ___.**  
+   - Options:  
+     1. Bihar  
+     2. Punjab  
+     3. Karnataka  
+     4. Uttar Pradesh  
+
+4. **Which Indian musician from Maharashtra received the Padma Vibhushan 2023?**  
+   - Options:  
+     1. Zakir Hussain  
+     2. Milind Date  
+     3. Ramdas Palsule  
+     4. Bharat Kamat  
+
+5. **___, authored by Tolkappiyar is the earliest Tamil literature.**  
+   - Options:  
+     1. Narrinai  
+     2. Tolkappiyam  
+     3. Kalittogai  
+     4. Ettutogai  
+
+#### Static GK
+1. **Three Indians were featured in Time Magazine's list of '100 most influential people of 2021'. Whose name was NOT included in the list?**  
+   - Options:  
+     1. Mamata Banerjee  
+     2. Amitabh Bachchan  
+     3. Narendra Modi  
+     4. Adar Poonawalla  
+
+
+Section: General Awareness
+
+#### Physics
+1. **Identify a monoatomic molecule.**  
+   - Options:  
+     1. Helium  
+     2. Carbon monoxide  
+     3. Chlorine  
+     4. Oxygen  
+
+#### Books and Authors
+2. **Who among the following is the first vocalist to receive the Bharat Ratna in 2008 and is also credited to have popularised 'Khyal Gayaki'?**  
+   - Options:  
+     1. Begum Akhtar  
+     2. Gangubai Hangal  
+     3. Vishnu Digambar Palushkar  
+     4. Pandit Bhimsen Joshi  
+
+#### Government Schemes
+3. **Which of the following institutions has contributed mainly in improving the economic status of the poor women in rural areas?**  
+   - Options:  
+     1. Integrated Development Project  
+     2. Self-help Group  
+     3. Indira Awas Yojana  
+     4. Rural Health Scheme  
+
+4. **Consider the following statements and identify the INCORRECT statement(s).**  
+   - Options:  
+     1. Only 1, 3 and 4  
+     2. Only 1, 2 and 3  
+     3. Only 2 and 3  
+     4. Only 4  
+
+5. **In which year did the Central Government launch the National Air Sports Policy?**  
+   - Options:  
+     1. 2021  
+     2. 2022  
+     3. 2023  
+     4. 2020  
+
+#### Indian History
+6. **The Pandya Kingdom was first mentioned by Megasthenes, who said that their kingdom was famous for pearls. Their capital was:**  
+   - Options:  
+     1. Thanjavur  
+     2. Kaveripatnam  
+     3. Madurai  
+     4. Uraiyur  
+
+7. **In which of the following Major Rock Edicts of Ashoka is the Kalinga war mentioned?**  
+   - Options:  
+     1. XI  
+     2. XIII  
+     3. XII  
+     4. X  
+
+8. **Which of the following Sikh reform movements was started in 1873 in Amritsar?**  
+   - Options:  
+     1. Singh Sabha Movement  
+     2. Gurudwara Movement  
+     3. Akali Movement  
+     4. Babbar Akali Movement  
+
+#### Polity
+9. **Who among the following is NOT a member of the National Human Rights Commission?**  
+   - Options:  
+     1. Former Chief Justice of the Supreme Court  
+     2. Former Judge of the Supreme Court  
+     3. Former Chief Justice of the High Court  
+     4. District Magistrate  
+
+10. **Ranjana Prakash Desai who became the first woman chairperson of the Press Council of India originally worked in which of the following organs of the government?**  
+   - Options:  
+     1. Legislature  
+     2. Executive  
+     3. Vigilance  
+     4. Judiciary  
+
+11. **Which of the following Acts introduced 'provincial autonomy' by discontinuing the application of dyarchy?**  
+   - Options:  
+     1. Charter Act of 1813  
+     2. Government of India Act, 1919  
+     3. India Council Act, 1909  
+     4. Government of India Act, 1935  
+
+12. **Which committee recommended Constitutional recognition for the local government bodies in 1989?**  
+   - Options:  
+     1. PK Thungon Committee  
+     2. Verma Committee  
+     3. Balwant Rai Committee  
+     4. Ashok Mehta Committee  
+
+#### Geography
+13. **Which state of India has the maximum number of large dams?**  
+   - Options:  
+     1. Madhya Pradesh  
+     2. Rajasthan  
+     3. Odisha  
+     4. Maharashtra  
+
+14. **'Bhagirathi' and 'Alaknanda' rivers confluence at:**  
+   - Options:  
+     1. Karanprayag  
+     2. Devaprayag  
+     3. Haridwar  
+     4. Joshimath  
+
+15. **According to Census 2011, which district displays the highest population?**  
+   - Options:  
+     1. Kollam  
+     2. Thane  
+     3. Pune  
+     4. Ajmer  
+
+#### Biology
+16. **Which of the following is NOT related to reticulate venation?**  
+   - Options:  
+     1. Tulsi  
+     2. Coriander  
+     3. Maize  
+     4. China rose  
+
+17. **Identify a spiral-shaped bacteria.**  
+   - Options:  
+     1. Bacillus  
+     2. Vibrio  
+     3. Coccus  
+     4. Spirillum  
+
+#### Static GK
+18. **With which of the following dances is Yamini Krishnamurthy associated?**  
+   - Options:  
+     1. Mohiniyattam  
+     2. Sattriya  
+     3. Bharatanatyam  
+     4. Odissi  
+
+19. **Easter festival is celebrated by which community?**  
+   - Options:  
+     1. Hindu  
+     2. Sikh  
+     3. Christian  
+     4. Parsi  
+
+20. **Harivarasanam award is given in the field of music by which of the following state governments?**  
+   - Options:  
+     1. Maharashtra  
+     2. Kerala  
+     3. Himachal Pradesh  
+     4. Karnataka  
+
+#### Chemistry
+21. **Which of the following chemical reactions takes place when quick lime reacts with water?**  
+   - Options:  
+     1. CaO(s) + H2O(l) → Ca + H2(aq)  
+     2. CH4(g) + 2O2(g) → CO2(g) + 2H2O(g)  
+     3. C(s) + O2(g) → CO2(g)  
+     4. CaO(s) + H2O(l) → Ca(OH)2(aq)  
+
+22. **Which of the following is an inosilicate amphibole mineral used in highway construction and as railroad ballast?**  
+   - Options:  
+     1. Hornblende  
+     2. Olivine  
+     3. Shale  
+     4. Geyserite  
+
+#### Sports
+23. **As of 14 October 2021, which Indian footballer was in the news for breaking Pele's 77 international goals?**  
+   - Options:  
+     1. Gurpreet Singh Sandhu  
+     2. Bhaichung Bhutia  
+     3. Sandesh Jhingan  
+     4. Sunil Chhetri  
+
+24. **The third edition of the Khelo India University Games was hosted by which of the following states?**  
+   - Options:  
+     1. Uttar Pradesh  
+     2. Punjab  
+     3. Madhya Pradesh  
+     4. Haryana  
+
+#### Economics
+25. **In which five-year plan was the 'food, work, and productivity' slogan used?**  
+   - Options:  
+     1. Fourth  
+     2. Seventh  
+     3. Sixth  
+     4. Fifth  
+
+Section: General Awareness
+
+#### Polity
+1. **In which of the following years was the Right of Persons with Disabilities Act passed?**  
+   - Options:  
+     1. 2010  
+     2. 2002  
+     3. 2016  
+     4. 2019  
+
+2. **Which of the following Articles states that the Prime Minister should be appointed by the President?**  
+   - Options:  
+     1. Article 75  
+     2. Article 66  
+     3. Article 62  
+     4. Article 71  
+
+3. **The oath of office to the Vice-President is administered by the:**  
+   - Options:  
+     1. Chief Justice of India  
+     2. Prime Minister  
+     3. CAG  
+     4. President  
+
+4. **Which of the following is NOT a Fundamental Duty?**  
+   - Options:  
+     1. To prohibit trade in rare and endangered species  
+     2. To safeguard public property and to abjure violence  
+     3. To uphold and protect the sovereignty, unity and integrity of India  
+     4. To value and preserve rich heritage of the country's composite culture  
+
+#### Awards and Recognition
+5. **Who among the following was one of the recipients of the inaugural 'Prof CR Rao Centenary Gold Medal' award in 2021?**  
+   - Options:  
+     1. Amartya Sen  
+     2. Jagdish Bhagwati  
+     3. Raghuram Rajan  
+     4. Surjit Bhalla  
+
+6. **Tarun Bhattacharya, who was awarded the Sangeet Natak Akademi Award in 2018, is known for playing which musical instrument?**  
+   - Options:  
+     1. Sitar  
+     2. Santoor  
+     3. Violin  
+     4. Tabla  
+
+#### Indian History
+7. **Due to which of the following events did Rabindranath Tagore return the title of 'Knighthood' to the British Government while expressing his anguish?**  
+   - Options:  
+     1. Charan Paduka Incident  
+     2. Chauri Chaura Incident  
+     3. Jallianwala Bagh massacre  
+     4. Partition of Bengal  
+
+8. **As per the Timurid tradition, Humayun had to share power with his brothers. Humayun had the control of Delhi, Agra and Central India, while his brother Kamran controlled which of the following regions?**  
+   - Options:  
+     1. Deccan  
+     2. Afghanistan and Punjab  
+     3. Gujarat and Rajasthan  
+     4. Bengal and Bihar  
+
+9. **Khudai Khidmatgar, a voluntary organisation, was established by which of the following leaders of India?**  
+   - Options:  
+     1. Muhammad Ali Jinnah  
+     2. Khan Abdul Ghaffar Khan  
+     3. Maulana Muhammad Ali  
+     4. Hakim Ajmal Khan  
+
+10. **During which of the following rules did Buddhism get split into two schools - Hinayana and Mahayana in the fourth Buddhist council?**  
+   - Options:  
+     1. Gupta  
+     2. Parthian  
+     3. Kushana  
+     4. Shaka  
+
+#### Sports
+11. **In which sport did India win its first individual Olympic medal?**  
+   - Options:  
+     1. Judo  
+     2. Wrestling  
+     3. Swimming  
+     4. Shooting  
+
+12. **Vijender Singh has represented India in Olympics for how many times?**  
+   - Options:  
+     1. 3  
+     2. 4  
+     3. 5  
+     4. 2  
+
+#### Biology
+13. **Which of the following is an example of Phylum Arthropoda?**  
+   - Options:  
+     1. Pila  
+     2. Butterfly  
+     3. Nereis  
+     4. Hirudinaria  
+
+14. **What is the other name of tetanus caused by toxin-producing bacteria called clostridium tetani?**  
+   - Options:  
+     1. Broken jaw  
+     2. Snap jaw  
+     3. Cleft jaw  
+     4. Lockjaw  
+
+#### Static GK
+15. **Navratri festival is dedicated to which of the following Goddesses?**  
+   - Options:  
+     1. Laxmi  
+     2. Jawala  
+     3. Saraswati  
+     4. Durga  
+
+16. **Pandit Omkar Nath Thakur was a student of:**  
+   - Options:  
+     1. Pandit Vishnu Narayan Bhatkhande  
+     2. Pandit Vishnu Digambar Paluskar  
+     3. Pandit Gopal Shankar Mishra  
+     4. Ustad Abdul Karim Khan  
+
+17. **Who among the following classical dancers is NOT related to Odissi?**  
+   - Options:  
+     1. Mayadhar Raut  
+     2. Kiran Segal  
+     3. Kumkum Mohanty  
+     4. Geetanjali Lal  
+
+#### Government Schemes & Economy
+18. **Which of the following is a component of the SHG-bank linkage program in India?**  
+   - Options:  
+     1. Microfinance institutions providing loans directly to SHGs  
+     2. State government providing subsidies to SHGs for credit  
+     3. Non-governmental organisations providing capacity building training to SHGs  
+     4. Banks providing loans to individual members of SHGs  
+
+19. **As per a report of the Ministry of Labour and Employment, what was the rate of unemployment in Maharashtra for the year 2021-22?**  
+   - Options:  
+     1. 3.5%  
+     2. 3.01%  
+     3. 4.4%  
+     4. 4.2%  
+
+20. **What were the main obstacles during the industrial development of India at the time of independence?**  
+   - Options:  
+     1. Employment required for industries  
+     2. Capital investment in industries  
+     3. Market for industrial produce  
+     4. Land for industrial establishment  
+
+#### Chemistry
+21. **Which two organic chemists are known for observing the peroxide effect in adding reagents to unsaturated compounds in 1933?**  
+   - Options:  
+     1. Justus von Liebig and Friedrich Wöhler  
+     2. Morris S Kharasch and Frank R Mayo  
+     3. B Steven Bachrach and Roald Hoffmann  
+     4. C John Cadogan and Luis M Campos  
+
+#### Physics
+22. **What was the name of the wind measuring instrument invented for the first time in 1450?**  
+   - Options:  
+     1. Anemometer  
+     2. Ceiling Projector  
+     3. Transmissometer  
+     4. Dropsonde  
+
+23. **Which of the following is NOT a unit of energy?**  
+   - Options:  
+     1. Joule  
+     2. Kilowatt hour  
+     3. Calorie  
+     4. Newton  
+
+#### Geography
+24. **The Wardha is a tributary of which of the following rivers?**  
+   - Options:  
+     1. Mahanadi river  
+     2. Narmada river  
+     3. Godavari river  
+     4. Tapi river  
+
+25. **As of Financial year 2019, which of the following state has the highest road density in India?**  
+   - Options:  
+     1. Haryana  
+     2. Tamil Nadu  
+     3. Punjab  
+     4. Kerala  
+
+
+
+Section: General Awareness
+
+#### Art and Culture
+1. **Which Indian musician and sitar player is the founder of the National Orchestra of India?**  
+   - Options:  
+     1. Ayyagari Syamasundaram  
+     2. Kishan Maharaj  
+     3. Shahid Parvez Khan  
+     4. Ravi Shankar  
+
+2. **Gandharva Mahavidyalaya, which was founded by Pandit Vinaya Chandra Maudgalya, is located at:**  
+   - Options:  
+     1. New Delhi  
+     2. Kolkata  
+     3. Pune  
+     4. Mumbai  
+
+3. **Pandwani singer Usha Barle was conferred with which of the following awards by the Government of India in 2023?**  
+   - Options:  
+     1. Padma Bhushan  
+     2. Bharat Ratna  
+     3. Padma Shri  
+     4. Padma Vibhushan  
+
+4. **In which of the following states is Me-dam-me-phi festival primarily celebrated?**  
+   - Options:  
+     1. Bihar  
+     2. Nagaland  
+     3. Assam  
+     4. Odisha  
+
+#### Economics and Government Schemes
+5. **What is the disinvestment target of the Finance Ministry for the year 2023-24?**  
+   - Options:  
+     1. ₹54,000 crore  
+     2. ₹50,000 crore  
+     3. ₹51,000 crore  
+     4. ₹53,000 crore  
+
+6. **Which of the following is an example of a joint sector industry?**  
+   - Options:  
+     1. Steel Authority of India Limited  
+     2. Bharat Heavy Electricals Limited  
+     3. Oil India Limited  
+     4. Tata Iron and Steel Company  
+
+7. **Which is the joint digital skills initiative for employability through digital skills by National Career Service and Microsoft India?**  
+   - Options:  
+     1. Shiksha Vani  
+     2. Vidyadaan  
+     3. Swayam  
+     4. Digisaksham  
+
+8. **________ is the provision of small credit to those who would have no other access to financial services.**  
+   - Options:  
+     1. Homeloan  
+     2. Microfinance  
+     3. Pradhan Mantri Awas Yojana  
+     4. Microloan  
+
+9. **Which of the following documents provides a framework, rules, and regulations for setting up public and private industries in India?**  
+   - Options:  
+     1. Annual report of the trade union  
+     2. Union Budget  
+     3. Company's financial statement  
+     4. Industrial policy  
+
+10. **Which state Chief Minister launched the 'Kaushalya Matritva Yojana' in 2022, which provides financial assistance of ₹5,000 to women giving birth to a second girl child for safe motherhood?**  
+   - Options:  
+     1. Rajasthan  
+     2. Uttar Pradesh  
+     3. Chhattisgarh  
+     4. Gujarat  
+
+#### Polity
+11. **Which of the following commissions/committees identified the existence of legal provisions for the implementation of some of the Fundamental Duties?**  
+   - Options:  
+     1. Rajamannar Commission  
+     2. Justice Verma Committee  
+     3. Sarkaria Commission  
+     4. Vasantrao Naik Committee  
+
+12. **Articles 245 to 255 in Part XI of the Indian Constitution deal with:**  
+   - Options:  
+     1. Emergency provisions  
+     2. Financial relations between the Centre and the states  
+     3. Legislative relations between the Centre and the states  
+     4. Tribunals  
+
+#### Modern and Ancient Indian History
+13. **Where was the first official summit of the Non-Aligned movement held?**  
+   - Options:  
+     1. India  
+     2. Egypt  
+     3. Yugoslavia  
+     4. New York  
+
+14. **In peninsular India, which of the following kingdoms was the local power that ruled over northern Maharashtra and Vidarbha?**  
+   - Options:  
+     1. Chalukyas  
+     2. Maitrakas  
+     3. Vakatakas  
+     4. Maukharis  
+
+15. **Mulayam Singh Yadav, who passed away in October 2022, served as the Chief Minister of which state?**  
+   - Options:  
+     1. Madhya Pradesh  
+     2. Uttar Pradesh  
+     3. Gujarat  
+     4. Bihar  
+
+16. **In the 10th century India, Queen Didda became the ruler of which of the following regions of north India?**  
+   - Options:  
+     1. Kannauj  
+     2. Delhi  
+     3. Malwa  
+     4. Kashmir  
+
+17. **In which of the following years was VD Savarkar sent to Andaman Jail by the British?**  
+   - Options:  
+     1. 1923  
+     2. 1922  
+     3. 1910  
+     4. 1911  
+
+#### Science: Chemistry, Physics & Biology
+18. **For a chemical reaction with a rise in temperature by 10°, the rate constant becomes nearly:**  
+   - Options:  
+     1. Triple  
+     2. Half  
+     3. Double  
+     4. One-fourth  
+
+19. **As per Mendeleev's prediction, the atomic mass of eka-aluminium was:**  
+   - Options:  
+     1. 72  
+     2. 100  
+     3. 68  
+     4. 44  
+
+20. **Which of the following is an example of prokaryotic cells?**  
+   - Options:  
+     1. Plasmodium  
+     2. Yeast  
+     3. Leishmania  
+     4. Bacteria  
+
+21. **The variation between a high air temperature and a low temperature that occurs during the same day is called _______ temperature.**  
+   - Options:  
+     1. Wet bulb  
+     2. Diurnal  
+     3. Annual  
+     4. Durian  
+
+22. **Which of the following is the best definition of ecological efficiency?**  
+   - Options:  
+     1. The ratio between the mass and the energy flow at different trophic levels in a food chain  
+     2. The ratio between energy flows at different points in a food chain  
+     3. The amount of energy stored at different trophic levels in a food chain  
+     4. The amount of energy utilised at different trophic levels in a food chain  
+
+#### Geography
+23. **In which group of states does the Luni River flow?**  
+   - Options:  
+     1. Maharashtra and Karnataka  
+     2. Rajasthan and Gujarat  
+     3. Bihar and West Bengal  
+     4. Andhra Pradesh and Telangana  
+
+#### Sports
+24. **In chess, which of the following may only move forward to the unoccupied square immediately in front of it?**  
+   - Options:  
+     1. The Pawn  
+     2. The Queen  
+     3. The Bishop  
+     4. The Rook  
+
+25. **Agricultural shot is a term used in which of the following sports?**  
+   - Options:  
+     1. Football  
+     2. Table Tennis  
+     3. Cricket  
+     4. Lawn Tennis  
+
+
+Section: General Awareness
+
+### Geography & Environment
+1. **Which of the following is the largest inhabited riverine island in the world?**  
+   - 1. Lakshadweep  
+   - 2. Peacock  
+   - 3. Majuli  
+   - 4. Bhavani  
+
+2. **A dense mass of water drops on smoke or dust particles in the lower atmosphere layers is referred to as:**  
+   - 1. smog  
+   - 2. frost  
+   - 3. blizzard  
+   - 4. mist  
+
+### Physics, Chemistry & Biology
+3. **In the Right-Hand Thumb Rule, the thumb is directed towards the direction of:**  
+   - 1. current  
+   - 2. magnetic field  
+   - 3. electric field  
+   - 4. motion of the conductor  
+
+4. **Which of the following illustrations is related to chloroplasts?**  
+   - 1. c  
+   - 2. b  
+   - 3. d  
+   - 4. a  
+
+5. **Which is the most important protein component in milk, both quantitatively and nutritionally, that accounts for about 80% of the total protein in bovine milk?**  
+   - 1. Pepsin  
+   - 2. Casein  
+   - 3. Actin  
+   - 4. Albumin  
+
+6. **Which of the following is Fisher's equation of exchange?**  
+   *(Options not provided; please provide the missing options for completion.)*
+
+20. **In Newlands' Octaves, the properties of lithium and:**  
+   - 1. sodium  
+   - 2. beryllium  
+   - 3. aluminium  
+   - 4. magnesium  
+
+### History
+7. **In 1539, the Battle of Chausa was fought between Humayun and:**  
+   - 1. Ibrahim Lodhi  
+   - 2. Sikandar Suri  
+   - 3. Sher Shah Suri  
+   - 4. Rana Sanga  
+
+17. **In which year was the battle of Buxar fought?**  
+   - 1. 1777  
+   - 2. 1793  
+   - 3. 1764  
+   - 4. 1757  
+
+19. **Which of the following Acts passed under Warren Hastings was also called 'half-loaf system'?**  
+   - 1. Pitt's India Act 1784  
+   - 2. Government of India Act 1858  
+   - 3. Regulating Act 1773  
+   - 4. Charter Act 1813  
+
+### Polity & Constitution
+12. **Which Article of the Indian Constitution mentions that 'The State shall endeavour to promote cottage industries on an individual or co-operative basis in rural areas'?**  
+   - 1. Article 42  
+   - 2. Article 44  
+   - 3. Article 49  
+   - 4. Article 43  
+
+13. **Which of the following is the most controversial Article in the Indian Constitution, which provides for President's rule in any state?**  
+   - 1. Article 356  
+   - 2. Article 358  
+   - 3. Article 352  
+   - 4. Article 360  
+
+24. **Which of the following Articles of the Indian Constitution CANNOT be suspended even during an emergency declared on the grounds of war or external aggression?**  
+   - 1. Articles 15 and 17  
+   - 2. Articles 20 and 21  
+   - 3. Articles 14 and 16  
+   - 4. Articles 30 and 32  
+
+### Art, Culture & Personalities
+9. **Sardhana Christian Fair is held in which of the following states?**  
+   - 1. Haryana  
+   - 2. Uttar Pradesh  
+   - 3. Madhya Pradesh  
+   - 4. West Bengal  
+
+10. **Ali Akbar Khan was associated with which of the following gharanas?**  
+   - 1. Kirana gharana  
+   - 2. Gwalior gharana  
+   - 3. Agra gharana  
+   - 4. Maihar gharana  
+
+16. **Who among the following was the youngest recipient of the Sangeetha Kalanidhi awarded by the Music Academy in 1947?**  
+   - 1. Bhimsen Joshi  
+   - 2. Ariyakudi Ramanuja Iyengar  
+   - 3. Mallikarjun Bheemarayappa Mansur  
+   - 4. Semmangudi Radhakrishna Srinivasa Iyer  
+
+25. **Elelakkaradi dance of Kerala is performed by which of the following tribes?**  
+   - 1. Mavilan tribe  
+   - 2. Kurumba tribe  
+   - 3. Irular tribe  
+   - 4. Adiyan tribe  
+
+### Economy, Development & Schemes
+5. **Which web portal was launched by the Department of Telecommunications for sharing information on mobile towers and EMF emission compliance?**  
+   - 1. E-Amrit  
+   - 2. Tarang Sanchar  
+   - 3. Namaste  
+   - 4. PM-Daksh  
+
+18. **Which of the following State governments has launched a scheme 'Ankur' in May 2021 to promote planting of trees in public, wherein people will be awarded for planting and taking care of the saplings?**  
+   - 1. West Bengal  
+   - 2. Bihar  
+   - 3. Uttarakhand  
+   - 4. Madhya Pradesh  
+
+22. **Which of the following movements created regional disparities between large and small farmers in India?**  
+   - 1. Yellow revolution  
+   - 2. Green revolution  
+   - 3. Pink revolution  
+   - 4. Blue revolution  
+
+23. **What was the main objective of the Second Green Revolution in India?**  
+   - 1. Ensuring food security in the western states  
+   - 2. Focusing on holistic development in agriculture  
+   - 3. Increasing the use of chemical fertilizers and pesticides  
+   - 4. Promoting conventional agricultural practices  
+
+### Sports
+15. **Bhakti Pradeep Kulkarni is associated with:**  
+   - 1. cricket  
+   - 2. kabaddi  
+   - 3. chess  
+   - 4. badminton  
+
+21. **India hosted the Asian Games in which of the following years?**  
+   - 1. 1954 and 1982  
+   - 2. 1951 and 1986  
+   - 3. 1951 and 1982  
+   - 4. 1954 and 1986  
+
+### Missing or Incomplete
+11. **(Matching-type question – options incomplete)**  
+   - Please provide the full question and all four pair options (A, B, C, D) for accurate formatting.
+
+8. **(Question in Hindi is incomplete or corrupted)**  
+   - Please retype this question fully in Hindi or English.
 
 
 
 Section : General Awareness
 
-Q.1 How was the growth in all food grains after the Green Revolution?  
-1. Unpredictable  
-2. Proportionate  
-3. Disproportionate  
-4. Unitary
-
-Q.2 Which of the following is NOT a feature of the Constitution of India?  
-1. Independent Judiciary  
-2. Universal Adult Franchise  
-3. Dual Citizenship  
-4. Blend of rigidity & flexibility
-
-Q.3 Which of the following is an example of major industrial region of India?  
-1. Bhojpur-Munger  
-2. Chota Nagpur region  
-3. Bilaspur-Korba  
-4. Jaipur-Ajmer
-
-Q.4 What correctly defines change of inventories of a firm during a year?  
-1. Sale of the firm during the year - Production of the firm during the year  
-2. Production of the firm during the previous year - Sale of the firm during the year  
-3. Production of the firm during the year - Sale of the firm during the year  
-4. Production of the firm during the year - Sale of the firm during the previous year
-
-Q.5 Chariot festival is dedicated to Lord Jagannath along with Subhadra and ___.  
-1. Hanuman  
-2. Sudama  
-3. Balabhadra  
-4. Arjuna
-
-Q.6 'Padayani', a local dance form primarily performed in ___ to please Goddess Bhadrakali.  
-1. Kerala  
-2. Odisha  
-3. Assam  
-4. West Bengal
-
-Q.7 Which of the following rivers is an east flowing river?  
-1. Godavari river  
-2. Narmada river  
-3. Mahi river  
-4. Tapi river
-
-Q.8 Filtration of waste products in humans happens in the kidneys. There is a large number of filtration units present inside the kidneys to help them in doing this job. These filtration units are called:  
-1. Bowman's capsules  
-2. Alveoli  
-3. Nephrons  
-4. Capillaries
-
-Q.9 Which number is called Avogadro's constant, named after the 19th century scientist Amedeo Avogadro?  
-1. 6.032 × 10¹⁹  
-2. 6.012 × 10²¹  
-3. 6.022 × 10²³  
-4. 6.020 × 10²⁰
-
-Q.10 The Epidemic Diseases (Amendment) Ordinance, 2020 amended which of the following Acts?  
-1. The Epidemic Diseases Act, 1890  
-2. The Epidemic Diseases Act, 1892  
-3. The Epidemic Diseases Act, 1895  
-4. The Epidemic Diseases Act, 1897
-
-Q.11 Which Indian political leader was called as Lok Nayak?  
-1. Ram Manohar Lohia  
-2. Jai Prakash Narayan  
-3. Subhash Chandra Bose  
-4. Bal Gangadhar Tilak
-
-Q.12 Under the 'Mero Rukh Mero Santati' initiative launched by the Sikkim Chief Minister Prem Singh Tamang in 2023, how many trees will be planted for every child born in Sikkim?  
-1. 100  
-2. 150  
-3. 200  
-4. 50
-
-Q.13 Which of the following statements is correct with respect to the political parties in India?  
-1. All parties are registered with the Supreme Court of India.  
-2. A political party symbol is assigned by the President of India.  
-3. India has a multi-party system classified as national, state or regional level.  
-4. Status of party is accorded by the Parliament.
-
-Q.14 Which of the following kingdoms was divided into subdivisions called Aharas or Rashtras that meant districts?  
-1. Satavahana  
-2. Kushana  
-3. Parthian  
-4. Shaka
-
-Q.15 Raja Bhalindra Singh trophy is associated with which of the following national sports events?  
-1. National Games  
-2. Khelo India University Games  
-3. Khelo India Youth Games  
-4. Khelo India Winter Games
-
-Q.16 The renowned ghazal singer Girija Devi was born in ___.  
-1. Bihar  
-2. Punjab  
-3. Karnataka  
-4. Uttar Pradesh
-
-Q.17 Which Indian musician from Maharashtra received the Padma Vibhushan 2023?  
-1. Zakir Hussain  
-2. Milind Date  
-3. Ramdas Palsule  
-4. Bharat Kamat
-
-Q.18 Which of the following is a landlocked Salt Lake in South-West Asia between Israel and Jordan?  
-1. Don Juan Pond  
-2. Dead Sea  
-3. Caspian Sea  
-4. Aral Sea
-
-Q.19 The Daroga system in 1792 was introduced by whom among the following Governor-Generals in India?  
-1. Lord Minto  
-2. Lord Cornwallis  
-3. Lord Mayo  
-4. Lord William Bentinck
-
-Q.20 Three Indians were featured in Time Magazine's list of '100 most influential people of 2021'. Whose name was NOT included in the list?  
-1. Mamata Banerjee  
-2. Amitabh Bachchan  
-3. Narendra Modi  
-4. Adar Poonawalla
-
-Q.21 ___, authored by Tolkappiyar is the earliest Tamil literature.  
-1. Narrinai  
-2. Tolkappiyam  
-3. Kalittogai  
-4. Ettutogai
-
-Q.22 Sports Authority of India comes under which ministry?  
-1. Ministry of Youth Affairs and Sports  
-2. Ministry of Health and Family Welfare  
-3. Ministry of Education  
-4. Ministry of Social Justice
-
-Q.23 Which of the following statements are true based on the 4NH₃(g) + 5O₂(g) → 4NO(g) + 6H₂O(g)?  
-(a) N gets oxidized.  
-(b) O gets oxidized.  
-(c) N gets reduced.  
-(d) O gets reduced.  
-
-1. (c) and (d)  
-2. (b) and (c)  
-3. (a) and (d)  
-4. (a) and (b)
-
-Q.24 The Drought Prone Area Programme (DPAP) for providing employment to people in drought prone areas was started by the Government of India during the ___.  
-1. Fourth Five-Year Plan  
-2. Seventh Five-Year Plan  
-3. Third Five-Year Plan  
-4. Sixth Five-Year Plan
-
-Q.25 Which branch of ecology deals with the characteristics of ancient environment and their relationship with ancient plants and animals?  
-1. Demecology  
-2. Mycology  
-3. Ichthyology  
-4. Paleoecology  
-
-
-
-Section: General Awareness
-
-Q.1 Identify a monoatomic molecule. 
-Ans: 1. Helium
-     2. Carbon monoxide
-     3. Chlorine
-     4. Oxygen
-
-Q.2 Who among the following is the first vocalist to receive the Bharat Ratna in 2008 and is also credited to have popularised 'Khyal Gayaki'?
-Ans: 1. Begum Akhtar
-     2. Gangubai Hangal
-     3. Vishnu Digambar Palushkar
-     4. Pandit Bhimsen Joshi
-
-Q.3 Which of the following institutions has contributed mainly in improving the economic status of the poor women in rural areas?
-Ans: 1. Integrated Development Project
-     2. Self-help Group
-     3. Indira Awas Yojana
-     4. Rural Health Scheme
-
-Q.4 The Pandya Kingdom was first mentioned by Megasthenes, who said that their kingdom was famous for pearls. Their capital was:
-Ans: 1. Thanjavur
-     2. Kaveripatnam
-     3. Madurai
-     4. Uraiyur
-
-Q.5 With which of the following dances is Yamini Krishnamurthy associated? 
-Ans: 1. Mohiniyattam
-     2. Sattriya
-     3. Bharatanatyam
-     4. Odissi
-
-Q.6 Easter festival is celebrated by which community? 
-Ans: 1. Hindu
-     2. Sikh
-     3. Christian
-     4. Parsi
-
-Q.7 Who among the following is NOT a member of the National Human Rights Commission?
-Ans: 1. Former Chief Justice of the Supreme Court
-     2. Former Judge of the Supreme Court
-     3. Former Chief Justice of the High Court
-     4. District Magistrate
-
-Q.8 Which state of India has the maximum number of large dams?
-Ans: 1. Madhya Pradesh
-     2. Rajasthan
-     3. Odisha
-     4. Maharashtra
-
-Q.9 Which of the following is NOT related to reticulate venation? 
-Ans: 1. Tulsi
-     2. Coriander
-     3. Maize
-     4. China rose
-
-Q.10 In which of the following Major Rock Edicts of Ashoka is the Kalinga war mentioned?
-Ans: 1. XI
-     2. XIII
-     3. XII
-     4. X
-
-Q.11 Consider the following statements and identify the INCORRECT statement(s).
-1. The 'Saksham Anganwadi and Poshan 2.0' scheme has been implemented under the National Food Security Act, 2003.
-2. It is an ongoing, Central Government-sponsored scheme under the Ministry of Women and Child Development.
-3. It is extended to children aged below 6 years only.
-4. Six services are provided under this scheme through the National Health Mission and Public Health Infrastructure.
-Ans: 1. Only 1, 3 and 4
-     2. Only 1, 2 and 3
-     3. Only 2 and 3
-     4. Only 4
-
-Q.12 'Bhagirathi' and 'Alaknanda' rivers confluence at:
-Ans: 1. Karanprayag
-     2. Devaprayag
-     3. Haridwar
-     4. Joshimath
-
-Q.13 Which of the following chemical reactions takes place when quick lime reacts with water?
-Ans: 1. CaO(s) + H2O(l) → Ca + H2(aq)
-     2. CH4(g) + 2O2(g) → CO2(g) + 2H2O(g)
-     3. C(s) + O2(g) → CO2(g)
-     4. CaO(s) + H2O(l) → Ca(OH)2(aq)
-
-Q.14 As of 14 October 2021, which Indian footballer was in the news for breaking Pele's 77 international goals?
-Ans: 1. Gurpreet Singh Sandhu
-     2. Bhaichung Bhutia
-     3. Sandesh Jhingan
-     4. Sunil Chhetri
-
-Q.15 In which five-year plan was the 'food, work, and productivity' slogan used?
-Ans: 1. Fourth
-     2. Seventh
-     3. Sixth
-     4. Fifth
-
-Q.16 Identify a spiral-shaped bacteria.
-Ans: 1. Bacillus
-     2. Vibrio
-     3. Coccus
-     4. Spirillum
-
-Q.17 Ranjana Prakash Desai who became the first woman chairperson of the Press Council of India originally worked in which of the following organs of the government?
-Ans: 1. Legislature
-     2. Executive
-     3. Vigilance
-     4. Judiciary
-
-Q.18 In which year did the Central Government launch the National Air Sports Policy?
-Ans: 1. 2021
-     2. 2022
-     3. 2023
-     4. 2020
-
-Q.19 Which of the following Acts introduced 'provincial autonomy' by discontinuing the application of dyarchy?
-Ans: 1. Charter Act of 1813
-     2. Government of India Act, 1919
-     3. India Council Act, 1909
-     4. Government of India Act, 1935
-
-Q.20 According to Census 2011, which district displays the highest population?
-Ans: 1. Kollam
-     2. Thane
-     3. Pune
-     4. Ajmer
-
-Q.21 Which committee recommended Constitutional recognition for the local government bodies in 1989?
-Ans: 1. PK Thungon Committee
-     2. Verma Committee
-     3. Balwant Rai Committee
-     4. Ashok Mehta Committee
-
-Q.22 The third edition of the Khelo India University Games was hosted by which of the following states?
-Ans: 1. Uttar Pradesh
-     2. Punjab
-     3. Madhya Pradesh
-     4. Haryana
-
-Q.23 Harivarasanam award is given in the field of music by which of the following state governments?
-Ans: 1. Maharashtra
-     2. Kerala
-     3. Himachal Pradesh
-     4. Karnataka
-
-Q.24 Which of the following Sikh reform movements was started in 1873 in Amritsar?
-Ans: 1. Singh Sabha Movement
-     2. Gurudwara Movement
-     3. Akali Movement
-     4. Babbar Akali Movement
-
-Q.25 Which of the following is an inosilicate amphibole mineral used in highway construction and as railroad ballast?
-Ans: 1. Hornblende
-     2. Olivine
-     3. Shale
-     4. Geyserite
-
-
-
-Section: General Awareness
-
-Q.1 In which of the following years was the Right of Persons with Disabilities Act passed?
-1. 2010
-2. 2002
-3. 2016
-4. 2019
-
-Q.2 Who among the following was one of the recipients of the inaugural 'Prof CR Rao Centenary Gold Medal' award in 2021?
-1. Amartya Sen
-2. Jagdish Bhagwati
-3. Raghuram Rajan
-4. Surjit Bhalla
-
-Q.3 Which of the following Articles states that the Prime Minister should be appointed by the President?
-1. Article 75
-2. Article 66
-3. Article 62
-4. Article 71
-
-Q.4 Due to which of the following events did Rabindranath Tagore return the title of 'Knighthood' to the British Government while expressing his anguish?
-1. Charan Paduka Incident
-2. Chauri Chaura Incident
-3. Jallianwala Bagh massacre
-4. Partition of Bengal
-
-Q.5 In which sport did India win its first individual Olympic medal?
-1. Judo
-2. Wrestling
-3. Swimming
-4. Shooting
-
-Q.6 Which of the following is an example of Phylum Arthropoda?
-1. Pila
-2. Butterfly
-3. Nereis
-4. Hirudinaria
-
-Q.7 Tarun Bhattacharya, who was awarded the Sangeet Natak Akademi Award in 2018, is known for playing which musical instrument?
-1. Sitar
-2. Santoor
-3. Violin
-4. Tabla
-
-Q.8 Which of the following is a component of the SHG-bank linkage program in India?
-1. Microfinance institutions providing loans directly to SHGs
-2. State government providing subsidies to SHGs for credit
-3. Non-governmental organisations providing capacity building training to SHGs
-4. Banks providing loans to individual members of SHGs
-
-Q.9 As per the Timurid tradition, Humayun had to share power with his brothers. Humayun had the control of Delhi, Agra and Central India, while his brother Kamran controlled which of the following regions?
-1. Deccan
-2. Afghanistan and Punjab
-3. Gujarat and Rajasthan
-4. Bengal and Bihar
-
-Q.10 Navratri festival is dedicated to which of the following Goddesses?
-1. Laxmi
-2. Jawala
-3. Saraswati
-4. Durga
-
-Q.11 Which two organic chemists are known for observing the peroxide effect in adding reagents to unsaturated compounds in 1933?
-1. Justus von Liebig and Friedrich Wöhler
-2. Morris S Kharasch and Frank R Mayo
-3. B Steven Bachrach and Roald Hoffmann
-4. C John Cadogan and Luis M Campos
-
-Q.12 The oath of office to the Vice-President is administered by the:
-1. Chief Justice of India
-2. Prime Minister
-3. CAG
-4. President
-
-Q.13 What was the name of the wind measuring instrument invented for the first time in 1450?
-1. Anemometer
-2. Ceiling Projector
-3. Transmissometer
-4. Dropsonde
-
-Q.14 As per a report of the Ministry of Labour and Employment, what was the rate of unemployment in Maharashtra for the year 2021-22?
-1. 3.5%
-2. 3.01%
-3. 4.4%
-4. 4.2%
-
-Q.15 Which of the following is NOT a unit of energy?
-1. Joule
-2. Kilowatt hour
-3. Calorie
-4. Newton
-
-Q.16 The Wardha is a tributary of which of the following rivers?
-1. Mahanadi river
-2. Narmada river
-3. Godavari river
-4. Tapi river
-
-Q.17 Pandit Omkar Nath Thakur was a student of:
-1. Pandit Vishnu Narayan Bhatkhande
-2. Pandit Vishnu Digambar Paluskar
-3. Pandit Gopal Shankar Mishra
-4. Ustad Abdul Karim Khan
-
-Q.18 Vijender Singh has represented India in Olympics for how many times?
-1. 3
-2. 4
-3. 5
-4. 2
-
-Q.19 Who among the following classical dancers is NOT related to Odissi?
-1. Mayadhar Raut
-2. Kiran Segal
-3. Kumkum Mohanty
-4. Geetanjali Lal
-
-Q.20 What were the main obstacles during the industrial development of India at the time of independence?
-1. Employment required for industries
-2. Capital investment in industries
-3. Market for industrial produce
-4. Land for industrial establishment
-
-Q.21 Khudai Khidmatgar, a voluntary organisation, was established by which of the following leaders of India?
-1. Muhammad Ali Jinnah
-2. Khan Abdul Ghaffar Khan
-3. Maulana Muhammad Ali
-4. Hakim Ajmal Khan
-
-Q.22 Which of the following is NOT a Fundamental Duty?
-1. To prohibit trade in rare and endangered species
-2. To safeguard public property and to abjure violence
-3. To uphold and protect the sovereignty, unity and integrity of India
-4. To value and preserve rich heritage of the country's composite culture
-
-Q.23 What is the other name of tetanus caused by toxin-producing bacteria called clostridium tetani?
-1. Broken jaw
-2. Snap jaw
-3. Cleft jaw
-4. Lockjaw
-
-Q.24 During which of the following rules did Buddhism get split into two schools - Hinayana and Mahayana in the fourth Buddhist council?
-1. Gupta
-2. Parthian
-3. Kushana
-4. Shaka
-
-Q.25 As of Financial year 2019, which of the following state has the highest road density in India?
-1. Haryana
-2. Tamil Nadu
-3. Punjab
-4. Kerala
-
-
-
-Section: General Awareness
-
-Q.1 Which Indian musician and sitar player is the founder of the National Orchestra of India?
-Ans 1. Ayyagari Syamasundaram
-  2. Kishan Maharaj
-  3. Shahid Parvez Khan
-  4. Ravi Shankar
-
-Q.2 What is the disinvestment target of the Finance Ministry for the year 2023-24?
-Ans 1. ₹54,000 crore
-  2. ₹50,000 crore
-  3. ₹51,000 crore
-  4. ₹53,000 crore
-
-Q.3 Where was the first official summit of the Non-Aligned movement held?
-Ans 1. India
-  2. Egypt
-  3. Yugoslavia
-  4. New York
-
-Q.4 Gandharva Mahavidyalaya, which was founded by Pandit Vinaya Chandra Maudgalya, is located at:
-Ans 1. New Delhi
-  2. Kolkata
-  3. Pune
-  4. Mumbai
-
-Q.5 For a chemical reaction with a rise in temperature by 10°, the rate constant becomes nearly:
-Ans 1. Triple
-  2. Half
-  3. Double
-  4. One-fourth
-
-Q.6 Which of the following is an example of a joint sector industry?
-Ans 1. Steel Authority of India Limited
-  2. Bharat Heavy Electricals Limited
-  3. Oil India Limited
-  4. Tata Iron and Steel Company
-
-Q.7 Which is the joint digital skills initiative for employability through digital skills by National Career Service and Microsoft India?
-Ans 1. Shiksha Vani
-  2. Vidyadaan
-  3. Swayam
-  4. Digisaksham
-
-Q.8 Which of the following commissions/committees identified the existence of legal provisions for the implementation of some of the Fundamental Duties?
-Ans 1. Rajamannar Commission
-  2. Justice Verma Committee
-  3. Sarkaria Commission
-  4. Vasantrao Naik Committee
-
-Q.9 Pandwani singer Usha Barle was conferred with which of the following awards by the Government of India in 2023?
-Ans 1. Padma Bhushan
-  2. Bharat Ratna
-  3. Padma Shri
-  4. Padma Vibhushan
-
-Q.10 Articles 245 to 255 in Part XI of the Indian Constitution deal with:
-Ans 1. Emergency provisions
-  2. Financial relations between the Centre and the states
-  3. Legislative relations between the Centre and the states
-  4. Tribunals
-
-Q.11 In peninsular India, which of the following kingdoms was the local power that ruled over northern Maharashtra and Vidarbha?
-Ans 1. Chalukyas
-  2. Maitrakas
-  3. Vakatakas
-  4. Maukharis
-
-Q.12 In chess, which of the following may only move forward to the unoccupied square immediately in front of it?
-Ans 1. The Pawn
-  2. The Queen
-  3. The Bishop
-  4. The Rook
-
-Q.13 In which group of states does the Luni River flow?
-Ans 1. Maharashtra and Karnataka
-  2. Rajasthan and Gujarat
-  3. Bihar and West Bengal
-  4. Andhra Pradesh and Telangana
-
-Q.14 ________ is the provision of small credit to those who would have no other access to financial services.
-Ans 1. Homeloan
-  2. Microfinance
-  3. Pradhan Mantri Awas Yojana
-  4. Microloan
-
-Q.15 Agricultural shot is a term used in which of the following sports?
-Ans 1. Football
-  2. Table Tennis
-  3. Cricket
-  4. Lawn Tennis
-
-Q.16 Which of the following is an example of prokaryotic cells?
-Ans 1. Plasmodium
-  2. Yeast
-  3. Leishmania
-  4. Bacteria
-
-Q.17 The variation between a high air temperature and a low temperature that occurs during the same day is called _______ temperature.
-Ans 1. Wet bulb
-  2. Diurnal
-  3. Annual
-  4. Durian
-
-Q.18 As per Mendeleev's prediction, the atomic mass of eka-aluminium was:
-Ans 1. 72
-  2. 100
-  3. 68
-  4. 44
-
-Q.19 Which of the following documents provides a framework, rules, and regulations for setting up public and private industries in India?
-Ans 1. Annual report of the trade union
-  2. Union Budget
-  3. Company's financial statement
-  4. Industrial policy
-
-Q.20 Which of the following is the best definition of ecological efficiency?
-Ans 1. The ratio between the mass and the energy flow at different trophic levels in a food chain
-  2. The ratio between energy flows at different points in a food chain
-  3. The amount of energy stored at different trophic levels in a food chain
-  4. The amount of energy utilised at different trophic levels in a food chain
-
-Q.21 Which state Chief Minister launched the 'Kaushalya Matritva Yojana' in 2022, which provides financial assistance of ₹5,000 to women giving birth to a second girl child for safe motherhood?
-Ans 1. Rajasthan
-  2. Uttar Pradesh
-  3. Chhattisgarh
-  4. Gujarat
-
-Q.22 In which of the following states is Me-dam-me-phi festival primarily celebrated?
-Ans 1. Bihar
-  2. Nagaland
-  3. Assam
-  4. Odisha
-
-Q.23 Mulayam Singh Yadav, who passed away in October 2022, served as the Chief Minister of which state?
-Ans 1. Madhya Pradesh
-  2. Uttar Pradesh
-  3. Gujarat
-  4. Bihar
-
-Q.24 In the 10th century India, Queen Didda became the ruler of which of the following regions of north India?
-Ans 1. Kannauj
-  2. Delhi
-  3. Malwa
-  4. Kashmir
-
-Q.25 In which of the following years was VD Savarkar sent to Andaman Jail by the British?
-Ans 1. 1923
-  2. 1922
-  3. 1910
-  4. 1911
-
-
-Section: General Awareness
-
-Q.1 Which of the following is the largest inhabited riverine island in the world? 
-Ans
-1. Lakshadweep  
-2. Peacock  
-3. Majuli  
-4. Bhavani
-
-Q.2 In the Right-Hand Thumb Rule, the thumb is directed towards the direction of:  
-Ans  
-1. current  
-2. magnetic field  
-3. electric field  
-4. motion of the conductor
-
-Q.3 Which of the following illustrations is related to chloroplasts?  
-Ans  
-1. c  
-2. b  
-3. d  
-4. a
-
-Q.4 Which is the most important protein component in milk, both quantitatively and nutritionally, that accounts for about 80% of the total protein in bovine milk?  
-Ans  
-1. Pepsin  
-2. Casein  
-3. Actin  
-4. Albumin
-
-Q.5 Which web portal was launched by the Department of Telecommunications for sharing information on mobile towers and EMF emission compliance?  
-Ans  
-1. E-Amrit  
-2. Tarang Sanchar  
-3. Namaste  
-4. PM-Daksh
-
-Q.6 Which of the following is Fisher's equation of exchange?  
-Ans  
-
-
-Q.7 In 1539, the Battle of Chausa was fought between Humayun and:  
-Ans  
-1. Ibrahim Lodhi  
-2. Sikandar Suri  
-3. Sher Shah Suri  
-4. Rana Sanga
-
-Q.8 ?? ?? ?? ? ?? ??? ????? ?? ??? ?? ???? ????? ???? ?? ???? ???? ???  
-Ans  
-1. ??????  
-2. ?? ???  
-3. ??????  
-4. ?
-
-Q.9 Sardhana Christian Fair is held in which of the following states?  
-Ans  
-1. Haryana  
-2. Uttar Pradesh  
-3. Madhya Pradesh  
-4. West Bengal
-
-Q.10 Ali Akbar Khan was associated with which of the following gharanas?  
-Ans  
-1. Kirana gharana  
-2. Gwalior gharana  
-3. Agra gharana  
-4. Maihar gharana
-
-Q.11  
-Ans  
-1. A-iv, B-i, C-iii, D-ii  
-2. A-i, B-iii, C-ii, D-iv  
-3. A-iii, B-iv, C-i, D-ii  
-4. A-ii, B-i, C-iv, D-iii
-
-Q.12 Which Article of the Indian Constitution mentions that 'The State shall endeavour to promote cottage industries on an individual or co-operative basis in rural areas'?  
-Ans  
-1. Article 42  
-2. Article 44  
-3. Article 49  
-4. Article 43
-
-Q.13 Which of the following is the most controversial Article in the Indian Constitution, which provides for President's rule in any state?  
-Ans  
-1. Article 356  
-2. Article 358  
-3. Article 352  
-4. Article 360
-
-Q.14 A dense mass of water drops on smoke or dust particles in the lower atmosphere layers is referred to as:  
-Ans  
-1. smog  
-2. frost  
-3. blizzard  
-4. mist
-
-Q.15 Bhakti Pradeep Kulkarni is associated with:  
-Ans  
-1. cricket  
-2. kabaddi  
-3. chess  
-4. badminton
-
-Q.16 Who among the following was the youngest recipient of the Sangeetha Kalanidhi awarded by the Music Academy in 1947?  
-Ans  
-1. Bhimsen Joshi  
-2. Ariyakudi Ramanuja Iyengar  
-3. Mallikarjun Bheemarayappa Mansur  
-4. Semmangudi Radhakrishna Srinivasa Iyer
-
-Q.17 In which year was the battle of Buxar fought?  
-Ans  
-1. 1777  
-2. 1793  
-3. 1764  
-4. 1757
-
-Q.18 Which of the following State governments has launched a scheme 'Ankur' in May 2021 to promote planting of trees in public, wherein people will be awarded for planting and taking care of the saplings?  
-Ans  
-1. West Bengal  
-2. Bihar  
-3. Uttarakhand  
-4. Madhya Pradesh
-
-Q.19 Which of the following Acts passed under Warren Hastings was also called 'half-loaf system'?  
-Ans  
-1. Pitt's India Act 1784  
-2. Government of India Act 1858  
-3. Regulating Act 1773  
-4. Charter Act 1813
-
-Q.20 In Newlands' Octaves, the properties of lithium and:  
-Ans  
-1. sodium  
-2. beryllium  
-3. aluminium  
-4. magnesium
-
-Q.21 India hosted the Asian Games in which of the following years?  
-Ans  
-1. 1954 and 1982  
-2. 1951 and 1986  
-3. 1951 and 1982  
-4. 1954 and 1986
-
-Q.22 Which of the following movements created regional disparities between large and small farmers in India?  
-Ans  
-1. Yellow revolution  
-2. Green revolution  
-3. Pink revolution  
-4. Blue revolution
-
-Q.23 What was the main objective of the Second Green Revolution in India?  
-Ans  
-1. Ensuring food security in the western states  
-2. Focusing on holistic development in agriculture  
-3. Increasing the use of chemical fertilizers and pesticides  
-4. Promoting conventional agricultural practices
-
-Q.24 Which of the following Articles of the Indian Constitution CANNOT be suspended even during an emergency declared on the grounds of war or external aggression?  
-Ans  
-1. Articles 15 and 17  
-2. Articles 20 and 21  
-3. Articles 14 and 16  
-4. Articles 30 and 32
-
-Q.25 Elelakkaradi dance of Kerala is performed by which of the following tribes?  
-Ans  
-1. Mavilan tribe  
-2. Kurumba tribe  
-3. Irular tribe  
-4. Adiyan tribe  
-
+### Biology & Botany
+1. **Which of the following is related to neem?**  
+   - 1. Pinnately  
+   - 2. Palmately  
+   - 3. Spines  
+   - 4. Tendril  
+
+### Films & Awards
+2. **For which film did Asha Bhosle win the International Indian Film Academy (IIFA) Award in the Best Playback Singer Female category in 2002?**  
+   - 1. Devdas  
+   - 2. Humraz  
+   - 3. Om Jai Jagdish  
+   - 4. Lagaan  
+
+### Geography & Environment
+3. **What is the duration of monsoon in India?**  
+   - 1. 100–120 days  
+   - 2. 150–200 days  
+   - 3. 40–60 days  
+   - 4. 50–80 days  
+
+4. **The northern plain of the Indian subcontinent has been formed by the interplay of the three major river systems along with their tributaries. Choose the odd one out:**  
+   - 1. The Indus  
+   - 2. The Brahmaputra  
+   - 3. The Ganga  
+   - 4. The Godavari  
+
+17. **Which national park in the Andaman and Nicobar Islands is home to species like Megapode, crab-eating Macaque, Nicobar Pigeon, and Giant Robber Crab?**  
+   - 1. Campbell Bay National Park  
+   - 2. Raimona National Park  
+   - 3. Mouling National Park  
+   - 4. Papikonda National Park  
+
+### Indian Polity & Constitution
+5. **Which of the following is mentioned in Article 1 of the Indian constitution?**  
+   - 1. India that is Bharat as parliamentary democracy  
+   - 2. India that is Bharat as federation of states  
+   - 3. India that is Bharat shall be a Union of states  
+   - 4. India that is Bharat as presidential form of democracy  
+
+8. **Articles 52 to 78 in Part V of the Indian Constitution deal with:**  
+   - 1. National emergency  
+   - 2. Amendment of the Constitution  
+   - 3. Finance Commission of India  
+   - 4. Union Executive  
+
+19. **Which part of the Constitution deals with the Panchayats?**  
+   - 1. Part IV  
+   - 2. Part X  
+   - 3. Part IX  
+   - 4. Part VII  
+
+### Sports
+6. **Who holds the record for the longest long jump in India as of 2023?**  
+   - 1. Murali S  
+   - 2. Nayana James  
+   - 3. Jeswin Aldrin  
+   - 4. TC Yohannan  
+
+25. **Where was the 1st World Cup of Kabaddi organised in 2004?**  
+   - 1. Hyderabad  
+   - 2. Mumbai  
+   - 3. Punjab  
+   - 4. Kolkata  
+
+### Physics & Chemistry
+7. **Name the phenomenon where an opaque object on the path of light becomes very small and where light has a tendency to bend around it and not walk in a straight line.**  
+   - 1. Reflection of light  
+   - 2. Angle of incidence  
+   - 3. Diffraction of light  
+   - 4. Angle of refraction  
+
+24. **A chemical reaction in which the rate of reaction is directly proportional to the first power of the concentration of the reacting substance is called:**  
+   - 1. Second order reaction  
+   - 2. First order reaction  
+   - 3. Zero order reaction  
+   - 4. Third order reaction  
+
+### Economy, Government Schemes & Technology
+9. **What is the position of India in the world's telecommunication market, as of March 2024?**  
+   - 1. Fourth  
+   - 2. Second  
+   - 3. Third  
+   - 4. First  
+
+10. **The National Youth Policy was launched in:**  
+   - 1. 2015  
+   - 2. 2014  
+   - 3. 2013  
+   - 4. 2012  
+
+13. **Consider the following statements related to the Online Dispute Resolution (ODR) handbook:**  
+   1. It will be launched by the Ministry of Science and Technology.  
+   2. ODR is the resolution for cases outside courts using digital technology and techniques of Alternative Dispute Resolution (ADR), such as negotiation, mediation, and arbitration.  
+   3. The development of ICT and increased use of internet has played a major role for ODR.  
+   **Which of the given statements is/are correct?**  
+   - 1. Only 2 and 3  
+   - 2. Only 1 and 3  
+   - 3. Only 2  
+   - 4. Only 1  
+
+14. **The Flexible Inflation Targeting Framework (FITF) was introduced in India post the amendment of the Reserve Bank of India (RBI) Act, 1934 in:**  
+   - 1. 2010  
+   - 2. 2014  
+   - 3. 2016  
+   - 4. 2020  
+
+15. **The government of which of the following states allocated ₹11,728 crore for the Aasara pension scheme in its annual budget for the fiscal year 2022-23?**  
+   - 1. Telangana  
+   - 2. Odisha  
+   - 3. Chhattisgarh  
+   - 4. Gujarat  
+
+### Indian Festivals & Culture
+16. **'Atla Taddi' is the widely celebrated festival of which Indian state?**  
+   - 1. West Bengal  
+   - 2. Bihar  
+   - 3. Punjab  
+   - 4. Andhra Pradesh  
+
+23. **In which of the following states of India is Hojagiri dance predominantly performed?**  
+   - 1. Kerala  
+   - 2. Maharashtra  
+   - 3. Tripura  
+   - 4. Himachal Pradesh  
+
+### Indian History
+11. **Who among the following was the President of the Belgaum Session of the Indian National Congress held in 1924?**  
+   - 1. Vallabhbhai Patel  
+   - 2. Mahatma Gandhi  
+   - 3. Subhas Chandra Bose  
+   - 4. Jawaharlal Nehru  
+
+18. **The Permanent Settlement came into operation in which of the following years?**  
+   - 1. 1793  
+   - 2. 1890  
+   - 3. 1789  
+   - 4. 1790  
+
+20. **Which of the following battles was fought between Babur and Rana Sanga in 1527?**  
+   - 1. Battle of Chanderi  
+   - 2. Battle of Bayana  
+   - 3. Battle of Khanwa  
+   - 4. Second battle of Panipat  
+
+21. **Which among the following was NOT a part of the three sections of the Rigvedic tribe?**  
+   - 1. Warriors  
+   - 2. Priests  
+   - 3. Ordinary people  
+   - 4. Craftsman  
+
+22. **Which of the following statements is/are correct?**  
+   i. The first green revolution led to over-exploitation of natural resources.  
+   ii. The second Green Revolution was more focused on Southern India.  
+   iii. The second green revolution ensured in achieving sustainable livelihood security.  
+   - 1. Only ii  
+   - 2. i and ii  
+   - 3. ii and iii  
+   - 4. i and iii  
+
+### Music & Personalities
+12. **Ali Akbar Khan is known for playing the:**  
+   - 1. Ektara  
+   - 2. Sarangi  
+   - 3. Tanpura  
+   - 4. Sarod  
 
 Section : General Awareness
 
-Q.1 Which of the following is related to neem? 
-Ans 1. Pinnately
-  2. Palmately
-  3. Spines
-  4. Tendril
+### Indian Classical Dance & Music
+1. **Who among the following Indian classical dancers is associated with Kuchipudi?**  
+   - 1. Meenakshi Medhi  
+   - 2. Sanjukta Panigrahi  
+   - 3. Malavika Sarkar  
+   - 4. Vempati Chinna Satyam  
 
-Q.2 For which film did Asha Bhosle win the International Indian Film Academy (IIFA) Award in the Best Playback Singer Female category in 2002?
-Ans 1. Devdas
-  2. Humraz
-  3. Om Jai Jagdish
-  4. Lagaan
+21. **Who is often touted as Tansen of the 20th century, this musical genius blended the best of classical music and created a unique style of his own?**  
+   - 1. Ustad Ali Baksh Khan  
+   - 2. Bade Ghulam Ali Khan  
+   - 3. Barkat Ali Khan  
+   - 4. Mubarak Ali Khan  
 
-Q.3 What is the duration of monsoon in India? 
-Ans 1. 100-120 days
-  2. 150-200 days
-  3. 40-60 days
-  4. 50-80 days
+### Sports
+2. **How many ICC World Cups has India won in ODI?**  
+   - 1. 3  
+   - 2. 2  
+   - 3. 4  
+   - 4. 1  
 
-Q.4 The northern plain of the Indian subcontinent has been formed by the interplay of the three major river systems along with their tributaries. Choose the odd one out of the options given.
-Ans 1. The Indus
-  2. The Brahmaputra
-  3. The Ganga
-  4. The Godavari
+20. **Which of the following team events is included in the Target Olympic Podium Scheme?**  
+   - 1. Hockey  
+   - 2. Cricket  
+   - 3. Football  
+   - 4. Tennis  
 
-Q.5 Which of the following is mentioned in Article 1 of the Indian constitution? 
-Ans 1. India that is Bharat as parliamentary democracy
-  2. India that is Bharat as federation of states
-  3. India that is Bharat shall be a Union of states
-  4. India that is Bharat as presidential form of democracy
+### Indian History & Politics
+3. **With reference to Ajivikas, consider the following statements:**  
+   a) Makkhali Gosala was the prominent teacher of this sect.  
+   b) Ajivikas believed in fatalism.  
+   **Which of the above statements is/are correct?**  
+   - 1. Both a and b  
+   - 2. Neither a or b  
+   - 3. Only b  
+   - 4. Only a  
 
-Q.6 Who holds the record for the longest long jump in India as of 2023? 
-Ans 1. Murali S
-  2. Nayana James
-  3. Jeswin aldrin
-  4. TC Yohannan
+15. **Which of the following statements about the second five-year plan is INCORRECT?**  
+   - 1. The plan was based on the Keynesian Model.  
+   - 2. Electricity, Railway, Steel etc. industries were established during the plan.  
+   - 3. The plan stressed the rapid industrialisation of heavy and basic industries.  
+   - 4. The socialist pattern of the society was reflected in the plan.  
 
-Q.7 Name the phenomenon where an opaque object on the path of light becomes very small and where light has a tendency to bend around it and not walk in a straight line.
-Ans 1. Reflection of light
-  2. Angle of incidence
-  3. Diffraction of light
-  4. Angle of refraction
+16. **Being the President of the Indian National Congress, who among the following had called for complete independence from the British Raj in 1929?**  
+   - 1. Subhas Chandra Bose  
+   - 2. Sardar Vallabhbhai Patel  
+   - 3. Jawaharlal Nehru  
+   - 4. Mahatma Gandhi  
 
-Q.8 Articles 52 to 78 in Part V of the Indian Constitution deal with: 
-Ans 1. National emergency
-  2. Amendment of the Constitution
-  3. Finance Commission of India
-  4. Union Executive
+22. **In 1936, The Independent Labour Party was founded by:**  
+   - 1. BR Ambedkar  
+   - 2. Bhagat Singh  
+   - 3. Bal Gangadhar Tilak  
+   - 4. Mohan Singh Bhakhna  
 
-Q.9 What is the position of India in the world's telecommunication market, as of March 2024?
-Ans 1. Fourth
-  2. Second
-  3. Third
-  4. First
+25. **Which of the following Sultans of Delhi primarily adopted a policy of consolidation rather than expansion?**  
+   - 1. Bahlol Lodi  
+   - 2. Ibrahim Lodi  
+   - 3. Balban  
+   - 4. Alauddin Khalji  
 
-Q.10 The National Youth Policy was launched in:
-Ans 1. 2015
-  2. 2014
-  3. 2013
-  4. 2012
+### Physics & Chemistry
+4. **Who first stated the principle of refraction that postulates that every substance has a specific bending ratio - 'refractive index'?**  
+   - 1. Dennis Gabor  
+   - 2. Thomas Young  
+   - 3. David Brewster  
+   - 4. Willebrord Snellius  
 
-Q.11 Who among the following was the President of the Belgaum Session of the Indian National Congress held in 1924?
-Ans 1. Vallabhbhai Patel
-  2. Mahatma Gandhi
-  3. Subhas Chandra Bose
-  4. Jawaharlal Nehru
+9. **What is the gas evolved when zinc reacts with sulphuric acid?**  
+   - 1. Carbon dioxide  
+   - 2. Oxygen  
+   - 3. Hydrogen sulphide  
+   - 4. Hydrogen  
 
-Q.12 Ali Akbar Khan is known for playing the: 
-Ans 1. Ektara
-  2. Sarangi
-  3. Tanpura
-  4. Sarod
+23. **Which of the following is another name of vitamin C?**  
+   - 1. Pyridoxal  
+   - 2. Pyridoxine  
+   - 3. Pyridoxamine  
+   - 4. Ascorbic acid  
 
-Q.13 Consider the following statements related to the Online Dispute Resolution (ODR) handbook.
-1. It will be launched by the Ministry of Science and Technology.
-2. ODR is the resolution for cases outside courts using digital technology and techniques of Alternative Dispute Resolution (ADR), such as negotiation, mediation, and arbitration.
-3. The development of ICT and increased use of internet has played a major role for ODR.
-Which of the given statements is/are correct?
-Ans 1. Only 2 and 3
-  2. Only 1 and 3
-  3. Only 2
-  4. Only 1
+### Economy & Government Schemes
+5. **Who among the following was appointed as the Chief Economic Advisor (CEA) to the Indian government in 2022?**  
+   - 1. Raghuram Rajan  
+   - 2. Kaushik Basu  
+   - 3. TV Somanathan  
+   - 4. Venkatramanan Anantha Nageswaran  
 
-Q.14 The Flexible Inflation Targeting Framework (FITF) was introduced in India post the amendment of the Reserve Bank of India (RBI) Act, 1934 in: 
-Ans 1. 2010
-  2. 2014
-  3. 2016
-  4. 2020
+10. **Name the pension scheme that seeks to ensure old age protection for unorganised workers.**  
+   - 1. Pradhan Mantri Mudra Yojna  
+   - 2. Pradhan Mantri Shram Yogi Maandhan  
+   - 3. Pradhan Mantri Suraksha Bhima Yojna  
+   - 4. Atal Pension Yojana  
 
-Q.15 The government of which of the following states allocated ₹11,728 crore for the Aasara pension scheme in its annual budget for the fiscal year 2022-23?
-Ans 1. Telangana
-  2. Odisha
-  3. Chhattisgarh
-  4. Gujarat
+18. **Which of the following ministries launched the PM Daksh scheme?**  
+   - 1. Ministry of Electronics and Information Technology  
+   - 2. Ministry of Education  
+   - 3. Ministry of Social Justice and Empowerment  
+   - 4. Ministry of Food Processing Industries  
 
-Q.16 'Atla Taddi' is the widely celebrated festival of which Indian state? 
-Ans 1. West Bengal
-  2. Bihar
-  3. Punjab
-  4. Andhra Pradesh
+### Indian Constitution & Law
+6. **Which Article in the fundamental duty is invoked when you see in a private party that the Indian flag has been used as a covering for the speaker's desk?**  
+   - 1. Article 51A (b)  
+   - 2. Article 51A (c)  
+   - 3. Article 51A (d)  
+   - 4. Article 51A (a)  
 
-Q.17 Which national park in the Andaman and Nicobar Islands is home to species like Megapode, crab-eating Macaque, Nicobar Pigeon, and Giant Robber Crab?
-Ans 1. Campbell Bay National Park
-  2. Raimona National Park
-  3. Mouling National Park
-  4. Papikonda National Park
+24. **Articles 214 to 231 in Part VI of the Indian Constitution deal with the:**  
+   - 1. High Courts  
+   - 2. Supreme Court  
+   - 3. Subordinate Courts  
+   - 4. District Courts  
 
-Q.18 The Permanent Settlement came into operation in which of the following years?
-Ans 1. 1793
-  2. 1890
-  3. 1789
-  4. 1790
+### Geography & Climate
+7. **Kati Bihu is celebrated in which of the following months in Assam?**  
+   - 1. March  
+   - 2. November  
+   - 3. January  
+   - 4. October  
 
-Q.19 Which part of the Constitution deals with the Panchayats? 
-Ans 1. Part IV
-  2. Part X
-  3. Part IX
-  4. Part VII
+13. **The most common rainfall measurement is the total rainfall depth during a given period, which is expressed in:**  
+   - 1. millimetres (mm)  
+   - 2. hectopascal (hPa)  
+   - 3. millibar (mbar)  
+   - 4. kilopascal (kPa)  
 
-Q.20 Which of the following battles was fought between Babur and Rana Sanga in 1527? 
-Ans 1. Battle of Chanderi
-  2. Battle of Bayana
-  3. Battle of Khanwa
-  4. Second battle of Panipat
+### General Knowledge
+8. **Coir conductor Coomi Nariman Wadia was awarded with which of the following awards by the Government of India in 2023?**  
+   - 1. Padma Vibhushan  
+   - 2. Bharat Ratna  
+   - 3. Padma Bhushan  
+   - 4. Padma Shri  
 
-Q.21 Which among the following was NOT a part of the three sections of the Rigvedic tribe? 
-Ans 1. Warriors
-  2. Priests
-  3. Ordinary people
-  4. Craftsman
+14. **Which of the following is NOT a kharif crop?**  
+   - 1. Cotton  
+   - 2. Paddy  
+   - 3. Wheat  
+   - 4. Soyabean  
 
-Q.22 Which of the following statements is/are correct?
-i. The first green revolution led to over-exploitation of natural resources.
-ii. The second Green Revolution was more focused on Southern India.
-iii. The second green revolution ensured in achieving sustainable livelihood security.
-Which of the given statements is/are correct?
-Ans 1. Only ii
-  2. i and ii
-  3. ii and iii
-  4. i and iii
+19. **When a person is NOT paying anything for public goods, it is known as:**  
+   - 1. private good  
+   - 2. rivalrous  
+   - 3. non-excludable  
+   - 4. free rider  
 
-Q.23 In which of the following states of India is Hojagiri dance predominantly performed? 
-Ans 1. Kerala
-  2. Maharashtra
-  3. Tripura
-  4. Himachal Pradesh
+### Additional Questions
+11. **Who published Systema Naturae in 1735 classifying the three kingdoms of nature and outlining the sexual system for the classification of plants?**  
+   - 1. Carolus Linnaeus  
+   - 2. Robert Whittaker  
+   - 3. Ernst Haeckel  
+   - 4. Carl Woese  
 
-Q.24 A chemical reaction in which the rate of reaction is directly proportional to the first power of the concentration of the reacting substance is called:
-Ans 1. Second order reaction
-  2. First order reaction
-  3. Zero order reaction
-  4. Third order reaction
+12. **In 2022, who has been appointed as new Attorney General of India?**  
+   - 1. R Venkatramani  
+   - 2. Mukul Rohatgi  
+   - 3. Niren De  
+   - 4. KK Venugopal  
 
-Q.25 Where was the 1st World Cup of Kabaddi organised in 2004? 
-Ans 1. Hyderabad
-  2. Mumbai
-  3. Punjab
-  4. Kolkata
-
-Section : General Awareness
-
-Q.1 Who among the following Indian classical dancers is associated with Kuchipudi?  
-  Ans 1. Meenakshi Medhi  
-    2. Sanjukta Panigrahi  
-    3. Malavika Sarkar  
-    4. Vempati Chinna Satyam
-
-Q.2 How many ICC World Cups has India won in ODI?  
-  Ans 1. 3  
-    2. 2  
-    3. 4  
-    4. 1
-
-Q.3 With reference of Ajivikas, consider the following statements.  
-a) Makkhali Gosala was the prominent teacher of this sect.  
-b) Ajivikas believed in fatalism.  
-Which of the above statements is/are correct?  
-  Ans 1. Both a and b  
-    2. Neither a or b  
-    3. Only b  
-    4. Only a
-
-Q.4 Who first stated the principle of refraction that postulates that every substance has a specific bending ratio - 'refractive index'?  
-  Ans 1. Dennis Gabor  
-    2. Thomas Young  
-    3. David Brewster  
-    4. Willebrord Snellius
-
-Q.5 Who among the following was appointed as the Chief Economic Advisor (CEA) to the Indian government in 2022?  
-  Ans 1. Raghuram Rajan  
-    2. Kaushik Basu  
-    3. TV Somanathan  
-    4. Venkatramanan Anantha Nageswaran
-
-Q.6 Which Article in the fundamental duty is invoked when you see in a private party that the Indian flag has been used as a covering for the speaker's desk?  
-  Ans 1. Article 51A (b)  
-    2. Article 51A (c)  
-    3. Article 51A (d)  
-    4. Article 51A (a)
-
-Q.7 Kati Bihu is celebrated in which of the following months in Assam?  
-  Ans 1. March  
-    2. November  
-    3. January  
-    4. October
-
-Q.8 Coir conductor Coomi Nariman Wadia was awarded with which of the following awards by the Government of India in 2023?  
-  Ans 1. Padma Vibhushan  
-    2. Bharat Ratna  
-    3. Padma Bhushan  
-    4. Padma Shri
-
-Q.9 What is the gas evolved when zinc reacts with sulphuric acid?  
-  Ans 1. Carbon dioxide  
-    2. Oxygen  
-    3. Hydrogen sulphide  
-    4. Hydrogen
-
-Q.10 Name the pension scheme that seeks to ensure old age protection for unorganised workers.  
-  Ans 1. Pradhan Mantri Mudra Yojna  
-    2. Pradhan Mantri Shram Yogi Maandhan  
-    3. Pradhan Mantri Suraksha Bhima Yojna  
-    4. Atal Pension Yojana
-
-Q.11 Who published Systema Naturae in 1735 classifying the three kingdoms of nature and outlining the sexual system for the classification of plants?  
-  Ans 1. Carolus Linnaeus  
-    2. Robert Whittaker  
-    3. Ernst Haeckel  
-    4. Carl Woese
-
-Q.12 In 2022, who has been appointed as new Attorney General of India?  
-  Ans 1. R Venkatramani  
-    2. Mukul Rohatgi  
-    3. Niren De  
-    4. KK Venugopal
-
-Q.13 The most common rainfall measurement is the total rainfall depth during a given period, which is expressed in  
-  Ans 1. millimetres (mm)  
-    2. hectopascal (hPa)  
-    3. millibar (mbar)  
-    4. kilopascal (kPa)
-
-Q.14 Which of the following is NOT a kharif crop?  
-  Ans 1. Cotton  
-    2. Paddy  
-    3. Wheat  
-    4. Soyabean
-
-Q.15 Which of the following statements about the second five-year plan is INCORRECT?  
-  Ans 1. The plan was based on the Keynesian Model.  
-    2. Electricity, Railway, Steel etc. industries were established during the plan.  
-    3. The plan stressed the rapid industrialisation of heavy and basic industries.  
-    4. The socialist pattern of the society was reflected in the plan.
-
-Q.16 Being the President of the Indian National Congress, who among the following had called for complete independence from the British Raj in 1929?  
-  Ans 1. Subhas Chandra Bose  
-    2. Sardar Vallabhbhai Patel  
-    3. Jawaharlal Nehru  
-    4. Mahatma Gandhi
-
-Q.17 Which of the following is NOT a tributary of Ganga?  
-  Ans 1. Yamuna  
-    2. Kosi  
-    3. Lohit  
-    4. Gandak
-
-Q.18 Which of the following ministries launched the PM Daksh scheme?  
-  Ans 1. Ministry of Electronics and Information Technology  
-    2. Ministry of Education  
-    3. Ministry of Social Justice and Empowerment  
-    4. Ministry of Food Processing Industries
-
-Q.19 When a person is NOT paying anything for public goods, it is known as  
-  Ans 1. private good  
-    2. rivalrous  
-    3. non-excludable  
-    4. free rider
-
-Q.20 Which of the following team events is included in the Target Olympic Podium Scheme?  
-  Ans 1. Hockey  
-    2. Cricket  
-    3. Football  
-    4. Tennis
-
-Q.21 is often touted as Tansen of the 20th century, this musical genius blended the best of classical music and created a unique style of his own.  
-  Ans 1. Ustad Ali Baksh Khan  
-    2. Bade Ghulam Ali Khan  
-    3. Barkat Ali Khan  
-    4. Mubarak Ali Khan
-
-Q.22 In 1936, The Independent Labour Party was founded by  
-  Ans 1. BR Ambedkar  
-    2. Bhagat Singh  
-    3. Bal Gangadhar Tilak  
-    4. Mohan Singh Bhakhna
-
-Q.23 Which of the following is another name of vitamin C?  
-  Ans 1. Pyridoxal  
-    2. Pyridoxine  
-    3. Pyridoxamine  
-    4. Ascorbic acid
-
-Q.24 Articles 214 to 231 in Part VI of the Indian Constitution deal with the  
-  Ans 1. High Courts  
-    2. Supreme Court  
-    3. Subordinate Courts  
-    4. District Courts
-
-Q.25 Which of the following Sultans of Delhi primarily adopted a policy of consolidation rather than expansion?  
-  Ans 1. Bahlol Lodi  
-    2. Ibrahim Lodi  
-    3. Balban  
-    4. Alauddin Khalji  
 
 
 Section : General Awareness
