@@ -1,5 +1,6 @@
 Date|Event
 --|--
+1831|Michel farade electromagnetic Induction
 1858|Govt. of India Act
 1919|Govt. of India Act - Bicameral Legislature
 1935|Govt. of India act - Fedretion and provincial public service commission
