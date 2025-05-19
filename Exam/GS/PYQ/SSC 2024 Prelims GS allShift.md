@@ -287,7 +287,7 @@ Section : General Awareness
     3. Delhi  
     4. Mumbai  
 
-2. **At which Olympics did Gagan Narang win a bronze medal?**  
+2. [**At which Olympics did Gagan Narang win a bronze medal?**](https://en.wikipedia.org/wiki/India_at_the_Olympics#Medalists)  
   - Options:  
     1. Beijing 2008  
     2. London 2012  
