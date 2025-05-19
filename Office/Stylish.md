@@ -60,3 +60,20 @@ aside#sidebar-primary.sidebar-primary.customify-col-3_sm-12 {
 display:none;
 }
 ```
+- [tuf](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
+```
+.lg\:relative {
+	/*Your code should go under this comment*/
+  display:none
+}
+
+
+.lg\:px-\[27px\] {
+	/*Your code should go under this comment*/
+  display:none
+}
+.duration-500 {
+	/*Your code should go under this comment*/
+  display:none
+}
+```
