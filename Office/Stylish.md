@@ -61,18 +61,20 @@ display:none;
 }
 ```
 - [tuf](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)
-```
+```CSS
 .lg\:relative {
 	/*Your code should go under this comment*/
   display:none
 }
-
-
 .lg\:px-\[27px\] {
 	/*Your code should go under this comment*/
   display:none
 }
 .duration-500 {
+	/*Your code should go under this comment*/
+  display:none
+}
+.w-\[20\%\] {
 	/*Your code should go under this comment*/
   display:none
 }
