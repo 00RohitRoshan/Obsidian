@@ -1,0 +1,250 @@
+CreateFiles: |
+  #!/bin/bash
+
+  # Root files
+  touch main.tf variables.tf outputs.tf
+
+  # Define module directories
+  modules=("network" "vm" "k8s_deploy")
+  files=("main.tf" "variables.tf" "outputs.tf")
+
+  # Loop through modules and create files
+  for module in "${modules[@]}"; do
+    mkdir -p "modules/$module"
+    for file in "${files[@]}"; do
+      touch "modules/$module/$file"
+    done
+  done
+
+  echo "✅ All directories and .tf files created!"
+modules/network/main.tf: |
+  resource "google_compute_network" "vpc_network" {
+    name                    = var.network_name
+    auto_create_subnetworks = false
+  }
+
+  resource "google_compute_subnetwork" "subnet" {
+    name          = var.subnet_name
+    ip_cidr_range = var.subnet_cidr
+    region        = var.region
+    network       = google_compute_network.vpc_network.id
+  }
+modules/network/firewall.tf: |
+  resource "google_compute_firewall" "allow_ssh" {
+    name    = "${var.network_name}-allow-ssh"
+    network = google_compute_network.vpc_network.name
+
+    allow {
+      protocol = "tcp"
+      ports    = ["22"]
+    }
+
+    direction = "INGRESS"
+    source_ranges = ["0.0.0.0/0"]
+    target_tags   = ["ssh"]
+  }
+
+  resource "google_compute_firewall" "allow_internal" {
+    name    = "${var.network_name}-allow-internal"
+    network = google_compute_network.vpc_network.name
+
+    allow {
+      protocol = "all"
+    }
+
+    direction = "INGRESS"
+    source_ranges = ["10.10.0.0/16"]
+  }
+
+modules/network/variables.tf: |
+  variable "network_name" {}
+  variable "subnet_name" {}
+  variable "subnet_cidr" {}
+  variable "region" {}
+modules/network/outputs.tf: |
+  output "network_self_link" {
+    value = google_compute_network.vpc_network.self_link
+  }
+
+  output "subnet_self_link" {
+    value = google_compute_subnetwork.subnet.self_link
+  }
+
+  output "firewall_rules" {
+    value = [
+      google_compute_firewall.allow_ssh.name,
+      google_compute_firewall.allow_internal.name
+    ]
+  }
+
+modules/vm/main.tf: |
+  resource "google_compute_instance" "default" {
+    name         = var.vm_name
+    machine_type = var.machine_type
+    zone         = var.zone
+
+    boot_disk {
+      initialize_params {
+        image = var.image
+      }
+    }
+
+    network_interface {
+      subnetwork = var.subnet_self_link
+      access_config {}
+    }
+
+    tags = var.tags
+    
+    service_account {
+      email  = google_service_account.vm_sa.email
+      scopes = ["cloud-platform"]
+    }
+  }
+modules/vm/service_account.tf: |
+  resource "google_service_account" "vm_sa" {
+    account_id   = "${var.vm_name}-sa"
+    display_name = "Service Account for ${var.vm_name}"
+  }
+
+  resource "google_project_iam_member" "log_writer" {
+    project = var.project_id
+    role    = "roles/logging.logWriter"
+    member  = "serviceAccount:${google_service_account.vm_sa.email}"
+  }
+
+  resource "google_project_iam_member" "monitoring_writer" {
+    project = var.project_id
+    role    = "roles/monitoring.metricWriter"
+    member  = "serviceAccount:${google_service_account.vm_sa.email}"
+  }
+modules/vm/variables.tf: |
+  variable "vm_name" {}
+  variable "machine_type" {}
+  variable "zone" {}
+  variable "image" {}
+  variable "subnet_self_link" {}
+  variable "tags" {
+    default = []
+  }
+  variable "project_id" {}
+modules/vm/outputs.tf: |
+  output "vm_ip" {
+    value = google_compute_instance.default.network_interface[0].access_config[0].nat_ip
+  }
+  output "vm_service_account_email" {
+    value = google_service_account.vm_sa.email
+  }
+modules/k8s_deploy/main.tf: |
+  provider "kubernetes" {
+    host                   = var.host
+    token                  = var.token
+    cluster_ca_certificate = base64decode(var.cluster_ca_certificate)
+  }
+
+  resource "kubernetes_deployment" "app" {
+    metadata {
+      name = var.app_name
+      labels = {
+        app = var.app_name
+      }
+    }
+
+    spec {
+      replicas = 1
+      selector {
+        match_labels = {
+          app = var.app_name
+        }
+      }
+      template {
+        metadata {
+          labels = {
+            app = var.app_name
+          }
+        }
+        spec {
+          container {
+            name  = var.app_name
+            image = var.image
+            port {
+              container_port = var.port
+            }
+          }
+        }
+      }
+    }
+  }
+modules/k8s_deploy/variables.tf: |
+  variable "host" {}
+  variable "token" {}
+  variable "cluster_ca_certificate" {}
+  variable "app_name" {}
+  variable "image" {}
+  variable "port" {
+    default = 80
+  }
+modules/k8s_deploy/outputs.tf: 
+- |
+  output "app_name" {
+    value = var.app_name
+  }
+
+main.tf: 
+- |
+  provider "google" {
+    project = var.project_id
+    region  = var.region
+    zone    = var.zone
+  }
+
+  module "vm" {
+    source           = "./modules/vm"
+    vm_name          = "vm-instance"
+    machine_type     = "e2-medium"
+    zone             = var.zone
+    image            = "debian-cloud/debian-12"
+    subnet_self_link = module.network.subnet_self_link
+  }
+
+  module "network" {
+    source       = "./modules/network"
+    network_name = "vm-vpc"
+    subnet_name  = "vm-subnet"
+    subnet_cidr  = "10.10.0.0/24"
+    region       = var.region
+  }
+
+  module "k8s_deploy" {
+    source                  = "./modules/k8s_deploy"
+    host                    = var.k8s_host
+    token                   = var.k8s_token
+    cluster_ca_certificate  = var.k8s_ca_cert
+    app_name                = "my-app"
+    image                   = "gcr.io/${var.project_id}/my-container-image:latest"
+  }
+- |
+  module "vm" {
+    source           = "./modules/vm"
+    project_id       = var.project_id
+    vm_name          = "vm-instance"
+    machine_type     = "e2-medium"
+    zone             = var.zone
+    image            = "debian-cloud/debian-12"
+    subnet_self_link = module.network.subnet_self_link
+    tags             = ["ssh"] # Ensure firewall tag matches
+  }
+variables.tf: |
+  variable "project_id" {}
+  variable "region" {}
+  variable "zone" {}
+  variable "k8s_host" {}
+  variable "k8s_token" {}
+  variable "k8s_ca_cert" {}
+outputs.tf: |
+
+
+
+
+
+
