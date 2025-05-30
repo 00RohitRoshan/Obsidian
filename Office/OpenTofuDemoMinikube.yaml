@@ -1,0 +1,126 @@
+main.tf: 
+- |
+  terraform {
+    required_providers {
+      minikube = {
+        source = "scott-the-programmer/minikube"
+        version = "0.5.0"
+      }
+    }
+  }
+
+  provider minikube {
+    # kubernetes_version = "v1.30.0"
+  }
+
+  resource "minikube_cluster" "cluster" {
+    vm      = true
+    driver  = "hyperkit"
+    cni     = "bridge"
+    addons  = [
+      "dashboard",
+      "default-storageclass",
+      "ingress",
+      "storage-provisioner"
+    ]
+  }
+
+  module "k8s_deploy" {
+    source           = "./modules/k8s_deploy"
+    app_name         = var.app_name
+    image            = "${var.image}:latest"
+    host             = minikube_cluster.cluster.host
+    client_certificate = minikube_cluster.cluster.client_certificate
+    client_key         = minikube_cluster.cluster.client_key
+    cluster_ca_certificate = minikube_cluster.cluster.cluster_ca_certificate
+  }
+
+variables.tf: |
+  variable "app_name" {
+    description = "The name of the application to deploy"
+    type        = string
+  }
+
+  variable "image" {
+    description = "The container image to deploy"
+    type        = string
+  }
+
+modules/k8s_deploy/main.tf: |
+  provider "kubernetes" {
+    host                   = var.host
+    client_certificate     = var.client_certificate
+    client_key             = var.client_key
+    cluster_ca_certificate = var.cluster_ca_certificate
+  }
+
+
+  resource "kubernetes_deployment" "app" {
+    metadata {
+      name = var.app_name
+      labels = {
+        app = var.app_name
+      }
+    }
+
+    spec {
+      replicas = 1
+      selector {
+        match_labels = {
+          app = var.app_name
+        }
+      }
+      template {
+        metadata {
+          labels = {
+            app = var.app_name
+          }
+        }
+        spec {
+          container {
+            name  = var.app_name
+            image = var.image
+            port {
+              container_port = var.port
+            }
+          }
+        }
+      }
+    }
+  }
+modules/k8s_deploy/variables.tf: |
+  variable "app_name" {
+    type = string
+  }
+
+  variable "image" {
+    type = string
+  }
+
+  variable "port" {
+    type    = number
+    default = 80
+  }
+
+  variable "host" {
+    type = string
+  }
+
+  variable "client_certificate" {
+    type = string
+  }
+
+  variable "client_key" {
+    type = string
+  }
+
+  variable "cluster_ca_certificate" {
+    type = string
+  }
+
+modules/k8s_deploy/outputs.tf: 
+- |
+  output "app_name" {
+    value = var.app_name
+  }
+
