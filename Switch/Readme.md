@@ -1,6 +1,6 @@
 ## Tech stack
 - GRPC
-- Gorm
+- Gorm (Postgress,Mysql,Elasticsearch)
 - GraphQL
 - Event Driven Architecture
 - Fiber, Gin, FastHttp

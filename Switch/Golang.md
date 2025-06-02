@@ -1,2 +1,3 @@
 - Sharding
 - Mem Cache
+- Channel (optimize channel implementation)
