@@ -1,10 +1,10 @@
   variable "app_name" {
-    type = list(string)
+    type = map(string)
   }
 
-  variable "image" {
-    type = string
-  }
+  # variable "image" {
+  #   type = string
+  # }
 
   variable "port" {
     type    = number
