@@ -30,42 +30,42 @@
   #   config_path = "~/.kube/config"
   # }
 
-  resource "kubernetes_deployment" "app" {
-    for_each = var.app_name
-    metadata {
-      name = each.key
-      labels = {
-        app = each.key
-      }
-    }
+  # resource "kubernetes_deployment" "app" {
+  #   for_each = var.app_name
+  #   metadata {
+  #     name = each.key
+  #     labels = {
+  #       app = each.key
+  #     }
+  #   }
 
-    spec {
-      replicas = 2
-      selector {
-        match_labels = {
-          app = each.key
-        }
-      }
-      template {
-        metadata {
-          labels = {
-            app = each.key
-          }
-        }
-        spec {
-          container {
-            name  = each.key
-            image = each.value
-            image_pull_policy = "Always"
-            port {
-              container_port = var.port
-            }
-          }
+  #   spec {
+  #     replicas = 2
+  #     selector {
+  #       match_labels = {
+  #         app = each.key
+  #       }
+  #     }
+  #     template {
+  #       metadata {
+  #         labels = {
+  #           app = each.key
+  #         }
+  #       }
+  #       spec {
+  #         container {
+  #           name  = each.key
+  #           image = each.value
+  #           image_pull_policy = "Always"
+  #           port {
+  #             container_port = var.port
+  #           }
+  #         }
           
-        }
-      }
-    }
-  }
+  #       }
+  #     }
+  #   }
+  # }
 
   # resource "kubernetes_service" "hello" {
   #   for_each = var.app_name
