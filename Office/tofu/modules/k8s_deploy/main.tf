@@ -67,18 +67,17 @@
     }
   }
 
-  resource "kubernetes_service" "hello" {
-    for_each = var.app_name
-    metadata {
-       name = each.key
-    }
-    spec {
-      port {
-        port = 8080
-        target_port = 80
-      }
-      selector = {"app" : each.key}
-
-    }
-  }
+  # resource "kubernetes_service" "hello" {
+  #   for_each = var.app_name
+  #   metadata {
+  #      name = each.key
+  #   }
+  #   spec {
+  #     port {
+  #       port = 8080
+  #       target_port = 80
+  #     }
+  #     selector = {"app" : each.key}
+  #   }
+  # }
 
