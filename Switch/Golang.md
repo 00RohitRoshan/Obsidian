@@ -1,3 +1,8 @@
 - Sharding
 - Mem Cache
-- Channel (optimize channel implementation)
+- Channel & Goroutine (optimize channel implementation)
+- architecture
+- low level design
+- mutex
+- deadlock
+- indexing
