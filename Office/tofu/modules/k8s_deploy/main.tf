@@ -77,7 +77,7 @@
         port = 8080
         target_port = 80
       }
-      selector = {"app" : each.value}
+      selector = {"app" : each.key}
 
     }
   }
