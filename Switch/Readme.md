@@ -21,3 +21,8 @@
 - Fiber, Gin, FastHttp
 
 ### Algorithms
+
+
+### Trick
+- connect with talent acquisition
+- cold main after apply
