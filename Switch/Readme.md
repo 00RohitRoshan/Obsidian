@@ -26,3 +26,4 @@
 ### Trick
 - connect with talent acquisition
 - cold main after apply
+- #hiring #hiringgolang in linkedin posts latest
