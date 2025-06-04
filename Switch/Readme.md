@@ -1,6 +1,7 @@
 ### Prompts
 - interview preparation for golang with redis
 - interview relevant examples and feature of gorm
+- let's ur are a redhat interviewer interviewing me for the role associate technical account manager
 
 ## Golang
 - Sharding
