@@ -30,85 +30,85 @@
   #   config_path = "~/.kube/config"
   # }
 
-  # resource "kubernetes_deployment" "app" {
-  #   for_each = var.app_name
-  #   metadata {
-  #     name = each.key
-  #     labels = {
-  #       app = each.key
-  #     }
-  #   }
-
-  #   spec {
-  #     replicas = 2
-  #     selector {
-  #       match_labels = {
-  #         app = each.key
-  #       }
-  #     }
-  #     template {
-  #       metadata {
-  #         labels = {
-  #           app = each.key
-  #         }
-  #       }
-  #       spec {
-  #         container {
-  #           name  = each.key
-  #           image = each.value
-  #           image_pull_policy = "Always"
-  #           port {
-  #             container_port = var.port
-  #           }
-  #         }
-          
-  #       }
-  #     }
-  #   }
-  # }
-
-  # resource "kubernetes_service" "hello" {
-  #   for_each = var.app_name
-  #   metadata {
-  #      name = each.key
-  #   }
-  #   spec {
-  #     port {
-  #       port = 8080
-  #       target_port = 80
-  #     }
-  #     selector = {"app" : each.key}
-  #   }
-  # }
-
-resource "kubernetes_manifest" "istio_auth_policy" {
-  manifest = {
-    apiVersion = "security.istio.io/v1beta1"
-    kind       = "AuthorizationPolicy"
-    metadata = {
-      name      = "allow-public-get"
-      namespace = "default"
+  resource "kubernetes_deployment" "app" {
+    for_each = var.app_name
+    metadata {
+      name = each.key
+      labels = {
+        app = each.key
+      }
     }
-    spec = {
-      selector = {
-        matchLabels = {
-          app = "redirect-application"
+
+    spec {
+      replicas = 2
+      selector {
+        match_labels = {
+          app = each.key
         }
       }
-      action = "ALLOW"
-      rules = [ 
-        {
-          to = [
-            {
-              operation = {
-                methods = ["*"]
-                paths   = ["*"]
-              }
-            }
-          ]
+      template {
+        metadata {
+          labels = {
+            app = each.key
+          }
         }
-      ]
+        spec {
+          container {
+            name  = each.key
+            image = each.value
+            image_pull_policy = "Always"
+            port {
+              container_port = var.port
+            }
+          }
+          
+        }
+      }
     }
   }
-}
+
+  resource "kubernetes_service" "hello" {
+    for_each = var.app_name
+    metadata {
+       name = each.key
+    }
+    spec {
+      port {
+        port = 8080
+        target_port = 80
+      }
+      selector = {"app" : each.key}
+    }
+  }
+
+# resource "kubernetes_manifest" "istio_auth_policy" {
+#   manifest = {
+#     apiVersion = "security.istio.io/v1beta1"
+#     kind       = "AuthorizationPolicy"
+#     metadata = {
+#       name      = "allow-public-get"
+#       namespace = "default"
+#     }
+#     spec = {
+#       selector = {
+#         matchLabels = {
+#           app = "redirect-application"
+#         }
+#       }
+#       action = "ALLOW"
+#       rules = [ 
+#         {
+#           to = [
+#             {
+#               operation = {
+#                 methods = ["*"]
+#                 paths   = ["*"]
+#               }
+#             }
+#           ]
+#         }
+#       ]
+#     }
+#   }
+# }
 
