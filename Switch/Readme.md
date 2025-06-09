@@ -27,3 +27,4 @@
 - connect with talent acquisition
 - cold main after apply
 - #hiring #hiringgolang in linkedin posts latest
+- checkout interview experiance, salary range, jobs (ambitionbox,glassdoor)
