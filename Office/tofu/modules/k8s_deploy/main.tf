@@ -93,21 +93,23 @@ resource "kubernetes_manifest" "istio_auth_policy" {
     spec = {
       selector = {
         matchLabels = {
-          app = "redirect-application"
+          app = app_name[0].key
         }
       }
-      action = "ALLOW"
+      action = "CUSTOM"
+      provider = grpcprovider
       rules = [ 
         {
-          to = [
-            {
-              operation = {
-                methods = ["*"]
-                paths   = ["*"]
-              }
-            }
-          ]
-        }
+          # to = [
+          #   {
+          #     operation = {
+          #       methods = ["*"]
+          #       paths   = ["*"]
+          #     }
+          #   }
+          # ]
+        },
+        {}
       ]
     }
   }

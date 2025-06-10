@@ -11,6 +11,10 @@
     default = 80
   }
 
+  variable "grpcprovider" {
+    type = string
+  }
+
   # variable "host" {
   #   type = string
   # }
