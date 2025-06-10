@@ -20,8 +20,8 @@ variable "app_name" {
     description = "The container image to deploy"
     type        = map(list(number))
     default = {
-      tofuredicrect     = [8000,9000]
-      tofuauth          = [8080]
+      tofuredicrect     = [8080]
+      tofuauth          = [8000,9000]
       tofukong          = [80]
       tofukennethreitz  = [80]
     }

@@ -79,6 +79,7 @@
       dynamic "port" {
         for_each = var.port[each.value]
         content {
+          name        = port.value
           port        = port.value
           target_port = port.value
         }
