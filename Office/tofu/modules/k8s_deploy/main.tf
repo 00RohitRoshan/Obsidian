@@ -31,7 +31,7 @@
   # }
 
   resource "kubernetes_deployment" "app" {
-    for_each = var.app_name
+    for_each = toset(var.app_name)
     metadata {
       name = each.value
       labels = {
@@ -71,7 +71,7 @@
   }
 
   resource "kubernetes_service" "hello" {
-    for_each = var.app_name
+    for_each = toset(var.app_name)
     metadata {
        name = each.value
     }
@@ -103,7 +103,8 @@ resource "kubernetes_manifest" "istio_auth_policy" {
         }
       }
       action = "CUSTOM"
-      provider = var.grpcprovider
+      provider = {"name" : var.grpcprovider}
+      
       rules = [ 
         {
           # to = [
