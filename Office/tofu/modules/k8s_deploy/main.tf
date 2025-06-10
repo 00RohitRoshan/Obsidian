@@ -99,7 +99,7 @@ resource "kubernetes_manifest" "istio_auth_policy" {
     spec = {
       selector = {
         matchLabels = {
-          app = app_name[0]
+          app = var.app_name[0]
         }
       }
       action = "CUSTOM"

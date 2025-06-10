@@ -52,8 +52,9 @@
   module "k8s_deploy" {
     source           = "./modules/k8s_deploy"
     app_name         = var.app_name
-    grpcprovider     = grpcprovider
-    # image            = "${var.image}:latest"
+    grpcprovider     = var.grpcprovider
+    image            = var.image
+    port             = var.port
     # host             = minikube_cluster.cluster.host
     # client_certificate = minikube_cluster.cluster.client_certificate
     # client_key         = minikube_cluster.cluster.client_key
