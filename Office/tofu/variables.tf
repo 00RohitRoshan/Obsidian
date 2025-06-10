@@ -1,6 +1,6 @@
 variable "app_name" {
   description = "Map of application names to container image paths"
-  type        = set(string)
+  type        = list(string)
   default = ["tofuredicrect","tofuauth","tofukong","tofukennethreitz"]
 }
 

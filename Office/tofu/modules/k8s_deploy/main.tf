@@ -33,9 +33,9 @@
   resource "kubernetes_deployment" "app" {
     for_each = var.app_name
     metadata {
-      name = each.key
+      name = each.value
       labels = {
-        app = each.key
+        app = each.value
       }
     }
 
@@ -43,22 +43,22 @@
       replicas = 2
       selector {
         match_labels = {
-          app = each.key
+          app = each.value
         }
       }
       template {
         metadata {
           labels = {
-            app = each.key
+            app = each.value
           }
         }
         spec {
           container {
-            name  = each.key
-            image = var.image[each.key]
+            name  = each.value
+            image = var.image[each.value]
             image_pull_policy = "Always"
             dynamic "port" {
-              for_each = var.port[each.key]
+              for_each = var.port[each.value]
               content {
                 container_port = port.value
               }
@@ -73,17 +73,17 @@
   resource "kubernetes_service" "hello" {
     for_each = var.app_name
     metadata {
-       name = each.key
+       name = each.value
     }
     spec {
       dynamic "port" {
-        for_each = var.port[each.key]
+        for_each = var.port[each.value]
         content {
           port        = port.value
           target_port = port.value
         }
       }
-      selector = {"app" : each.key}
+      selector = {"app" : each.value}
       type = "LoadBalancer"
     }
   }

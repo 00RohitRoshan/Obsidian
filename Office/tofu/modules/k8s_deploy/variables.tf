@@ -1,5 +1,5 @@
   variable "app_name" {
-    type = set(string)
+    type = list(string)
   }
 
   variable "image" {
