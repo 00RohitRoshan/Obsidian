@@ -55,10 +55,13 @@
         spec {
           container {
             name  = each.key
-            image = each.value
+            image = image[each.key]
             image_pull_policy = "Always"
-            port {
-              container_port = var.port
+            dynamic "port" {
+              for_each = var.port[each.key]
+              content {
+                container_port = port.value
+              }
             }
           }
           
@@ -73,9 +76,12 @@
        name = each.key
     }
     spec {
-      port {
-        port = 8080
-        target_port = 80
+      dynamic "port" {
+        for_each = var.port[each.key]
+        content {
+          port        = port.value
+          target_port = port.value
+        }
       }
       selector = {"app" : each.key}
       type = "LoadBalancer"
@@ -93,7 +99,7 @@ resource "kubernetes_manifest" "istio_auth_policy" {
     spec = {
       selector = {
         matchLabels = {
-          app = app_name[0].key
+          app = app_name[0]
         }
       }
       action = "CUSTOM"
@@ -163,7 +169,7 @@ resource "kubernetes_manifest" "istio_auth_policy" {
 #         {
 #           name = grpcprovider
 #           envoyExtAuthzHttp = {
-#             service = app_name[1].key+".default.svc.cluster.local"
+#             service = app_name[1]+".default.svc.cluster.local"
 #             port    = "8080"
 #           }
 #         }

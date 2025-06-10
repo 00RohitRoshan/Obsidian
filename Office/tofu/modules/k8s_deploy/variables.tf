@@ -1,14 +1,15 @@
   variable "app_name" {
-    type = list(string)
+    type = set(string)
   }
 
-  # variable "image" {
-  #   type = string
-  # }
+  variable "image" {
+    description = "The container image to deploy"
+    type        = map(string)
+  }
 
   variable "port" {
-    type    = number
-    default = 80
+    type    = map(list(number))
+    default = {}
   }
 
   variable "grpcprovider" {
