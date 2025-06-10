@@ -115,3 +115,65 @@ resource "kubernetes_manifest" "istio_auth_policy" {
   }
 }
 
+# resource "kubernetes_config_map" "istio_mesh_config" {
+#   metadata {
+#     name      = "istio"
+#     namespace = "istio-system"
+#     labels = {
+#       install.operator.istio.io/owning-resource            = "installed-state"
+#       install.operator.istio.io/owning-resource-namespace  = "istio-system"
+#       istio.io/rev                                         = "default"
+#       operator.istio.io/component                          = "Pilot"
+#       operator.istio.io/managed                            = "Reconcile"
+#       operator.istio.io/version                            = "1.20.1"
+#       release                                              = "istio"
+#     }
+#   }
+
+#   data = {
+#     mesh = yamlencode({
+#       defaultConfig = {
+#         discoveryAddress = "istiod.istio-system.svc:15012"
+#         proxyMetadata    = {}
+#         tracing = {
+#           zipkin = {
+#             address = "zipkin.istio-system:9411"
+#           }
+#         }
+#       }
+#       defaultProviders = {
+#         metrics = ["prometheus"]
+#       }
+#       enablePrometheusMerge = true
+#       extensionProviders = [
+#         {
+#           name = "ext-auth-grpc"
+#           envoyExtAuthzGrpc = {
+#             service = "unified-gateway-auth.gateway.svc.cluster.local"
+#             port    = "9000"
+#           }
+#         },
+#         {
+#           name = "ext-auth-http"
+#           envoyExtAuthzHttp = {
+#             service = "unified-gateway-auth.gateway.svc.cluster.local"
+#             port    = "8000"
+#           }
+#         },
+#         {
+#           name = grpcprovider
+#           envoyExtAuthzHttp = {
+#             service = app_name[1].key+".default.svc.cluster.local"
+#             port    = "8080"
+#           }
+#         }
+#       ]
+#       rootNamespace = "istio-system"
+#       trustDomain   = "cluster.local"
+#     })
+
+#     meshNetworks = "networks: {}"
+#   }
+# }
+
+
