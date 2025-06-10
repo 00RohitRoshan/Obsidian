@@ -55,7 +55,7 @@
         spec {
           container {
             name  = each.key
-            image = image[each.key]
+            image = var.image[each.key]
             image_pull_policy = "Always"
             dynamic "port" {
               for_each = var.port[each.key]
@@ -103,7 +103,7 @@ resource "kubernetes_manifest" "istio_auth_policy" {
         }
       }
       action = "CUSTOM"
-      provider = grpcprovider
+      provider = var.grpcprovider
       rules = [ 
         {
           # to = [
