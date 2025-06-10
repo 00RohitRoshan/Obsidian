@@ -78,37 +78,38 @@
         target_port = 80
       }
       selector = {"app" : each.key}
+      type = "LoadBalancer"
     }
   }
 
-# resource "kubernetes_manifest" "istio_auth_policy" {
-#   manifest = {
-#     apiVersion = "security.istio.io/v1beta1"
-#     kind       = "AuthorizationPolicy"
-#     metadata = {
-#       name      = "allow-public-get"
-#       namespace = "default"
-#     }
-#     spec = {
-#       selector = {
-#         matchLabels = {
-#           app = "redirect-application"
-#         }
-#       }
-#       action = "ALLOW"
-#       rules = [ 
-#         {
-#           to = [
-#             {
-#               operation = {
-#                 methods = ["*"]
-#                 paths   = ["*"]
-#               }
-#             }
-#           ]
-#         }
-#       ]
-#     }
-#   }
-# }
+resource "kubernetes_manifest" "istio_auth_policy" {
+  manifest = {
+    apiVersion = "security.istio.io/v1beta1"
+    kind       = "AuthorizationPolicy"
+    metadata = {
+      name      = "allow-public-get"
+      namespace = "default"
+    }
+    spec = {
+      selector = {
+        matchLabels = {
+          app = "redirect-application"
+        }
+      }
+      action = "ALLOW"
+      rules = [ 
+        {
+          to = [
+            {
+              operation = {
+                methods = ["*"]
+                paths   = ["*"]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
 
