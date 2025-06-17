@@ -6,6 +6,17 @@
     location = "asia-south1"
   }
 
+resource "google_cloudbuild_build" "docker_build" {
+  steps {
+    name = "gcr.io/cloud-builders/docker"
+    args = ["build", "-t", "gcr.io/${var.project_id}/app1:latest", "."]
+    dir  = "path-to-app1"
+  }
+
+  images = ["gcr.io/${var.project_id}/app1:latest"]
+}
+
+
   provider "kubernetes" {
     host  = "https://${data.google_container_cluster.my_cluster.endpoint}"
     token = data.google_client_config.provider.access_token
