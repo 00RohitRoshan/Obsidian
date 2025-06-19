@@ -27,6 +27,14 @@ variable "app_name" {
     }
   }
 
+  variable "env" {
+    type    = map(map(string))
+    default = {
+      tofuredicrect     = {SecretNameRedis:"",SecretNameMongo:"",ISSUES:"",ISSUESWHITELIST:""}
+      tofuauth          = {targetURL:""}
+    }
+  }
+
   variable "grpcprovider" {
     type = string
     default = "tofu-grpc-authprovider"

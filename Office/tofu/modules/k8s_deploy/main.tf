@@ -74,6 +74,13 @@ resource "google_cloudbuild_build" "docker_build" {
                 container_port = port.value
               }
             }
+            dynamic "env" {
+              for_each = var.env[each.value]
+              content {
+                name = env.key
+                value =  env.value
+              }
+            }
           }
           
         }

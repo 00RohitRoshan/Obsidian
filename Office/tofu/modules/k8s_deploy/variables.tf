@@ -12,6 +12,11 @@
     default = {}
   }
 
+  variable "env" {
+    type    = map(map(string))
+    default = {}
+  }
+
   variable "grpcprovider" {
     type = string
   }
