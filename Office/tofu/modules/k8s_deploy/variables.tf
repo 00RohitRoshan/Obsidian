@@ -11,6 +11,11 @@
     type    = map(list(number))
     default = {}
   }
+  variable "svcType" {
+    description = "The service type to expose"
+    type        = map(string)
+    default = {}
+  }
 
   variable "env" {
     type    = map(map(string))

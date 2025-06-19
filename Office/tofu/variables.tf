@@ -27,6 +27,17 @@ variable "app_name" {
     }
   }
 
+  variable "svcType" {
+    description = "The service type to expose"
+    type        = map(string)
+    default = {
+      tofuredicrect     = "LoadBalancer"
+      tofuauth          = "ClusterIP"
+      tofukong          = "ClusterIP"
+      tofukennethreitz  = "ClusterIP"
+    }
+  }
+
   variable "env" {
     description = "env values for respective deployment"
     type    = map(map(string))

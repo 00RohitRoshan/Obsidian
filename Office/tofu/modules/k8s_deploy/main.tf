@@ -22,7 +22,7 @@ resource "null_resource" "clone_repo" {
   provisioner "local-exec" {
     command = <<EOT
       mkdir -p ./build/ && \
-      git clone --single-branch --branch ${each.value.branch} ${each.value.url} ./build/${each.key} && \
+      git clone --single-branch --branch ${each.value.branch} ${each.value.url} ./build/ && \
       cd ./build/ && \
       gcloud builds submit --tag ${var.image[each.key]} && \
       rm -rf ./build
@@ -119,7 +119,7 @@ resource "null_resource" "clone_repo" {
         }
       }
       selector = {"app" : each.value}
-      type = "LoadBalancer"
+      type = var.svcType[each.value]
     }
   }
 

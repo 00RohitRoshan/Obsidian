@@ -56,6 +56,8 @@
     image            = var.image
     port             = var.port
     env              = var.env
+    repo             = var.repo
+    svcType          = var.svcType
     # host             = minikube_cluster.cluster.host
     # client_certificate = minikube_cluster.cluster.client_certificate
     # client_key         = minikube_cluster.cluster.client_key
