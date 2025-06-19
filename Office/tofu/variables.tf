@@ -1,7 +1,7 @@
 variable "app_name" {
   description = "Map of application names to container image paths"
   type        = list(string)
-  default = ["tofuredicrect","tofuauth","tofukong","tofukennethreitz"]
+  default = ["tofuredirect","tofuauth","tofukong","tofukennethreitz"]
 }
 
 
@@ -9,7 +9,7 @@ variable "app_name" {
     description = "The container image to deploy with tag"
     type        = map(string)
     default = {
-      tofuredicrect     = "gcr.io/iserveustaging/readytodeploy-redirect-app:latest"
+      tofuredirect     = "gcr.io/iserveustaging/readytodeploy-redirect-app:latest"
       tofuauth          = "gcr.io/iserveustaging/readytoddeploy-ext-authz:latest"
       tofukong          = "kong/httpbin"
       tofukennethreitz  = "kennethreitz/httpbin"
@@ -20,7 +20,7 @@ variable "app_name" {
     description = "The container image to deploy"
     type        = map(list(number))
     default = {
-      tofuredicrect     = [8080]
+      tofuredirect     = [8080]
       tofuauth          = [8000,9000]
       tofukong          = [80]
       tofukennethreitz  = [80]
@@ -31,7 +31,7 @@ variable "app_name" {
     description = "The service type to expose"
     type        = map(string)
     default = {
-      tofuredicrect     = "LoadBalancer"
+      tofuredirect      = "LoadBalancer"
       tofuauth          = "ClusterIP"
       tofukong          = "ClusterIP"
       tofukennethreitz  = "ClusterIP"
@@ -42,7 +42,7 @@ variable "app_name" {
     description = "env values for respective deployment"
     type    = map(map(string))
     default = {
-      tofuredicrect     = {SecretNameRedis:"",SecretNameMongo:"",ISSUES:"",ISSUESWHITELIST:""}
+      tofuredirect     = {SecretNameRedis:"",SecretNameMongo:"",ISSUES:"",ISSUESWHITELIST:""}
       tofuauth          = {targetURL:""}
     }
   }
@@ -54,7 +54,7 @@ variable "repo" {
     branch = string
   }))
   default = {
-    tofuredicrect = {
+    tofuredirect = {
       url    = "https://gitlab.txninfra.com/api-gateway/api-gateway-dev/extauth-istio.git"
       branch = "ta-bbps-sdk"
     },
