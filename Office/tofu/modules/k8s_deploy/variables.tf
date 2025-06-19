@@ -17,6 +17,15 @@
     default = {}
   }
 
+  variable "repo" {
+    description = "provide the repo with branch for deployment if build reqiured"
+    type    = map(object({
+    url    = string
+    branch = string
+  }))
+    default = {}
+  }
+
   variable "grpcprovider" {
     type = string
   }

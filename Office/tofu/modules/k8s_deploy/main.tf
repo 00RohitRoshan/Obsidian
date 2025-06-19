@@ -6,15 +6,31 @@
     location = "asia-south1"
   }
 
-resource "google_cloudbuild_build" "docker_build" {
-  steps {
-    name = "gcr.io/cloud-builders/docker"
-    args = ["build", "-t", "gcr.io/${var.project_id}/app1:latest", "."]
-    dir  = "path-to-app1"
-  }
+# resource "google_cloudbuild_build" "docker_build" {
+#   steps {
+#     name = "gcr.io/cloud-builders/docker"
+#     args = ["build", "-t", "gcr.io/${var.project_id}/app1:latest", "."]
+#     dir  = "path-to-app1"
+#   }
 
-  images = ["gcr.io/${var.project_id}/app1:latest"]
+#   images = ["gcr.io/${var.project_id}/app1:latest"]
+# }
+
+resource "null_resource" "clone_repo" {
+  for_each = var.repo
+
+  provisioner "local-exec" {
+    command = <<EOT
+      mkdir -p ./build/ && \
+      git clone --single-branch --branch ${each.value.branch} ${each.value.url} ./build/${each.key} && \
+      cd ./build/ && \
+      gcloud builds submit --tag ${var.image[each.key]} && \
+      rm -rf ./build
+    EOT
+    interpreter = ["/bin/bash", "-c"]
+  }
 }
+
 
 
   provider "kubernetes" {

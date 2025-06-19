@@ -6,11 +6,11 @@ variable "app_name" {
 
 
   variable "image" {
-    description = "The container image to deploy"
+    description = "The container image to deploy with tag"
     type        = map(string)
     default = {
-      tofuredicrect     = "gcr.io/iserveustaging/readytodeploy-redirect-app@sha256:c9b929a54ee055ee5b23bee229907c1b1e54b2a19db81a6fefaebacd4fd4b95a"
-      tofuauth          = "gcr.io/iserveustaging/readytoddeploy-ext-authz@sha256:785cd3865f9dd9a188e31caa56d7a1f595b2cf5c3727afd2436dbb1aa79b34c6"
+      tofuredicrect     = "gcr.io/iserveustaging/readytodeploy-redirect-app:latest"
+      tofuauth          = "gcr.io/iserveustaging/readytoddeploy-ext-authz:latest"
       tofukong          = "kong/httpbin"
       tofukennethreitz  = "kennethreitz/httpbin"
     }
@@ -28,12 +28,32 @@ variable "app_name" {
   }
 
   variable "env" {
+    description = "env values for respective deployment"
     type    = map(map(string))
     default = {
       tofuredicrect     = {SecretNameRedis:"",SecretNameMongo:"",ISSUES:"",ISSUESWHITELIST:""}
       tofuauth          = {targetURL:""}
     }
   }
+
+variable "repo" {
+  description = "Git repo URLs and branches"
+  type = map(object({
+    url    = string
+    branch = string
+  }))
+  default = {
+    tofuredicrect = {
+      url    = "https://gitlab.txninfra.com/api-gateway/api-gateway-dev/extauth-istio.git"
+      branch = "ta-bbps-sdk"
+    },
+    tofuauth = {
+      url    = "https://gitlab.txninfra.com/api-gateway/api-gateway-dev/redirect_application.git"
+      branch = "sdk-redirect-deployed"
+    }
+  }
+}
+
 
   variable "grpcprovider" {
     type = string
