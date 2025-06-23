@@ -61,6 +61,7 @@ for REPO_URL in "${REPO_URLS[@]}"; do
   done
 
   # Remove duplicates and blank lines
+  # cat "$UNIQUE_COMMITS_FILE" >> "$OUTPUT_PATH"
   sort "$UNIQUE_COMMITS_FILE" | awk 'NF' | uniq >> "$OUTPUT_PATH"
 
   echo "✅ Unique commit messages written to: $OUTPUT_PATH"
