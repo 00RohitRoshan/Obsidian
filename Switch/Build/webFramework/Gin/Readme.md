@@ -1,0 +1,2 @@
+- why gin handler function doesn't return error where as fibre's does
+- how it's context is compatible with context.context

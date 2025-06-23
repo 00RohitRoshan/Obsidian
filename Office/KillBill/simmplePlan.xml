@@ -91,7 +91,7 @@
                 </recurring>
                 <usages />
             </finalPhase>
-            <plansAllowedInBundle>-1</plansAllowedInBundle>
+            <plansAllowedInBundle>1</plansAllowedInBundle>
         </plan>
     </plans>
     <priceLists>
