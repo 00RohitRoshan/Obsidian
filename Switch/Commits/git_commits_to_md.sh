@@ -55,7 +55,7 @@ for REPO_URL in "${REPO_URLS[@]}"; do
   for REMOTE_BRANCH in $BRANCHES; do
     LOCAL_BRANCH="temp_branch"
     git branch -f "$LOCAL_BRANCH" "$REMOTE_BRANCH" > /dev/null
-
+    # echo -e "\n## Branch: $REMOTE_BRANCH\n" >>  "$UNIQUE_COMMITS_FILE"
     # Collect commit messages (without dates or hashes)
     git log --pretty=format:'%B' "$LOCAL_BRANCH" >> "$UNIQUE_COMMITS_FILE"
   done
