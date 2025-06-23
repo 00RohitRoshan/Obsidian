@@ -39,7 +39,9 @@ for REMOTE_BRANCH in $BRANCHES; do
 
   echo -e "\n## Branch: $REMOTE_BRANCH\n" >> "$OUTPUT_PATH"
 
-  git log --pretty=format:'%ad%n%B' --date=iso "$LOCAL_BRANCH" >> "$OUTPUT_PATH"
+#   git log --pretty=format:'%ad%n%B' --date=iso "$LOCAL_BRANCH" >> "$OUTPUT_PATH"
+  git log --pretty=format:'%B' --date=iso "$LOCAL_BRANCH" >> "$OUTPUT_PATH"
+
 done
 
 echo "✅ Commit log written to: $OUTPUT_PATH"
