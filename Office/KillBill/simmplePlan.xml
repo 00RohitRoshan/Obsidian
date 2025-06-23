@@ -1,6 +1,6 @@
 <catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="CatalogSchema.xsd">
-    <effectiveDate>2025-06-19T05:20:12Z</effectiveDate>
+    <effectiveDate>2025-06-19T05:20:13Z</effectiveDate>
     <!-- Always change the date time -->
     <catalogName>DEFAULT</catalogName>
     <currencies>
@@ -62,8 +62,8 @@
                     <billingPeriod>DAILY</billingPeriod>
                     <recurringPrice>
                         <price>
-                            <currency>INR</currency>
-                            <value>24.95</value>
+                            <currency>USD</currency>
+                            <value>2.195</value>
                         </price>
                     </recurringPrice>
                 </recurring>
