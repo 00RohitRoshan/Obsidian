@@ -1,166 +1,37 @@
-# Commit History for 'slice_soundbox_mqttconfig_adm_api_golang-service'
-
-## Branch: origin/main
-
-Initial commit
-## Branch: origin/master
-
-changed sm for prod
-
-fixed init
-
-fixed init
-
-Change in init
-
+# Unique Commit Messages for 'slice_soundbox_mqttconfig_adm_api_golang-service'
 Change in config file
-
-made changes in fetch and delete api
-
-made changes for stage
-
-pulled from staging
-
-added proper logs and methods
-
-handled duplicate entry for mqtt config
-
-changed methods for api
-
-made changes in url
-
-latest code for csc
-
-made changes in db.go
-
-made changes for uat
-
-made changes for exposed ip
-
-changed admin check part
-
-changed hbt endpoint
-
-logged resp struct
-
-adding logs for response
-
-changed struct for token
-
-mqtt config struct changed
-
-changed mqtt config struct
-
-added server config
-
-added conn pooling
-
-allowed all methods
-
-change in string
-
-corrected env varaible
-
-changed secret manager access part
-
-changed connection string
-
-change in secret manager
-
-changed server port
-
-added check for adminname
-
-changed endpoint format
-
-initial commit
-
-initial commit
-
-updated bankcode part
-
-initial commit
-
-changed listener url
-
-initial commit
-
-## Branch: origin/stage
-
-fixed init
-
-fixed init
-
 Change in init
-
-Change in config file
-
-made changes in fetch and delete api
-
-made changes for stage
-
-pulled from staging
-
-added proper logs and methods
-
-handled duplicate entry for mqtt config
-
-changed methods for api
-
-made changes in url
-
-latest code for csc
-
-made changes in db.go
-
-made changes for uat
-
-made changes for exposed ip
-
-changed admin check part
-
-changed hbt endpoint
-
-logged resp struct
-
-adding logs for response
-
-changed struct for token
-
-mqtt config struct changed
-
-changed mqtt config struct
-
-added server config
-
-added conn pooling
-
-allowed all methods
-
-change in string
-
-corrected env varaible
-
-changed secret manager access part
-
-changed connection string
-
-change in secret manager
-
-changed server port
-
+Initial commitchanged sm for prod
 added check for adminname
-
+added conn pooling
+added proper logs and methods
+added server config
+adding logs for response
+allowed all methods
+change in secret manager
+change in string
+changed admin check part
+changed connection string
 changed endpoint format
-
-initial commit
-
-initial commit
-
-updated bankcode part
-
-initial commit
-
+changed hbt endpoint
 changed listener url
-
+changed methods for api
+changed mqtt config struct
+changed secret manager access part
+changed server port
+changed struct for token
+corrected env varaible
+fixed init
+handled duplicate entry for mqtt config
 initial commit
+latest code for csc
+logged resp struct
+made changes for exposed ip
+made changes for stage
+made changes for uat
+made changes in db.go
+made changes in fetch and delete api
+made changes in url
+mqtt config struct changed
+pulled from staging
+updated bankcode part

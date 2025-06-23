@@ -1,65 +1,17 @@
-# Commit History for 'ota-management'
-
-## Branch: origin/internalStage
-
+# Unique Commit Messages for 'ota-management'
+FechAll api addded
+Initial commit
+Initial commitInitial commitdone some minor changes
+changed in fetchAll api
+changed in fetchall api
+changed in init
+changed port in docker
+changed type
+done some minor changes
+fetch ota_ledger api added
+handled cors error
+made changes in fetchOta api
+made changes in updateStatus api
 new branch for internal
-
-done some minor changes
-
-changed in fetchall api
-
-made changes in fetchOta api
-
-fetch ota_ledger api added
-
-changed in fetchAll api
-
-FechAll api addded
-
-handled cors error
-
-changed type
-
-changed port in docker
-
-changed in init
-
 services added for ota-management
-
-made changes in updateStatus api
-
 services added for tms
-
-Initial commit
-## Branch: origin/main
-
-Initial commit
-## Branch: origin/ota_stage
-
-done some minor changes
-
-changed in fetchall api
-
-made changes in fetchOta api
-
-fetch ota_ledger api added
-
-changed in fetchAll api
-
-FechAll api addded
-
-handled cors error
-
-changed type
-
-changed port in docker
-
-changed in init
-
-services added for ota-management
-
-made changes in updateStatus api
-
-services added for tms
-
-Initial commit

@@ -1,431 +1,63 @@
-# Commit History for 'slice-soundbox-device-inventory'
-
-## Branch: origin/glStage
-
-change in dbconnection
-
-implemented graylog
-
-Change in graylog package
-
+# Unique Commit Messages for 'slice-soundbox-device-inventory'
 Change in config file
-
-grayLog added
-
-handled error
-
-fetch error handled
-
-changed in token_properties
-
-bankcode added in req
-
-query optimization
-
-language update api
-
-new field added
-
-handled errors
-
-made changes in validation
-
-added few validation
-
-added 2 fields
-
-handled error
-
-handled error
-
-added fetch device info api
-
-changed in insert inv
-
-change in InsertInv
-
-table name changed
-
-fetch api added
-
-insertrd is_soundbox inside device_info
-
-inserted mqtt name through  insertInv API
-
-inserted date and time through insertInv API
-
-Change in response body
-
+Change in graylog package
 Change in insert API
-
-changed conn string
-
-new db conn1
-
-Merge branch 'internalStage' of https://gitlab.iserveu.tech/soundbox/tms/device_inventory into internalStage
-duu
-
-new db conn
-
-Merge branch 'internalStage' of https://gitlab.iserveu.tech/soundbox/tms/device_inventory into internalStage
-
-invStatus API added
-
-OS check and port configuration
-
+Change in response body
 DeviceInfo endpoint
-
-new branch for internal
-
-change the database attribute name
-
-validation added for fetch device
-
-changed in add device
-
-changed in updateStatus
-
-made changes in fetch device api
-
-changed port address
-
-changed in device maping
-
-used toggleStatus api
-
-changed port in docker
-
-changed endpoint
-
-made changes in updateStatus api
-
-services added for tms
-
 Initial commit
-## Branch: origin/main
-
-Initial commit
-## Branch: origin/master
-
-add header buffer increase
-
+Initial commitInitial commitadd header buffer increase
+Initial commitadded defer
+Initial commitnew branch for uat
+Merge branch 'internalStage' of https://gitlab.iserveu.tech/soundbox/tms/device_inventory into internalStage
+Merge branch 'stage' of https://gitlab.txninfra.com/soundbox/slice/slice-soundbox-device-inventory into stage
+OS check and port configuration
+added 2 fields
+added defer
+added fetch device info api
+added few validation
+bankcode added in req
+change in InsertInv
 change in Token_properties
-
-defer st added
-
+change in dbconnection
+change in query
+change the database attribute name
+changed conn string
+changed docker file
+changed endpoint
+changed in add device
+changed in device maping
+changed in insert inv
+changed in token_properties
+changed in updateStatus
+changed port address
+changed port in docker
 changed sm key for prod
-
+changed the required details for SLICE
+defer st added
+duu
+fetch api added
+fetch error handled
+grayLog added
+handled error
+handled errors
+implemented graylog
+inserted date and time through insertInv API
+inserted mqtt name through  insertInv API
+insertrd is_soundbox inside device_info
+invStatus API added
+language update api
+made changes for bob
+made changes in fetch device api
+made changes in updateStatus api
+made changes in validation
+new branch for internal
 new branch for uat
-
-added defer
-
-Merge branch 'stage' of https://gitlab.txninfra.com/soundbox/slice/slice-soundbox-device-inventory into stage
-
-changed docker file
-
-change in query
-
-change in query
-
-changed the required details for SLICE
-
-removed bankcode
-
-made changes for bob
-
-made changes for bob
-
-bankcode added in req
-
-query optimization
-
-language update api
-
-new field added
-
-handled errors
-
-made changes in validation
-
-added few validation
-
-added 2 fields
-
-handled error
-
-handled error
-
-added fetch device info api
-
-changed in insert inv
-
-change in InsertInv
-
-table name changed
-
-fetch api added
-
-insertrd is_soundbox inside device_info
-
-inserted mqtt name through  insertInv API
-
-inserted date and time through insertInv API
-
-Change in response body
-
-Change in insert API
-
-changed conn string
-
-new db conn1
-
-Merge branch 'internalStage' of https://gitlab.iserveu.tech/soundbox/tms/device_inventory into internalStage
-duu
-
 new db conn
-
-Merge branch 'internalStage' of https://gitlab.iserveu.tech/soundbox/tms/device_inventory into internalStage
-
-invStatus API added
-
-OS check and port configuration
-
-DeviceInfo endpoint
-
-new branch for internal
-
-change the database attribute name
-
-validation added for fetch device
-
-changed in add device
-
-changed in updateStatus
-
-made changes in fetch device api
-
-changed port address
-
-changed in device maping
-
-used toggleStatus api
-
-changed port in docker
-
-changed endpoint
-
-made changes in updateStatus api
-
-services added for tms
-
-Initial commit
-## Branch: origin/stage
-
-added defer
-
-Merge branch 'stage' of https://gitlab.txninfra.com/soundbox/slice/slice-soundbox-device-inventory into stage
-
-changed docker file
-
-change in query
-
-change in query
-
-changed the required details for SLICE
-
-removed bankcode
-
-made changes for bob
-
-made changes for bob
-
-bankcode added in req
-
-query optimization
-
-language update api
-
-new field added
-
-handled errors
-
-made changes in validation
-
-added few validation
-
-added 2 fields
-
-handled error
-
-handled error
-
-added fetch device info api
-
-changed in insert inv
-
-change in InsertInv
-
-table name changed
-
-fetch api added
-
-insertrd is_soundbox inside device_info
-
-inserted mqtt name through  insertInv API
-
-inserted date and time through insertInv API
-
-Change in response body
-
-Change in insert API
-
-changed conn string
-
 new db conn1
-
-Merge branch 'internalStage' of https://gitlab.iserveu.tech/soundbox/tms/device_inventory into internalStage
-duu
-
-new db conn
-
-Merge branch 'internalStage' of https://gitlab.iserveu.tech/soundbox/tms/device_inventory into internalStage
-
-invStatus API added
-
-OS check and port configuration
-
-DeviceInfo endpoint
-
-new branch for internal
-
-change the database attribute name
-
-validation added for fetch device
-
-changed in add device
-
-changed in updateStatus
-
-made changes in fetch device api
-
-changed port address
-
-changed in device maping
-
-used toggleStatus api
-
-changed port in docker
-
-changed endpoint
-
-made changes in updateStatus api
-
-services added for tms
-
-Initial commit
-## Branch: origin/uat
-
-new branch for uat
-
-added defer
-
-Merge branch 'stage' of https://gitlab.txninfra.com/soundbox/slice/slice-soundbox-device-inventory into stage
-
-changed docker file
-
-change in query
-
-change in query
-
-changed the required details for SLICE
-
-removed bankcode
-
-made changes for bob
-
-made changes for bob
-
-bankcode added in req
-
-query optimization
-
-language update api
-
 new field added
-
-handled errors
-
-made changes in validation
-
-added few validation
-
-added 2 fields
-
-handled error
-
-handled error
-
-added fetch device info api
-
-changed in insert inv
-
-change in InsertInv
-
-table name changed
-
-fetch api added
-
-insertrd is_soundbox inside device_info
-
-inserted mqtt name through  insertInv API
-
-inserted date and time through insertInv API
-
-Change in response body
-
-Change in insert API
-
-changed conn string
-
-new db conn1
-
-Merge branch 'internalStage' of https://gitlab.iserveu.tech/soundbox/tms/device_inventory into internalStage
-duu
-
-new db conn
-
-Merge branch 'internalStage' of https://gitlab.iserveu.tech/soundbox/tms/device_inventory into internalStage
-
-invStatus API added
-
-OS check and port configuration
-
-DeviceInfo endpoint
-
-new branch for internal
-
-change the database attribute name
-
-validation added for fetch device
-
-changed in add device
-
-changed in updateStatus
-
-made changes in fetch device api
-
-changed port address
-
-changed in device maping
-
-used toggleStatus api
-
-changed port in docker
-
-changed endpoint
-
-made changes in updateStatus api
-
+query optimization
+removed bankcode
 services added for tms
-
-Initial commit
+table name changed
+used toggleStatus api
+validation added for fetch device

@@ -35,33 +35,36 @@ for REPO_URL in "${REPO_URLS[@]}"; do
   REPO_NAME=$(basename -s .git "$REPO_URL")
   OUTPUT_FILE="${REPO_NAME}_commits.md"
 
-  # Create temp dir and ensure cleanup
   TMP_DIR=$(mktemp -d)
   trap 'rm -rf "$TMP_DIR"' EXIT
 
   echo "🔄 Processing: $REPO_URL"
 
-  # Clone the repository
   git clone --no-checkout "$REPO_URL" "$TMP_DIR/repo" > /dev/null
   cd "$TMP_DIR/repo"
 
-  # Get all remote branches (excluding HEAD)
   BRANCHES=$(git for-each-ref --format='%(refname:short)' refs/remotes/ | grep -v 'HEAD$')
 
-  # Start output file in the original directory
   OUTPUT_PATH="$OLDPWD/$OUTPUT_FILE"
-  echo "# Commit History for '$REPO_NAME'" > "$OUTPUT_PATH"
+  echo "# Unique Commit Messages for '$REPO_NAME'" > "$OUTPUT_PATH"
+
+  # Temporary file to hold all commit messages
+  UNIQUE_COMMITS_FILE="$TMP_DIR/commits.txt"
+  touch "$UNIQUE_COMMITS_FILE"
 
   for REMOTE_BRANCH in $BRANCHES; do
-    # Create a local tracking branch
     LOCAL_BRANCH="temp_branch"
     git branch -f "$LOCAL_BRANCH" "$REMOTE_BRANCH" > /dev/null
 
-    echo -e "\n## Branch: $REMOTE_BRANCH\n" >> "$OUTPUT_PATH"
-    git log --pretty=format:'%B' --date=iso "$LOCAL_BRANCH" >> "$OUTPUT_PATH"
+    # Collect commit messages (without dates or hashes)
+    git log --pretty=format:'%B' "$LOCAL_BRANCH" >> "$UNIQUE_COMMITS_FILE"
   done
 
-  echo "✅ Commit log written to: $OUTPUT_PATH"
+  # Remove duplicates and blank lines
+  sort "$UNIQUE_COMMITS_FILE" | awk 'NF' | uniq >> "$OUTPUT_PATH"
+
+  echo "✅ Unique commit messages written to: $OUTPUT_PATH"
+
   cd "$OLDPWD"
   rm -rf "$TMP_DIR"
 done
