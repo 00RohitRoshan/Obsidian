@@ -40,7 +40,7 @@ for REPO_URL in "${REPO_URLS[@]}"; do
 
   echo "🔄 Processing: $REPO_URL"
 
-  git clone --no-checkout "$REPO_URL" "$TMP_DIR/repo" > /dev/null
+  git clone --quiet --no-checkout "$REPO_URL" "$TMP_DIR/repo" > /dev/null
   cd "$TMP_DIR/repo"
 
   BRANCHES=$(git for-each-ref --format='%(refname:short)' refs/remotes/ | grep -v 'HEAD$')
