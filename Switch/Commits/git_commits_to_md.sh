@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Exit on any error
-set -e
+set -euo pipefail
 
 # Ensure a URL is provided
-if [ -z "$1" ]; then
+if [ $# -lt 1 ]; then
   echo "Usage: $0 <remote-repo-url>"
   exit 1
 fi
@@ -17,23 +17,29 @@ OUTPUT_FILE="${REPO_NAME}_commits.md"
 TMP_DIR=$(mktemp -d)
 trap 'rm -rf "$TMP_DIR"' EXIT
 
-# Clone repo as mirror to get all branches and history
-git clone --mirror "$REPO_URL" "$TMP_DIR/repo" > /dev/null
+# Clone the full repository (not mirror, so we can check out branches)
+git clone --no-checkout "$REPO_URL" "$TMP_DIR/repo" > /dev/null
 
 cd "$TMP_DIR/repo"
 
-# Get all remote branches
-BRANCHES=$(git for-each-ref --format='%(refname:short)' refs/remotes/origin)
+# Fetch all remote branches
+# git fetch --all > /dev/null
 
-# Start output file
-echo "# Commit History for '$REPO_NAME'" > "$OLDPWD/$OUTPUT_FILE"
+# Get all remote branches (excluding HEAD pointers)
+BRANCHES=$(git for-each-ref --format='%(refname:short)' refs/remotes/ | grep -v 'HEAD$')
 
-for BRANCH in $BRANCHES; do
-  BRANCH_NAME=${BRANCH#origin/}
-  echo -e "\n## Branch: $BRANCH_NAME\n" >> "$OLDPWD/$OUTPUT_FILE"
+# Start output file in the original directory
+OUTPUT_PATH="$OLDPWD/$OUTPUT_FILE"
+echo "# Commit History for '$REPO_NAME'" > "$OUTPUT_PATH"
 
-  # Format: date, newline, full message
-  git log --pretty=format:'%ad%n%n%B%n' --date=iso "$BRANCH" >> "$OLDPWD/$OUTPUT_FILE"
+for REMOTE_BRANCH in $BRANCHES; do
+  # Create a local tracking branch for the remote
+  LOCAL_BRANCH="temp_branch"
+  git branch -f "$LOCAL_BRANCH" "$REMOTE_BRANCH" > /dev/null
+
+  echo -e "\n## Branch: $REMOTE_BRANCH\n" >> "$OUTPUT_PATH"
+
+  git log --pretty=format:'%ad%n%B' --date=iso "$LOCAL_BRANCH" >> "$OUTPUT_PATH"
 done
 
-echo "✅ Commit log written to: $OUTPUT_FILE"
+echo "✅ Commit log written to: $OUTPUT_PATH"
