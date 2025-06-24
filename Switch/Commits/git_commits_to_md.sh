@@ -12,7 +12,7 @@ REPO_URLS=(
     "https://gitlab.txninfra.com/api-gateway/api-gateway-dev/extauth-istio"
     "https://gitlab.txninfra.com/api-gateway/api-gateway-dev/go-clientsecrets"
     # "https://gitlab.txninfra.com/los/los-workflow-process"
-    "https://gitlab.txninfra.com/soundbox/mqtt_server_soundbox"
+    # "https://gitlab.txninfra.com/soundbox/mqtt_server_soundbox"
     "https://gitlab.txninfra.com/soundbox/tms/ota-management"
     "https://gitlab.txninfra.com/api-gateway/api-gateway-dev/redirect_application"
     "https://gitlab.txninfra.com/soundbox/slice/slice-soundbox-device-activity-status-golang-service"
@@ -69,3 +69,32 @@ for REPO_URL in "${REPO_URLS[@]}"; do
   cd "$OLDPWD"
   rm -rf "$TMP_DIR"
 done
+
+#!/bin/bash
+
+# Output file name
+output="merged_deduplicated.md"
+
+# Temporary file to hold all combined contents
+temp_file=$(mktemp)
+
+# File extensions to include (space-separated)
+extensions=("log" "md")
+
+# Loop through all matching files
+for ext in "${extensions[@]}"; do
+  for file in *."$ext"; do
+    if [[ -f "$file" && "$file" != "$output" ]]; then
+      cat "$file" >> "$temp_file"
+    fi
+  done
+done
+
+# Remove duplicate lines and save to the final output
+sort -u "$temp_file" > "$output"
+
+# Clean up temporary file
+rm "$temp_file"
+
+echo "Merged content saved to '$output' with duplicates removed."
+
