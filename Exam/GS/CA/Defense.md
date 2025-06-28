@@ -1,0 +1,2 @@
+- What class of frigate is INS Tushil, that was recently seen in news?
+- 
