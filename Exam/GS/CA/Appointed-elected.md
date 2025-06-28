@@ -1,0 +1,1 @@
+- Rimtalba Jean Emmanuel Ouedraogo has been appointed as the Prime Minister of which country?
